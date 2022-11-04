@@ -1,0 +1,32 @@
+Question
+========
+
+In de volgende kruistabel zijn gegevens van 120 personen opgenomen voor twee variabelen, met mogelijke uitkomsten A, B, en C, resp. I en II.
+
+A B C
+I 20 32 28
+II 7 18 15
+
+We trekken aselect iemand uit de 120 personen. Voor deze persoon is P(B <U+222A> II) gelijk aan 
+
+Answerlist
+----------
+* 0.15
+* 0.75
+* 0.6
+* 0.72
+
+Solution
+========
+
+The correct answer is  0.6 
+
+Meta-information
+================
+exname: uva-probability-583-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Kansrekening,Kansrekening (ond.),Optelregel voor kans op vereniging van twee gebeur 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

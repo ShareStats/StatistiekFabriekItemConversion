@@ -1,0 +1,26 @@
+Question
+========
+
+Een steekproef van n = 9 uit een N(50, 12²) verdeling heeft gemiddelde ¯X. Dan is P(¯X < 47) gelijk aan 
+
+Answerlist
+----------
+* 0.4013
+* 0.2266
+* 0.0122
+* 0.2734
+
+Solution
+========
+
+The correct answer is  0.0122 
+
+Meta-information
+================
+exname: uva-probability-432-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Kansrekening,Kansverdeling,Kansverdeling steekproefgemiddelde (onafhankelijke 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

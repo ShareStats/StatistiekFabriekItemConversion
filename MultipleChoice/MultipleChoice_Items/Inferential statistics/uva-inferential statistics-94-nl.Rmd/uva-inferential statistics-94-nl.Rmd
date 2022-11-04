@@ -1,0 +1,29 @@
+Question
+========
+
+Er wordt getoetst op een gemiddelde. De nulhypothese is dat het gemiddelde 0 is en de alternatieve hypothese dat het gemiddelde groter dan 0 is. In de figuur zijn de nulhypothese en een specifieke alternatieve hypothese getekend. De kansen links van de van de verticale lijn onder de alternatieve hypothese en rechts van de verticale lijn onder de nulhypothese zijn respectievelijk 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F8&extension=png&mime_type=image%2Fpng 
+
+ UvA20100806-14-1.png 
+
+Answerlist
+----------
+* Power en Type I fout.
+* Type II fout en Type I fout.
+* Type II fout en power.
+
+Solution
+========
+
+The correct answer is  Type II fout en Type I fout. 
+
+Meta-information
+================
+exname: uva-inferential statistics-94-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferentiële statistiek,Toetstheorie,Risico alpha of beta 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

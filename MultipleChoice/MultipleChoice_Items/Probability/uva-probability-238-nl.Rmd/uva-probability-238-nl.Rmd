@@ -1,0 +1,25 @@
+Question
+========
+
+In een bepaalde populatie is de variabele neuroticisme normaal verdeeld met gemiddelde µ = 25 en standaardafwijking s = 4. Uit deze populatie wordt een aselecte steekproef van n = 25 personen getrokken. De kans dat in deze steekproef de gemiddelde neuroticismescore hoger is dan 27 is gelijk aan 
+
+Answerlist
+----------
+* 0.01
+* 0.31
+* 0.99
+
+Solution
+========
+
+The correct answer is  0.01 
+
+Meta-information
+================
+exname: uva-probability-238-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Kansrekening,Kansverdeling,Kansverdeling steekproefgemiddelde (onafhankelijke 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

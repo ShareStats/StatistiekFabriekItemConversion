@@ -1,0 +1,35 @@
+Question
+========
+
+Van een aselect getrokken steekproef van 7 personen is de lengte van de linker- en de rechterarm gemeten (in cm.):
+
+linkerarm 68 67 70 79 65 70 75
+rechterarm 69 76 69 80 66 73 76
+
+We willen toetsen
+H0: µ(links) - µ(rechts) = 0
+tegen
+H1: µ(links) - µ(rechts) < 0
+Wat is de waarde van de toetsingsgrootheid? 
+
+Answerlist
+----------
+* -0.941
+* -0.442
+* -2.489
+* -1.244
+
+Solution
+========
+
+The correct answer is  -2.489 
+
+Meta-information
+================
+exname: uva-manual-596.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Gepaarde T toets,Toetsingsgrootheid (tgh) 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

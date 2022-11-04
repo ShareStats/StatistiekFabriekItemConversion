@@ -1,0 +1,26 @@
+Question
+========
+
+De standaardfout van het steekproefgemiddelde van n waarnemingen wordt verkregen uit de standaardafwijking van de steekproef door 
+
+Answerlist
+----------
+* te delen door &#8730; <em>n<\/em>
+* te delen door <em>n<\/em>
+* te vermenigvuldigen met &#8730; <em>n<\/em>
+* te vermenigvuldigen met <em>n<\/em>
+
+Solution
+========
+
+The correct answer is  te delen door &#8730; <em>n<\/em> 
+
+Meta-information
+================
+exname: uva-inferential statistics-353-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferentiële statistiek 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

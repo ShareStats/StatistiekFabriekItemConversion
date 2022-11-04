@@ -1,0 +1,26 @@
+Question
+========
+
+Op welke schaal worden tijdstippen van de dag gemeten? 
+
+Answerlist
+----------
+* nominaal
+* ordinaal
+* interval
+* ratio
+
+Solution
+========
+
+The correct answer is  ratio 
+
+Meta-information
+================
+exname: uva-descriptive statistics-510-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Beschrijvende statistiek,Meetniveaus,Interval 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

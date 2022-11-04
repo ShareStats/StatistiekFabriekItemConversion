@@ -1,0 +1,25 @@
+Question
+========
+
+Als een theorie principieel onweerlegbaar is, dan is die theorie 
+
+Answerlist
+----------
+* waarschijnlijk juist.
+* zeker juist.
+* niet in staat om empirische voorspellingen te doen.
+
+Solution
+========
+
+The correct answer is  niet in staat om empirische voorspellingen te doen. 
+
+Meta-information
+================
+exname: uva-inferential statistics-12-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferenti?le statistiek 
+exextra[Type]: Conceptual 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy 

@@ -1,0 +1,26 @@
+Question
+========
+
+Gegeven een steekproef met uitkomsten 27, 25, 28, 27, 29, 25, 19, 25, 29. De modus van deze steekproef is gelijk aan 
+
+Answerlist
+----------
+* 25
+* 26
+* 27
+* 29
+
+Solution
+========
+
+The correct answer is  25 
+
+Meta-information
+================
+exname: uva-descriptive statistics-555-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Beschrijvende statistiek,Kengetallen,Modus 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

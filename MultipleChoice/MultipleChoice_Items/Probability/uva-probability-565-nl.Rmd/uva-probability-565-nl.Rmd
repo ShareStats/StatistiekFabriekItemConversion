@@ -1,0 +1,32 @@
+Question
+========
+
+In de volgende kruistabel zijn gegevens van 100 personen opgenomen voor twee variabelen A en B. We trekken aselect iemand uit de 100 personen.
+
+A = 1 A = 2 A = 3
+B = 1 19 20 23
+B = 2 18 2 18
+
+Voor deze persoon is P(B = 1 | A = 2) gelijk aan 
+
+Answerlist
+----------
+* 0.09
+* 0.2
+* 0.54
+* 0.91
+
+Solution
+========
+
+The correct answer is  0.91 
+
+Meta-information
+================
+exname: uva-probability-565-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Kansrekening,Kansverdeling,Voorwaardelijke kansen 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

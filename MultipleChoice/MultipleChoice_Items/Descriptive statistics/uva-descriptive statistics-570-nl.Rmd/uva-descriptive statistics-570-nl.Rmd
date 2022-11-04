@@ -1,0 +1,31 @@
+Question
+========
+
+Bij vijf personen is een voor- en een nameting gedaan:
+
+Voor 14 12 20 18 18
+Na 18 17 28 21 23
+
+De standaardafwijking van de verschillen is gelijk aan: 
+
+Answerlist
+----------
+* 0.84
+* 1.87
+* 3.5
+* 3.88
+
+Solution
+========
+
+The correct answer is  1.87 
+
+Meta-information
+================
+exname: uva-descriptive statistics-570-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Beschrijvende statistiek,Kengetallen,Standaarddeviatie 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

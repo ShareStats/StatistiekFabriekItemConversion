@@ -1,0 +1,26 @@
+Question
+========
+
+Z is een standaard normaal verdeelde variabele. P(Z > -0.84) is gelijk aan 
+
+Answerlist
+----------
+* 0.2005
+* 0.2995
+* 0.7881
+* 0.7995
+
+Solution
+========
+
+The correct answer is  0.7995 
+
+Meta-information
+================
+exname: uva-probability-336-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Kansrekening,Kansverdeling,Normale verdeling 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

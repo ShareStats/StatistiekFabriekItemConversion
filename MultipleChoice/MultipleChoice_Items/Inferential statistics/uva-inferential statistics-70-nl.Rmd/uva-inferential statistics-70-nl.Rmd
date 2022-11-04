@@ -1,0 +1,25 @@
+Question
+========
+
+Een éénweg ANOVA (één factor) met drie groepen wordt uitgevoerd. De assumpties worden gecontroleerd: de verdeling bij iedere groep is normaal en de varianties binnen iedere groep zijn gelijk. Verder zijn de proefpersonen random toegewezen aan één van de drie groepen. Er wordt een follow up test gedaan om te onderzoeken welke van de drie groepen verschillen. Er wordt gekozen voor het betrouwbaarheidsinterval van Fisher. Deze maakt gebruik van de Mean Square within (MS within/Error). Dit is het gemiddelde van de drie varianties die binnen iedere groep is berekend. Deze methode is toegestaan omdat (a) de verdeling van iedere groep normaal is en (b) de varianties binnen iedere groep gelijk zijn. 
+
+Answerlist
+----------
+* a is waar en b is onwaar.
+* a is onwaar en b is waar.
+* Beide zijn waar.
+
+Solution
+========
+
+The correct answer is  Beide zijn waar. 
+
+Meta-information
+================
+exname: uva-inferential statistics-70-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferentiële statistiek,Anova,Twoway + interactie 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

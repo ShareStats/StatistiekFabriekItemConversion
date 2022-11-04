@@ -1,0 +1,26 @@
+Question
+========
+
+Uit een normaal verdeelde populatie N(µ,s²) met bekende variantie trek ik een steekproef van grootte 10. Als ik met 1% risico tweezijdig wil toetsen of µ = 0 dan worden de grenzen van het kritieke gebied: 
+
+Answerlist
+----------
+* &#177; 2.576
+* &#177; 3.1693
+* &#177; 3.2498
+* &#177; 2.821
+
+Solution
+========
+
+The correct answer is  &#177; 2.576 
+
+Meta-information
+================
+exname: uva-inferential statistics-524-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferentiële statistiek,Toetstheorie,Z-toets,(normaal verdeeld, mu onbekend, sigma bekend),Kritieke waarde / kritiek gebied 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

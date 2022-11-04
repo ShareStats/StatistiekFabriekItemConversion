@@ -1,0 +1,25 @@
+Question
+========
+
+Een multiple baseline design is een 
+
+Answerlist
+----------
+* *within-subjects* design.
+* *between-subjects* design.
+* *mixed* design.
+
+Solution
+========
+
+The correct answer is *within-subjects* design. 
+
+Meta-information
+================
+exname: uva-inferential statistics-22-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferentiële statistiek,Toetstheorie 
+exextra[Type]: Conceptual
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy

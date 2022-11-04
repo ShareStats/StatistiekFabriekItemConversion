@@ -1,0 +1,26 @@
+Question
+========
+
+Van 10 verpleegkundigen is nagegaan hoe oud ze zijn en hoe lang ze als verpleegkundige werkzaam zijn. De Pearson Correlatiecoëfficiënt bleek 0.60 te zijn. Is deze correlatie significant (bij een a van 5%, tweezijdig)? 
+
+Answerlist
+----------
+* Kritieke waarde is 0.5760, dus significant.
+* Kritieke waarde is 0.6319, dus significant.
+* Kritieke waarde is 0.6319, dus niet significant.
+* Kritieke waarde is 0.6364, dus niet significant.
+
+Solution
+========
+
+The correct answer is  Kritieke waarde is 0.6319, dus niet significant. 
+
+Meta-information
+================
+exname: uva-inferential statistics-467-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferentiële statistiek,Correlatie (inferentiële stat.),Toets (H0: ? = 0), Tgh m.b.v. T-verdeling en p-waa 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

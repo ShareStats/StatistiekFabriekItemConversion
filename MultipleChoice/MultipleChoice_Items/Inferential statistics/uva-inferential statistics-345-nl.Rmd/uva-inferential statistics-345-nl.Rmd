@@ -1,0 +1,28 @@
+Question
+========
+
+Uit twee normaal verdeelde populaties zijn twee onafhankelijke steekproeven getrokken en hieruit is het volgende berekend:
+Steekproef 1: n = 7, gemiddelde = 34, variantie = 36
+Steekproef 2: n = 5, gemiddelde = 25, variantie = 46. De waarde van de toetsingsgrootheid voor het toetsen van H0: s12 = s22 is gelijk aan 
+
+Answerlist
+----------
+* 1.130
+* 1.278
+* 1.360
+* 2.430
+
+Solution
+========
+
+The correct answer is  1.278 
+
+Meta-information
+================
+exname: uva-inferential statistics-345-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferentiële statistiek,Toetstheorie,T-Toetsen,T toets voor 2 onafh. Steekproeven,Toetsingsgrootheid (tgh) 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

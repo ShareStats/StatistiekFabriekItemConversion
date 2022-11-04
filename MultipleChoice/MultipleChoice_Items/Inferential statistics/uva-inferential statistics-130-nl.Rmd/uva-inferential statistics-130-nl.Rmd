@@ -1,0 +1,25 @@
+Question
+========
+
+1/vn is een benadering van de margin of error bij het schatten van de populatieproportie p. Bij deze benadering wordt aangenomen dat p 
+
+Answerlist
+----------
+* in de buurt van 0,50 ligt
+* een kleine <em>standard error</em> heeft
+* standaardnormaal verdeeld is
+
+Solution
+========
+
+The correct answer is  in de buurt van 0,50 ligt 
+
+Meta-information
+================
+exname: uva-inferential statistics-130-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferentiële statistiek 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

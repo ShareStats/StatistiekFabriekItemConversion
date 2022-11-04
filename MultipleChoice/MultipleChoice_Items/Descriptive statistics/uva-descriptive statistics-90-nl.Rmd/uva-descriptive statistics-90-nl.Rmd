@@ -1,0 +1,25 @@
+Question
+========
+
+In een random sample van 60 Rotterdammers treft men 24 buitenlanders aan. Het 95% confidence interval voor de proportie buitenlanders in de populatie heeft dan een margin of error die gelijk is aan 
+
+Answerlist
+----------
+* 0.004
+* 0.063
+* 0.124
+
+Solution
+========
+
+The correct answer is  0.124 
+
+Meta-information
+================
+exname: uva-descriptive statistics-90-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Beschrijvende statistiek,Kengetallen,Locatiematen 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

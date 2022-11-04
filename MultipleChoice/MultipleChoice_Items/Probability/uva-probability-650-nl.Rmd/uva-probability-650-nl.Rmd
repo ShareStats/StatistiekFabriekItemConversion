@@ -1,0 +1,26 @@
+Question
+========
+
+Als de kans van de vereniging van gebeurtenis A en gebeurtenis B gelijk is aan 0,6 wat is dan de kans dat noch A noch B optreedt? 
+
+Answerlist
+----------
+* 0,24
+* 0,36
+* 0,4
+* 0,6
+
+Solution
+========
+
+The correct answer is  0,4 
+
+Meta-information
+================
+exname: uva-probability-650-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Kansrekening,Kansrekening (ond.),Complementregel 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,25 @@
+Question
+========
+
+In een steekproef met grootte n = 120 heeft het steekproefgemiddelde een 'standard error' die kleiner is dan die in een steekproef met grootte n = 30. Hoeveel keer kleiner? 
+
+Answerlist
+----------
+* &#8730;2 keer
+* 2 keer
+* 4 keer
+
+Solution
+========
+
+The correct answer is  2 keer 
+
+Meta-information
+================
+exname: uva-inferential statistics-120-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferentiële statistiek 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

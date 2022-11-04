@@ -1,0 +1,32 @@
+Question
+========
+
+Bij vijf personen is de hartslag voor en 15 minuten na een langdurige, zware inspanning gemeten, met als resultaten:
+
+Persoon 1 2 3 4 5
+Hartslag voor 70 65 81 57 74
+Hartslag a 75 64 86 59 79
+
+We willen toetsen of het verschil tussen de gemiddelde hartslag na en voor de inspanning gelijk is aan 0, met behulp van een gepaarde T-toets. De waarde van de toetsingsgrootheid T is gelijk aan 
+
+Answerlist
+----------
+* 0.5
+* 1.19
+* 2.67
+* 3.2
+
+Solution
+========
+
+The correct answer is  2.67 
+
+Meta-information
+================
+exname: uva-inferential statistics-396-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferentiële statistiek,Toetstheorie,T-Toetsen,Gepaarde T toets,Toetsingsgrootheid (tgh) 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

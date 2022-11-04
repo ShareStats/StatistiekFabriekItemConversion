@@ -1,0 +1,30 @@
+Question
+========
+
+Hieronder staat SPSS-uitvoer van een gepaarde T-toets. De significantie van de t-toets is .017. Bepaal met behulp van de tabel wat hier bij tweezijdig toetsen met a = 5% de grenzen van het kritiek gebied zouden zijn: 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F56&extension=png&mime_type=image%2Fpng 
+
+ UMCU19990327-8.png 
+
+Answerlist
+----------
+* &#177; 1.960
+* &#177; 2.3060
+* &#177; 2.3646
+* &#177; 2.4469
+
+Solution
+========
+
+The correct answer is  &#177; 2.3646 
+
+Meta-information
+================
+exname: uva-inferential statistics-486-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferentiële statistiek,Toetstheorie,T-Toetsen,Gepaarde T toets,Kritieke waarde / kritiek gebied 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

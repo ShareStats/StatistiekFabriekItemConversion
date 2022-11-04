@@ -1,0 +1,22 @@
+Question
+========
+
+Een eerste vaas bevat twee witte en drie zwarte balletjes, een tweede vaas drie witte en één zwarte. Als je aselect één van beide vazen kiest en je daaruit een balletje trekt, hoe groot is dan de kans dat dit balletje wit is? 
+
+Answerlist
+----------
+* 3\/4
+* 3\/5
+* 5\/9
+* 3\/10
+* 23\/40
+
+Solution
+========
+
+The correct answer is ENTER MANUALLY 
+
+Meta-information
+================
+exname: uva-probability-663-nl.Rmd 
+extype: schoice 

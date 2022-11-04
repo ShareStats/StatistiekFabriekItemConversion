@@ -1,0 +1,26 @@
+Question
+========
+
+Y ~ N(6, 22). Dan is P(Y > 10) gelijk aan 
+
+Answerlist
+----------
+* 0.0228
+* 0.1587
+* 0.3413
+* 0.4772
+
+Solution
+========
+
+The correct answer is  0.0228 
+
+Meta-information
+================
+exname: uva-probability-300-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Kansrekening,Kansverdeling,Normale verdeling 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

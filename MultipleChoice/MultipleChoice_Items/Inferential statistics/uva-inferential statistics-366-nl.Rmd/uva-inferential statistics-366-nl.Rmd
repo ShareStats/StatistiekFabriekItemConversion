@@ -1,0 +1,33 @@
+Question
+========
+
+Hieronder staat een gedeeltelijke ANOVA-tabel van een oneway ANOVA op drie groepen met ieder 5 waarnemingen.
+
+Source of variation SS df MS F
+Between groups 40.80 2 20.40 5.81
+Within groups
+Total 82.93
+
+De waarde van MS(Within groups) in deze ANOVA is gelijk aan 
+
+Answerlist
+----------
+* 3.24
+* 3.51
+* 5.92
+* 42.13
+
+Solution
+========
+
+The correct answer is  3.51 
+
+Meta-information
+================
+exname: uva-inferential statistics-366-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferentiële statistiek,Anova,Oneway, ANOVA-table 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

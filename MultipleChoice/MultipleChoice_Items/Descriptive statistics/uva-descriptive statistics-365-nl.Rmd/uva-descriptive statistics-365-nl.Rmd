@@ -1,0 +1,26 @@
+Question
+========
+
+Uit een regressieanalyse van Y op X kwam als schatting voor de regressievergelijking: Y = 1.065 + 0.623X. De geschatte waarde voor Y bij X = 10 is gelijk aan 
+
+Answerlist
+----------
+* 6.23
+* 7.295
+* 11.273
+* 16.88
+
+Solution
+========
+
+The correct answer is  7.295 
+
+Meta-information
+================
+exname: uva-descriptive statistics-365-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Beschrijvende statistiek,Regressie (beschrijvende stat.),Voorspelde Y bij gegeven X 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

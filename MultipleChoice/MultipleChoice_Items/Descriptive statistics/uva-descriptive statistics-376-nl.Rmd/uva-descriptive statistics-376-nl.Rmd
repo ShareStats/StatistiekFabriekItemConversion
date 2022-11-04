@@ -1,0 +1,26 @@
+Question
+========
+
+X is een stochastische variabele met gemiddelde 30 en standaardafwijking 4. Y is een stochastische variabele met gemiddelde 20 en standaardafwijking 5. X en Y zijn onafhankelijk. Dan is de standaardafwijking van 3 X - Y gelijk aan 
+
+Answerlist
+----------
+* 7
+* 13
+* 17
+* 31
+
+Solution
+========
+
+The correct answer is  13 
+
+Meta-information
+================
+exname: uva-descriptive statistics-376-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Beschrijvende statistiek,Kengetallen,Standaarddeviatie 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

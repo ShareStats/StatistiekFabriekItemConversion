@@ -1,0 +1,26 @@
+Question
+========
+
+Het gewicht van een persoon in ponden geven we aan met de stochastische variabele Y. In een bepaalde populatie geldt dat µY = 140 en s2Y = 900. We willen de gewichten nu in kilogrammen weergeven en gebruiken hiervoor de variabele X. In deze populatie geldt dan voor verwachting µX en variantie s2X: 
+
+Answerlist
+----------
+* &mu;<sub>X<\/sub> = 70 en &sigma;<sup>2<\/sup><sub>X<\/sub> = 450
+* &mu;<sub>X<\/sub> = 70 en &sigma;<sup>2<\/sup><sub>X<\/sub> = 225
+* &mu;<sub>X<\/sub> = 140 en &sigma;<sup>2<\/sup><sub>X<\/sub> = 225
+* &mu;<sub>X<\/sub> = 280 en &sigma;<sup>2<\/sup><sub>X<\/sub> = 3600
+
+Solution
+========
+
+The correct answer is  &mu;<sub>X<\/sub> = 70 en &sigma;<sup>2<\/sup><sub>X<\/sub> = 225 
+
+Meta-information
+================
+exname: uva-descriptive statistics-338-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Beschrijvende statistiek,Kengetallen,Variantie 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

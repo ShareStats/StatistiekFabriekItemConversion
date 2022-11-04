@@ -1,0 +1,33 @@
+Question
+========
+
+Hieronder staat een gedeelte van een ANOVA-tabel, behorend bij een CRD-ANOVA met 5 groepen en 3 metingen per groep.
+
+Variatiebron df SS MS F P
+Among groups 4 48
+Within groups 10 15
+Total 14 63
+
+Wat is in deze ANOVA-tabel de waarde van de toetsingsgrootheid om gelijkheid van groepsgemiddelden te toetsen? 
+
+Answerlist
+----------
+* 2.5
+* 3.2
+* 2.67
+* 8
+
+Solution
+========
+
+The correct answer is  8 
+
+Meta-information
+================
+exname: uva-inferential statistics-634-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Inferentiële statistiek,Anova,Oneway, ANOVA-table 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

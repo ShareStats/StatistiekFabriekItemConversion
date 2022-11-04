@@ -1,0 +1,25 @@
+Question
+========
+
+Een nulhypothese wordt verworpen wanneer de overschrijdingskans p van de gevonden waarde van de toetsingsgrootheid kleiner is dan 
+
+Answerlist
+----------
+* de kritieke grens Z<sub>1 - &alpha;</sub>
+* het onderscheidingsvermogen 1 - &beta;
+* het significantieniveau &alpha;
+
+Solution
+========
+
+The correct answer is  het significantieniveau &alpha; 
+
+Meta-information
+================
+exname: uva-inferential statistics-247-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferentiële statistiek,Toetstheorie,Kritieke waarde / kritiek gebied 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

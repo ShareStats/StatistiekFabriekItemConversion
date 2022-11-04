@@ -1,0 +1,30 @@
+Question
+========
+
+Een onderzoekster is geïnteresseerd in de correlatie tussen twee normaal verdeelde variabelen X en Y en trekt daartoe een aselecte steekproef van 20 personen uit haar doelpopulatie. Hieruit berekent zij de onderstaande grootheden. Wanneer we willen toetsen H0: <U+03C1>P = 0 met een tweezijdig risico van 5%, dan zal de kritieke waarde gelijk zijn aan 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F34&extension=png&mime_type=image%2Fpng 
+
+ UMCU20040612-6.png 
+
+Answerlist
+----------
+* 0.3789
+* 0.4227
+* 0.4438
+* 0.4451
+
+Solution
+========
+
+The correct answer is  0.4438 
+
+Meta-information
+================
+exname: uva-inferential statistics-329-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferentiële statistiek,Correlatie (inferentiële stat.),Toets (H0: ? = 0), Tgh m.b.v. T-verdeling en p-waa 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

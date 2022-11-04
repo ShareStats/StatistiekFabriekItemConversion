@@ -1,0 +1,25 @@
+Question
+========
+
+In een onderzoek worden 20 psychiatrische patiënten met een bipolaire stoornis gematched met 20 psychiatrische patiënten zonder bipolaire stoornis. Er wordt gekeken of ze verschillen in de aard en de ernst van complicaties bij hun geboorte. Dit is een voorbeeld van een 
+
+Answerlist
+----------
+* <em>case-control study. </em>
+* <em>cluster random sample. </em>
+* <em>randomized-block design. </em>
+
+Solution
+========
+
+The correct answer is  <em>case-control study. </em> 
+
+Meta-information
+================
+exname: uva-inferential statistics-149-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferentiële statistiek 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

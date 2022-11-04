@@ -1,0 +1,30 @@
+Question
+========
+
+In de gepaarde T-toets wordt de nulhypothese H0: µD = -1 getoetst. Bij een tweezijdig risico van 5% moet de conclusie luiden: 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F14&extension=png&mime_type=image%2Fpng 
+
+ UMCU20050416-17.png 
+
+Answerlist
+----------
+* Het resultaat is significant, verwerp H<sub>0<\/sub>.
+* Het resultaat is niet significant, verwerp H<sub>0<\/sub>.
+* Het resultaat is significant, verwerp H<sub>0<\/sub> niet.
+* Het resultaat is niet significant, verwerp H<sub>0<\/sub> niet.
+
+Solution
+========
+
+The correct answer is  Het resultaat is niet significant, verwerp H<sub>0<\/sub> niet. 
+
+Meta-information
+================
+exname: uva-inferential statistics-271-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Inferentiële statistiek,T-Toetsen,Gepaarde T toets 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

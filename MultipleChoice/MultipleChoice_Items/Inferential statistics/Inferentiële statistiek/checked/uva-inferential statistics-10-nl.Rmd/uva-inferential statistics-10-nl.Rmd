@@ -1,0 +1,25 @@
+Question
+========
+
+De onderzoeker kan zich wapenen tegen observer bias door het gebruik van 
+
+Answerlist
+----------
+* een 'dubbel-blind' onderzoeksdesign.
+* een placebo-conditie.
+* indirecte maten.
+
+Solution
+========
+
+The correct answer is  een 'dubbel-blind' onderzoeksdesign. 
+
+Meta-information
+================
+exname: uva-inferential statistics-10-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferentiële statistiek 
+exextra[Type]: Conceptual 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy

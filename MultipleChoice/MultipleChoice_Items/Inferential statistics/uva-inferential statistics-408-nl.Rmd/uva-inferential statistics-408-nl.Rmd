@@ -1,0 +1,29 @@
+Question
+========
+
+Van twee steekproeven, die aselect uit twee populaties getrokken zijn, is het volgende bekend:
+Steekproef 1: n = 10, gemiddelde = 56, s.d. = 9
+Steekproef 2: n = 5, gemiddelde = 64, s.d. = 20
+Bij toetsen of de populatievarianties gelijk zijn is de nulhypothese 
+
+Answerlist
+----------
+* &mu;<sub>1<\/sub> = &mu;<sub>2<\/sub>
+* s<sub>1<\/sub><sup>2<\/sup> = s<sub>2<\/sub><sup>2<\/sup>
+* \u00afX<sub>1<\/sub> = \u00afX<sub>2<\/sub>
+* &sigma;<sub>1<\/sub><sup>2<\/sup> = &sigma;<sub>2<\/sub><sup>2<\/sup>
+
+Solution
+========
+
+The correct answer is  &sigma;<sub>1<\/sub><sup>2<\/sup> = &sigma;<sub>2<\/sub><sup>2<\/sup> 
+
+Meta-information
+================
+exname: uva-inferential statistics-408-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Inferentiële statistiek,Toetstheorie,Hypotheses (nul en alternatief; één- en tweezijdig 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

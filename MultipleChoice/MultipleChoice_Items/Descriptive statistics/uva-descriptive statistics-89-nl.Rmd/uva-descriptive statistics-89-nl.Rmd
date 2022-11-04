@@ -1,0 +1,27 @@
+Question
+========
+
+Een regressievergelijking heeft de vorm y = 0.3x - 2. Verder geldt sx = sy = 4. De correlatie r heeft dan de waarde 
+
+Answerlist
+----------
+* 0.12
+* 0.3
+* 1
+
+Solution
+========
+
+The correct answer is  0.3 
+
+Meta-information
+================
+exname: uva-descriptive statistics-89-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Beschrijvende statistiek,Regressie (beschrijvende stat.),Formules 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+
+

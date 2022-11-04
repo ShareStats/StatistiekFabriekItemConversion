@@ -1,0 +1,30 @@
+Question
+========
+
+Wanneer we een F-toets voor gelijkheid van varianties zouden uitvoeren met een tweezijdig risico van 10%, dan zou de rechterkritieke waarde gelijk zijn aan 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F30&extension=png&mime_type=image%2Fpng 
+
+ UMCU20040515-8.png 
+
+Answerlist
+----------
+* 3.37
+* 3.69
+* 4.1
+* 4.82
+
+Solution
+========
+
+The correct answer is  4.82 
+
+Meta-information
+================
+exname: uva-inferential statistics-320-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Inferentiële statistiek,Toetstheorie,T-Toetsen,T toets voor 2 onafh. Steekproeven,Kritieke waarde / kritiek gebied 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

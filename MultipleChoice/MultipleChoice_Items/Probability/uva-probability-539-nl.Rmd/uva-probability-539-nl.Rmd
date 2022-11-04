@@ -1,0 +1,32 @@
+Question
+========
+
+In de volgende kruistabel zijn gegevens van 200 personen opgenomen voor twee variabelen A en B.
+
+A = 1 A = 2 A = 3
+B = 1 50 36 64
+B = 2 20 12 18
+
+We trekken aselect iemand uit de 200 personen. Voor deze persoon geldt: P(A=1 <U+222A> A=2 ||| B=1) is gelijk aan 
+
+Answerlist
+----------
+* 0
+* 0.43
+* 0.57
+* 0.59
+
+Solution
+========
+
+The correct answer is  0.57 
+
+Meta-information
+================
+exname: uva-probability-539-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Kansrekening,Kansverdeling,Voorwaardelijke kansen 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,26 @@
+Question
+========
+
+Uit een grote populatie wordt een steekproef van 7 personen getrokken en hun lichaamstemperatuur (in °C) wordt gemeten, met als uitkomsten: 37.5, 37.1, 38.0, 37.6, 36.8, 37.1, 37.7 Deze variabele wordt gemeten op 
+
+Answerlist
+----------
+* nominaal meetniveau
+* ordinaal meetniveau
+* interval meetniveau
+* ratio meetniveau
+
+Solution
+========
+
+The correct answer is  interval meetniveau 
+
+Meta-information
+================
+exname: uva-descriptive statistics-412-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Beschrijvende statistiek,Meetniveaus,Interval 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,26 @@
+Question
+========
+
+Voor twee onafhankelijke gebeurtenissen A en B is gegeven dat P(A) = 0.3, P(B) = 0.4 en P(A n B) = 0.12. Dan is P(A <U+222A> B) gelijk aan 
+
+Answerlist
+----------
+* 0.52
+* 0.58
+* 0.7
+* 0.82
+
+Solution
+========
+
+The correct answer is  0.58 
+
+Meta-information
+================
+exname: uva-probability-483-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Kansrekening,Kansrekening (ond.),Somregel 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

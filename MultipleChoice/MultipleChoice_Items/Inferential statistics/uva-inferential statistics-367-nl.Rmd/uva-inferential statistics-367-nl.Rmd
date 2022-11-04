@@ -1,0 +1,33 @@
+Question
+========
+
+Hieronder staat een gedeeltelijke ANOVA-tabel van een oneway ANOVA op drie groepen met ieder 5 waarnemingen.
+
+Source of variation SS df MS F
+Between groups 40.80 2 20.40 5.81
+Within groups
+Total 82.93
+
+Hoe groot is de kritieke waarde bij het toetsen, met a =5%, van H0: µl = µ2 = µ3 en hoe luidt de conclusie? 
+
+Answerlist
+----------
+* Kritieke waarde = 3.74, verwerp H<sub>0<\/sub>
+* Kritieke waarde = 3.89, verwerp H<sub>0<\/sub>
+* Kritieke waarde = 3.89, verwerp H<sub>0<\/sub> niet
+* Kritieke waarde = 19.41, verwerp H<sub>0<\/sub> niet
+
+Solution
+========
+
+The correct answer is  Kritieke waarde = 3.89, verwerp H<sub>0<\/sub> 
+
+Meta-information
+================
+exname: uva-inferential statistics-367-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferentiële statistiek,Anova,Oneway, ANOVA-table 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

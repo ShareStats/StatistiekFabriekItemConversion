@@ -1,0 +1,26 @@
+Question
+========
+
+Wanneer we H0: P = 0 zouden willen toetsen tegen H1: p > 0, met een eenzijdig risico van 5%, welke van de volgende conclusies is dan juist? 
+
+Answerlist
+----------
+* Eenzijdige p-waarde is 0.016, verwerp H<sub>0<\/sub>
+* Eenzijdige p-waarde is 0.016, verwerp H<sub>0<\/sub> niet
+* Eenzijdige p-waarde is 0.064, verwerp H<sub>0<\/sub>
+* Eenzijdige p-waarde is 0.064, verwerp H<sub>0<\/sub> niet
+
+Solution
+========
+
+The correct answer is  Eenzijdige p-waarde is 0.016, verwerp H<sub>0<\/sub> 
+
+Meta-information
+================
+exname: uva-inferential statistics-371-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferentiële statistiek 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

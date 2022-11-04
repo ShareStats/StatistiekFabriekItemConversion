@@ -1,0 +1,26 @@
+Question
+========
+
+Uit ieder van twee normaal verdeelde populaties met gelijke varianties wordt een steekproef getrokken. Voor de eerste steekproef geldt n = 4, s² = 30, voor de tweede geldt n = 6, s² = 20. De beste schatter voor de gezamenlijke populatievariantie is 
+
+Answerlist
+----------
+* 24
+* 25
+* 30
+* 23.75
+
+Solution
+========
+
+The correct answer is  23.75 
+
+Meta-information
+================
+exname: uva-descriptive statistics-625-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Beschrijvende statistiek,Kengetallen,Variantie 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

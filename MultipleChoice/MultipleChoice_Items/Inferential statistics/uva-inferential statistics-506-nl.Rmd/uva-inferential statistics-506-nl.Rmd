@@ -1,0 +1,30 @@
+Question
+========
+
+Hieronder staat een gedeelte van de SPSS-uitvoer van een gepaarde T-toets op twee metingen aan 17 mensen. Bij toetsing van de nulhypothese dat de twee metingen niet samenhangen moet de conclusie luiden (bij a = 5%, tweezijdig): 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F62&extension=png&mime_type=image%2Fpng 
+
+ UMCU19990612-6.png 
+
+Answerlist
+----------
+* een significant resultaat, H<sub>0<\/sub> wordt verworpen
+* een significant resultaat, H<sub>0<\/sub> wordt niet verworpen
+* geen significant resultaat, H<sub>0<\/sub> wordt verworpen
+* geen significant resultaat, H<sub>0<\/sub> wordt niet verworpen
+
+Solution
+========
+
+The correct answer is  een significant resultaat, H<sub>0<\/sub> wordt verworpen 
+
+Meta-information
+================
+exname: uva-inferential statistics-506-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferentiële statistiek,T-Toetsen,Correlatie (inferentiële stat.),Toets (H0: ? = 0), Tgh m.b.v. T-verdeling en p-waa,Gepaarde T toets 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

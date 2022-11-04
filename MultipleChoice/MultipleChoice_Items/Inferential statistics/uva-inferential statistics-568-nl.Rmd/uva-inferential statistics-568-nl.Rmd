@@ -1,0 +1,38 @@
+Question
+========
+
+Hieronder staat een gedeelte van een ANOVA-tabel, behorend bij een RCB-ANOVA.
+
+Variatiebron df SS MS F
+Behandeling
+
+4
+
+48
+Blok 2 22
+Error 8 20
+Totaal 14 90
+
+Bereken de F-waarde voor het toetsen van het behande-lingseffect. 
+
+Answerlist
+----------
+* 2.2
+* 2.4
+* 4.4
+* 4.8
+
+Solution
+========
+
+The correct answer is  4.8 
+
+Meta-information
+================
+exname: uva-inferential statistics-568-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Inferentiële statistiek,Anova,Oneway, ANOVA-table 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

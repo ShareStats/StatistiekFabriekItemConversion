@@ -1,0 +1,26 @@
+Question
+========
+
+We trekken een steekproef uit een normaal verdeelde populatie N(µ, s²), met als uitkomsten: 20, 20, 36 en 20. Stel nu dat s² niet bekend is en geschat wordt m.b.v. s². Wat is dan de kritieke waarde bij toetsing van H0: µ = 20 tegen H1: µ <U+2260> 20 met 5% risico? 
+
+Answerlist
+----------
+* 1.96
+* 2.3534
+* 2.7764
+* 3.1825
+
+Solution
+========
+
+The correct answer is  3.1825 
+
+Meta-information
+================
+exname: uva-inferential statistics-308-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Inferentiële statistiek,T-Toetsen,1 steekproef T-toets 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,29 @@
+Question
+========
+
+We willen de nulhypothese toetsen dat twee populatievarianties gelijk zijn en gebruiken daarvoor de F-toets. De steekproefgegevens zijn als volgt:
+Steekproef 1: n = 6, gemiddelde = 75, sd = 13
+Steekproef 2: n = 9, gemiddelde = 85, sd = 27
+De waarde van de toetsingsgrootheid, en de conclusie zijn 
+
+Answerlist
+----------
+* F = 2.08, verwerp de nulhypothese
+* F = 2.08, verwerp de nulhypothese niet
+* F = 4.31, verwerp de nulhypothese
+* F = 4.31, verwerp de nulhypothese niet
+
+Solution
+========
+
+The correct answer is  F = 4.31, verwerp de nulhypothese niet 
+
+Meta-information
+================
+exname: uva-inferential statistics-488-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Inferentiële statistiek,Anova,Oneway, F-verdeling 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

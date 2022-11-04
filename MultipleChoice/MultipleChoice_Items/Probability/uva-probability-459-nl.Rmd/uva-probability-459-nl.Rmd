@@ -1,0 +1,26 @@
+Question
+========
+
+X ~ N(-12, 8²). Dan is P(X > 0) gelijk aan 
+
+Answerlist
+----------
+* 0.0668
+* 0.1336
+* 0.4332
+* 0.9332
+
+Solution
+========
+
+The correct answer is  0.0668 
+
+Meta-information
+================
+exname: uva-probability-459-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Kansrekening,Kansverdeling,Normale verdeling 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,25 @@
+Question
+========
+
+Inferentiële statistiek gaat over een beslissing nemen over een of meerdere 
+
+Answerlist
+----------
+* populaties op basis van een of meerdere steekproeven.
+* steekproeven op basis van een of meerdere populaties.
+* steekproeven aangenomen dat een of meerdere populaties goed *gesampled* zijn.
+
+Solution
+========
+
+The correct answer is populaties op basis van een of meerdere steekproeven. 
+
+Meta-information
+================
+exname: uva-inferential statistics-18-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferentiële statistiek 
+exextra[Type]:  Conceptual
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy

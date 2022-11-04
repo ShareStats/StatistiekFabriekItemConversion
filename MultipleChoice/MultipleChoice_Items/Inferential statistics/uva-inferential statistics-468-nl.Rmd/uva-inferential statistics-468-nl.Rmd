@@ -1,0 +1,26 @@
+Question
+========
+
+In een steekproef van 15 middelbare scholieren is de correlatiecoëfficiënt tussen het eindcijfer voor natuurkunde en biologie berekend, met als uitkomst rS = 0.49. Voor de tweezijdige overschrijdingskans, bij het toetsen of er daadwerkelijk sprake is van correlatie, geldt: 
+
+Answerlist
+----------
+* P &lt; 0.01
+* 0.01 &lt; P &lt; 0.05
+* 0.05 &lt; P &lt; 0.10
+* P &gt; 0.10
+
+Solution
+========
+
+The correct answer is  0.05 &lt; P &lt; 0.10 
+
+Meta-information
+================
+exname: uva-inferential statistics-468-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferentiële statistiek,Correlatie (inferentiële stat.),Toets (H0: ? = 0), Tgh m.b.v. T-verdeling en p-waa 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

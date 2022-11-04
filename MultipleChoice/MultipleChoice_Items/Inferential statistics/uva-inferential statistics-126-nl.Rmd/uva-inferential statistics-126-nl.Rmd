@@ -1,0 +1,25 @@
+Question
+========
+
+Het voorspellen van verkiezingsuitslagen is een voorbeeld van 
+
+Answerlist
+----------
+* experimenteel onderzoek
+* inferentiële statistiek
+* regressie-analyse
+
+Solution
+========
+
+The correct answer is  inferentiële statistiek 
+
+Meta-information
+================
+exname: uva-inferential statistics-126-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferentiële statistiek 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,26 @@
+Question
+========
+
+Om 4 behandelingen (1, 2, 3, en 4) met elkaar te vergelijken op gemiddelde effectiviteit worden in 5 klinieken (A, B, C, D en E) 4 personen door loting over de behandelingen verdeeld. De gegevens worden m.b.v. ANOVA geanalyseerd. Welke nulhypothese kan hier zinvol getoetst worden? 
+
+Answerlist
+----------
+* &mu;<sub>1<\/sub> = &mu;<sub>2<\/sub> = &mu;<sub>3<\/sub> = &mu;<sub>4<\/sub>
+* &mu;<sub>A<\/sub> = &mu;<sub>B<\/sub> = &mu;<sub>C<\/sub> = &mu;<sub>D<\/sub> = &mu;<sub>E<\/sub>
+* &sigma;<sup>2<\/sup><sub>1<\/sub> = &sigma;<sup>2<\/sup><sub>2<\/sub> = &sigma;<sup>2<\/sup><sub>3<\/sub> = &sigma;<sup>2<\/sup><sub>4<\/sub>
+* &sigma;<sup>2<\/sup><sub>A<\/sub> = &sigma;<sup>2<\/sup><sub>B<\/sub> = &sigma;<sup>2<\/sup><sub>C<\/sub> = &sigma;<sup>2<\/sup><sub>D<\/sub> = &sigma;<sup>2<\/sup><sub>E<\/sub>
+
+Solution
+========
+
+The correct answer is  &mu;<sub>1<\/sub> = &mu;<sub>2<\/sub> = &mu;<sub>3<\/sub> = &mu;<sub>4<\/sub> 
+
+Meta-information
+================
+exname: uva-inferential statistics-358-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferentiële statistiek,Anova,Oneway, ANOVA-table 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

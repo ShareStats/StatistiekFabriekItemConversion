@@ -1,0 +1,26 @@
+Question
+========
+
+In een zekere gepaarde T-toets is het eenzijdige kritieke gebied 1.7959 en groter. De uitkomst van de toetsingsgrootheid is -2.01. De conclusie luidt: 
+
+Answerlist
+----------
+* De uitkomst is significant, verwerp H<sub>0<\/sub>
+* De uitkomst is niet significant, verwerp H<sub>0<\/sub>
+* De uitkomst is significant, verwerp H<sub>0<\/sub> niet
+* De uitkomst is niet significant, verwerp H<sub>0<\/sub> niet
+
+Solution
+========
+
+The correct answer is  De uitkomst is niet significant, verwerp H<sub>0<\/sub> niet 
+
+Meta-information
+================
+exname: uva-inferential statistics-624-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Inferentiële statistiek,Toetstheorie,T-Toetsen,Gepaarde T toets,Kritieke waarde / kritiek gebied 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

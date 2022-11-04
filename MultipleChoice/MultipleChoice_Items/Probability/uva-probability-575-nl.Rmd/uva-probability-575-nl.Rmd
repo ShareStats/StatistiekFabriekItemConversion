@@ -1,0 +1,26 @@
+Question
+========
+
+De kansen op twee gebeurtenissen A en B zijn gegeven als P(A) = 0.5 en P(B) = 0.4. Als A en B onafhankelijk zijn is P(A n B) gelijk aan 
+
+Answerlist
+----------
+* 0.1
+* 0.2
+* 0.7
+* 0.9
+
+Solution
+========
+
+The correct answer is  0.2 
+
+Meta-information
+================
+exname: uva-probability-575-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Kansrekening,Kansrekening (ond.),Productregel 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

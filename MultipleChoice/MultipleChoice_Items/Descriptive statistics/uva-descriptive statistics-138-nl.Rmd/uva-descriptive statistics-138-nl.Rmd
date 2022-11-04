@@ -1,0 +1,25 @@
+Question
+========
+
+In een regressie-analyse heeft de explanatory variable x een standaardafwijking die twee keer zo groot is als die van de response variable y. Verder heeft de slope b van de regressielijn de waarde 0.4. De correlatie tussen x en y is dan gelijk aan 
+
+Answerlist
+----------
+* 0.2
+* 0.4
+* 0.8
+
+Solution
+========
+
+The correct answer is  0.8 
+
+Meta-information
+================
+exname: uva-descriptive statistics-138-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Beschrijvende statistiek,Regressie (beschrijvende stat.),Verband met corr coeff 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

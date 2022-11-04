@@ -1,0 +1,33 @@
+Question
+========
+
+Hieronder staat de (onvolledige) ANOVA-tabel van een CRD-ANOVA (Completely Randomised Design ANOVA), die is uitgevoerd op gegevens die verzameld zijn bij 16 personen, verdeeld over 4 groepen.
+
+Variatiebron SS df MS F
+Among groups 8.0
+Within groups 60 12
+Total 180
+
+De waarde van MS(Among groups) is hier gelijk aan 
+
+Answerlist
+----------
+* 5
+* 30
+* 40
+* 120
+
+Solution
+========
+
+The correct answer is  40 
+
+Meta-information
+================
+exname: uva-inferential statistics-273-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferentiële statistiek,Anova,Oneway, ANOVA-table 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

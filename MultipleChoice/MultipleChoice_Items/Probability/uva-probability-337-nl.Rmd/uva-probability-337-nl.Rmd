@@ -1,0 +1,26 @@
+Question
+========
+
+Stel X ~ N (9, 22). Dan is P(X < 5) gelijk aan 
+
+Answerlist
+----------
+* P(Z &lt; -2)
+* P(Z &lt; -1)
+* P(Z &lt; 1.25)
+* P(Z &lt; -2.5)
+
+Solution
+========
+
+The correct answer is  P(Z &lt; -2) 
+
+Meta-information
+================
+exname: uva-probability-337-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Kansrekening,Kansverdeling,Normale verdeling 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,25 @@
+Question
+========
+
+Onderzoekers willen weten of er een verschil is in informatieverwerking tussen kinderen met autisme en kinderen met Attention Deficit Hyperactivity Disorder (ADHD). Daartoe trekken ze aselect 32 kinderen uit de populatie van kinderen met autisme en trekken ze aselect 29 kinderen uit de populatie van kinderen met ADHD. Ze meten reactietijden van beide groepen. Het is bekend van reactietijden dat deze scheef naar rechts zijn verdeeld. Het is in dit geval verstandig als de onderzoekers de volgende test uitvoeren: 
+
+Answerlist
+----------
+* <em>Wilcoxon's test.<\/em>
+* <em>paired t-test.<\/em>
+* <em>McNemar's test.<\/em>
+
+Solution
+========
+
+The correct answer is  <em>Wilcoxon's test.<\/em> 
+
+Meta-information
+================
+exname: uva-inferential statistics-105-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferentiële statistiek,Non-parametrische toetsen 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

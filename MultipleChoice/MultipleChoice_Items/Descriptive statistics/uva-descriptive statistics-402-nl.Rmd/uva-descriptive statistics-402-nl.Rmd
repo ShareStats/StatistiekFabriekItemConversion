@@ -1,0 +1,26 @@
+Question
+========
+
+Gegeven zijn de volgende steekproefuitkomsten: 28, 23, 17, 30, 28, 21. De mediaan van deze steekproef is gelijk aan 
+
+Answerlist
+----------
+* 23
+* 24.5
+* 25.5
+* 28
+
+Solution
+========
+
+The correct answer is  25.5 
+
+Meta-information
+================
+exname: uva-descriptive statistics-402-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Beschrijvende statistiek,Kengetallen,Mediaan 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

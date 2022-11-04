@@ -1,0 +1,33 @@
+Question
+========
+
+Van 200 mensen is bepaald of zij links- of rechtshandig zijn, en hoe goed zij artistiek ontwikkeld zijn (goed, matig, slecht). De resultaten zijn weergegeven in onderstaande kruistabel.
+
+Artistieke ontwikkeling
+Goed Matig Slecht
+Rechtshandig 42 72 56
+Linkshandig 18 8 4
+
+Hoe groot is P(Rechtshandig ||| Artistiek matig ontwikkeld)? 
+
+Answerlist
+----------
+* 0.36
+* 0.42
+* 0.89
+* 0.9
+
+Solution
+========
+
+The correct answer is  0.9 
+
+Meta-information
+================
+exname: uva-probability-341-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Kansrekening,Kansrekening (ond.),Discrete stochastische variabelen (elementair begr 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,30 @@
+Question
+========
+
+In onderstaande grafiek staat van 50 gezinnen hoeveel kinderen ze bevatten. Het percentage gezinnen met 3 of meer kinderen is gelijk aan 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F39&extension=png&mime_type=image%2Fpng 
+
+ UMCU20030426-1.png 
+
+Answerlist
+----------
+* 8
+* 10
+* 12
+* 20
+
+Solution
+========
+
+The correct answer is  20 
+
+Meta-information
+================
+exname: uva-descriptive statistics-343-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Beschrijvende statistiek,Grafieken,Staafdiagram 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

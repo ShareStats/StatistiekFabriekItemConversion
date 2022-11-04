@@ -1,0 +1,26 @@
+Question
+========
+
+Gegeven de volgende getallen in een steekproef: 7, 1, 4, 8, 7, 3. De waarde van de mediaan van deze getallen is: 
+
+Answerlist
+----------
+* 5
+* 5.5
+* 6
+* 7
+
+Solution
+========
+
+The correct answer is  5.5 
+
+Meta-information
+================
+exname: uva-descriptive statistics-479-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Beschrijvende statistiek,Kengetallen,Mediaan 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

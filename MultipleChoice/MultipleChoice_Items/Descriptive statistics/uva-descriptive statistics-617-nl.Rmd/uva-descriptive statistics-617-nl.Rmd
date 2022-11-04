@@ -1,0 +1,26 @@
+Question
+========
+
+Stel dat in een populatie d normaal verdeeld is met gemiddelde 63 en standaarddeviatie 14. We trekken uit deze populatie een steekproef van grootte n = 5. Dan geldt voor het steekproefgemiddelde 
+
+Answerlist
+----------
+* gem ~ N(&mu; = 12.6, &sigma; = 2.8)
+* gem ~ N(&mu; = 63, &sigma; = 2.8)
+* gem ~ N(&mu; = 63, &sigma; = 6.26)
+* gem ~ N(&mu; = 12.6, &sigma; = 39.2)
+
+Solution
+========
+
+The correct answer is  gem ~ N(&mu; = 63, &sigma; = 6.26) 
+
+Meta-information
+================
+exname: uva-descriptive statistics-617-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Beschrijvende statistiek,Kengetallen,Gemiddelde 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

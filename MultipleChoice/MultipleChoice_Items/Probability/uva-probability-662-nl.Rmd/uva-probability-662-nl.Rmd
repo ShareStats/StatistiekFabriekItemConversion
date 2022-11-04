@@ -1,0 +1,30 @@
+Question
+========
+
+Stel A is de verzameling van huishoudens waarvan tenminste een lid de universiteit heeft doorlopen. B is de verzameling van huishoudens waar het jaarinkomen hoger is dan €100.000. Welke gearceerde oppervlakte in onderstaand Venn-diagram toont de vereniging van A en B? 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F69&extension=png&mime_type=image%2Fpng 
+
+ UTwente-K1-17.png 
+
+Answerlist
+----------
+* A
+* B
+* C
+* D
+
+Solution
+========
+
+The correct answer is  C 
+
+Meta-information
+================
+exname: uva-probability-662-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Kansrekening,Kansdefinities,Klassieke kansdefinitie,Gebeurtenis 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

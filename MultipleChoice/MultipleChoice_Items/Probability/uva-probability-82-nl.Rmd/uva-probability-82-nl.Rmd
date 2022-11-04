@@ -1,0 +1,20 @@
+Question
+========
+
+Voor de twee gebeurtenissen A en B geldt P(A) = 0.3 en P(B) = 0.7. Dan is de kans op A of B 
+
+Answerlist
+----------
+* onbekend
+* 0.5
+* 1
+
+Solution
+========
+
+The correct answer is ENTER MANUALLY 
+
+Meta-information
+================
+exname: uva-probability-82-nl.Rmd 
+extype: schoice 

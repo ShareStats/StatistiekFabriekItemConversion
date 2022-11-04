@@ -1,0 +1,30 @@
+Question
+========
+
+Hieronder staat een gedeelte van de SPSS-uitvoer van een gepaarde T-toets op twee metingen aan 17 mensen. Het kritieke gebied voor de toetsingsgrootheid voor het toetsen van gelijkheid van populatiegemiddelden is 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F61&extension=png&mime_type=image%2Fpng 
+
+ UMCU19990612-6.png 
+
+Answerlist
+----------
+* &lt;-&#8734;; -1.7459] &#8746; [1.7459; &#8734;&gt;
+* &lt;- &#8734;; -2.1199] &#8746; [2.1199; &#8734;&gt;
+* &lt;-2.1199; 2.1199&gt;
+* &lt;-2.1098; 2.1098&gt;
+
+Solution
+========
+
+The correct answer is  &lt;- &#8734;; -2.1199] &#8746; [2.1199; &#8734;&gt; 
+
+Meta-information
+================
+exname: uva-inferential statistics-505-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferentiële statistiek,Toetstheorie,T-Toetsen,Gepaarde T toets,Kritieke waarde / kritiek gebied 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

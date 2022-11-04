@@ -1,0 +1,26 @@
+Question
+========
+
+We nemen voor deze vraag aan dat geboortegewicht (in kg.) normaal verdeeld is met verwachting 2.90 en variantie 0.64. De kans op een geboortegewicht van meer dan 3.5 kg. is gelijk aan 
+
+Answerlist
+----------
+* 0.2266
+* 0.242
+* 0.2734
+* 0.7734
+
+Solution
+========
+
+The correct answer is  0.2266 
+
+Meta-information
+================
+exname: uva-probability-378-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Kansrekening,Kansverdeling,Normale verdeling 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

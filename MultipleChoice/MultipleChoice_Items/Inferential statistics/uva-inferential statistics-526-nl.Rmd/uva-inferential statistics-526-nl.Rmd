@@ -1,0 +1,26 @@
+Question
+========
+
+Van 8 proefpersonen wordt voor en na een bepaalde krachtsinspanning de hartslag gemeten. We willen toetsen of de gemiddelde hartslag voor en na de inspanning gelijk is. Van de 8 verschillen tussen voor- en nameting is het gemiddelde 25 en de standaarddeviatie 30. De waarde van de toetsingsgrootheid van de gepaarde T-toets is dan 
+
+Answerlist
+----------
+* 0.83
+* 1.4
+* 2.36
+* 12.91
+
+Solution
+========
+
+The correct answer is  2.36 
+
+Meta-information
+================
+exname: uva-inferential statistics-526-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferentiële statistiek,Toetstheorie,T-Toetsen,Gepaarde T toets,Toetsingsgrootheid (tgh) 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

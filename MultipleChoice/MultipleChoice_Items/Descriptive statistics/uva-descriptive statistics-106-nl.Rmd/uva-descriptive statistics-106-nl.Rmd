@@ -1,0 +1,25 @@
+Question
+========
+
+In regressie kan de adequaatheid van het model worden vastgesteld met behulp van r2. Wanneer de hellingparameter gelijk is aan 0, dan geldt dat 
+
+Answerlist
+----------
+* <em>r<\/em><sup>2<\/sup> = 0.
+* <em>r<\/em><sup>2<\/sup> = 0.5.
+* <em>r<\/em><sup>2<\/sup> = 1.
+
+Solution
+========
+
+The correct answer is  <em>r<\/em><sup>2<\/sup> = 0. 
+
+Meta-information
+================
+exname: uva-descriptive statistics-106-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Beschrijvende statistiek,Regressie (beschrijvende stat.),Formules 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

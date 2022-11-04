@@ -1,0 +1,26 @@
+Question
+========
+
+Twee gebeurtenissen A en B zijn onafhankelijk. Er is gegeven dat P(A) = 0.4 en P(B) = 0.2. P(A n B) is gelijk aan 
+
+Answerlist
+----------
+* 0
+* 0.08
+* 0.2
+* 0.6
+
+Solution
+========
+
+The correct answer is  0.08 
+
+Meta-information
+================
+exname: uva-probability-548-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Kansrekening,Kansrekening (ond.),Somregel 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

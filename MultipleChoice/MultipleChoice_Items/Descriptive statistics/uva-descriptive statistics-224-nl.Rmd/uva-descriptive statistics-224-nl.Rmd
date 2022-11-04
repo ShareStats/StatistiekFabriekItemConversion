@@ -1,0 +1,25 @@
+Question
+========
+
+Bij de tekentoets voor de mediaan wordt er van uitgegaan dat in de steekproef het aantal scores kleiner dan de onder de nulhypothese gespecificeerde waarde van de mediaan een binomiale verdeling heeft met 
+
+Answerlist
+----------
+* p &lt; 0.5
+* p = 0.5
+* p &gt; 0.5
+
+Solution
+========
+
+The correct answer is  p = 0.5 
+
+Meta-information
+================
+exname: uva-descriptive statistics-224-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Beschrijvende statistiek,Kengetallen,Mediaan 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

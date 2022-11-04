@@ -1,0 +1,26 @@
+Question
+========
+
+Men neemt een steekproef van 8 personen uit een populatie en meet hun gewichtsafname (in kg) na het volgen van een dieet van 12 weken, met de volgende resultaten:12, 7, 2, 5, 12, 20, 3, 8. De mediaan van de steekproef is 
+
+Answerlist
+----------
+* 5
+* 7
+* 7.5
+* 8.5
+
+Solution
+========
+
+The correct answer is  7.5 
+
+Meta-information
+================
+exname: uva-descriptive statistics-511-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Beschrijvende statistiek,Kengetallen,Mediaan 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

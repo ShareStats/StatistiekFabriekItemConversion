@@ -1,0 +1,26 @@
+Question
+========
+
+In een aselecte steekproef zijn bij acht personen de variabelen X en Y gemeten. De Spearman rangcorrelatie-coëfficiënt rS van X en Y is -0.69. Als we m.b.v. de Pearson correlatiecoëfficiënt deze nulhypothese dat de werkelijke correlatie in de populatie 0 is zouden willen toetsen (5% risico, tweezijdig) dan zijn de grenswaarden van het kritieke gebied 
+
+Answerlist
+----------
+* +\/- 0.6319
+* +\/- 0.7067
+* +\/- 0.6664
+* +\/- 0.7646
+
+Solution
+========
+
+The correct answer is  +\/- 0.6664 
+
+Meta-information
+================
+exname: uva-inferential statistics-607-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferentiële statistiek,Correlatie (inferentiële stat.),Toets (H0: ? = 0), Tgh m.b.v. T-verdeling en p-waa 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

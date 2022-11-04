@@ -1,0 +1,25 @@
+Question
+========
+
+De variabele lengte heeft in de populatie van psychologiestudenten een normale verdeling met gemiddelde 178.6 cm en standaardafwijking van 6.0 cm. Hoe groot is de kans om in een random sample van 36 studenten een gemiddelde lengte te vinden die lager is dan 176.6? 
+
+Answerlist
+----------
+* 0.000
+* 0.023
+* 0.371
+
+Solution
+========
+
+The correct answer is 0.023 
+
+Meta-information
+================
+exname: uva-probability-35-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Kansrekening,Kansverdeling,Kansverdeling steekproefgemiddelde (onafhankelijke 
+exextra[Type]: Calculation
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy

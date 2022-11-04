@@ -1,0 +1,25 @@
+Question
+========
+
+In repeated measures designs wordt vaak counterbalancing gebruikt. Waarom wordt dit gedaan? 
+
+Answerlist
+----------
+* Om te voorkomen dat *carryover effects* de resultaten vertekenen.
+* Om te zorgen dat *carryover effects* zullen optreden.
+* Om achteraf te kunnen nagaan of *carryover effects* een rol hebben gespeeld.
+
+Solution
+========
+
+The correct answer is  Om te voorkomen dat *carryover effects* de resultaten vertekenen. 
+
+Meta-information
+================
+exname: uva-inferential statistics-39-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferentiële statistiek 
+exextra[Type]: Conceptual
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy

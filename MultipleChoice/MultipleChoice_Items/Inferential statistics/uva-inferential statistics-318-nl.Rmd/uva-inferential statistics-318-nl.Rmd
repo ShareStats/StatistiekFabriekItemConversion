@@ -1,0 +1,30 @@
+Question
+========
+
+Hieronder staat SPSS-uitvoer van een Randomised Complete Block ANOVA met TIME als afhankelijke variabele, TREATMNT als behandelvariabele en BLOCK als blokvariabele. In de uitvoer is de LSD-toets gebruikt om te toetsen welke behandelgroepen significant van elkaar afwijken. Wanneer getoetst zou worden met Bonferroni correctie, welke groepen zouden dan significant verschillen? 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F28&extension=png&mime_type=image%2Fpng 
+
+ UMCU20040515-5.png 
+
+Answerlist
+----------
+* Geen van de groepen wijken significant van elkaar af.
+* Alleen groep 3 en 4 wijken significant van elkaar af.
+* Groep 1 met 3, 2 met 4 en 3 met 4 zijn significant afwijkend.
+* Alle groepen wijken significant van elkaar af, behalve 2 met 3.
+
+Solution
+========
+
+The correct answer is  Geen van de groepen wijken significant van elkaar af. 
+
+Meta-information
+================
+exname: uva-inferential statistics-318-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferentiële statistiek,Anova,Oneway, ANOVA-table 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

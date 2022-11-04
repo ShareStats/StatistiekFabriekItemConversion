@@ -1,0 +1,26 @@
+Question
+========
+
+Uit een populatie mannen waarvan de lengte is verdeeld volgens een normale verdeling met µ = 175 en s = 8 worden aselect en onafhankelijk van elkaar twee mannen getrokken. De kans dat beide mannen groter zijn dan 179 is 
+
+Answerlist
+----------
+* 0.0952
+* 0.3085
+* 0.4782
+* 0.617
+
+Solution
+========
+
+The correct answer is  0.0952 
+
+Meta-information
+================
+exname: uva-probability-452-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Kansrekening,Kansrekening (ond.),Kansverdeling,Normale verdeling,Productregel 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

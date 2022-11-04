@@ -1,0 +1,25 @@
+Question
+========
+
+De niet-parametrische test van Wilcoxon op rangordeningen kan gezien worden als alternatief op standaardmethoden die gebruik maken van verdelingen zoals de t-verdeling indien (a) de data niet normaal verdeeld zijn of (b) de data niet random zijn getrokken uit de populatie. 
+
+Answerlist
+----------
+* a is waar en b is onwaar.
+* a is onwaar en b is waar.
+* Beide zijn onwaar.
+
+Solution
+========
+
+The correct answer is  a is waar en b is onwaar. 
+
+Meta-information
+================
+exname: uva-inferential statistics-62-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferentiële statistiek,Non-parametrische toetsen,Wilcoxon (Matched Pairs) Signed Rank test 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

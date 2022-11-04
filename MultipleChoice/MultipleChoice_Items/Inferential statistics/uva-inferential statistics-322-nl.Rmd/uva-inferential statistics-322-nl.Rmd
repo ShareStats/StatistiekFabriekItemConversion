@@ -1,0 +1,32 @@
+Question
+========
+
+Hieronder staan twee uitspraken. Welke hiervan zijn juist?
+I: H0: µ1 - µ2 = 5 moet worden verworpen (bij a = 5% tweezijdig)
+II: H0: µ1 - µ2 = -2 moet worden verworpen (bij a = 5% tweezijdig) 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F32&extension=png&mime_type=image%2Fpng 
+
+ UMCU20040515-8.png 
+
+Answerlist
+----------
+* Beide uitspraak zijn juist.
+* Uitspraak I is juist, uitspraak II is onjuist.
+* Uitspraak I is onjuist, uitspraak II is juist.
+* Beide uitspraak zijn onjuist.
+
+Solution
+========
+
+The correct answer is  Uitspraak I is onjuist, uitspraak II is juist. 
+
+Meta-information
+================
+exname: uva-inferential statistics-322-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferentiële statistiek,T-Toetsen,T toets voor 2 onafh. Steekproeven 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

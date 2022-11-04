@@ -1,0 +1,25 @@
+Question
+========
+
+Een 'confidence interval' voor een parameter wordt smaller naarmate 
+
+Answerlist
+----------
+* het 'confidence level' hoger wordt.
+* de 'error probability' kleiner wordt.
+* de samplegrootte toeneemt.
+
+Solution
+========
+
+The correct answer is  de samplegrootte toeneemt. 
+
+Meta-information
+================
+exname: uva-descriptive statistics-111-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Beschrijvende statistiek,Kengetallen,Locatiematen 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

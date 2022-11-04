@@ -1,0 +1,26 @@
+Question
+========
+
+Als ik 2 onafhankelijke trekkingen X1 en X2 uit dezelfde verdeling (met variantie = 5) verricht, dan geldt voor de varianties van 2X1 en X1 + X2: 
+
+Answerlist
+----------
+* var(2X<sub>1<\/sub>) &lt; var(X<sub>1<\/sub> + X<sub>2<\/sub>)
+* var(2X<sub>1<\/sub>) = var(X<sub>1<\/sub> + X<sub>2<\/sub>)
+* var(2X<sub>1<\/sub>) &gt; var(X<sub>1<\/sub> + X<sub>2<\/sub>)
+* var(2X<sub>1<\/sub>) en var(X<sub>1<\/sub> + X<sub>2<\/sub>) zijn niet te vergelijken
+
+Solution
+========
+
+The correct answer is  var(2X<sub>1<\/sub>) &gt; var(X<sub>1<\/sub> + X<sub>2<\/sub>) 
+
+Meta-information
+================
+exname: uva-descriptive statistics-258-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Beschrijvende statistiek,Kengetallen,Variantie 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

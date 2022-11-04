@@ -1,0 +1,25 @@
+Question
+========
+
+Onderzoek naar de werking van medicijn A op schizofrene patiënten levert een positieve correlatie op tussen de dosis (x) van medicijn A en hoe goed de patiënt zich voelt (y). De toets op de hellingparameter geeft aan dat de relatie significant is. De onderzoekers merken op dat er drie verschillende leeftijdsgroepen van patiënten zijn: 21-25, 26-30 en 31-35 jaar. De onderzoekers voeren voor iedere leeftijdsgroep apart een regressie-analyse uit. Dan blijkt dat er voor ieder van deze drie groepen een negatieve correlatie is tussen de dosis van medicijn A en hoe goed de patiënt zich voelt. Dit is een voorbeeld van 
+
+Answerlist
+----------
+* regressie naar het gemiddelde.
+* Simpson's paradox.
+* bivariate correlatie.
+
+Solution
+========
+
+The correct answer is  Simpson's paradox. 
+
+Meta-information
+================
+exname: uva-inferential statistics-92-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferentiële statistiek 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,412 @@
+[
+	{
+		"id" : 646,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Bij het testen van een persoon die het aids-virus <strong>niet<\\/strong> heeft, is de kans dat de test abusievelijk aanduidt dat het virus aanwezig is, gelijk aan 0,004. Als er 400 werknemers van een medische kliniek getest moeten worden en alle 400 zijn vrij van het aids-virus, hoe groot is dan de kans dat er tenminste &eacute;&eacute;n foutief positief resultaat zal voorkomen? Wij nemen aan dat de testresultaten voor de verschillende individuen onafhankelijk zijn.<br \\/>Rond af op vier decimalen.\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0.7988",
+		"alltags" : "Kansrekening,Kansrekening (ond.),Complementregel",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 648,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"John verkoopt fietsen. Van de commissie van 10% van de bruto-opbrengst die hij krijgt voor elke verkochte Gazelle zal hij &euro; 25 verdienen, en &euro; 40 voor elke verkochte Batavus. Op een zonnige zaterdag in mei schat hij zijn verkopen van Gazelle en van Batavus als volgt in:<table><tbody><tr><td>Verkochte Gazelle fietsen<\\/td><td>0<\\/td><td>1<\\/td><td>2<\\/td><td>3<\\/td><\\/tr><tr><td>Kans<\\/td><td>0.1<\\/td><td>0.2<\\/td><td>0.5<\\/td><td>0.2<\\/td><\\/tr><\\/tbody><\\/table><table><tbody><tr><td>Verkochte Batavus fietsen<\\/td><td>0<\\/td><td>1<\\/td><td>2<\\/td><\\/tr><tr><td>Kans<\\/td><td>0.2<\\/td><td>0.3<\\/td><td>0.5<\\/td><\\/tr><\\/tbody><\\/table>Wat is de verwachtingswaarde van de verdiensten in euro&#39;s van John die zaterdag?\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "97",
+		"alltags" : "Kansrekening,Kansverdeling,Verwachtingswaarde van (discrete) toevalvariabele;",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 651,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"In een gesloten doos zitten vijf ballen: 3 rode en twee gele. Als je tegelijkertijd aselect twee ballen pakt, wat is dan de kans dat je twee rode ballen pakt?<br \\/>(Geef het antwoord met &eacute;&eacute;n decimaal).\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0,3",
+		"alltags" : "Kansrekening,Kansrekening (ond.),Productregel",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 652,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"In een gesloten doos zitten vijf ballen: drie rode en twee gele. Als je &eacute;&eacute;n bal pakt, wat is dan kans dat het een rode bal is?<br \\/>(Geef het antwoord met &eacute;&eacute;n decimaal. Gebruik een komma als decimaalteken).\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0,6",
+		"alltags" : "Kansrekening,Kansverdeling,Verwachtingswaarde van (discrete) toevalvariabele;",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 653,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"In een gesloten doos zitten vijf ballen: drie rode en twee gele. Als je &eacute;&eacute;n bal pakt, wat is dan kans dat het een gele bal is?<br \\/>(Geef het antwoord met &eacute;&eacute;n decimaal).\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0,4",
+		"alltags" : "Kansrekening,Kansverdeling,Verwachtingswaarde van (discrete) toevalvariabele;",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 654,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Carla investeert 30% van haar fondsen in staatobligaties en 70% in een fonds van veel voorkomende aandelen. De opbrengst van een investering over een bepaalde periode is het percentage verandering in prijs gedurende deze periode. Als <em>X<\\/em> de jaarlijkse opbrengst van de staatobligaties is en <em>Y<\\/em> de jaarlijkse opbrengst van de aandelen, dan is de opbrengst van de hele aandelenportefeuille <em>R<\\/em> = 0,3<em>X<\\/em> + 0,7<em>Y<\\/em>.<br \\/><br \\/>Uit een gegevensverzameling (dataset) van de opbrengst in haar aandelenportefeuille in de periode van 1995 tot 2010 zie je hieronder data over de verwachtingwaarden, de standaardafwijkingen, en over de correlaties tussen <em>X<\\/em> en <em>Y<\\/em>.<br \\/><br \\/>Gebaseerd op deze data hebben wij:<table><tbody><tr><td>X= jaarlijkse opbrengst van staatsobligaties<\\/td><td><em>&mu;<sub>X<\\/sub><\\/em> = 4,5%<\\/td><td><em>&sigma;<sub>X<\\/sub><\\/em> = 3,9%<\\/td><\\/tr><tr><td><em>Y<\\/em> = jaarlijkse opbrengst van aandelen<\\/td><td><em>&mu;<sub>X<\\/sub><\\/em> = 14,2%<\\/td><td><em>&sigma;<sub>X<\\/sub><\\/em> = 18,2%&nbsp;<\\/td><\\/tr><tr><td>Correlatie tussen <em>X<\\/em> en <em>Y<\\/em><\\/td><td colspan=\\\"2\\\">-0,12<\\/td><\\/tr><\\/tbody><\\/table>Wat is de verwachte opbrengst (<em>&mu;<sub>R<\\/sub><\\/em>) voor Carla, uitgedrukt in procenten?\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "11,3%",
+		"alltags" : "Kansrekening,Kansrekening (ond.),Somregel",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 655,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Carla investeert 30% van haar fondsen in staatobligaties en 70% in een fonds van veel voorkomende aandelen. De opbrengst van een investering over een bepaalde periode is het percentage verandering in prijs gedurende deze periode. Als <em>X<\\/em> de jaarlijkse opbrengst van de staatobligaties is en <em>Y<\\/em> de jaarlijkse opbrengst van de aandelen, dan is de opbrengst van de hele aandelenportefeuille <em>R<\\/em> = 0,3<em>X<\\/em> + 0,7<em>Y<\\/em>.<br \\/><br \\/>Uit een gegevensverzameling (dataset) van de opbrengst in haar aandelenportefeuille in de periode van 1995 tot 2010 zie je hieronder data over de verwachtingwaarden, de standaardafwijkingen, en over de correlaties tussen <em>X<\\/em> en <em>Y<\\/em>.<br \\/><br \\/>Gebaseerd op deze data hebben wij:<table><tbody><tr><td>X= jaarlijkse opbrengst van staatsobligaties<\\/td><td><em>&mu;<sub>X<\\/sub><\\/em> = 4,5%<\\/td><td><em>&sigma;<sub>X<\\/sub><\\/em> = 3,9%<\\/td><\\/tr><tr><td><em>Y<\\/em> = jaarlijkse opbrengst van aandelen<\\/td><td><em>&mu;<sub>X<\\/sub><\\/em> = 14,2%<\\/td><td><em>&sigma;<sub>X<\\/sub><\\/em> = 18,2%&nbsp;<\\/td><\\/tr><tr><td>Correlatie tussen <em>X<\\/em> en <em>Y<\\/em><\\/td><td colspan=\\\"2\\\">-0,12<\\/td><\\/tr><\\/tbody><\\/table>Wat is de standaardafwijking van de opbrengst (<em>&sigma;<sub>R<\\/sub><\\/em>) van de beleggingen uitgedeeld in procenten? Rond af op twee decimalen.\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "12,65%",
+		"alltags" : "Kansrekening,Kansverdeling,Variantie van (discrete) toevalsvariabele; regels ",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 656,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Een fabriek in Arnhem produceert spaarlampen. De kans op een defect is 5%. Bij een steekproef pakken we willekeurig twee lampen <em><strong>met<\\/strong><\\/em> terugleggen. In de volgende tabel zien we dat het aantal lampen <em>X<\\/em> dat wordt gepakt de volgende kansverdeling heeft:<table><tbody><tr><td>Waarde van <em>X<\\/em><\\/td><td>0<\\/td><td>1<\\/td><td>2<\\/td><\\/tr><tr><td>kans<\\/td><td>0,9025<\\/td><td>0,095<\\/td><td>?<\\/td><\\/tr><\\/tbody><\\/table>Hierbij is <em>X<\\/em> een toevalsvariabele. <em>X<\\/em> = 0 betekent dat de twee lampen niet defect zijn; <em>X<\\/em> = 1 betekent dat er &eacute;&eacute;n van de twee defect is; <em>X<\\/em> = 2 betekent dat de twee lampen allebei defect zijn.<br \\/><br \\/>Wat is de kans dat beide lampen defect zijn? Rond af op vier decimalen.\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0,0025",
+		"alltags" : "Kansrekening,Kansrekening (ond.),Complementregel",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 657,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Als een klant naar de supermarkt gaat om iets te kopen voorspellen we dat de kans dat een klant product A wil kopen gelijk is aan 0,5 en voor product B is de kans 0,6. Wij nemen aan dat product A en B elkaar niet be&iuml;nvloeden en de motivatie om de producten te kopen ook onafhankelijk is van elkaar. Wat is de kans dat iemand gewoon &eacute;&eacute;n product A of &eacute;&eacute;n product B wil kopen?\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0,5",
+		"alltags" : "Kansrekening,Kansrekening (ond.),Somregel,Productregel",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 658,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Bij korfbal wordt per speler het schotpercentage bijgehouden. Als John een schotpercentage van 25% heeft, scoort hij bij &eacute;&eacute;n op de vier doelpogingen. John heeft twee doelpogingen. Hieronder zie je een tabel, <em>X<\\/em> is toevalsvariabele en het aantal treffers <em>X<\\/em> bij deze twee doelpogingen kan de waarden 0, 1 of 2 aannemen.<table><tbody><tr><td><em>X<\\/em><\\/td><td>0<\\/td><td>1<\\/td><td>2<\\/td><\\/tr><tr><td>kans<\\/td><td>0,56<\\/td><td>0,38<\\/td><td>0,06<\\/td><\\/tr><\\/tbody><\\/table>Wat is de verwachte score bij twee doelpogingen? Rond af op twee decimalen.\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0,50",
+		"alltags" : "Kansrekening,Kansverdeling,Verwachtingswaarde van (discrete) toevalvariabele;",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 665,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Je doet een onderzoek naar geboortegewicht. Je maakt een onderscheid tussen jongens en meisjes en daarvoor heb je de volgende gegevens (in kg) van de kinderen die door een aselecte steekproef)geselecteerd zijn uit alle baby&#39;s die vorig jaar werden geboren.<table><tbody><tr><td>Jongens<\\/td><td>2,63<\\/td><td>2,81<\\/td><td>2,95<\\/td><td>2,99<\\/td><td>3,08<\\/td><td>3,18<\\/td><td>&nbsp;<\\/td><\\/tr><tr><td>Meisjes<\\/td><td>1,91<\\/td><td>2,59<\\/td><td>2,81<\\/td><td>2,86<\\/td><td>2,95<\\/td><td>2,99<\\/td><td>3,04<\\/td><\\/tr><\\/tbody><\\/table><em>Bron: statistiek voor het secundair onderwijs &ndash; universiteit Hasselt<\\/em><br \\/><br \\/>Wat is het gemiddelde geboortegewicht van de meisjes? Rond af op twee decimalen.\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "2,74",
+		"alltags" : "Kansrekening,Kansverdeling,Verwachtingswaarde van (discrete) toevalvariabele;",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 666,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Je doet een onderzoek naar geboortegewicht. Je maakt een onderscheid tussen jongens en meisjes en daarvoor heb je de volgende gegevens (in kg) van de kinderen die door een aselecte steekproef)geselecteerd zijn uit alle baby&#39;s die vorig jaar werden geboren.<table><tbody><tr><td>Jongens<\\/td><td>2,63<\\/td><td>2,81<\\/td><td>2,95<\\/td><td>2,99<\\/td><td>3,08<\\/td><td>3,18<\\/td><td>&nbsp;<\\/td><\\/tr><tr><td>Meisjes<\\/td><td>1,91<\\/td><td>2,59<\\/td><td>2,81<\\/td><td>2,86<\\/td><td>2,95<\\/td><td>2,99<\\/td><td>3,04<\\/td><\\/tr><\\/tbody><\\/table><em>Bron: statistiek voor het secundair onderwijs &ndash; universiteit Hasselt<\\/em><br \\/><br \\/>Wat is de standaardafwijking van het geboortegewicht van de jongens? Rond af op drie decimalen.\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0,196",
+		"alltags" : "Kansrekening,Kansverdeling,Verwachtingswaarde van (discrete) toevalvariabele;",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 667,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Je werpt een zuivere dobbelsteen twee keer. Als je met de eerste worp een &eacute;&eacute;n gooit, hoe groot is dan de kans dat je bij de tweede worp ook een &eacute;&eacute;n krijgt?<br \\/>(Geef het antwoord in de vorm van een breuk met de vorm X\\/Y).\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "1/6",
+		"alltags" : "Kansrekening,Kansdefinities,Klassieke kansdefinitie",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 668,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Je werpt een zuivere dobbelsteen twee keer. Hoe groot is dan de kans dat je bij de tweede worp <em><strong>geen<\\/strong><\\/em> 1 krijgt?<br \\/>(Geef het antwoord in de vorm van een breuk met de vorm X\\/Y).\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "5/6",
+		"alltags" : "Kansrekening,Kansdefinities,Klassieke kansdefinitie",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 669,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Je werpt een zuivere dobbelsteen twee keer. Hoe groot is de kans dat de eerste worp een 1 is en de tweede worp geen 1 is?<br \\/>(Geef het antwoord in de vorm van een breuk met de vorm X\\/Y).\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "5/36",
+		"alltags" : "Kansrekening,Kansdefinities,Kansrekening (ond.),Productregel,Klassieke kansdefinitie",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 670,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Je werpt een zuivere dobbelsteen twee keer. Hoe groot is de kans dat de eerste worp en de tweede worp geen 1 zijn, maar de derde worp wel een 1 is?<br \\/>(Geef het antwoord in de vorm van een breuk met de vorm X\\/Y).\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "25/216",
+		"alltags" : "Kansrekening,Kansdefinities,Kansrekening (ond.),Productregel,Klassieke kansdefinitie",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 677,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Menselijk bloed bestaat uit een van de bloedgroepen O, A, B of AB. Maar de verdeling van deze bloedgroepen is verschillend bij verschillende rassen. Hieronder staat een tabel waarin de kans voor elke bloedgroep bij zwarte mensen in Amerika:<table><tbody><tr><td>Bloedgroep<\\/td><td>O<\\/td><td>A<\\/td><td>B<\\/td><td>AB<\\/td><\\/tr><tr><td>Kans<\\/td><td>0,49<\\/td><td>0,27<\\/td><td>0,20<\\/td><td>?<\\/td><\\/tr><\\/tbody><\\/table>Wat is de kans op bloedgroep AB? Rond af op twee decimalen.\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0,04",
+		"alltags" : "Kansrekening,Kansrekening (ond.),Complementregel",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 686,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Meisjes en jongens kiezen verschillende studierichtingen op de middelbare school. Jongens kiezen veel vaker voor richtingen als houtbewerking, bouw en elektronica, terwijl meisjes vooral onderwerpen als verpleging en schoonheidsverzorging kiezen. In de tabel hieronder staan de aantallen studenten die verschillende vakken hebben gekozen:<table><tbody><tr><td>&nbsp;<\\/td><td>Houtbewerking<\\/td><td>Bouw<\\/td><td>Elektronica<\\/td><td>Verpleging<\\/td><td>Schoonheidsverzorging<\\/td><td>Totaal<\\/td><\\/tr><tr><td>Meisjes<\\/td><td>34<\\/td><td>16<\\/td><td>57<\\/td><td>311<\\/td><td>324<\\/td><td>742<\\/td><\\/tr><tr><td>Jongens<\\/td><td>124<\\/td><td>345<\\/td><td>231<\\/td><td>28<\\/td><td>8<\\/td><td>736<\\/td><\\/tr><tr><td>Totaal<\\/td><td>158<\\/td><td>361<\\/td><td>288<\\/td><td>339<\\/td><td>332<\\/td><td>1478<\\/td><\\/tr><\\/tbody><\\/table>Hoe groot is de kans dat een aselect gekozen student een jongen is? Rond af op drie decimalen.\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0,497",
+		"alltags" : "Kansrekening,Kansdefinities,Klassieke kansdefinitie",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 687,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Meisjes en jongens kiezen verschillende studierichtingen op de middelbare school. Jongens kiezen veel vaker voor richtingen als houtbewerking, bouw en elektronica, terwijl meisjes vooral onderwerpen als verpleging en schoonheidsverzorging kiezen. In de tabel hieronder staan de aantallen studenten die verschillende vakken hebben gekozen:<table><tbody><tr><td>&nbsp;<\\/td><td>Houtbewerking<\\/td><td>Bouw<\\/td><td>Elektronica<\\/td><td>Verpleging<\\/td><td>Schoonheidsverzorging<\\/td><td>Totaal<\\/td><\\/tr><tr><td>Meisjes<\\/td><td>34<\\/td><td>16<\\/td><td>57<\\/td><td>311<\\/td><td>324<\\/td><td>742<\\/td><\\/tr><tr><td>Jongens<\\/td><td>124<\\/td><td>345<\\/td><td>231<\\/td><td>28<\\/td><td>8<\\/td><td>736<\\/td><\\/tr><tr><td>Totaal<\\/td><td>158<\\/td><td>361<\\/td><td>288<\\/td><td>339<\\/td><td>332<\\/td><td>1478<\\/td><\\/tr><\\/tbody><\\/table>Hoe groot is de voorwaardelijke kans dat een aselect gekozen student Verpleging volgt, gegeven het feit dat het een jongen is?\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0,04",
+		"alltags" : "Kansrekening,Kansverdeling,Voorwaardelijke kansen",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 688,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Meisjes en jongens kiezen verschillende studierichtingen op de middelbare school. Jongens kiezen veel vaker voor richtingen als houtbewerking, bouw en elektronica, terwijl meisjes vooral onderwerpen als verpleging en schoonheidsverzorging kiezen. In de tabel hieronder staan de aantallen studenten die verschillende vakken hebben gekozen:<table><tbody><tr><td>&nbsp;<\\/td><td>Houtbewerking<\\/td><td>Bouw<\\/td><td>Elektronica<\\/td><td>Verpleging<\\/td><td>Schoonheidsverzorging<\\/td><td>Totaal<\\/td><\\/tr><tr><td>Meisjes<\\/td><td>34<\\/td><td>16<\\/td><td>57<\\/td><td>311<\\/td><td>324<\\/td><td>742<\\/td><\\/tr><tr><td>Jongens<\\/td><td>124<\\/td><td>345<\\/td><td>231<\\/td><td>28<\\/td><td>8<\\/td><td>736<\\/td><\\/tr><tr><td>Totaal<\\/td><td>158<\\/td><td>361<\\/td><td>288<\\/td><td>339<\\/td><td>332<\\/td><td>1478<\\/td><\\/tr><\\/tbody><\\/table>Hoe groot is de kans dat een aselect gekozen student een jongen is die Bouw studeert?\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0,23",
+		"alltags" : "Kansrekening,Kansrekening (ond.),Optelregel voor kans op vereniging van twee gebeur",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 763,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"In een gesloten doos zitten vijf ballen: drie rode en twee gele. Je pakt tegelijkertijd aselect twee ballen. Stel de toevalvariabele <em>X<\\/em> is het aantal rode ballen en <em>X<\\/em> kan de waarden 0,1 en 2 aanemen. Wat is dan de verwachtingswaarde van <em>X<\\/em>?\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "1,2",
+		"alltags" : "Kansrekening,Kansverdeling,Verwachtingswaarde van (discrete) toevalvariabele;",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 765,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Je gooit met drie dobbelstenen. Stel X is het aantal vieren. Hieronder zie je een kansverdeling van X. Wat is dan de kans P(X = 3)?<table><tbody><tr><td>De waarde van X<\\/td><td>0<\\/td><td>1<\\/td><td>2<\\/td><td>3<\\/td><\\/tr><tr><td>P(X = x)<\\/td><td>125\\/216<\\/td><td>75\\/216<\\/td><td>15\\/216<\\/td><td>?<\\/td><\\/tr><\\/tbody><\\/table><br \\/>(Geef je antwoord in de vorm van een breuk: X\\/Y).\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "1/216",
+		"alltags" : "Kansrekening,Kansrekening (ond.),Complementregel",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 806,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Een onderzoeker heeft onderzoek gedaan en komt met de volgende tabel<table><tbody><tr><td>Source<\\/td><td>df<\\/td><td>SS<\\/td><td>MS<\\/td><td>F<\\/td><\\/tr><tr><td>Groups<\\/td><td>4<\\/td><td>40<\\/td><td>&nbsp;<\\/td><td>&nbsp;<\\/td><\\/tr><tr><td>Error<\\/td><td>25<\\/td><td>&nbsp;<\\/td><td>&nbsp;<\\/td><td>&nbsp;<\\/td><\\/tr><tr><td>Total<\\/td><td>29<\\/td><td>90<\\/td><td>&nbsp;<\\/td><td>&nbsp;<\\/td><\\/tr><\\/tbody><\\/table>Wat is de bijbehorende F-waarde?\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "5",
+		"alltags" : "Inferentiële statistiek,Anova,Oneway, ANOVA-table",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 807,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Een onderzoeker heeft onderzoek gedaan en komt met de volgende tabel<table><tbody><tr><td>Source<\\/td><td>df<\\/td><td>SS<\\/td><td>MS<\\/td><td>F<\\/td><\\/tr><tr><td>Groups<\\/td><td>4<\\/td><td>40<\\/td><td>&nbsp;<\\/td><td>&nbsp;<\\/td><\\/tr><tr><td>Error<\\/td><td>25<\\/td><td>&nbsp;<\\/td><td>&nbsp;<\\/td><td>&nbsp;<\\/td><\\/tr><tr><td>Total<\\/td><td>29<\\/td><td>90<\\/td><td>&nbsp;<\\/td><td>&nbsp;<\\/td><\\/tr><\\/tbody><\\/table>Wat is de kritieke grens? Dit is de grens die hoort bij significantieniveau 0.05 in de F-verdeling welke hoort bij de twee vrijheidsgraden in de tabel.\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "2.76",
+		"alltags" : "Inferentiële statistiek,Anova,Oneway, F-verdeling",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 917,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Hieronder staat een tabel waarin de relatie te zien is tussen roken en echtscheidingen.<table><tbody><tr><td>&nbsp;<\\/td><td colspan=\\\"3\\\">Gescheiden?<\\/td><\\/tr><tr><td>Roken?<\\/td><td>Ja<\\/td><td>Nee<\\/td><td>Totaal<\\/td><\\/tr><tr><td>Ja<\\/td><td>247<\\/td><td>289<\\/td><td>536<\\/td><\\/tr><tr><td>Nee<\\/td><td>343<\\/td><td>802<\\/td><td>1145<\\/td><\\/tr><tr><td>Totaal<\\/td><td>590<\\/td><td>1091<\\/td><td>1681<\\/td><\\/tr><\\/tbody><\\/table>Wat is de kans dat een roker gescheiden is? (Geef het antwoord in de vorm 0.XX. Dus met 0, punt als decimaalteken en twee cijfers achter de komma).&nbsp;\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0.46",
+		"alltags" : "Kansrekening,Kansverdeling,Voorwaardelijke kansen",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 918,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Hieronder staat een tabel waarin de relatie te zien is tussen roken en echtscheidingen.<table><tbody><tr><td>&nbsp;<\\/td><td colspan=\\\"3\\\">Gescheiden?<\\/td><\\/tr><tr><td>Roken?<\\/td><td>Ja<\\/td><td>Nee<\\/td><td>Totaal<\\/td><\\/tr><tr><td>Ja<\\/td><td>247<\\/td><td>289<\\/td><td>536<\\/td><\\/tr><tr><td>Nee<\\/td><td>343<\\/td><td>802<\\/td><td>1145<\\/td><\\/tr><tr><td>Totaal<\\/td><td>590<\\/td><td>1091<\\/td><td>1681<\\/td><\\/tr><\\/tbody><\\/table>Wat is de kans dat een niet-roker niet gescheiden is?\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0.70",
+		"alltags" : "Kansrekening,Kansverdeling,Voorwaardelijke kansen",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 946,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"In een klas zitten 50 studenten. De docent kiest elke keer aselect &eacute;&eacute;n student om &eacute;&eacute;n vraag te beantwoorden en daarna legt de docent de gekozen naam niet terug. Er zijn in totaal drie vragen. Wat is dan de kans dat Marja gekozen wordt om de eerste vraag te beantwoorden?<br \\/>(Geef je antwoord in de vorm van een breuk: X\\/Y).\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "1/50",
+		"alltags" : "Kansrekening,Kansdefinities,Kansverdeling,Voorwaardelijke kansen,Klassieke kansdefinitie",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 947,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"We schrijven de namen van 50 studenten op stukjes papier doen deze in een doos. De docent wil drie vragen laten beantwoorden door studenten die willkeurig worden getrokken. We pakken een naam voor elk van de drie vragen zonder terugleggen. Wat is dan de kans dat Marja gekozen wordt om de eerste vraag te beantwoorden?<br \\/>(Geef je antwoord in de vorm van een breuk: X\\/Y).\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "1/50",
+		"alltags" : "Kansrekening,Kansdefinities,Klassieke kansdefinitie",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 949,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"In een klas zitten 50 studenten. De docent kiest elke keer aselect \\u00e9\\u00e9n student om \\u00e9\\u00e9n vraag te beantwoorden en daarna legt de docent de gekozen naam niet terug. Er zijn in totaal drie vragen. Wat is dan de kans dat Marja opgeroepen wordt om \\u00e9\\u00e9n van de drie vragen te beantwoorden?\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "3/50",
+		"alltags" : "Kansrekening,Kansdefinities,Klassieke kansdefinitie",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 951,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"In een klas zitten 40 studenten. De docent kiest elke keer aselect &eacute;&eacute;n student om &eacute;&eacute;n vraag te beantwoorden en daarna legt de docent de gekozen naam niet terug. Er zijn in totaal drie vragen. Wat is dan de kans dat Marja gekozen wordt om de eerste vraag te beantwoorden?\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "1/40",
+		"alltags" : "Kansrekening,Kansdefinities,Klassieke kansdefinitie",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 952,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"In een statistiek klas zitten 40 studenten. De docent kiest elke keer aselect &eacute;&eacute;n student om &eacute;&eacute;n vraag te beantwoorden en daarna legt de docent de gekozen naam niet terug. Er zijn in totaal drie vragen. Wat is dan de kans dat Marja opgeroepen wordt om &eacute;&eacute;n van de drie vragen te beantwoorden?\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "3/40",
+		"alltags" : "Kansrekening,Kansdefinities,Klassieke kansdefinitie",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 1007,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"E&eacute;n onderzoeker heeft de frequenties van de haarkleur in een groep konijnen uit het zuiden en het noorden onderzocht.td&gt;Noorden<table><tbody><tr><td rowspan=\\\"2\\\">Gebied<\\/td><td colspan=\\\"2\\\">Kleur<\\/td><\\/tr><tr><td>Licht<\\/td><td>Donker<\\/td><\\/tr><tr><td>471<\\/td><td>148<\\/td><\\/tr><tr><td>Zuiden<\\/td><td>151<\\/td><td>230<\\/td><\\/tr><\\/tbody><\\/table>We defini&euml;ren de gebeurtenissen:<br \\/><br \\/><em>A<\\/em>: De <em>noordelijke<\\/em> konijnen met de <em>lichte<\\/em> kleur,<br \\/><em>B<\\/em>: De <em>zuidelijke<\\/em> konijnen met de <em>donkere<\\/em> kleur<br \\/><br \\/>Wat is dan de relatieve frequentie van de noordelijke konijnen met de lichte kleur?\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0,471",
+		"alltags" : "Kansrekening,Kansdefinities,Relatieve frequentie kansdefinitie",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 1008,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"E&eacute;n onderzoeker heeft de frequenties van de haarkleur in een groep konijnen uit het zuiden en het noorden onderzocht.td&gt;Noorden<table><tbody><tr><td rowspan=\\\"2\\\">Gebied<\\/td><td colspan=\\\"2\\\">Kleur<\\/td><\\/tr><tr><td>Licht<\\/td><td>Donker<\\/td><\\/tr><tr><td>471<\\/td><td>148<\\/td><\\/tr><tr><td>Zuiden<\\/td><td>151<\\/td><td>230<\\/td><\\/tr><\\/tbody><\\/table>We defini&euml;ren de gebeurtenissen:<br \\/><br \\/><em>A<\\/em>: De <em>noordelijke<\\/em> konijnen met de <em>lichte<\\/em> kleur,<br \\/><em>B<\\/em>: De <em>zuidelijke<\\/em> konijnen met de <em>donkere<\\/em> kleur<br \\/><br \\/>Wat is dan de relatieve frequentie van de noordelijke konijnen met de lichte kleur?\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0,230",
+		"alltags" : "Kansrekening,Kansdefinities,Relatieve frequentie kansdefinitie",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 1009,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"E&eacute;n onderzoeker heeft de frequenties van de haarkleur in een groep konijnen uit het zuiden en het noorden onderzocht.<br \\/><br \\/><table border=\\\"0\\\" cellpadding=\\\"1\\\" cellspacing=\\\"1\\\" style=\\\"width: 200px;\\\"><tbody><tr><td>&nbsp;<\\/td><td>Kleur<\\/td><td>&nbsp;<\\/td><\\/tr><tr><td>Gebied<\\/td><td>Licht<\\/td><td>Donker<\\/td><\\/tr><tr><td>Noorden<\\/td><td>471<\\/td><td>148<\\/td><\\/tr><tr><td>Zuiden<\\/td><td>151<\\/td><td>230<\\/td><\\/tr><\\/tbody><\\/table><br \\/><span style=\\\"font-size: 12px;\\\">We defini&euml;ren de gebeurtenissen:<\\/span><br \\/><br \\/><em>A<\\/em>: De <em>noordelijke<\\/em> konijnen met de <em>lichte<\\/em> kleur,<br \\/><em>B<\\/em>: De <em>zuidelijke<\\/em> konijnen met de <em>donkere<\\/em> kleur<br \\/><br \\/>Wat is dan de relatieve frequentie van de noordelijke konijnen met de lichte kleur?\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0",
+		"alltags" : "Kansrekening,Kansdefinities,Relatieve frequentie kansdefinitie,Uitkomstenruimte (even waarschijnlijke uitkomsten)",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 1010,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"E&eacute;n onderzoeker heeft de frequenties van de haarkleur in een groep konijnen uit het zuiden en het noorden onderzocht.td&gt;Noorden<table><tbody><tr><td rowspan=\\\"2\\\">Gebied<\\/td><td colspan=\\\"2\\\">Kleur<\\/td><\\/tr><tr><td>Licht<\\/td><td>Donker<\\/td><\\/tr><tr><td>471<\\/td><td>148<\\/td><\\/tr><tr><td>Zuiden<\\/td><td>151<\\/td><td>230<\\/td><\\/tr><\\/tbody><\\/table>We defini&euml;ren de gebeurtenissen:<br \\/><br \\/><em>A<\\/em>: De <em>noordelijke<\\/em> konijnen met de <em>lichte<\\/em> kleur,<br \\/><em>B<\\/em>: De <em>zuidelijke<\\/em> konijnen met de <em>donkere<\\/em> kleur<br \\/><br \\/>Wat is dan de relatieve frequentie van de noordelijke konijnen met de lichte kleur?\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0,701",
+		"alltags" : "Kansrekening,Kansdefinities,Relatieve frequentie kansdefinitie",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 1011,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"E&eacute;n onderzoeker heeft de frequenties van de haarkleur in een groep konijnen uit het zuiden en het noorden onderzocht.td&gt;Noorden<table><tbody><tr><td rowspan=\\\"2\\\">Gebied<\\/td><td colspan=\\\"2\\\">Kleur<\\/td><\\/tr><tr><td>Licht<\\/td><td>Donker<\\/td><\\/tr><tr><td>471<\\/td><td>148<\\/td><\\/tr><tr><td>Zuiden<\\/td><td>151<\\/td><td>230<\\/td><\\/tr><\\/tbody><\\/table>We defini&euml;ren de gebeurtenissen:<br \\/><br \\/><em>A<\\/em>: De <em>noordelijke<\\/em> konijnen met de <em>lichte<\\/em> kleur,<br \\/><em>B<\\/em>: De <em>zuidelijke<\\/em> konijnen met de <em>donkere<\\/em> kleur<br \\/><br \\/>Wat is dan de relatieve frequentie van de noordelijke konijnen met de lichte kleur?\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0,471",
+		"alltags" : "Kansrekening,Kansdefinities,Relatieve frequentie kansdefinitie",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 1012,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"E&eacute;n onderzoeker heeft de frequenties van de kleur in een groep bloesems uit het zuiden en het noorden onderzocht.td&gt;Noorden<table><tbody><tr><td rowspan=\\\"2\\\">Gebied<\\/td><td colspan=\\\"2\\\">Kleur<\\/td><\\/tr><tr><td>Lichtroze<\\/td><td>Donkerroze<\\/td><\\/tr><tr><td>471<\\/td><td>148<\\/td><\\/tr><tr><td>Zuiden<\\/td><td>151<\\/td><td>230<\\/td><\\/tr><\\/tbody><\\/table>We defini&euml;ren de gebeurtenissen:<br \\/><br \\/><em>A<\\/em>: De <em>noordelijke<\\/em> bloesem met de <em>lichte<\\/em> kleur,<br \\/><em>B<\\/em>: De <em>zuidelijke<\\/em> bloesem met de <em>donkere<\\/em> kleur<br \\/><br \\/>Wat is dan de relatieve frequentie van de zuidelijke bloesem met de donkere kleur?\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0,230",
+		"alltags" : "Kansrekening,Kansdefinities,Relatieve frequentie kansdefinitie",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 1013,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"E&eacute;n onderzoeker heeft de frequenties van de kleur in een groep bloesems uit het zuiden en het noorden onderzocht.td&gt;Noorden<table><tbody><tr><td rowspan=\\\"2\\\">Gebied<\\/td><td colspan=\\\"2\\\">Kleur<\\/td><\\/tr><tr><td>Lichtroze<\\/td><td>Donkerroze<\\/td><\\/tr><tr><td>471<\\/td><td>148<\\/td><\\/tr><tr><td>Zuiden<\\/td><td>151<\\/td><td>230<\\/td><\\/tr><\\/tbody><\\/table>We defini&euml;ren de gebeurtenissen:<br \\/><br \\/><em>A<\\/em>: De <em>noordelijke<\\/em> bloesem met de <em>lichte<\\/em> kleur,<br \\/><em>B<\\/em>: De <em>zuidelijke<\\/em> bloesem met de <em>donkere<\\/em> kleur<br \\/><br \\/>Wat is dan de relatieve frequentie van <em>A<\\/em> &cap; <em>B<\\/em>\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0,471",
+		"alltags" : "Kansrekening,Kansdefinities,Relatieve frequentie kansdefinitie",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 1014,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"E&eacute;n onderzoeker heeft de frequenties van de kleur in een groep bloesems uit het zuiden en het noorden onderzocht.td&gt;Noorden<table><tbody><tr><td rowspan=\\\"2\\\">Gebied<\\/td><td colspan=\\\"2\\\">Kleur<\\/td><\\/tr><tr><td>Lichtroze<\\/td><td>Donkerroze<\\/td><\\/tr><tr><td>471<\\/td><td>148<\\/td><\\/tr><tr><td>Zuiden<\\/td><td>151<\\/td><td>230<\\/td><\\/tr><\\/tbody><\\/table>We defini&euml;ren de gebeurtenissen:<br \\/><br \\/><em>A<\\/em>: De <em>noordelijke<\\/em> bloesem met de <em>lichte<\\/em> kleur,<br \\/><em>B<\\/em>: De <em>zuidelijke<\\/em> bloesem met de <em>donkere<\\/em> kleur<br \\/><br \\/>Wat is dan de relatieve frequentie van <em>A<\\/em> &cup; <em>B<\\/em>\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0,701",
+		"alltags" : "Kansrekening,Kansdefinities,Relatieve frequentie kansdefinitie",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 1049,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Vijf zuivere geldstukken worden tegelijkertijd opgegooid. Stel de toevalsvariabele <em>X<\\/em> = het aantal koppen dat boven komt. Wat is dan de kans op <em>X<\\/em> = 0? Rond af op vier decimalen.\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0,0313",
+		"alltags" : "Kansrekening,Kansverdeling,Binomiale verdeling",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	},
+	{
+		"id" : 1051,
+		"question" : "{\"jsonTypeDefinition\":\"gameSelector\",\"type\":\"OpenString\",\"question\":{\"mediaType\":\"textImageFile\",\"content\":[\"Vijf zuivere geldstukken worden tegelijkertijd opgegooid. Stel de toevalvariabele <em>X<\\/em> = het aantal koppen dat boven komt. Wat is dan de kans op <em>X<\\/em> &ge; 1? Rond af op vier decimalen.\",[]]}}",
+		"answer_options" : null,
+		"correct_answer" : "0,9688",
+		"alltags" : "Kansrekening,Kansverdeling,Binomiale verdeling",
+		"data" : null,
+		"name" : null,
+		"item_file_id" : null
+	}
+]

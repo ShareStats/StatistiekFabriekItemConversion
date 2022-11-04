@@ -1,0 +1,26 @@
+Question
+========
+
+Uit een populatie is aselect een steekproef van 8 individuen getrokken, waarbij een bepaalde variabele is gemeten. De scores van de individuen zijn: 8, 23, 15, 21, 11, 15, 19, 12. We willen toetsen of µ = 15, met a = 0.05 tweezijdig. De grenzen van het kritieke gebied zijn dan gelijk aan 
+
+Answerlist
+----------
+* &#177; 1.86
+* &#177; 1.96
+* &#177; 2.31
+* &#177; 2.36
+
+Solution
+========
+
+The correct answer is  &#177; 2.36 
+
+Meta-information
+================
+exname: uva-inferential statistics-538-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Inferentiële statistiek,T-Toetsen,1 steekproef T-toets 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

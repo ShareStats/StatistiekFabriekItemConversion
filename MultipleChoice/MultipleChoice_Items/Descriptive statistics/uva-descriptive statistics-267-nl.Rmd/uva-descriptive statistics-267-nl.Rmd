@@ -1,0 +1,28 @@
+Question
+========
+
+Uit twee populaties zijn twee onafhankelijke steekproeven getrokken met als resultaten:
+Steekproef 1: grootte = 16, gemiddelde = 42.0, standaardafwijking = 5.4
+Steekproef 2: grootte = 12, gemiddelde = 37.0, standaardafwijking = 5.9 Het tweezijdig 95% betrouwbaarheidsinterval voor µ1, het gemiddelde van de eerste populatie, is gelijk aan 
+
+Answerlist
+----------
+* < 30.49 ; 53.51 >
+* < 33.25 ; 40.75 >
+* < 39.12 ; 44.88 >
+* < 39.63 ; 44.37 >
+
+Solution
+========
+
+The correct answer is  < 39.12 ; 44.88 > 
+
+Meta-information
+================
+exname: uva-descriptive statistics-267-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Beschrijvende statistiek,Kengetallen,Locatiematen 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

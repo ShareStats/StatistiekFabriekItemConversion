@@ -1,0 +1,30 @@
+Question
+========
+
+Elf personen volgen een dieet om hun hemoglobine-gehalte te verhogen. Hieronder staat SPSS-uitvoer van een toets om te kijken of het Hb-gehalte voor en na het dieet inderdaad anders is. Hoeveel van de variatie in de nametingen hangt samen met de variatie in de voormetingen? 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F21&extension=png&mime_type=image%2Fpng 
+
+ UMCU20050611-7.png 
+
+Answerlist
+----------
+* 75.9%
+* 57.6%
+* 56.4%
+* 48.18%
+
+Solution
+========
+
+The correct answer is  57.6% 
+
+Meta-information
+================
+exname: uva-inferential statistics-290-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferentiële statistiek,T-Toetsen,Gepaarde T toets 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

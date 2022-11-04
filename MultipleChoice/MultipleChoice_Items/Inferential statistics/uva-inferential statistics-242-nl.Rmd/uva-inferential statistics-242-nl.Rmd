@@ -1,0 +1,30 @@
+Question
+========
+
+y1 y2 y3
+x1 70
+x2 30
+20 40 40
+
+In bovenstaande 2 x 3 tabel is de verwachte frequentie van de cel (x2, y2) gelijk aan 
+
+Answerlist
+----------
+* 6
+* 12
+* 28
+
+Solution
+========
+
+The correct answer is  12 
+
+Meta-information
+================
+exname: uva-inferential statistics-242-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferentiële statistiek,Dichotome data,Pearson's Chi-kwadraat 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

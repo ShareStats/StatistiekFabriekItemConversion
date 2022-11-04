@@ -1,0 +1,32 @@
+Question
+========
+
+Bij een ANOVA kan het verschil in gemiddelden worden beschreven in termen van regressie. Stel dat een éénweg ANOVA (één factor) met drie groepen wordt omgezet in een regressie met de volgende codering:
+
+groep x1 x2 gemiddelden interpretatie ß
+1 1 0 µ1 = a + ß1
+2 0 1 µ2 = a + ß2
+3 0 0 µ3 = a
+
+De interpretatie van ß3 is duidelijk, dat is a. De interpretatie van de andere twee coëfficiënten is als volgt: 
+
+Answerlist
+----------
+* <em>&beta;<\/em><sub>1<\/sub> = <em>&mu;<\/em><sub>1<\/sub> - <em>&mu;<\/em><sub>2<\/sub> en <em>&beta;<\/em><sub>2<\/sub> = <em>&mu;<\/em><sub>1<\/sub> - <em>&mu;<\/em><sub>3<\/sub>.
+* <em>&beta;<\/em><sub>1<\/sub> = <em>&mu;<\/em><sub>1<\/sub> - <em>&mu;<\/em><sub>3<\/sub> en <em>&beta;<\/em><sub>2<\/sub> = <em>&mu;<\/em><sub>2<\/sub> - <em>&mu;<\/em><sub>3<\/sub>.
+* <em>&beta;<\/em><sub>1<\/sub> = <em>&mu;<\/em><sub>2<\/sub> - <em>&mu;<\/em><sub>3<\/sub> en <em>&beta;<\/em><sub>2<\/sub> = <em>&mu;<\/em><sub>1<\/sub> - <em>&mu;<\/em><sub>3<\/sub>.
+
+Solution
+========
+
+The correct answer is  <em>&beta;<\/em><sub>1<\/sub> = <em>&mu;<\/em><sub>1<\/sub> - <em>&mu;<\/em><sub>3<\/sub> en <em>&beta;<\/em><sub>2<\/sub> = <em>&mu;<\/em><sub>2<\/sub> - <em>&mu;<\/em><sub>3<\/sub>. 
+
+Meta-information
+================
+exname: uva-inferential statistics-73-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferentiële statistiek,Regressie (inferentiële stat.),Anova,Oneway, ANOVA-table 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,26 @@
+Question
+========
+
+Stel D ~ N(100, 10²). Voor een steekproefgemiddelde van 4 waarnemingen uit deze verdeling geldt dan P (Xgemiddeld > 108) = 
+
+Answerlist
+----------
+* 0.0548
+* 0.2119
+* 0.2881
+* 0.3745
+
+Solution
+========
+
+The correct answer is  0.0548 
+
+Meta-information
+================
+exname: uva-probability-453-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Kansrekening,Kansverdeling,Kansverdeling steekproefgemiddelde (onafhankelijke 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

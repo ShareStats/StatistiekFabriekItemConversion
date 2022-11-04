@@ -1,0 +1,26 @@
+Question
+========
+
+Gegeven de volgende 16 uitkomsten van een steekproeftrekking: 21, 26, 18, 17, 24, 33, 37, 30, 24, 28, 24, 31, 35, 29, 18, 21. De steekproefstandaardafwijking van de 16 getallen is 
+
+Answerlist
+----------
+* 1.55
+* 6.2
+* 36
+* 38.4
+
+Solution
+========
+
+The correct answer is  6.2 
+
+Meta-information
+================
+exname: uva-descriptive statistics-445-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Beschrijvende statistiek,Kengetallen,Standaarddeviatie 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

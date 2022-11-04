@@ -1,0 +1,26 @@
+Question
+========
+
+Van een steekproef van 10 twintigjarige mannen is hun longinhoud bepaald en de afstand die ze in 15 minuten hardlopend kunnen afleggen. De Pearson correlatie tussen deze variabelen bleek 0.60 te zijn. Het percentage variatie in gelopen afstand dat niet samenhangt met longinhoud is dan gelijk aan 
+
+Answerlist
+----------
+* 36%
+* 40%
+* 60%
+* 64%
+
+Solution
+========
+
+The correct answer is  64% 
+
+Meta-information
+================
+exname: uva-inferential statistics-577-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Inferentiële statistiek,Correlatie (inferentiële stat.),Toets (H0: ? = 0), Tgh m.b.v. T-verdeling en p-waa 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

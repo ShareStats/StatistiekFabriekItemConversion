@@ -1,0 +1,26 @@
+Question
+========
+
+Gegeven de volgende steekproefuitkomsten: 4.5, 3.9, 4.6, 4.1, 4.4. Gemiddelde en standaarddeviatie van deze steekproef zijn gelijk aan respectievelijk 
+
+Answerlist
+----------
+* 4.3 en 0.085
+* 4.3 en 0.130
+* 4.3 en 0.261
+* 4.3 en 0.292
+
+Solution
+========
+
+The correct answer is  4.3 en 0.292 
+
+Meta-information
+================
+exname: uva-descriptive statistics-392-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Beschrijvende statistiek,Kengetallen,Gemiddelde,Standaarddeviatie 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

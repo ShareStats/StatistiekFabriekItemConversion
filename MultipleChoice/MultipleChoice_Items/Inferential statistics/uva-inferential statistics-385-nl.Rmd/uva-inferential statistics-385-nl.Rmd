@@ -1,0 +1,26 @@
+Question
+========
+
+X en Y zijn twee onafhankelijke stochastische variabelen, met µx = 9 en sx²= 5 en µy = 15 en sy² = 2. Dan zijn de verwachting en variantie van X - Y gelijk aan resp. 
+
+Answerlist
+----------
+* -6 en 3
+* -6 en 7
+* 6 en 3
+* 6 en 7
+
+Solution
+========
+
+The correct answer is  -6 en 7 
+
+Meta-information
+================
+exname: uva-inferential statistics-385-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferentiële statistiek 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

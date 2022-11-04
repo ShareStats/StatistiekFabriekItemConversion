@@ -1,0 +1,25 @@
+Question
+========
+
+Een goede manier om survey onderzoek te doen, is door gebruik te maken van een 
+
+Answerlist
+----------
+* 'cluster random sample'.
+* 'large sample'.
+* 'volunteer sample'.
+
+Solution
+========
+
+The correct answer is  'cluster random sample'. 
+
+Meta-information
+================
+exname: uva-inferential statistics-113-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferentiële statistiek 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

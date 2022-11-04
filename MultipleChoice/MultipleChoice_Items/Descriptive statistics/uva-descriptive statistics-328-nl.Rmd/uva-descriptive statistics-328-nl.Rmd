@@ -1,0 +1,30 @@
+Question
+========
+
+Een onderzoekster is geïnteresseerd in de correlatie tussen twee normaal verdeelde variabelen X en Y en trekt daartoe een aselecte steekproef van 20 personen uit haar doelpopulatie. Hieruit berekent zij de onderstaande grootheden. De waarde van de Pearson correlatiecoëfficiënt is gelijk aan 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F33&extension=png&mime_type=image%2Fpng 
+
+ UMCU20040612-6.png 
+
+Answerlist
+----------
+* -0.687
+* -0.335
+* 0.0012
+* 0.687
+
+Solution
+========
+
+The correct answer is  -0.687 
+
+Meta-information
+================
+exname: uva-descriptive statistics-328-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Beschrijvende statistiek,Correlatie (beschrijvende stat.),Pearson coefficient 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

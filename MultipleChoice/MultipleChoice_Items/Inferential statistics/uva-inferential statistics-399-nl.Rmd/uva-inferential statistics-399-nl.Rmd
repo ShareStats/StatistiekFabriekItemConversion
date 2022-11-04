@@ -1,0 +1,30 @@
+Question
+========
+
+Hieronder staat (onvolledige) SPSS-uitvoer van een RCB-ANOVA, waarbij binnen de blokken individuen aselect zijn toegewezen aan een therapie. Het aantal vrijheidsgraden van de Error-term is gelijk aan 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F49&extension=png&mime_type=image%2Fpng 
+
+ UMCU20020511-8.png 
+
+Answerlist
+----------
+* 4
+* 5
+* 6
+* 7
+
+Solution
+========
+
+The correct answer is  6 
+
+Meta-information
+================
+exname: uva-inferential statistics-399-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferentiële statistiek,Anova,Oneway, ANOVA-table 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

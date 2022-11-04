@@ -1,0 +1,26 @@
+Question
+========
+
+Bij toetsing van de nulhypothese µ = 6 met een tweezijdig risico van 5% zal voor de waarde van de toetsingsgrootheid (tgh) en de conclusie gelden: 
+
+Answerlist
+----------
+* Waarde van tgh valt in kritiek gebied, verwerp H<sub>0<\/sub>.
+* Waarde van tgh valt in kritiek gebied, verwerp H<sub>0<\/sub> niet.
+* Waarde van tgh valt niet in kritiek gebied, verwerp H<sub>0<\/sub>.
+* Waarde van tgh valt niet in kritiek gebied, verwerp H<sub>0<\/sub> niet.
+
+Solution
+========
+
+The correct answer is  Waarde van tgh valt in kritiek gebied, verwerp H<sub>0<\/sub>. 
+
+Meta-information
+================
+exname: uva-inferential statistics-364-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferentiële statistiek,T-Toetsen,1 steekproef T-toets 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

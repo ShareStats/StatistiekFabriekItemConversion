@@ -1,0 +1,32 @@
+Question
+========
+
+Gegeven is de volgende kruistabel betreffende de gezondheidstoestand van 200 personen, en hun uitslag op een zekere diagnostische test.
+
+ziek gezond
+Test positief 40 10
+Test negatief 20 130
+
+Men noemt de kans dat een daadwerkelijk ziek persoon een positieve testuit-slag heeft de sensitiviteit van de test. Wat is hier de beste schatting van de sensitiviteit? 
+
+Answerlist
+----------
+* 0.2
+* 0.4
+* 0.67
+* 0.8
+
+Solution
+========
+
+The correct answer is  0.67 
+
+Meta-information
+================
+exname: uva-probability-475-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Kansrekening,Kansrekening (ond.),Discrete stochastische variabelen (elementair begr 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,26 @@
+Question
+========
+
+Bereken de steekproefvariantie van de volgende 5 getallen: 8, 14, 7, 10, 11 
+
+Answerlist
+----------
+* 7.5
+* 2.74
+* 1.22
+* 6
+
+Solution
+========
+
+The correct answer is  7.5 
+
+Meta-information
+================
+exname: uva-descriptive statistics-597-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Beschrijvende statistiek,Kengetallen,Variantie 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

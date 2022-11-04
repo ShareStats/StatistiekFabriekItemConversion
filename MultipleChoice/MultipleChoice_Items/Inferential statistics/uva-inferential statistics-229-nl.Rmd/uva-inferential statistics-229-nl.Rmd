@@ -1,0 +1,25 @@
+Question
+========
+
+In een aselecte steekproef van n = 20 waarnemingen vindt men tussen de variabelen X en Y een Spearman rangcorrelatie gelijk aan 0.47. De nulhypothese van geen verband kan dan worden verworpen ten gunste van de alternatieve hypothese dat er een positief verband is bij 
+
+Answerlist
+----------
+* &alpha; = 0.01
+* &alpha; = 0.05 maar niet bij &alpha; = 0.01
+* &alpha; = 0.10 maar niet bij &alpha; = 0.05
+
+Solution
+========
+
+The correct answer is  &alpha; = 0.10 maar niet bij &alpha; = 0.05 
+
+Meta-information
+================
+exname: uva-inferential statistics-229-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferentiële statistiek,Correlatie (inferentiële stat.),Toets (H0: ? = 0), Tgh m.b.v. T-verdeling en p-waa 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

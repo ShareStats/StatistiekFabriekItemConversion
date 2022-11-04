@@ -1,0 +1,25 @@
+Question
+========
+
+Men toetst de hypothese dat de gemiddelde IQ-score in een bepaalde populatie gelijk is aan 120, tegen de alternatieve hypothese dat dat gemiddelde groter is dan 120. In beide gevallen is de standaardafwijking gelijk aan 17. In een aselecte steekproef van n = 49 personen vindt men een steekproefgemiddelde van 125. De hypothese dat het populatiegemiddelde gelijk is aan 120 kan dan worden verworpen bij 
+
+Answerlist
+----------
+* &alpha; = 0.01
+* &alpha; = 0.05, maar niet bij &alpha; = 0.01
+* &alpha; = 0.10, maar niet bij &alpha; = 0.05
+
+Solution
+========
+
+The correct answer is  &alpha; = 0.05, maar niet bij &alpha; = 0.01 
+
+Meta-information
+================
+exname: uva-inferential statistics-249-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferentiële statistiek,T-Toetsen,T toets voor 2 onafh. Steekproeven 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

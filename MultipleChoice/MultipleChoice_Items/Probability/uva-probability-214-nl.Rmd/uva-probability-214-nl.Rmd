@@ -1,0 +1,30 @@
+Question
+========
+
+Gegeven is de kansverdeling van X
+
+X -1 1
+P(X = x) 0.6 0.4
+
+De verwachtingswaarde E(X) is gelijk aan 
+
+Answerlist
+----------
+* -0.2
+* 0.1
+* 1
+
+Solution
+========
+
+The correct answer is  -0.2 
+
+Meta-information
+================
+exname: uva-probability-214-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Kansrekening,Kansverdeling,Verwachtingswaarde van (discrete) toevalvariabele; 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

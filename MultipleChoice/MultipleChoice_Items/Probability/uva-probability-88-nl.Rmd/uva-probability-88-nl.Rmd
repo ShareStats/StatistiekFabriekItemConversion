@@ -1,0 +1,25 @@
+Question
+========
+
+Van alle alleenstaanden in Nederland heeft 80% een besteedbaar inkomen van minder dan 30.000 euro per jaar. Van de niet-alleenstaanden is dat 60%. Nederland telt 15% alleenstaanden. Hoe groot is de kans dat iemand die een besteedbaar inkomen heeft van minder dan 30.000 euro alleenstaande is? 
+
+Answerlist
+----------
+* 0.12
+* 0.19
+* 0.7
+
+Solution
+========
+
+The correct answer is  0.19 
+
+Meta-information
+================
+exname: uva-probability-88-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Kansrekening,Kansrekening (ond.),Discrete stochastische variabelen (elementair begr 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,25 @@
+Question
+========
+
+Ik gooi honderd keer met een zuivere munt. De kans dat er in tenminste 60% van de gevallen kruis boven komt is bij benadering gelijk aan 
+
+Answerlist
+----------
+* P(z &gt; 0.6)
+* P(z &gt; 1)
+* P(z &gt; 2)
+
+Solution
+========
+
+The correct answer is  P(z &gt; 2) 
+
+Meta-information
+================
+exname: uva-probability-128-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Kansrekening,Kansverdeling,Verwachtingswaarde van (discrete) toevalvariabele; 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

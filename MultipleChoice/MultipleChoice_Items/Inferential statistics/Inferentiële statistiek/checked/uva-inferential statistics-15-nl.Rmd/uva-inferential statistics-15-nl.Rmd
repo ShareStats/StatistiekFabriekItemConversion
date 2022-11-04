@@ -1,0 +1,25 @@
+Question
+========
+
+Predictieve validiteit geeft aan in hoeverre testscores 
+
+Answerlist
+----------
+* falsificeerbare voorspellingen opleveren.
+* in overeenstemming zijn met een theorie.
+* scores op een gekozen criterium voorspellen.
+
+Solution
+========
+
+The correct answer is  scores op een gekozen criterium voorspellen. 
+
+Meta-information
+================
+exname: uva-inferential statistics-15-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferentiële statistiek 
+exextra[Type]: Conceptual,
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy 

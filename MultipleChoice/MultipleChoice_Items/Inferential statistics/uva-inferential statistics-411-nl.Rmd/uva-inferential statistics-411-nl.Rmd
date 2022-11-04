@@ -1,0 +1,30 @@
+Question
+========
+
+Hieronder staat SPSS-uitvoer van een regressieanalyse van Y op X. De p-waarde, behorende bij de toets op de nulhypothese dat X geen lineair effect heeft op Y, is gelijk aan 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F54&extension=png&mime_type=image%2Fpng 
+
+ UMCU20020615-8.png 
+
+Answerlist
+----------
+* 0.002
+* 0.11
+* 0.199
+* 0.276
+
+Solution
+========
+
+The correct answer is  0.11 
+
+Meta-information
+================
+exname: uva-inferential statistics-411-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferentiële statistiek,Toetstheorie,Regressie (inferentiële stat.),Toets (H0 : ß1 = 0), Tgh m.b.v. T-verdeling,p-waarde 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

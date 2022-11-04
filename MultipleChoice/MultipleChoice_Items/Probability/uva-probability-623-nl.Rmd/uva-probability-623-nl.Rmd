@@ -1,0 +1,26 @@
+Question
+========
+
+Z wordt getrokken uit een standaardnormaal verdeelde variabele. De kans P(1 < Z < 1.75) is gelijk aan 
+
+Answerlist
+----------
+* 0.8012
+* 0.3814
+* 0.1186
+* 0.4201
+
+Solution
+========
+
+The correct answer is  0.1186 
+
+Meta-information
+================
+exname: uva-probability-623-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Kansrekening,Kansverdeling,Kansverdeling steekproefgemiddelde (onafhankelijke 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

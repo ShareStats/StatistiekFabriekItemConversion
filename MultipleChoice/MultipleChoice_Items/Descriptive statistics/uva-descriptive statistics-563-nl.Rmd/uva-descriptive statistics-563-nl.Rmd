@@ -1,0 +1,26 @@
+Question
+========
+
+Bereken de steekproefvariantie van de getallen 1, 4, 5, 7, 8 
+
+Answerlist
+----------
+* 1.225
+* 2.449
+* 2.739
+* 7.5
+
+Solution
+========
+
+The correct answer is  7.5 
+
+Meta-information
+================
+exname: uva-descriptive statistics-563-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Beschrijvende statistiek,Kengetallen,Variantie 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

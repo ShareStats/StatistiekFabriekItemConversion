@@ -1,0 +1,26 @@
+Question
+========
+
+Bij toetsen is ß, de kans op een fout van de tweede soort, gedefinieerd als 
+
+Answerlist
+----------
+* de kans om H<sub>0<\/sub> terecht te verwerpen
+* de kans om H<sub>0<\/sub> ten onrechte te verwerpen
+* de kans om H<sub>0<\/sub> terecht niet te verwerpen
+* de kans om H<sub>0<\/sub> ten onrechte niet te verwerpen
+
+Solution
+========
+
+The correct answer is  de kans om H<sub>0<\/sub> ten onrechte niet te verwerpen 
+
+Meta-information
+================
+exname: uva-inferential statistics-482-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Inferentiële statistiek,Toetstheorie,Risico alpha of beta 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

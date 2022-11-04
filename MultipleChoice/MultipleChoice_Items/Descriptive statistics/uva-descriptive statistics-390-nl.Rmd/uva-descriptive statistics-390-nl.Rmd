@@ -1,0 +1,30 @@
+Question
+========
+
+Hieronder staat uitvoer van een één-steekproef T-toets. We willen H0:µ = 75 toetsen met a = 5% tweezijdig. Het 95% betrouwbaarheidsinterval voor µ is gelijk aan 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F47&extension=png&mime_type=image%2Fpng 
+
+ UMCU20020406-8.png 
+
+Answerlist
+----------
+* &lt; -13.89 ; -0.29 &gt;
+* &lt; 61.11 ; 74.71 &gt;
+* &lt; 61.11 ; 75.29 &gt;
+* &lt; 75.29 ; 88.89 &gt;
+
+Solution
+========
+
+The correct answer is  &lt; 61.11 ; 74.71 &gt; 
+
+Meta-information
+================
+exname: uva-descriptive statistics-390-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Beschrijvende statistiek,Kengetallen,Locatiematen 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

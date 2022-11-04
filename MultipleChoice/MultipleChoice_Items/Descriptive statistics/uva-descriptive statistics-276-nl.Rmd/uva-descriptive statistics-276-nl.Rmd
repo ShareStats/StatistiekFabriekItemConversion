@@ -1,0 +1,26 @@
+Question
+========
+
+X1, en X2 zijn onafhankelijke trekkingen uit een verdeling met µ = 10 en s2 = 9. De variantie van (X1 + X2) / 2 is dan gelijk aan 
+
+Answerlist
+----------
+* 2.25
+* 4.5
+* 6.36
+* 9
+
+Solution
+========
+
+The correct answer is  4.5 
+
+Meta-information
+================
+exname: uva-descriptive statistics-276-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Beschrijvende statistiek,Kengetallen,Variantie 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,30 @@
+Question
+========
+
+Een aanname bij deze regressieanalyse is, dat de waarnemingen gespreid liggen rondom de werkelijke regressielijn volgens een normale verdeling met gelijke varianties over de gehele range van waarnemingen. De beste schatting van deze variantie is gelijk aan 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F64&extension=png&mime_type=image%2Fpng 
+
+ UMCU19990612-9.png 
+
+Answerlist
+----------
+* 14.4745
+* 14.453
+* 209.512
+* 483.302
+
+Solution
+========
+
+The correct answer is  209.512 
+
+Meta-information
+================
+exname: uva-inferential statistics-508-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferentiële statistiek,Regressie (inferentiële stat.),Toets (H0 : ß1 = 0), Tgh m.b.v. T-verdeling 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

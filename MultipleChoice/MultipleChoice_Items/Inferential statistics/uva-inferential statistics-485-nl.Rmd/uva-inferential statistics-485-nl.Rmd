@@ -1,0 +1,26 @@
+Question
+========
+
+Om de gelijkheid van twee populatiegemiddelden te toetsen m.b.v. twee on-afhankelijke steekproeven, waarbij de onbekende populatievarianties gelijk worden verondersteld, gebruiken we een 
+
+Answerlist
+----------
+* Z-toets
+* gepoolde T-toets
+* F-toets
+* gepaarde T-toets
+
+Solution
+========
+
+The correct answer is  gepoolde T-toets 
+
+Meta-information
+================
+exname: uva-inferential statistics-485-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferentiële statistiek,T-Toetsen,T toets voor 2 onafh. Steekproeven 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

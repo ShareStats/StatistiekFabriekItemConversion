@@ -1,0 +1,30 @@
+Question
+========
+
+Hieronder staat uitvoer van een één-steekproef T-toets. We willen H0:µ = 75 toetsen met a = 5% tweezijdig. Wanneer we bij toetsing gebruik hadden willen maken van een kritiek gebied, dan was de rechter kritieke waarde gelijk geweest aan 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F48&extension=png&mime_type=image%2Fpng 
+
+ UMCU20020406-8.png 
+
+Answerlist
+----------
+* 1.7959
+* 1.8125
+* 2.201
+* 2.2281
+
+Solution
+========
+
+The correct answer is  2.2281 
+
+Meta-information
+================
+exname: uva-inferential statistics-391-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Inferentiële statistiek,T-Toetsen,1 steekproef T-toets 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

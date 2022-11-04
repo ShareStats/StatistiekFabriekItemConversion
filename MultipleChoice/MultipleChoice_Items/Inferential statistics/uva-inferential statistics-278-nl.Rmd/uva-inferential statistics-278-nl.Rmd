@@ -1,0 +1,30 @@
+Question
+========
+
+Wanneer we hier een F-toets voor gelijkheid van varianties zouden uitvoeren, dan zou de waarde van de toetsingsgrootheid gelijk zijn aan 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F15&extension=png&mime_type=image%2Fpng 
+
+ UMCU20050514-6.png 
+
+Answerlist
+----------
+* 1.08
+* 1.11
+* 1.17
+* 1.23
+
+Solution
+========
+
+The correct answer is  1.17 
+
+Meta-information
+================
+exname: uva-inferential statistics-278-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferentiële statistiek,Anova,Oneway, F-verdeling 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,26 @@
+Question
+========
+
+In een populatie volgt de stochastische variabele A een kansverdeling met gemiddelde 77 en standaarddeviatie 21. We trekken uit deze populatie een steekproef van grootte n = 7. Dan volgt het steekproefgemiddelde een verdeling met 
+
+Answerlist
+----------
+* &mu; = 11 en &sigma; = 3
+* &mu; = 11 en &sigma; = 7.94
+* &mu; = 77 en &sigma; = 3
+* &mu; = 77 en &sigma; = 7.94
+
+Solution
+========
+
+The correct answer is  &mu; = 77 en &sigma; = 7.94 
+
+Meta-information
+================
+exname: uva-inferential statistics-516-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Inferentiële statistiek,Toetstheorie,Kansverdeling van tgh onder H0 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

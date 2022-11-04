@@ -1,0 +1,30 @@
+Question
+========
+
+Op vier scholen worden de leerlingen in groepen 3, 4 en 5 in één van 3 klassen ingedeeld voor wat betreft hun leesvaardigheid: normaal, leesproblemen, dyslexie. De aantallen leerlingen in iedere klasse staan in de volgende 4 staafdiagrammen weergegeven. Het grootst aantal leerlingen zonder leesproblemen of dyslexie (in absolute frequentie) komt voor op school 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F24&extension=png&mime_type=image%2Fpng 
+
+ UMCU20040306-1.png 
+
+Answerlist
+----------
+* 1
+* 2
+* 3
+* 4
+
+Solution
+========
+
+The correct answer is  3 
+
+Meta-information
+================
+exname: uva-descriptive statistics-295-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Beschrijvende statistiek,Grafieken,Staafdiagram 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

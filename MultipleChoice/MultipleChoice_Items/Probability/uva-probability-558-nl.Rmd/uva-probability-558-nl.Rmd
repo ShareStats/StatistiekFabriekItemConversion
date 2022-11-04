@@ -1,0 +1,32 @@
+Question
+========
+
+In een groep van 300 personen is gekeken naar twee kenmerken. De resultaten zijn weergegeven in de volgende kruistabel.
+
+A B C D
+I 30 40 80 10
+II 40 10 60 30
+
+P(C n II) = 
+
+Answerlist
+----------
+* 0.2
+* 0.47
+* 0.77
+* 0.97
+
+Solution
+========
+
+The correct answer is  0.2 
+
+Meta-information
+================
+exname: uva-probability-558-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Kansrekening,Kansrekening (ond.),Optelregel voor kans op vereniging van twee gebeur 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

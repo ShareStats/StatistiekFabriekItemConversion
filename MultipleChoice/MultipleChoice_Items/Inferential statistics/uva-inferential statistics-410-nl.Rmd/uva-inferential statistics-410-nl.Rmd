@@ -1,0 +1,30 @@
+Question
+========
+
+Hieronder staat SPSS-uitvoer van een regressieanalyse van Y op X. Hoeveel procent van de variatie in Y kan door X worden verklaard, in deze steekproef? 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F53&extension=png&mime_type=image%2Fpng 
+
+ UMCU20020615-8.png 
+
+Answerlist
+----------
+* 13.9%
+* 19.9%
+* 28.8%
+* 53.6%
+
+Solution
+========
+
+The correct answer is  28.8% 
+
+Meta-information
+================
+exname: uva-inferential statistics-410-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferentiële statistiek,Regressie (inferentiële stat.),Toets (H0 : ß1 = 0), Tgh m.b.v. T-verdeling 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

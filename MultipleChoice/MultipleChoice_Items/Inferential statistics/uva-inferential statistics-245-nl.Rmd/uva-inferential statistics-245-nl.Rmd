@@ -1,0 +1,25 @@
+Question
+========
+
+De toetsingsgrootheid bij de toets van Wilcoxon voor twee steekproeven is de som van een aantal 
+
+Answerlist
+----------
+* rangnummers
+* verschilscores
+* Z - scores
+
+Solution
+========
+
+The correct answer is  rangnummers 
+
+Meta-information
+================
+exname: uva-inferential statistics-245-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferentiële statistiek,Non-parametrische toetsen,Wilcoxon (Matched Pairs) Signed Rank test 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

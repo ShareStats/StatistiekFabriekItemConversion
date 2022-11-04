@@ -1,0 +1,26 @@
+Question
+========
+
+Van 10 mensen is de lengte bepaald in cm. De standaardafwijking van deze steekproef is s = 8. Als de lengte wordt uitgedrukt in meters, dan is de standaardafwijking 
+
+Answerlist
+----------
+* 800
+* 0.08
+* 8
+* 0.0008
+
+Solution
+========
+
+The correct answer is  8 
+
+Meta-information
+================
+exname: uva-descriptive statistics-620-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Beschrijvende statistiek,Kengetallen,Standaarddeviatie 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

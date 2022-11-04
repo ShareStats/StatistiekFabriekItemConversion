@@ -1,0 +1,30 @@
+Question
+========
+
+Hieronder staat SPSS-uitvoer van een gepoolde T-toets. Bij een gepoolde T-toets wordt aangenomen dat de varianties in beide populaties gelijk zijn. De beste schatting voor deze populatievariantie is hier gelijk aan 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F58&extension=png&mime_type=image%2Fpng 
+
+ UMCU19990515-5.png 
+
+Answerlist
+----------
+* 106.87
+* 115.83
+* 117.33
+* 130.87
+
+Solution
+========
+
+The correct answer is  115.83 
+
+Meta-information
+================
+exname: uva-inferential statistics-493-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferentiële statistiek,T-Toetsen,T toets voor 2 onafh. Steekproeven 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

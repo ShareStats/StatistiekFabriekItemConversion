@@ -1,0 +1,29 @@
+Question
+========
+
+Gooi twee zuivere munten onafhankelijk op. Wij noemen de volgende twee gebeurtenissen A en B:
+A = Munt bij de eerste worp
+B = Beide worpen geven dezelfde uitkomst
+Wat is dan de kans P(B|A)? 
+
+Answerlist
+----------
+* <em>P<\/em> (B|A) = 0,125
+* <em>P<\/em> (B|A) = 0,25
+* <em>P<\/em> (B|A) = 0,50
+* <em>P<\/em> (B|A) = 1
+
+Solution
+========
+
+The correct answer is  <em>P<\/em> (B|A) = 0,50 
+
+Meta-information
+================
+exname: uva-probability-661-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Kansrekening,Kansverdeling,Voorwaardelijke kansen 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

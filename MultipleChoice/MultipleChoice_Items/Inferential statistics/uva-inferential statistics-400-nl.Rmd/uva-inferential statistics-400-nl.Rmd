@@ -1,0 +1,30 @@
+Question
+========
+
+Hieronder staat (onvolledige) SPSS-uitvoer van een RCB-ANOVA, waarbij binnen de blokken individuen aselect zijn toegewezen aan een therapie. De conclusie omtrent de blokfactor moet luiden: 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F50&extension=png&mime_type=image%2Fpng 
+
+ UMCU20020511-8.png 
+
+Answerlist
+----------
+* De blokgemiddelden zijn significant verschillend.
+* De blokgemiddelden zijn significant gelijk.
+* De blokgemiddelden zijn niet significant verschillend.
+* De hypothese over blokgemiddelden kan niet getoetst worden.
+
+Solution
+========
+
+The correct answer is  De hypothese over blokgemiddelden kan niet getoetst worden. 
+
+Meta-information
+================
+exname: uva-inferential statistics-400-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Inferentiële statistiek,Anova,Oneway, ANOVA-table 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

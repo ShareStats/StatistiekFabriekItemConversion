@@ -1,0 +1,25 @@
+Question
+========
+
+Gemiddelde en standaardafwijking zijn statistics die bij uitstek kunnen worden gebruikt voor het beschrijven van kenmerken van de frequentieverdelingen van 
+
+Answerlist
+----------
+* categorische variabelen
+* indicator variabelen
+* kwantitatieve variabelen
+
+Solution
+========
+
+The correct answer is  kwantitatieve variabelen 
+
+Meta-information
+================
+exname: uva-descriptive statistics-134-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Beschrijvende statistiek,Meetniveaus,Kwalitatief/kwantitatief 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

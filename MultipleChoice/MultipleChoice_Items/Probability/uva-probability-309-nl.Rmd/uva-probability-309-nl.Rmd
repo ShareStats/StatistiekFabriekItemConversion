@@ -1,0 +1,26 @@
+Question
+========
+
+Van twee gebeurtenissen A en B is het volgende gegeven: P(A) = 0.60, P(B) = 0.40, P(A n B) = 0.20 en P(A <U+222A> B) = 0.80. De kans op gebeurtenis A, gegeven dat B is opgetreden, is 
+
+Answerlist
+----------
+* 0.24
+* 0.33
+* 0.5
+* 0.6
+
+Solution
+========
+
+The correct answer is  0.5 
+
+Meta-information
+================
+exname: uva-probability-309-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Kansrekening,Kansdefinities,Gebeurtenis 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

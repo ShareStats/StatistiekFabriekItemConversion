@@ -1,0 +1,30 @@
+Question
+========
+
+Voor een experiment over de effectiviteit van een hulpprogramma voor zelfredzaamheid bij ouderen worden mensen aselect in een controle- of behandelde groep ingedeeld. In onderstaande SPSS uitvoer staat een toets op gelijkheid van gemiddelde leeftijd. De gepoolde variantieschatter is gelijk aan 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F25&extension=png&mime_type=image%2Fpng 
+
+ UMCU20040417-9.png 
+
+Answerlist
+----------
+* 124.24
+* 125.22
+* 125.53
+* 128.03
+
+Solution
+========
+
+The correct answer is  125.22 
+
+Meta-information
+================
+exname: uva-inferential statistics-311-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferentiële statistiek,T-Toetsen,T toets voor 2 onafh. Steekproeven 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

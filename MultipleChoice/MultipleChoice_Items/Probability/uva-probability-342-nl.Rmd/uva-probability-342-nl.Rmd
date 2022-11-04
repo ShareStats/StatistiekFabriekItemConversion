@@ -1,0 +1,38 @@
+Question
+========
+
+Van 200 mensen is bepaald of zij links- of rechtshandig zijn, en hoe goed zij artistiek ontwikkeld zijn (goed, matig, slecht). De resultaten zijn weergegeven in onderstaande kruistabel.
+
+Artistieke ontwikkeling
+Goed Matig Slecht
+Rechtshandig 42 72 56
+Linkshandig 18 8 4
+
+Gegeven de volgende twee beweringen over deze gegevens:
+1: Linkshandigheid en rechtshandigheid zijn onafhankelijk, want
+P(rechtshandig n linkshandig) = 0.
+2: Artistiek goed ontwikkeld zijn en linkshandigheid zijn onafhankelijk want
+P(linkshandig ||| artistiek goed ontwikkeld) = P(artistiek goed ontwikkeld).
+Welke van deze beweringen zijn juist? 
+
+Answerlist
+----------
+* Beweringen 1 en 2 zijn beide juist.
+* Bewering 1 is juist, bewering 2 is onjuist.
+* Bewering 1 is onjuist, bewering 2 is juist.
+* Beweringen 1 en 2 zijn beide onjuist.
+
+Solution
+========
+
+The correct answer is  Beweringen 1 en 2 zijn beide onjuist. 
+
+Meta-information
+================
+exname: uva-probability-342-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Kansrekening,Kansdefinities,Onafhankelijkheid van twee of meer gebeurtenissen 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

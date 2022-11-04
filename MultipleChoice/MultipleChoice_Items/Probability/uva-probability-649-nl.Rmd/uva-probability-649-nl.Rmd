@@ -1,0 +1,26 @@
+Question
+========
+
+Tien loten worden in aselecte volgorde verkocht aan tien personen. De kans om te winnen voor persoon A en persoon B is respectievelijk 
+
+Answerlist
+----------
+* \\(\\frac{1}{10},\\frac{1}{10}\\)
+* \\(\\frac{1}{10},\\frac{9}{10}\\)
+* \\(\\frac{1}{10},\\frac{1}{2}\\)
+* \\(\\frac{1}{2},\\frac{1}{10}\\)
+
+Solution
+========
+
+The correct answer is  \\(\\frac{1}{10},\\frac{1}{10}\\) 
+
+Meta-information
+================
+exname: uva-probability-649-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Kansrekening,Kansverdeling,Uniforme verdeling 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

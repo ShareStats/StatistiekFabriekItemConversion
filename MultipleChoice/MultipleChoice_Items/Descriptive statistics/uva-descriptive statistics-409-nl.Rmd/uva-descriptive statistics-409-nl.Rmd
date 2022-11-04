@@ -1,0 +1,30 @@
+Question
+========
+
+Hieronder staat SPSS-uitvoer van een regressieanalyse van Y op X. De vergelijking van de regressielijn van Y op X luidt 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F52&extension=png&mime_type=image%2Fpng 
+
+ UMCU20020615-8.png 
+
+Answerlist
+----------
+* Y = 62.047 - 0.496 X
+* Y = -0.496 - 0.536 X
+* Y = -0.496 + 0.276 X
+* Y = -0.496 + 62.047 X
+
+Solution
+========
+
+The correct answer is  Y = 62.047 - 0.496 X 
+
+Meta-information
+================
+exname: uva-descriptive statistics-409-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Beschrijvende statistiek,Regressie (beschrijvende stat.),Formules 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

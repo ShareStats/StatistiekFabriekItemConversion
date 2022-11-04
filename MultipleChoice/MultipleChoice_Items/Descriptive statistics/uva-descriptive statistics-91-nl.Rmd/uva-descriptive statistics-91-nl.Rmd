@@ -1,0 +1,29 @@
+Question
+========
+
+Om te onderzoeken of er een relatie bestaat tussen de variabelen x en y wordt een regressie-analyse uitgevoerd. Voordat de analyse wordt uitgevoerd, wordt een aantal assumpties voor het toetsen op regressiecoëfficiënten gecontroleerd. Als eerste worden de waarden van x en y in een grafiek uitgezet. Uit de grafiek lijkt waarschijnlijk de assumptie van regressie geschonden die stelt 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F7&extension=png&mime_type=image%2Fpng 
+
+ UvA20100806-11-1.png 
+
+Answerlist
+----------
+* dat de populatiestandaarddeviatie van y hetzelfde moet zijn voor alle waarden van x.
+* dat het populatiegemiddelde van y lineair gerelateerd is aan x.
+* dat de populatieverdeling van y voor iedere x normaal verdeeld is.
+
+Solution
+========
+
+The correct answer is  dat de populatiestandaarddeviatie van y hetzelfde moet zijn voor alle waarden van x. 
+
+Meta-information
+================
+exname: uva-descriptive statistics-91-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Beschrijvende statistiek,Regressie (beschrijvende stat.),Populatieverdelingen 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

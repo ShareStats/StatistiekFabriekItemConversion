@@ -1,0 +1,30 @@
+Question
+========
+
+Bij het toetsen van H0: µ1 = µ2 tegen H1: µ1 <U+2260> µ2 met 5% risico moet de conclusie luiden: 
+
+ /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F31&extension=png&mime_type=image%2Fpng 
+
+ UMCU20040515-8.png 
+
+Answerlist
+----------
+* Het toetsresultaat is significant, verwerp H<sub>0<\/sub>.
+* Het toetsresultaat is significant, verwerp H<sub>0<\/sub> niet.
+* Het toetsresultaat is niet significant, verwerp H<sub>0<\/sub>.
+* Het toetsresultaat is niet significant, verwerp H<sub>0<\/sub> niet.
+
+Solution
+========
+
+The correct answer is  Het toetsresultaat is significant, verwerp H<sub>0<\/sub>. 
+
+Meta-information
+================
+exname: uva-inferential statistics-321-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferentiële statistiek,T-Toetsen,T toets voor 2 onafh. Steekproeven 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
