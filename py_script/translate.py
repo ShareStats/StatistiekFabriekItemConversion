@@ -51,10 +51,10 @@ class RmdFile(object):
         self.file_path = Path(file_path)
         self.content = []
 
-    def parse(self):
-
+    def parse(self, encoding="utf-8"):
+        self.content = []
         if self.file_path.is_file():
-            with open(self.file_path, "r", encoding="utf-8") as fl:
+            with open(self.file_path, "r", encoding=encoding) as fl:
                 self.content = fl.readlines()
 
 
@@ -62,12 +62,16 @@ if __name__ == "__main__":
 
     transl = read_translation_file("Taxonomie ShareStats Nederlands.xlsx")
     #print(transl)
-
     for fl in get_filelist("./MultipleChoice"):
         rmd = RmdFile(fl)
-        rmd.parse()
+        try:
+            rmd.parse("utf-8")
+        except:
+            rmd.parse("latin1")
+
         for cnt, txt in enumerate(rmd.content):
             if txt.startswith("exsection:"):
-                tag, tmp = txt.split(":")
-                labels = [x.strip() for x in tmp.split(",")]
-                print(tag)
+                tmp = txt.split(":")
+                if len(tmp) >1:
+                    labels = [x.strip() for x in tmp[1].split(",")]
+                    print(labels)
