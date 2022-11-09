@@ -3,7 +3,7 @@ Question
 
 Van een aselect getrokken steekproef van 5 vrouwen is het (normaal verdeelde) gewicht (in kg.) gemeten:
 55, 70, 61, 58, 66
-We willen H0: µ=60 toetsen. De te gebruiken toetsingsgrootheid volgt een 
+We willen H0: Âµ=60 toetsen. De te gebruiken toetsingsgrootheid volgt een 
 
 Answerlist
 ----------
@@ -22,7 +22,7 @@ Meta-information
 exname: uva-inferential statistics-562-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: Inferentiële statistiek,T-Toetsen,T-verdeling, vrijheidsgraden 
+exsection: InferentiÃ«le statistiek/T-Toetsen/t-distribution/vrijheidsgraden
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

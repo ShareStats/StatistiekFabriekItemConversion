@@ -22,7 +22,7 @@ Meta-information
 exname: uva-inferential statistics-345-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Inferentiële statistiek,Toetstheorie,T-Toetsen,T toets voor 2 onafh. Steekproeven,Toetsingsgrootheid (tgh) 
+exsection: InferentiÃ«le statistiek/Toetstheorie/T-Toetsen/T toets voor 2 onafh. Steekproeven/Toetsingsgrootheid (tgh)
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,7 +1,7 @@
 Question
 ========
 
-Een steekproef van n = 9 uit een N(50, 12²) verdeling heeft gemiddelde ¯X. Dan is P(¯X < 47) gelijk aan 
+Een steekproef van n = 9 uit een N(50, 12Â²) verdeling heeft gemiddelde Â¯X. Dan is P(Â¯X < 47) gelijk aan 
 
 Answerlist
 ----------
@@ -20,7 +20,7 @@ Meta-information
 exname: uva-probability-432-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: Kansrekening,Kansverdeling,Kansverdeling steekproefgemiddelde (onafhankelijke 
+exsection: Kansrekening/Kansverdeling/Kansverdeling steekproefgemiddelde (onafhankelijke
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -19,7 +19,7 @@ Meta-information
 exname: uva-descriptive statistics-210-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: Beschrijvende statistiek,Kengetallen,Variantie 
+exsection: Beschrijvende statistiek/Kengetallen/Variance
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

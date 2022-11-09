@@ -1,7 +1,7 @@
 Question
 ========
 
-Stel dat gegeven is dat het gewicht van de Nederlandse mannen boven de 25 jaar normaal verdeeld is met µ = 81 en s = 9.We trekken uit deze populatie aselect een persoon. Wat is de kans dat deze man tussen de 90 en 96 kg weegt? 
+Stel dat gegeven is dat het gewicht van de Nederlandse mannen boven de 25 jaar normaal verdeeld is met Âµ = 81 en s = 9.We trekken uit deze populatie aselect een persoon. Wat is de kans dat deze man tussen de 90 en 96 kg weegt? 
 
 Answerlist
 ----------
@@ -20,7 +20,7 @@ Meta-information
 exname: uva-probability-588-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Kansrekening,Kansverdeling,Kansverdeling steekproefgemiddelde (onafhankelijke 
+exsection: Kansrekening/Kansverdeling/Kansverdeling steekproefgemiddelde (onafhankelijke
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

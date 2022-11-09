@@ -20,7 +20,7 @@ Meta-information
 exname: uva-inferential statistics-516-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: Inferentiële statistiek,Toetstheorie,Kansverdeling van tgh onder H0 
+exsection: InferentiÃ«le statistiek/Toetstheorie/Kansverdeling van tgh onder H0
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

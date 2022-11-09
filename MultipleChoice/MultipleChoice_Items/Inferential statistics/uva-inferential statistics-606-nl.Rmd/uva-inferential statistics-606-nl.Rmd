@@ -1,7 +1,7 @@
 Question
 ========
 
-In een aselecte steekproef zijn bij acht personen de variabelen X en Y gemeten. De Spearman rangcorrelatie-coëfficiënt rS van X en Y is -0.69. Toets tweezijdig met a = 5% de nulhypothese dat de werkelijke correlatie in de populatie 0 is. De juiste conclusie moet dan luiden: 
+In een aselecte steekproef zijn bij acht personen de variabelen X en Y gemeten. De Spearman rangcorrelatie-coÃ«fficiÃ«nt rS van X en Y is -0.69. Toets tweezijdig met a = 5% de nulhypothese dat de werkelijke correlatie in de populatie 0 is. De juiste conclusie moet dan luiden: 
 
 Answerlist
 ----------
@@ -20,7 +20,7 @@ Meta-information
 exname: uva-inferential statistics-606-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: Inferentiële statistiek,Correlatie (inferentiële stat.),Toets (H0: ? = 0), Tgh m.b.v. T-verdeling en p-waa 
+exsection: InferentiÃ«le statistiek/Correlatie (inferentiÃ«le stat.)/Toets (H0
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,3 +1,280 @@
+
+# Used translation table
+
+| Dutch | English |
+| ---- | ---- |
+| meetniveau | Measurement level |
+| nominaal | Nominal |
+| ordinaal | Ordinal |
+| interval | Interval |
+| ratio | Ratio |
+| type variabele | Variable type |
+| discrete variabele | Discrete variable |
+| continue variabele | Continuous variable |
+| beschrijvende statistieken | Descriptives |
+| samenvattingsmaten | Summary statistics |
+| centrummaten | Measures of location |
+| gemiddelde | Mean |
+| mediaan | Median |
+| modus | Mode |
+| spreidingsmaten | Measures of Spread |
+| bereik | Range |
+| standaarddeviatie | Standard Deviation |
+| variantie | Variance |
+| interkwartielafstand | Interquartile Range |
+| bivariate statistieken | Bivariate statistics |
+| correlatie | Correlation |
+| covariantie | Covariance |
+| uitschieters | Outliers |
+| odds ratio | Odds ratio |
+| proportie | Proportion |
+| voorwaardelijke proportie | Conditional proportion |
+| score interpretatie | Score interpretation |
+| z-score | z-score |
+| percentiel | Percentile |
+| data representatie | Data representation |
+| grafieken | Graphs |
+| histogram | Histogram |
+| staafdiagram | Bar graph |
+| boxplot | Boxplot |
+| spreidingsdiagram | Scatterplot |
+| cirkeldiagram | Pie chart |
+| venn-diagram | Venn diagram |
+| tabellen | Tables |
+| frequentie tabel | Frequency table |
+| kruistabel | contingency table |
+| inferentiele statistiek | Inferential statistics |
+| steekproevenverdelingen | Sampling distributions |
+| steekproefgemiddelde | Sample mean |
+| steekproefproportie | Sample proportion |
+| verschillen tussen twee gemiddelden | Difference two means |
+| correlaties | Correlations |
+| nulhypothese toetsen | NHST |
+| hypothesen | Hypotheses |
+| nulhypothese | Null hypothesis |
+| h0 | H0 |
+| alternatieve hypothese | Alternative hypothesis |
+| h1 | Research hypothesis |
+| ha | Ha: HA |
+| eenzijdige hypothese | One sided hypothesis |
+| tweezijdige hypothese | Two sided hypothesis |
+| toetsingsgrootheid | Test statistic |
+| t-waarde | t-statistic |
+| f-waarde | F-statistic |
+| chi kwadraat | Chi-squared |
+| z-waarde | z-statistic |
+| statistische fouten | Statistical errors |
+| type i fout | Type I error |
+| vals positief | False positive |
+| type ii fout | Type II error |
+| vals negatief | False negative |
+| power | Power |
+| significantieniveau | Significance level |
+| alfa | alpha |
+| kritische waarde | Critical value |
+| p-waarde | p-value |
+| effectgrootte | Effect size |
+| cohens d | Cohen's d |
+| cramers v | Cramer's v |
+| phi coëfficiënt | Phi coefficient |
+| eta-kwadraat | eta squared |
+| gedeeltelijke eta-kwadraat | partial eta squared |
+| betrouwbaarheidsinterval | Confidence interval |
+| bi | CI |
+| betrouwbaarheidsniveau | Confidence level |
+| toetsing | Testing |
+| breedte | Width |
+| foutmarge | Margin of error |
+| parametrische technieken | Parametric Techniques |
+| z-toets | z-test |
+| gemiddeld van één steekproef | One sample mean |
+| gemiddelden van twee onafhankelijke steekproeven | Independent samples mean |
+| eén proportie | One proportion |
+| twee proporties | Two proportions |
+| t-toets | t-test |
+| gemiddelde van één steekproef | One sample mean |
+| gepaarde steekproeven | Paired samples |
+| toets voor correlatie | Test for correlation |
+| pearson | Pearson |
+| spearman | Spearman |
+| punt-biserieel | Point biserial |
+| biserieel | Biserial |
+| phi | Phi |
+| kruistabellen | Cross tables |
+| chi-kwadraat voor onafhankelijkheid | Chi-squared for Independence |
+| chi-kwadraat voor homogeniteit | Chi-squared for Homogeneity |
+| chi-kwadraat goodness of fit | Chi-squared for Goodness of Fit |
+| fishers exacte toets | Fisher's Exact Test |
+| variantieanalyse | ANOVA |
+| anova | ANOVA |
+| eenweg variantieanalyse | Oneway ANOVA |
+| eenweg onafhankelijke anova | Oneway ANOVA |
+| tweeweg variantieanalyse | Twoway ANOVA |
+| tweeweg anova | Twoway ANOVA |
+| tweeweg onafhankelijke anova | Twoway ANOVA |
+| eenweg herhaalde metingen variantieanalyse | Oneway repeated measures ANOVA |
+| eenweg herhaalde metingen anova | RM ANOVA |
+| tweeweg herhaalde metingen variantieanalyse | Twoway repeated measures ANOVA |
+| tweeweg herhaalde metingen anova | factorial repeated measures ANOVA |
+| mixed variantieanalyse | Mixed design ANOVA |
+| mixed anova | mixed ANOVA |
+| covariantieanalyse | ANCOVA |
+| ancova | ANCOVA |
+| multivariate variantieanalyse | MANOVA |
+| manova | multivariate ANOVA |
+| multivariate covariantieanalyse | MANCOVA |
+| mancova | multivariate ANCOVA |
+| variantieanalyse f-toets | ANOVA F-test |
+| anova f-toets | ANOVA F-test |
+| post-hoc toets | Post-hoc test |
+| eén variantie | One variance |
+| twee varianties | Two variances |
+| regressie | Regression |
+| enkelvoudige lineaire regressie | Simple linear regression |
+| vergelijking | Equation |
+| helling | Slope |
+| constante | Intercept |
+| voorspelling | prediction |
+| residuen | Residuals |
+| kwadratensom | Sum of squares |
+| regressie f-toets | Regression F-test |
+| verklaarde variantie | Explained variance |
+| r-kwadraat | R squared |
+| standaardschattingsfout | Standard Error of the Estimate |
+| se | SE |
+| gestandaardiseerde coëfficiënt | Standardized coefficient |
+| beta | Beta |
+| dummies | Dummies |
+| voorspellingsinterval | Prediction interval |
+| coëfficiënt t-toets | Coefficient t-test |
+| meervoudige lineare regressie | Multiple linear regression |
+| f-toets voor vergelijking (nested) modellen | F-test for comparing (nested) models |
+| verandering verklaarde variantie | R squared change |
+| moderatie | Moderation |
+| mediatie | Mediation |
+| suppressie | Supression |
+| principal axis regressie | Principal axis regression |
+| logistische regressie | Logistic regression |
+| odds | Odds |
+| probit regressie | Probit regression |
+| multinomiale logistische regression | Multinomial logistic regression |
+| non-parametrische technieken | Non-parametric techniques |
+| tekentoets | Sign test |
+| rang som toets | Rank Sum test |
+| mann-whitney u toets | Wilcoxon Rank sum test |
+| wilcoxon rank sum toets | Mann-Whitney U test |
+| rangtekentoets | Signed rank test |
+| wilcoxon signed-rank toets | Wilcoxon Signed Rank test |
+| kruskal-wallis toets | Kruskal-Wallis test |
+| friedmans toets | Friedman's test |
+| friedmans anova | Friedman's anova |
+| permutatie toets | Premutation test |
+| bootstrappen | Bootstrap |
+| bayesiaanse statistiek | Bayesian statistics |
+| prior | Prior |
+| likelihood | Likelihood |
+| posterior | Posterior |
+| credible intervallen | Credible intervals |
+| credibility intervallen | Credible intervals |
+| hypothese toets | Hypothesis test |
+| bayes factor | Bayes factor |
+| parameter schatting | Parameter estimation |
+| informatieve hypothesetoetsing | Informative hypothesis testing |
+| tijdreeks | Time series |
+| beschrijvende methoden | Descriptive methods |
+| autocorrelatie | Autocorrelation |
+| runs test | Runs test |
+| seasonal variation | Seasonal variation |
+| arima models | Arima model |
+| forecasting | Forecasting |
+| frequency domain | Frequency domain |
+| kansrekenen | Probability |
+| elementary probability | Elementary probability |
+| uitkomstenruimte | Sample space |
+| gebeurtenissen | Events |
+| general rules | General Rules |
+| intersection | Intersection |
+| union | Union |
+| somregel | Addition Rule |
+| productregel | Multiplication Rule |
+| onafhankelijke gebeurtenissen | Independent Events |
+| combinaties | Combinations |
+| permutaties | Permutations |
+| voorwaardelijke kans | Conditional probability |
+| willekeurige variabelen | Random variables |
+| verwachte waarde | Expected Value |
+| regels voor verwachte waarde | Rules for expected values |
+| willekeurige steekproef | Random Sample |
+| verdelingen | Distributions |
+| discreet | Discrete |
+| binomiaal | Binomial |
+| normale benadering tot binomiaal | Normal approximation to binomial |
+| bernoulli | Bernoulli |
+| geometrisch | Geometric |
+| negatief binomiaal | Negative binomial |
+| poisson | Poisson |
+| hypergeometrisch | Hypergeometric |
+| multinomiaal | Multionomial |
+| continue | Continuous |
+| normaal | Normal |
+| uniform | Uniform |
+| exponentieel | Exponential |
+| gamma | Gamma |
+| t-verdeling | t-distribution |
+| f-verdeling | F-distribution |
+| chi-kwadraat | Chi-squared |
+| limietstellingen | Limit theorems |
+| limit theorems | Limit theorems |
+| centrale limietstelling | Central Limit theorems |
+| central limit theorem | Central Limit theorems |
+| wetten van de grote aantallen | Law of large numbers |
+| law of large numbers | Law of large numbers |
+| assumpties | Assumptions |
+| homogeniteit van variantie | Homegeneity of Variance |
+| gelijke varianties | Homegeneity of Variance |
+| levenes toets | Levene's test |
+| ratio steekproefgrootte | Ratio of sample size |
+| ratio variantie | Ratio of variance |
+| sfericiteit | Sphericity |
+| mauchly's toets | Mauchly's test |
+| epsilon | Epsilon |
+| normaliteit | Normality |
+| shapiro-wilks | Shapiro-Wilks |
+| kolmogorov-smirnov | Kolmogrov-Smirnov |
+| q-q plot | Q-Q plot |
+| lineariteit | Linearity |
+| homoscedasticiteit | Homoscedasticity |
+| residuenplot | Residual plot |
+| multicolineariteit | Multicolinearity |
+| vif | VIF |
+| tolerance | Tolerance |
+| factor analyse | Factor analysis |
+| principiële component analyse | Principle component analysis |
+| rotaties | Rotations |
+| eigenwaarden | Eigenvalues |
+| factor ladingen | Factor loadings |
+| compontent correlatie matrix | Compontent correlation matrix |
+| scree plot | Scree plot |
+| pattern matrix | Pattern matrix |
+| structure matrix | Structure matrix |
+| factorcorrelatiematrix | Factor correlation matrix |
+| communaliteiten | Communalities |
+| factor scores | Factor scores |
+| component scores | component scores |
+| betrouwbaarheid | Reliability |
+| analyse | Analysis |
+| cronbachs alpha | Cronbach's alpha |
+| split-half methode | Split half |
+| test-hertest | Test-retest |
+| parallel toetsen | Parallel forms |
+| item-totaal correlatie | RIT |
+| rit | RIT |
+| itemrestcorrelatie | RIR |
+| rir | RIR |
+| proportie correct | Proportion correct |
+
+
+ # Issues in following files
 * ./MultipleChoice/MultipleChoice_Items/Descriptive statistics/uva-descriptive statistics-384-nl.Rmd/uva-descriptive statistics-384-nl.Rmd
    - unknown: 'Beschrijvende statistiek'
    - unknown: 'Kengetallen'
@@ -2090,355 +2367,80 @@
 
 
 # Summary:
-{
-  "unknown_sections": [
-    "",
-    "Lineair verband (correlatie)",
-    "Inferenti?le statistiek",
-    "Betrouwbaarheidsinterval voor mu",
-    "Discrete stochastische variabelen (elementair begr",
-    "9",
-    "Kritieke waarde / kritiek gebied",
-    "Binomiaaltoets (Z-benadering)",
-    "sigma bekend)",
-    "Interpretatie",
-    "Interpretatie r",
-    "Statistische significantie",
-    "Formule",
-    "T toets voor 2 onafh. Steekproeven",
-    "Gepaarde T toets",
-    "Interpretatie intercept en r.c.",
-    "T-Toetsen",
-    "Formules",
-    "Beschrijvende statistiek",
-    "Regressie (beschrijvende stat.)",
-    "Pearson coefficient",
-    "Twoway + interactie",
-    "Meetniveaus",
-    "Locatiematen",
-    "ANOVA-table",
-    "Continue stochastische variabelen",
-    "Voorwaardelijke kansen",
-    "Correlatie (inferenti\u00eble stat.)",
-    "Toetsingsgrootheid (tgh)",
-    "Kansrekening",
-    "Wilcoxon (Matched Pairs) Signed Rank test",
-    "mu onbekend",
-    "Klassieke kansdefinitie",
-    "Dichotome data",
-    "Inferenti\u00eble statistiek",
-    "Optelregel voor kans op vereniging van twee gebeur",
-    "Schatten regressievergelijking",
-    "Toetstheorie",
-    "Power en steekproefomvang",
-    "Kengetallen",
-    "Continu/discreet",
-    "Oneway",
-    "Verband met corr coeff",
-    "Intervalschatting",
-    "Regressie (inferenti\u00eble stat.)",
-    "Kwalitatief/kwantitatief",
-    "Kansdefinities",
-    "Complementregel",
-    "Kansverdeling van tgh onder H0",
-    "Toets (H0",
-    "Invloed op kengetallen",
-    "Correlatie (beschrijvende stat.)",
-    "Pearson's Chi-kwadraat",
-    "Invloed van extra punt op regressie vgl.",
-    "Voorspelde Y bij gegeven X",
-    "(normaal verdeeld",
-    "Coverage (95%",
-    "Hypotheses (nul en alternatief; \u00e9\u00e9n- en tweezijdig",
-    "Risico alpha of beta",
-    "Inferenti\u00c3\u00able statistiek",
-    "Kansverdeling steekproefgemiddelde (onafhankelijke",
-    "Gebeurtenis",
-    "1 steekproef T-toets",
-    "Onafhankelijkheid van twee of meer gebeurtenissen",
-    "Normale verdeling",
-    "Binomiale verdeling",
-    "Verwachtingswaarde van (discrete) toevalvariabele;",
-    "Non-parametrische toetsen",
-    "H0 wel/niet verwerpen",
-    "Uitkomstenruimte (even waarschijnlijke uitkomsten)",
-    "vrijheidsgraden",
-    "Kansrekening (ond.)",
-    "Populatieverdelingen",
-    "Uniforme verdeling",
-    "Mann-Whitney / Wilcoxon Rank Sum test",
-    "Kansverdeling"
-  ]
-}{
-  "all_known_sections": [
-    "meetniveau",
-    "nominaal",
-    "ordinaal",
-    "interval",
-    "ratio",
-    "type variabele",
-    "discrete variabele",
-    "continue variabele",
-    "beschrijvende statistieken",
-    "samenvattingsmaten",
-    "centrummaten",
-    "gemiddelde",
-    "mediaan",
-    "modus",
-    "spreidingsmaten",
-    "bereik",
-    "standaarddeviatie",
-    "variantie",
-    "interkwartielafstand",
-    "bivariate statistieken",
-    "correlatie",
-    "covariantie",
-    "uitschieters",
-    "odds ratio",
-    "proportie",
-    "voorwaardelijke proportie",
-    "score interpretatie",
-    "z-score",
-    "percentiel",
-    "data representatie",
-    "grafieken",
-    "histogram",
-    "staafdiagram",
-    "boxplot",
-    "spreidingsdiagram",
-    "cirkeldiagram",
-    "venn-diagram",
-    "tabellen",
-    "frequentie tabel",
-    "kruistabel",
-    "inferentiele statistiek",
-    "steekproevenverdelingen",
-    "steekproefgemiddelde",
-    "steekproefproportie",
-    "verschillen tussen twee gemiddelden",
-    "correlaties",
-    "nulhypothese toetsen",
-    "hypothesen",
-    "nulhypothese",
-    "h0",
-    "alternatieve hypothese",
-    "h1",
-    "ha",
-    "eenzijdige hypothese",
-    "tweezijdige hypothese",
-    "toetsingsgrootheid",
-    "t-waarde",
-    "f-waarde",
-    "chi kwadraat",
-    "z-waarde",
-    "statistische fouten",
-    "type i fout",
-    "vals positief",
-    "type ii fout",
-    "vals negatief",
-    "power",
-    "significantieniveau",
-    "alfa",
-    "kritische waarde",
-    "p-waarde",
-    "effectgrootte",
-    "cohens d",
-    "cramers v",
-    "phi co\u00ebffici\u00ebnt",
-    "eta-kwadraat",
-    "gedeeltelijke eta-kwadraat",
-    "betrouwbaarheidsinterval",
-    "bi",
-    "betrouwbaarheidsniveau",
-    "toetsing",
-    "breedte",
-    "foutmarge",
-    "parametrische technieken",
-    "z-toets",
-    "gemiddeld van \u00e9\u00e9n steekproef",
-    "gemiddelden van twee onafhankelijke steekproeven",
-    "e\u00e9n proportie",
-    "twee proporties",
-    "t-toets",
-    "gemiddelde van \u00e9\u00e9n steekproef",
-    "gepaarde steekproeven",
-    "toets voor correlatie",
-    "pearson",
-    "spearman",
-    "punt-biserieel",
-    "biserieel",
-    "phi",
-    "kruistabellen",
-    "chi-kwadraat voor onafhankelijkheid",
-    "chi-kwadraat voor homogeniteit",
-    "chi-kwadraat goodness of fit",
-    "fishers exacte toets",
-    "variantieanalyse",
-    "anova",
-    "eenweg variantieanalyse",
-    "eenweg onafhankelijke anova",
-    "tweeweg variantieanalyse",
-    "tweeweg anova",
-    "tweeweg onafhankelijke anova",
-    "eenweg herhaalde metingen variantieanalyse",
-    "eenweg herhaalde metingen anova",
-    "tweeweg herhaalde metingen variantieanalyse",
-    "tweeweg herhaalde metingen anova",
-    "mixed variantieanalyse",
-    "mixed anova",
-    "covariantieanalyse",
-    "ancova",
-    "multivariate variantieanalyse",
-    "manova",
-    "multivariate covariantieanalyse",
-    "mancova",
-    "variantieanalyse f-toets",
-    "anova f-toets",
-    "post-hoc toets",
-    "e\u00e9n variantie",
-    "twee varianties",
-    "regressie",
-    "enkelvoudige lineaire regressie",
-    "vergelijking",
-    "helling",
-    "constante",
-    "voorspelling",
-    "residuen",
-    "kwadratensom",
-    "regressie f-toets",
-    "verklaarde variantie",
-    "r-kwadraat",
-    "standaardschattingsfout",
-    "se",
-    "gestandaardiseerde co\u00ebffici\u00ebnt",
-    "beta",
-    "dummies",
-    "voorspellingsinterval",
-    "co\u00ebffici\u00ebnt t-toets",
-    "meervoudige lineare regressie",
-    "f-toets voor vergelijking (nested) modellen",
-    "verandering verklaarde variantie",
-    "moderatie",
-    "mediatie",
-    "suppressie",
-    "principal axis regressie",
-    "logistische regressie",
-    "odds",
-    "probit regressie",
-    "multinomiale logistische regression",
-    "non-parametrische technieken",
-    "tekentoets",
-    "rang som toets",
-    "mann-whitney u toets",
-    "wilcoxon rank sum toets",
-    "rangtekentoets",
-    "wilcoxon signed-rank toets",
-    "kruskal-wallis toets",
-    "friedmans toets",
-    "friedmans anova",
-    "permutatie toets",
-    "bootstrappen",
-    "bayesiaanse statistiek",
-    "prior",
-    "likelihood",
-    "posterior",
-    "credible intervallen",
-    "credibility intervallen",
-    "hypothese toets",
-    "bayes factor",
-    "parameter schatting",
-    "informatieve hypothesetoetsing",
-    "tijdreeks",
-    "beschrijvende methoden",
-    "autocorrelatie",
-    "runs test",
-    "seasonal variation",
-    "arima models",
-    "forecasting",
-    "frequency domain",
-    "kansrekenen",
-    "elementary probability",
-    "uitkomstenruimte",
-    "gebeurtenissen",
-    "general rules",
-    "intersection",
-    "union",
-    "somregel",
-    "productregel",
-    "onafhankelijke gebeurtenissen",
-    "combinaties",
-    "permutaties",
-    "voorwaardelijke kans",
-    "willekeurige variabelen",
-    "verwachte waarde",
-    "regels voor verwachte waarde",
-    "willekeurige steekproef",
-    "verdelingen",
-    "discreet",
-    "binomiaal",
-    "normale benadering tot binomiaal",
-    "bernoulli",
-    "geometrisch",
-    "negatief binomiaal",
-    "poisson",
-    "hypergeometrisch",
-    "multinomiaal",
-    "continue",
-    "normaal",
-    "uniform",
-    "exponentieel",
-    "gamma",
-    "t-verdeling",
-    "f-verdeling",
-    "chi-kwadraat",
-    "limietstellingen",
-    "limit theorems",
-    "centrale limietstelling",
-    "central limit theorem",
-    "wetten van de grote aantallen",
-    "law of large numbers",
-    "assumpties",
-    "homogeniteit van variantie",
-    "gelijke varianties",
-    "levenes toets",
-    "ratio steekproefgrootte",
-    "ratio variantie",
-    "sfericiteit",
-    "mauchly's toets",
-    "epsilon",
-    "normaliteit",
-    "shapiro-wilks",
-    "kolmogorov-smirnov",
-    "q-q plot",
-    "lineariteit",
-    "homoscedasticiteit",
-    "residuenplot",
-    "multicolineariteit",
-    "vif",
-    "tolerance",
-    "factor analyse",
-    "principi\u00eble component analyse",
-    "rotaties",
-    "eigenwaarden",
-    "factor ladingen",
-    "compontent correlatie matrix",
-    "scree plot",
-    "pattern matrix",
-    "structure matrix",
-    "factorcorrelatiematrix",
-    "communaliteiten",
-    "factor scores",
-    "component scores",
-    "betrouwbaarheid",
-    "analyse",
-    "cronbachs alpha",
-    "split-half methode",
-    "test-hertest",
-    "parallel toetsen",
-    "item-totaal correlatie",
-    "rit",
-    "itemrestcorrelatie",
-    "rir",
-    "proportie correct"
-  ]
-}
+## Unknown sections
+   * 
+   * Voorspelde Y bij gegeven X
+   * Binomiale verdeling
+   * Meetniveaus
+   * InferentiÃ«le statistiek
+   * Statistische significantie
+   * mu onbekend
+   * Inferentiële statistiek
+   * Regressie (inferentiële stat.)
+   * Kansverdeling steekproefgemiddelde (onafhankelijke
+   * Formule
+   * Coverage (95%
+   * Optelregel voor kans op vereniging van twee gebeur
+   * Populatieverdelingen
+   * Non-parametrische toetsen
+   * Kansverdeling van tgh onder H0
+   * Continue stochastische variabelen
+   * Toets (H0
+   * Beschrijvende statistiek
+   * Gepaarde T toets
+   * Power en steekproefomvang
+   * Pearson's Chi-kwadraat
+   * Kengetallen
+   * Invloed op kengetallen
+   * sigma bekend)
+   * Wilcoxon (Matched Pairs) Signed Rank test
+   * Kansrekening
+   * Uniforme verdeling
+   * Interpretatie r
+   * Lineair verband (correlatie)
+   * Pearson coefficient
+   * H0 wel/niet verwerpen
+   * Kritieke waarde / kritiek gebied
+   * Klassieke kansdefinitie
+   * Schatten regressievergelijking
+   * Kwalitatief/kwantitatief
+   * Verwachtingswaarde van (discrete) toevalvariabele;
+   * ANOVA-table
+   * Correlatie (inferentiële stat.)
+   * vrijheidsgraden
+   * 1 steekproef T-toets
+   * Twoway + interactie
+   * Onafhankelijkheid van twee of meer gebeurtenissen
+   * T-Toetsen
+   * T toets voor 2 onafh. Steekproeven
+   * Voorwaardelijke kansen
+   * Normale verdeling
+   * Dichotome data
+   * Kansverdeling
+   * Discrete stochastische variabelen (elementair begr
+   * Kansrekening (ond.)
+   * Formules
+   * Complementregel
+   * Continu/discreet
+   * Interpretatie intercept en r.c.
+   * Toetstheorie
+   * Risico alpha of beta
+   * Oneway
+   * Intervalschatting
+   * 9
+   * (normaal verdeeld
+   * Invloed van extra punt op regressie vgl.
+   * Binomiaaltoets (Z-benadering)
+   * Hypotheses (nul en alternatief; één- en tweezijdig
+   * Interpretatie
+   * Kansdefinities
+   * Gebeurtenis
+   * Betrouwbaarheidsinterval voor mu
+   * Regressie (beschrijvende stat.)
+   * Uitkomstenruimte (even waarschijnlijke uitkomsten)
+   * Mann-Whitney / Wilcoxon Rank Sum test
+   * Correlatie (beschrijvende stat.)
+   * Inferenti?le statistiek
+   * Verband met corr coeff
+   * Toetsingsgrootheid (tgh)
+   * Locatiematen

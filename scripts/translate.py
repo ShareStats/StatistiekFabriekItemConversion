@@ -5,7 +5,6 @@ usage: option "--no-dryrun" to apply changes
 (c) O. Lindemann
 """
 
-import json
 import os
 import sys
 from os import path
@@ -88,10 +87,17 @@ if __name__ == "__main__":
         dryrun = True
 
     item_folder = "./MultipleChoice"
-    transl = read_translation_file("Taxonomie ShareStats Nederlands.xlsx")
-    #print(transl)
     log = open("translate_log.md", "w", encoding="utf-8")
 
+    transl = read_translation_file("Taxonomie ShareStats Nederlands.xlsx")
+
+    log.write("\n# Used translation table\n\n")
+    log.write("| Dutch | English |\n")
+    log.write("| ---- | ---- |\n")
+    for nl, en in transl.items():
+        log.write(f"| {nl} | {en} |\n")
+
+    log.write("\n\n # Issues in following files\n")
 
     unknown_sections = set()
     for fl in get_filelist(item_folder):
@@ -108,13 +114,13 @@ if __name__ == "__main__":
                 #get exsections
                 sections = []
                 issues = []
+                transl_sections = []
                 tmp = txt.split(":")
                 if len(tmp) >1:
                     sections = [x.strip() for x in tmp[1].split(",")]
 
                 if len(sections):
                    # translate sections
-                    transl_sections = []
                     for sec in sections:
                         if sec.lower() in transl:
                             transl_sections.append(transl[sec.lower()])
@@ -138,6 +144,7 @@ if __name__ == "__main__":
                     rmd.save()
 
     log.write("\n\n# Summary:\n")
-    log.write(json.dumps({"unknown_sections": list(unknown_sections)}, indent=2))
-    log.write(json.dumps({"all_known_sections": list(transl.keys())}, indent=2))
+    log.write("## Unknown sections\n")
+    for x in list(unknown_sections):
+        log.write(f"   * {x}\n")
     log.close()

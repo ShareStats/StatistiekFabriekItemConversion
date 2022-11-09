@@ -1,7 +1,7 @@
 Question
 ========
 
-Bij toetsing van de nulhypothese µ = 6 met een tweezijdig risico van 5% zal voor de waarde van de toetsingsgrootheid (tgh) en de conclusie gelden: 
+Bij toetsing van de nulhypothese Âµ = 6 met een tweezijdig risico van 5% zal voor de waarde van de toetsingsgrootheid (tgh) en de conclusie gelden: 
 
 Answerlist
 ----------
@@ -20,7 +20,7 @@ Meta-information
 exname: uva-inferential statistics-364-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Inferentiële statistiek,T-Toetsen,1 steekproef T-toets 
+exsection: InferentiÃ«le statistiek/T-Toetsen/1 steekproef T-toets
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

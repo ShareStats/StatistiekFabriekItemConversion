@@ -1,7 +1,7 @@
 Question
 ========
 
-Driehonderd patiënten werden behandeld voor slapeloosheid, met één van drie methodes A, B of C. Na afloop van de behandeling werd hen naar hun oordeel over de behandeling gevraagd. De uitkomsten staan in de volgende kruistabel:
+Driehonderd patiÃ«nten werden behandeld voor slapeloosheid, met Ã©Ã©n van drie methodes A, B of C. Na afloop van de behandeling werd hen naar hun oordeel over de behandeling gevraagd. De uitkomsten staan in de volgende kruistabel:
 
 methode A methode B methode C
 "goed" 72 45 60 177
@@ -9,7 +9,7 @@ methode A methode B methode C
 "slecht" 13 21 9 43
 100 100 100 300
 
-Uit deze 300 personen wordt aselect één persoon getrokken. We definiëren de volgende twee gebeurtenissen:
+Uit deze 300 personen wordt aselect Ã©Ã©n persoon getrokken. We definiÃ«ren de volgende twee gebeurtenissen:
 A: de persoon werd behandeld met methode A.
 B: het oordeel van de persoon over zijn methode was: "goed".
 P(B | A) = 
@@ -31,7 +31,7 @@ Meta-information
 exname: uva-probability-627-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: Kansrekening,Kansverdeling,Voorwaardelijke kansen 
+exsection: Kansrekening/Kansverdeling/Voorwaardelijke kansen
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

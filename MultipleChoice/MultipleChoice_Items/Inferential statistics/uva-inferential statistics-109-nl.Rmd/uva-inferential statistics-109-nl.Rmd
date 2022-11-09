@@ -1,7 +1,7 @@
 Question
 ========
 
-Onderzoekers zijn geïnteresseerd in de relatie tussen probleemgedrag op school (y) en probleemgedrag op het kinderdagverblijf (x) van kinderen. Na het verzamelen van de gegevens voor 42 kinderen berekenen ze de regressielijn y = 2 + 3x. Ze doen een toets op de hellingparameter om de relatie tussen x en y vast te stellen. De standaarderror van de hellingparameter is 1.5 en het aantal vrijheidsgraden waarmee getoetst wordt is 40. De nulhypothese stelt dat de hellingparameter 0 is. Deze nulhypothese wordt getoetst tegen de alternatieve hypothese die stelt dat de hellingparameter niet gelijk aan 0 is. De nulhypothese kan 
+Onderzoekers zijn geÃ¯nteresseerd in de relatie tussen probleemgedrag op school (y) en probleemgedrag op het kinderdagverblijf (x) van kinderen. Na het verzamelen van de gegevens voor 42 kinderen berekenen ze de regressielijn y = 2 + 3x. Ze doen een toets op de hellingparameter om de relatie tussen x en y vast te stellen. De standaarderror van de hellingparameter is 1.5 en het aantal vrijheidsgraden waarmee getoetst wordt is 40. De nulhypothese stelt dat de hellingparameter 0 is. Deze nulhypothese wordt getoetst tegen de alternatieve hypothese die stelt dat de hellingparameter niet gelijk aan 0 is. De nulhypothese kan 
 
 Answerlist
 ----------
@@ -19,7 +19,7 @@ Meta-information
 exname: uva-inferential statistics-109-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Inferentiële statistiek,Correlatie (inferentiële stat.),Toets (H0: ? = 0), Tgh m.b.v. T-verdeling en p-waa 
+exsection: InferentiÃ«le statistiek/Correlatie (inferentiÃ«le stat.)/Toets (H0
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
