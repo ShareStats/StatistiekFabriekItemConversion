@@ -81,15 +81,18 @@ class RmdFile(object):
 
 if __name__ == "__main__":
 
+    item_folder = "./MultipleChoice"
+    separator_untraslated = "/"
+    log_file = "translate_log2.md"
+    xlsx_translate_= "Taxonomie ShareStats Nederlands.xlsx"
+
     try:
         dryrun = sys.argv[1] != "--no-dryrun"
     except:
         dryrun = True
 
-    item_folder = "./MultipleChoice"
-    log = open("translate_log.md", "w", encoding="utf-8")
-
-    transl = read_translation_file("Taxonomie ShareStats Nederlands.xlsx")
+    log = open(log_file, "w", encoding="utf-8")
+    transl = read_translation_file(xlsx_translate_)
 
     log.write("\n# Used translation table\n\n")
     log.write("| Dutch | English |\n")
@@ -117,7 +120,7 @@ if __name__ == "__main__":
                 transl_sections = []
                 tmp = txt.split(":")
                 if len(tmp) >1:
-                    sections = [x.strip() for x in tmp[1].split(",")]
+                    sections = [x.strip() for x in tmp[1].split(separator_untraslated)]
 
                 if len(sections):
                    # translate sections
