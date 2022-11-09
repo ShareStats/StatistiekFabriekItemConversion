@@ -1,7 +1,7 @@
 Question
 ========
 
-Van 143 ziekenhuispatiÃ«nten die een bepaalde infectie opliepen is het geslacht bepaald, en of ze de infectie al dan niet overleefden. Van de 126 overlevenden waren er 78 mannelijk, van de overledenen waren er 13 mannelijk. Stel we kiezen aselect een van de patiÃ«nten. Wanneer gegeven is dat de patiÃ«nt een man is, dan is de beste schatting van de kans op overlijden van deze patiÃ«nt gelijk aan 
+Van 143 ziekenhuispatiënten die een bepaalde infectie opliepen is het geslacht bepaald, en of ze de infectie al dan niet overleefden. Van de 126 overlevenden waren er 78 mannelijk, van de overledenen waren er 13 mannelijk. Stel we kiezen aselect een van de patiënten. Wanneer gegeven is dat de patiënt een man is, dan is de beste schatting van de kans op overlijden van deze patiënt gelijk aan 
 
 Answerlist
 ----------
@@ -20,6 +20,7 @@ Meta-information
 exname: uva-probability-441-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Kansrekening/Kansrekening (ond.)/Discrete stochastische variabelen (elementair begrexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Kansrekening,Kansrekening (ond.),Discrete stochastische variabelen (elementair begr 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

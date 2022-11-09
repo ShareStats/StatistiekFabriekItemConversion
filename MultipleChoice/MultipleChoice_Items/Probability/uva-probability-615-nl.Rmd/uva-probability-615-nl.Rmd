@@ -8,8 +8,8 @@ vrouw 30 26 54 10 120
 man 10 24 36 10 80
 40 50 90 20 200
 
-Uit deze 200 personen wordt aselect Ã©Ã©n persoon getrokken.
-We definiÃ«ren de volgende twee gebeurtenissen:
+Uit deze 200 personen wordt aselect één persoon getrokken.
+We definiëren de volgende twee gebeurtenissen:
 A: de oorspronkelijke haarkleur van de persoon is zwart.
 B: de persoon is van het vrouwelijk geslacht.P(A | B) = 
 
@@ -30,6 +30,7 @@ Meta-information
 exname: uva-probability-615-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: Kansrekening/Kansverdeling/Voorwaardelijke kansenexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Kansrekening,Kansverdeling,Voorwaardelijke kansen 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -19,6 +19,7 @@ Meta-information
 exname: uva-probability-35-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Kansrekening/Kansverdeling/Kansverdeling steekproefgemiddelde (onafhankelijkeexextra[Type]: Calculation
+exsection: Kansrekening,Kansverdeling,Kansverdeling steekproefgemiddelde (onafhankelijke 
+exextra[Type]: Calculation
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy

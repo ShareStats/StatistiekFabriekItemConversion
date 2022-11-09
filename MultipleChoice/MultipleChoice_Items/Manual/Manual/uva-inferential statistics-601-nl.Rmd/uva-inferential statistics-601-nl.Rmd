@@ -20,6 +20,7 @@ Meta-information
 exname: uva-inferential statistics-601-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: InferentiÃ«le statistiek/Toetstheorie/ANOVA/Oneway/F-distribution/p-valueexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Inferentiële statistiek,Toetstheorie,Anova,Oneway, F-verdeling,p-waarde 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

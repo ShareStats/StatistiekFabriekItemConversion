@@ -1,7 +1,7 @@
 Question
 ========
 
-Een 95% betrouwbaarheidsinterval voor een gemiddelde in de populatie is (203; 217). Dan geldt dat voor een hypothesetoets met H0: Âµ = 200 tegen Ha: Âµ <U+2260> 200 dat
+Een 95% betrouwbaarheidsinterval voor een gemiddelde in de populatie is (203; 217). Dan geldt dat voor een hypothesetoets met H0: µ = 200 tegen Ha: µ <U+2260> 200 dat
 I. de Type I fout groter is dan 0.05.
 II. de P-waarde kleiner is dan 0.05. 
 
@@ -21,6 +21,7 @@ Meta-information
 exname: uva-inferential statistics-112-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: InferentiÃ«le statistiek/Toetstheorie/Risico alpha of betaexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Inferentiële statistiek,Toetstheorie,Risico alpha of beta 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

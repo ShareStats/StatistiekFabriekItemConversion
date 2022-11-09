@@ -1,7 +1,7 @@
 Question
 ========
 
-Er is een idee dat iedereen een interne klok heeft die wordt beÃ¯nvloed door omstandigheden. Zo kun je bijvoorbeeld een emotionele gebeurtenis ervaren als een langdurige gebeurtenis, terwijl in werkelijkheid de gebeurtenis van korte duur was. In onderzoek naar wat deze interne klok dan beÃ¯nvloedt, wordt gekeken naar twee factoren: factor A: emotionele/neutrale stimuli gepresenteerd, en factor B: iemand anders was in de kamer bij de proefpersoon/niemand anders was in de kamer bij de proefpersoon. Ze meten vervolgens zelfrapportage over de ervaren tijd van de proefpersonen dat een gebeurtenis duurde. Hieronder staat een figuur van de resultaten in gemiddelden voor ieder van de 4 mogelijke combinaties van factor A en B. Gegeven deze figuur en dat het interactie-effect significant is, wat is een goede interpretatie van de data? 
+Er is een idee dat iedereen een interne klok heeft die wordt beïnvloed door omstandigheden. Zo kun je bijvoorbeeld een emotionele gebeurtenis ervaren als een langdurige gebeurtenis, terwijl in werkelijkheid de gebeurtenis van korte duur was. In onderzoek naar wat deze interne klok dan beïnvloedt, wordt gekeken naar twee factoren: factor A: emotionele/neutrale stimuli gepresenteerd, en factor B: iemand anders was in de kamer bij de proefpersoon/niemand anders was in de kamer bij de proefpersoon. Ze meten vervolgens zelfrapportage over de ervaren tijd van de proefpersonen dat een gebeurtenis duurde. Hieronder staat een figuur van de resultaten in gemiddelden voor ieder van de 4 mogelijke combinaties van factor A en B. Gegeven deze figuur en dat het interactie-effect significant is, wat is een goede interpretatie van de data? 
 
  /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F10&extension=png&mime_type=image%2Fpng 
 
@@ -23,6 +23,7 @@ Meta-information
 exname: uva-inferential statistics-107-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: InferentiÃ«le statistiek/ANOVA/Twoway + interactieexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Inferentiële statistiek,Anova,Twoway + interactie 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

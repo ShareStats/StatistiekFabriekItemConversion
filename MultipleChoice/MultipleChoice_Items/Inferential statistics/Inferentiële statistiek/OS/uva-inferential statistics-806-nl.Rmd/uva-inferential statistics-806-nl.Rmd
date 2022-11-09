@@ -21,7 +21,8 @@ Meta-information
 exname: uva-inferential statistics-806-nl.Rmd 
 extype: num 
 exsolution: 5
-exsection: InferentiÃ«le statistiek/ANOVA/Oneway/ANOVA-tableexextra[Type]: Calculation
+exsection: Inferentiële statistiek,Anova,Oneway, ANOVA-table 
+exextra[Type]: Calculation
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy 
 

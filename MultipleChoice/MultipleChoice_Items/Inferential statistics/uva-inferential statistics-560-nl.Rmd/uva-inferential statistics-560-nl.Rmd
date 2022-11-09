@@ -1,9 +1,9 @@
 Question
 ========
 
-Gegeven de volgende twee uitspraken over ÃŸ, de fout van de tweede soort, van een toets. Welke uitspraken zijn juist?
-I: Als a (risico) toeneemt, neemt ÃŸ ook toe.
-II: Als n (steekproefgrootte) toeneemt, neemt ÃŸ ook toe. 
+Gegeven de volgende twee uitspraken over ß, de fout van de tweede soort, van een toets. Welke uitspraken zijn juist?
+I: Als a (risico) toeneemt, neemt ß ook toe.
+II: Als n (steekproefgrootte) toeneemt, neemt ß ook toe. 
 
 Answerlist
 ----------
@@ -22,6 +22,7 @@ Meta-information
 exname: uva-inferential statistics-560-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: InferentiÃ«le statistiek/Toetstheorie/Risico alpha of betaexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Inferentiële statistiek,Toetstheorie,Risico alpha of beta 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

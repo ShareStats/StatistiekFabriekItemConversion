@@ -1,7 +1,7 @@
 Question
 ========
 
-x volgt een normale verdeling met Âµ = -2 en sÂ² = 16. Voor welk getal a geldt dat P(-6 < x < a) = 0.3413? 
+x volgt een normale verdeling met µ = -2 en s² = 16. Voor welk getal a geldt dat P(-6 < x < a) = 0.3413? 
 
 Answerlist
 ----------
@@ -20,6 +20,7 @@ Meta-information
 exname: uva-probability-518-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Kansrekening/Kansrekening (ond.)/Kansverdeling/Kansverdeling steekproefgemiddelde (onafhankelijke/Continue stochastische variabelenexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Kansrekening,Kansrekening (ond.),Kansverdeling,Kansverdeling steekproefgemiddelde (onafhankelijke,Continue stochastische variabelen 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

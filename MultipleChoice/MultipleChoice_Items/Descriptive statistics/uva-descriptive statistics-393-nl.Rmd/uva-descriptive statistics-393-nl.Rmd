@@ -1,7 +1,7 @@
 Question
 ========
 
-Gegeven de volgende steekproefuitkomsten: 4.5, 3.9, 4.6, 4.1, 4.4. Het 95% betrouwbaarheidsinterval voor het populatiegemiddelde Âµ is gelijk aan 
+Gegeven de volgende steekproefuitkomsten: 4.5, 3.9, 4.6, 4.1, 4.4. Het 95% betrouwbaarheidsinterval voor het populatiegemiddelde µ is gelijk aan 
 
 Answerlist
 ----------
@@ -20,6 +20,7 @@ Meta-information
 exname: uva-descriptive statistics-393-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Beschrijvende statistiek/Kengetallen/Locatiematenexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Beschrijvende statistiek,Kengetallen,Locatiematen 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

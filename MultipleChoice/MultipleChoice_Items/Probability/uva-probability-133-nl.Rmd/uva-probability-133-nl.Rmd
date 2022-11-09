@@ -1,7 +1,7 @@
 Question
 ========
 
-Een zuivere dobbelsteen wordt vijf maal geworpen. Hoe groot is de kans dat er tenminste Ã©Ã©n maal een zes boven komt? 
+Een zuivere dobbelsteen wordt vijf maal geworpen. Hoe groot is de kans dat er tenminste één maal een zes boven komt? 
 
 Answerlist
 ----------
@@ -19,6 +19,7 @@ Meta-information
 exname: uva-probability-133-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Kansrekening/Kansrekening (ond.)/Complementregelexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Kansrekening,Kansrekening (ond.),Complementregel 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

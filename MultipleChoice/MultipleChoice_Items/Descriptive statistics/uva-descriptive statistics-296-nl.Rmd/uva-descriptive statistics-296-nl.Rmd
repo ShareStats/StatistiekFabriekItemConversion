@@ -1,7 +1,7 @@
 Question
 ========
 
-Bij 6 patiÃ«nten met ouderdomsdiabetes is het gewicht (in kg) bepaald met als resultaat: 84, 78, 65, 103, 91, 87. De standaardafwijking van deze steekproef is gelijk aan 
+Bij 6 patiënten met ouderdomsdiabetes is het gewicht (in kg) bepaald met als resultaat: 84, 78, 65, 103, 91, 87. De standaardafwijking van deze steekproef is gelijk aan 
 
 Answerlist
 ----------
@@ -20,6 +20,7 @@ Meta-information
 exname: uva-descriptive statistics-296-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: Beschrijvende statistiek/Kengetallen/Standard Deviationexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Beschrijvende statistiek,Kengetallen,Standaarddeviatie 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

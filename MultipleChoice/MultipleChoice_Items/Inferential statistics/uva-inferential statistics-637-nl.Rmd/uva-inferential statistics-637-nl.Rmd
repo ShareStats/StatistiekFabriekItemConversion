@@ -1,7 +1,7 @@
 Question
 ========
 
-We veronderstellen van een variabele in een bepaalde populatie dat hij normaal verdeeld is volgens N(Âµ,sÂ²). Om H0: Âµ = 30 te toetsen, trekken we een steekproef (n = 9) uit de populatie met als resultaat: gemiddelde = 28 en standaarddeviatie = 3.6. De waarde van de toetsingsgrootheid T is dan 
+We veronderstellen van een variabele in een bepaalde populatie dat hij normaal verdeeld is volgens N(µ,s²). Om H0: µ = 30 te toetsen, trekken we een steekproef (n = 9) uit de populatie met als resultaat: gemiddelde = 28 en standaarddeviatie = 3.6. De waarde van de toetsingsgrootheid T is dan 
 
 Answerlist
 ----------
@@ -20,6 +20,7 @@ Meta-information
 exname: uva-inferential statistics-637-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: InferentiÃ«le statistiek/T-Toetsen/1 steekproef T-toetsexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Inferentiële statistiek,T-Toetsen,1 steekproef T-toets 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

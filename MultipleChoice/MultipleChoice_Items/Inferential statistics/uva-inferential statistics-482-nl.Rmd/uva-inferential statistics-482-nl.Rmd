@@ -1,7 +1,7 @@
 Question
 ========
 
-Bij toetsen is ÃŸ, de kans op een fout van de tweede soort, gedefinieerd als 
+Bij toetsen is ß, de kans op een fout van de tweede soort, gedefinieerd als 
 
 Answerlist
 ----------
@@ -20,6 +20,7 @@ Meta-information
 exname: uva-inferential statistics-482-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: InferentiÃ«le statistiek/Toetstheorie/Risico alpha of betaexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Inferentiële statistiek,Toetstheorie,Risico alpha of beta 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

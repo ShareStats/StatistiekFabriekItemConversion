@@ -26,6 +26,7 @@ Meta-information
 exname: uva-probability-604-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Kansrekening/Kansrekening (ond.)/Optelregel voor kans op vereniging van twee gebeurexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Kansrekening,Kansrekening (ond.),Optelregel voor kans op vereniging van twee gebeur 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

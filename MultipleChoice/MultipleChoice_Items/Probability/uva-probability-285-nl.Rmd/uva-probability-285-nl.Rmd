@@ -8,7 +8,7 @@ Kiesdistrict 1 183 161 12
 Kiesdistrict 2 212 228 16
 Totaal 395 398 28
 
-Wanneer we uit deze 812 stemmers er aselect Ã©Ã©n kiezen, dan is kans dat het iemand uit district 1 is, en dat deze gestemd heeft tegen de grondwet, gelijk aan 
+Wanneer we uit deze 812 stemmers er aselect één kiezen, dan is kans dat het iemand uit district 1 is, en dat deze gestemd heeft tegen de grondwet, gelijk aan 
 
 Answerlist
 ----------
@@ -27,6 +27,7 @@ Meta-information
 exname: uva-probability-285-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Kansrekening/Kansrekening (ond.)/Discrete stochastische variabelen (elementair begrexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Kansrekening,Kansrekening (ond.),Discrete stochastische variabelen (elementair begr 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

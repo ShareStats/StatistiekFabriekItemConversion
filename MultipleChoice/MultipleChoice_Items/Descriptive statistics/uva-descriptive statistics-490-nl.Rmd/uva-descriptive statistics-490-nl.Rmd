@@ -1,7 +1,7 @@
 Question
 ========
 
-Van 5 verpleegkundigen is hun attitude vÃ³Ã³r en na een bepaalde interventie gemeten met als resultaat:
+Van 5 verpleegkundigen is hun attitude vóór en na een bepaalde interventie gemeten met als resultaat:
 VOOR: 46, 38, 30, 42, 41
 NA: 43, 43, 37, 39, 45.
 De geschatte standaarddeviatie van het gemiddelde verschil tussen de nameting en de voormeting is gelijk aan: 
@@ -23,6 +23,7 @@ Meta-information
 exname: uva-descriptive statistics-490-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Beschrijvende statistiek/Kengetallen/Standard Deviationexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Beschrijvende statistiek,Kengetallen,Standaarddeviatie 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

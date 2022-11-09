@@ -1,7 +1,7 @@
 Question
 ========
 
-Stel dat we een steekproef van grootte 4 trekken uit een normaal verdeelde populatie met Âµ = 20 en sÂ²= 64. De kans dat het steekproefgemiddelde groter dan of gelijk is aan 24 is gelijk aan 
+Stel dat we een steekproef van grootte 4 trekken uit een normaal verdeelde populatie met µ = 20 en s²= 64. De kans dat het steekproefgemiddelde groter dan of gelijk is aan 24 is gelijk aan 
 
 Answerlist
 ----------
@@ -20,6 +20,7 @@ Meta-information
 exname: uva-probability-306-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Kansrekening/Kansverdeling/Kansverdeling steekproefgemiddelde (onafhankelijkeexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Kansrekening,Kansverdeling,Kansverdeling steekproefgemiddelde (onafhankelijke 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

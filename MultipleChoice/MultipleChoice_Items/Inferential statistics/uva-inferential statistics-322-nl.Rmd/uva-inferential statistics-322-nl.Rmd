@@ -2,8 +2,8 @@ Question
 ========
 
 Hieronder staan twee uitspraken. Welke hiervan zijn juist?
-I: H0: Âµ1 - Âµ2 = 5 moet worden verworpen (bij a = 5% tweezijdig)
-II: H0: Âµ1 - Âµ2 = -2 moet worden verworpen (bij a = 5% tweezijdig) 
+I: H0: µ1 - µ2 = 5 moet worden verworpen (bij a = 5% tweezijdig)
+II: H0: µ1 - µ2 = -2 moet worden verworpen (bij a = 5% tweezijdig) 
 
  /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F32&extension=png&mime_type=image%2Fpng 
 
@@ -26,6 +26,7 @@ Meta-information
 exname: uva-inferential statistics-322-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: InferentiÃ«le statistiek/T-Toetsen/T toets voor 2 onafh. Steekproevenexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Inferentiële statistiek,T-Toetsen,T toets voor 2 onafh. Steekproeven 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

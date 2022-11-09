@@ -1,7 +1,7 @@
 Question
 ========
 
-De kwantitatieve variabelen x en y hebben een standaardafwijking gelijk aan sx = 2 en sy = 4. De correlatiecoÃ«fficiÃ«nt heeft de waarde 0,80. Dan is in de regressievergelijking y = a + bx de waarde van b gelijk aan 
+De kwantitatieve variabelen x en y hebben een standaardafwijking gelijk aan sx = 2 en sy = 4. De correlatiecoëfficiënt heeft de waarde 0,80. Dan is in de regressievergelijking y = a + bx de waarde van b gelijk aan 
 
 Answerlist
 ----------
@@ -19,6 +19,7 @@ Meta-information
 exname: uva-descriptive statistics-148-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: Beschrijvende statistiek/Regressie (beschrijvende stat.)/Verband met corr coeffexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Beschrijvende statistiek,Regressie (beschrijvende stat.),Verband met corr coeff 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

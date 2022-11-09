@@ -1,7 +1,7 @@
 Question
 ========
 
-Een variabele A is normaal verdeeld volgens N(Âµ,sÂ²). We trekken een steekproef ter grootte van n uit deze verdeling, met gemiddelde \(\bar{x}\) en sd s. Dan volgt de grootheid \(\frac{\bar{A}-\mu }{\frac{s}{\sqrt{n}}}\) de volgende verdeling: 
+Een variabele A is normaal verdeeld volgens N(µ,s²). We trekken een steekproef ter grootte van n uit deze verdeling, met gemiddelde \(\bar{x}\) en sd s. Dan volgt de grootheid \(\frac{\bar{A}-\mu }{\frac{s}{\sqrt{n}}}\) de volgende verdeling: 
 
 Answerlist
 ----------
@@ -20,6 +20,7 @@ Meta-information
 exname: uva-inferential statistics-621-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: InferentiÃ«le statistiek/T-Toetsen/t-distribution/vrijheidsgradenexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Inferentiële statistiek,T-Toetsen,T-verdeling, vrijheidsgraden 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

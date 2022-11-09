@@ -1,7 +1,7 @@
 Question
 ========
 
-In de gepaarde T-toets wordt de nulhypothese H0: ÂµD = Âµvoor - Âµna = 0 getoetst. Bij een tweezijdig risico van a = 0.05 moet de conclusie luiden: 
+In de gepaarde T-toets wordt de nulhypothese H0: µD = µvoor - µna = 0 getoetst. Bij een tweezijdig risico van a = 0.05 moet de conclusie luiden: 
 
  /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F13&extension=png&mime_type=image%2Fpng 
 
@@ -24,6 +24,7 @@ Meta-information
 exname: uva-inferential statistics-270-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: InferentiÃ«le statistiek/T-Toetsen/Gepaarde T toetsexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Inferentiële statistiek,T-Toetsen,Gepaarde T toets 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

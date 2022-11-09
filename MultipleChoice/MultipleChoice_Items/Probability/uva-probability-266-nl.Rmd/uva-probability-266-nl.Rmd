@@ -25,6 +25,7 @@ Meta-information
 exname: uva-probability-266-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: Kansrekening/Kansrekening (ond.)/Discrete stochastische variabelen (elementair begrexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Kansrekening,Kansrekening (ond.),Discrete stochastische variabelen (elementair begr 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

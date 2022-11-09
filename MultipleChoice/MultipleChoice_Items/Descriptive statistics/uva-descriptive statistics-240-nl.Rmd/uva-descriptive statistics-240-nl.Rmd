@@ -1,7 +1,7 @@
 Question
 ========
 
-Een onderzoeker verwacht dat er een positief verband bestaat tussen overgewicht en hoogte van het LDL cholesterol. In een aselecte steekproef van n = 30 mannen vindt hij voor deze variabelen een waarde van Spearmans rangcorrelatiecoÃ«fficiÃ«nt die gelijk is aan 0.48. Op basis van dit resultaat kan de nulhypothese dat er geen sprake is van een verband worden verworpen bij 
+Een onderzoeker verwacht dat er een positief verband bestaat tussen overgewicht en hoogte van het LDL cholesterol. In een aselecte steekproef van n = 30 mannen vindt hij voor deze variabelen een waarde van Spearmans rangcorrelatiecoëfficiënt die gelijk is aan 0.48. Op basis van dit resultaat kan de nulhypothese dat er geen sprake is van een verband worden verworpen bij 
 
 Answerlist
 ----------
@@ -19,6 +19,7 @@ Meta-information
 exname: uva-descriptive statistics-240-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Beschrijvende statistiek/Correlatie (beschrijvende stat.)/Interpretatie rexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Beschrijvende statistiek,Correlatie (beschrijvende stat.),Interpretatie r 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
