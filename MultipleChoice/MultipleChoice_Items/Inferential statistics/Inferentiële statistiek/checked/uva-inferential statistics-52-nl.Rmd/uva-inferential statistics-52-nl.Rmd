@@ -19,7 +19,7 @@ Meta-information
 exname: uva-inferential statistics-52-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Inferentiële statistiek/Regressie (inferentiële stat.)
+exsection: Inferentiële statistiek,Regressie (inferentiële stat.) 
 exextra[Type]: Conceptual
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy

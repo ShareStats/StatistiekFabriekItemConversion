@@ -1,7 +1,7 @@
 Question
 ========
 
-Uit een grote populatie wordt een steekproef van 7 personen getrokken en hun lichaamstemperatuur (in Â°C) wordt gemeten, met als uitkomsten: 37.5, 37.1, 38.0, 37.6, 36.8, 37.1, 37.7 De steekproef standaarddeviatie is gelijk aan 
+Uit een grote populatie wordt een steekproef van 7 personen getrokken en hun lichaamstemperatuur (in °C) wordt gemeten, met als uitkomsten: 37.5, 37.1, 38.0, 37.6, 36.8, 37.1, 37.7 De steekproef standaarddeviatie is gelijk aan 
 
 Answerlist
 ----------
@@ -20,7 +20,7 @@ Meta-information
 exname: uva-descriptive statistics-414-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: Beschrijvende statistiek/Kengetallen/Standard Deviation
+exsection: Beschrijvende statistiek,Kengetallen,Standaarddeviatie 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

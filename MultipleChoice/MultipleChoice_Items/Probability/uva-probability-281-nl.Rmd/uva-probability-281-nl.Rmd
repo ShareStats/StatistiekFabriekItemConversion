@@ -20,7 +20,7 @@ Meta-information
 exname: uva-probability-281-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Kansrekening/Kansverdeling/Normale verdeling
+exsection: Kansrekening,Kansverdeling,Normale verdeling 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

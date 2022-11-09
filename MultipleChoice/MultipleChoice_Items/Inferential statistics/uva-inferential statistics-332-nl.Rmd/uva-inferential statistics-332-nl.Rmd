@@ -1,8 +1,8 @@
 Question
 ========
 
-Hieronder staat SPSS-uitvoer van een gepaarde T-toets op depressiescores van 15 patiÃ«nten, gemeten voor en na een gesprek met een therapeut. Hieronder staan twee uitspraken. Welke hiervan zijn juist?
-I: H0: Âµvoor â€“ Âµna = 0 moet worden verworpen (bij a=5% tweezijdig).
+Hieronder staat SPSS-uitvoer van een gepaarde T-toets op depressiescores van 15 patiënten, gemeten voor en na een gesprek met een therapeut. Hieronder staan twee uitspraken. Welke hiervan zijn juist?
+I: H0: µvoor – µna = 0 moet worden verworpen (bij a=5% tweezijdig).
 II: var(Xgemiddeld voor - Xgemiddeld na) = var(Xgemiddeld voor) + var(Xgemiddeld na) 
 
  /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F36&extension=png&mime_type=image%2Fpng 
@@ -26,7 +26,7 @@ Meta-information
 exname: uva-inferential statistics-332-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: InferentiÃ«le statistiek/T-Toetsen/Gepaarde T toets
+exsection: Inferentiële statistiek,T-Toetsen,Gepaarde T toets 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

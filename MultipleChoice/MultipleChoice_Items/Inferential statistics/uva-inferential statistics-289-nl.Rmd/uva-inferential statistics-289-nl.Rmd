@@ -1,7 +1,7 @@
 Question
 ========
 
-Elf personen volgen een dieet om hun hemoglobine-gehalte te verhogen. Hieronder staat SPSS-uitvoer van een toets om te kijken of het Hb-gehalte voor en na het dieet inderdaad anders is. Bij het toetsen van H0: Âµvoor = Âµna tegen H1: Âµvoor < Âµna, met een eenzijdig risico van 5%, moet de conclusie luiden 
+Elf personen volgen een dieet om hun hemoglobine-gehalte te verhogen. Hieronder staat SPSS-uitvoer van een toets om te kijken of het Hb-gehalte voor en na het dieet inderdaad anders is. Bij het toetsen van H0: µvoor = µna tegen H1: µvoor < µna, met een eenzijdig risico van 5%, moet de conclusie luiden 
 
  /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F20&extension=png&mime_type=image%2Fpng 
 
@@ -24,7 +24,7 @@ Meta-information
 exname: uva-inferential statistics-289-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: InferentiÃ«le statistiek/T-Toetsen/Gepaarde T toets
+exsection: Inferentiële statistiek,T-Toetsen,Gepaarde T toets 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,7 +1,7 @@
 Question
 ========
 
-In een personenlift is plaats voor 4 personen. De maximale belasting is 360 kilogram. Veronderstel dat de gewichten in een zekere populatie normaal verdeeld zijn volgens N(80, 10Â²). Hoe groot is de kans dat een willekeurig persoon uit deze populatie zwaarder is dan 90 kg? 
+In een personenlift is plaats voor 4 personen. De maximale belasting is 360 kilogram. Veronderstel dat de gewichten in een zekere populatie normaal verdeeld zijn volgens N(80, 10²). Hoe groot is de kans dat een willekeurig persoon uit deze populatie zwaarder is dan 90 kg? 
 
 Answerlist
 ----------
@@ -20,7 +20,7 @@ Meta-information
 exname: uva-probability-476-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Kansrekening/Kansverdeling/Normale verdeling
+exsection: Kansrekening,Kansverdeling,Normale verdeling 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

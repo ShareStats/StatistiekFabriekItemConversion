@@ -1,7 +1,7 @@
 Question
 ========
 
-Stel dat een stochastische variabele r normaal verdeeld is met Âµ = 15 en sÂ² = 25. Wat is de kans dat een aselect uit deze verdeling getrokken waarde tussen 10 en 13 ligt? 
+Stel dat een stochastische variabele r normaal verdeeld is met µ = 15 en s² = 25. Wat is de kans dat een aselect uit deze verdeling getrokken waarde tussen 10 en 13 ligt? 
 
 Answerlist
 ----------
@@ -20,7 +20,7 @@ Meta-information
 exname: uva-probability-593-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Kansrekening/Kansverdeling/Kansverdeling steekproefgemiddelde (onafhankelijke
+exsection: Kansrekening,Kansverdeling,Kansverdeling steekproefgemiddelde (onafhankelijke 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

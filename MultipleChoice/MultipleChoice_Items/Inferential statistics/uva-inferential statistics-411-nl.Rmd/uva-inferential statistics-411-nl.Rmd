@@ -24,7 +24,7 @@ Meta-information
 exname: uva-inferential statistics-411-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: InferentiÃ«le statistiek/Toetstheorie/Regressie (inferentiÃ«le stat.)/Toets (H0
+exsection: Inferentiële statistiek,Toetstheorie,Regressie (inferentiële stat.),Toets (H0 : ß1 = 0), Tgh m.b.v. T-verdeling,p-waarde 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

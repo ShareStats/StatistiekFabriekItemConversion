@@ -28,7 +28,7 @@ Meta-information
 exname: uva-inferential statistics-541-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: InferentiÃ«le statistiek/ANOVA/Oneway/ANOVA-table
+exsection: Inferentiële statistiek,Anova,Oneway, ANOVA-table 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

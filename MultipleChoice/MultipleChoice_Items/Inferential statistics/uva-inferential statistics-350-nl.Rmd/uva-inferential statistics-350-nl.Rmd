@@ -1,7 +1,7 @@
 Question
 ========
 
-Hieronder staat SPSS-uitvoer van een steekproef T toets betreffende afname in bloeddruk na medicatie. In de uitvoer wordt de hypothese getoetst dat de gemiddelde afname in de populatie, Âµ, gelijk is aan 10. Bij een tweezijdig risico van 5% moet de conclusie luiden 
+Hieronder staat SPSS-uitvoer van een steekproef T toets betreffende afname in bloeddruk na medicatie. In de uitvoer wordt de hypothese getoetst dat de gemiddelde afname in de populatie, µ, gelijk is aan 10. Bij een tweezijdig risico van 5% moet de conclusie luiden 
 
  /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F40&extension=png&mime_type=image%2Fpng 
 
@@ -24,7 +24,7 @@ Meta-information
 exname: uva-inferential statistics-350-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: InferentiÃ«le statistiek/T-Toetsen/1 steekproef T-toets
+exsection: Inferentiële statistiek,T-Toetsen,1 steekproef T-toets 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

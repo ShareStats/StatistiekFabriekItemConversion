@@ -1,7 +1,7 @@
 Question
 ========
 
-Gegeven zijn de volgende steekproefuitkomsten: 29, 22, 17, 23, 23, 19, 21. Het 90% betrouwbaarheidsinterval voor het populatiegemiddelde Âµ is gelijk aan 
+Gegeven zijn de volgende steekproefuitkomsten: 29, 22, 17, 23, 23, 19, 21. Het 90% betrouwbaarheidsinterval voor het populatiegemiddelde µ is gelijk aan 
 
 Answerlist
 ----------
@@ -20,7 +20,7 @@ Meta-information
 exname: uva-descriptive statistics-384-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Beschrijvende statistiek/Kengetallen/Locatiematen
+exsection: Beschrijvende statistiek,Kengetallen,Locatiematen 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

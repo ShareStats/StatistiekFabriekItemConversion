@@ -1,7 +1,7 @@
 Question
 ========
 
-Hieronder staat SPSS-uitvoer van een gepaarde T-toets op depressiescores van 15 patiÃ«nten, gemeten voor en na een gesprek met een therapeut. Wanneer we geÃ¯nteresseerd zijn in de vraag of de scores voor en na het gesprek afhankelijk zijn moet de conclusie luiden: 
+Hieronder staat SPSS-uitvoer van een gepaarde T-toets op depressiescores van 15 patiënten, gemeten voor en na een gesprek met een therapeut. Wanneer we geïnteresseerd zijn in de vraag of de scores voor en na het gesprek afhankelijk zijn moet de conclusie luiden: 
 
  /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F35&extension=png&mime_type=image%2Fpng 
 
@@ -24,7 +24,7 @@ Meta-information
 exname: uva-inferential statistics-331-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: InferentiÃ«le statistiek/T-Toetsen/Correlatie (inferentiÃ«le stat.)/Toets (H0
+exsection: Inferentiële statistiek,T-Toetsen,Correlatie (inferentiële stat.),Toets (H0: ? = 0), Tgh m.b.v. T-verdeling en p-waa,Gepaarde T toets 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

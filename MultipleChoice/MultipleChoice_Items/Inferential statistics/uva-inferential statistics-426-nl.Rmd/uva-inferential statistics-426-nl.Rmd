@@ -1,10 +1,10 @@
 Question
 ========
 
-Van een aselect getrokken steekproef van 7 personen is de hartslag om 8 uur â€™s ochtends en 4 uur â€™s middags gemeten, met als resultaten:
+Van een aselect getrokken steekproef van 7 personen is de hartslag om 8 uur ’s ochtends en 4 uur ’s middags gemeten, met als resultaten:
 ochtend: 75, 74, 70, 79, 65, 70, 68
 middag: 76, 76, 69, 80, 66, 73, 69
-We willen toetsen H0: Âµ(ochtend) = Âµ(middag) tegen H1: Âµ(ochtend) <U+2260> Âµ(middag). De rechter kritieke waarde van de toets met een tweezijdig risico van 0.05 is gelijk aan 
+We willen toetsen H0: µ(ochtend) = µ(middag) tegen H1: µ(ochtend) <U+2260> µ(middag). De rechter kritieke waarde van de toets met een tweezijdig risico van 0.05 is gelijk aan 
 
 Answerlist
 ----------
@@ -23,7 +23,7 @@ Meta-information
 exname: uva-inferential statistics-426-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: InferentiÃ«le statistiek/Toetstheorie/T-Toetsen/Gepaarde T toets/Kritieke waarde / kritiek gebied
+exsection: Inferentiële statistiek,Toetstheorie,T-Toetsen,Gepaarde T toets,Kritieke waarde / kritiek gebied 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

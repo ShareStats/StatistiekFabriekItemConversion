@@ -3,7 +3,7 @@ Question
 
 Hieronder is van 5 individuen aangegeven hoe zij t.o.v. elkaar gerangschikt zijn op autoritair gedrag en sociale status:
 Autoritair gedrag: 3, 1, 4, 2, 5
-Sociale status: 2, 1, 5, 3, 4. De waarde van de Spearman correlatiecoÃ«fficiÃ«nt is hier 
+Sociale status: 2, 1, 5, 3, 4. De waarde van de Spearman correlatiecoëfficiënt is hier 
 
 Answerlist
 ----------
@@ -22,7 +22,7 @@ Meta-information
 exname: uva-descriptive statistics-502-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Beschrijvende statistiek/Correlatie (beschrijvende stat.)/Pearson coefficient/Formule
+exsection: Beschrijvende statistiek,Correlatie (beschrijvende stat.),Pearson coefficient,Formule 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

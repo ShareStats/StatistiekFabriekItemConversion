@@ -25,7 +25,7 @@ Meta-information
 exname: uva-descriptive statistics-264-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Beschrijvende statistiek/Kengetallen/Median/Mode
+exsection: Beschrijvende statistiek,Kengetallen,Mediaan,Modus 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,7 +1,7 @@
 Question
 ========
 
-Uit een normaal verdeelde populatie N(200, 20Â²) trek ik een steekproef van grootte 4. De kans dat het steekproefgemiddelde kleiner is dan 190 is gelijk aan 
+Uit een normaal verdeelde populatie N(200, 20²) trek ik een steekproef van grootte 4. De kans dat het steekproefgemiddelde kleiner is dan 190 is gelijk aan 
 
 Answerlist
 ----------
@@ -20,7 +20,7 @@ Meta-information
 exname: uva-probability-484-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Kansrekening/Kansverdeling/Kansverdeling steekproefgemiddelde (onafhankelijke
+exsection: Kansrekening,Kansverdeling,Kansverdeling steekproefgemiddelde (onafhankelijke 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,7 +1,7 @@
 Question
 ========
 
-Van 10 verpleegkundigen is nagegaan hoe oud ze zijn en hoe lang ze als verpleegkundige werkzaam zijn. De Pearson CorrelatiecoÃ«fficiÃ«nt bleek 0.60 te zijn. Is deze correlatie significant (bij een a van 5%, tweezijdig)? 
+Van 10 verpleegkundigen is nagegaan hoe oud ze zijn en hoe lang ze als verpleegkundige werkzaam zijn. De Pearson Correlatiecoëfficiënt bleek 0.60 te zijn. Is deze correlatie significant (bij een a van 5%, tweezijdig)? 
 
 Answerlist
 ----------
@@ -20,7 +20,7 @@ Meta-information
 exname: uva-inferential statistics-467-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: InferentiÃ«le statistiek/Correlatie (inferentiÃ«le stat.)/Toets (H0
+exsection: Inferentiële statistiek,Correlatie (inferentiële stat.),Toets (H0: ? = 0), Tgh m.b.v. T-verdeling en p-waa 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

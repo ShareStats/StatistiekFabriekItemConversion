@@ -1,7 +1,7 @@
 Question
 ========
 
-X ~ N(-12, 8Â²). Dan is P(X > 0) gelijk aan 
+X ~ N(-12, 8²). Dan is P(X > 0) gelijk aan 
 
 Answerlist
 ----------
@@ -20,7 +20,7 @@ Meta-information
 exname: uva-probability-459-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Kansrekening/Kansverdeling/Normale verdeling
+exsection: Kansrekening,Kansverdeling,Normale verdeling 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,7 +1,7 @@
 Question
 ========
 
-De stochastische variabele X volgt een N(Âµ=10, sÂ²=4) verdeling. P(X < 8) is dan 
+De stochastische variabele X volgt een N(µ=10, s²=4) verdeling. P(X < 8) is dan 
 
 Answerlist
 ----------
@@ -20,7 +20,7 @@ Meta-information
 exname: uva-probability-557-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Kansrekening/Kansverdeling/Kansverdeling steekproefgemiddelde (onafhankelijke
+exsection: Kansrekening,Kansverdeling,Kansverdeling steekproefgemiddelde (onafhankelijke 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

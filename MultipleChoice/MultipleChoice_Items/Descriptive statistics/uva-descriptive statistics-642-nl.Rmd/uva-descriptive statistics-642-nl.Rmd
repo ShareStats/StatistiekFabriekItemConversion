@@ -1,7 +1,7 @@
 Question
 ========
 
-Van 8 individuen zijn kenmerken X en Y gemeten. Stel dat Y lineair afhankelijk is van X. Dan is de richtingscoÃ«fficiÃ«nt van de regressielijn van Y op X gelijk aan 
+Van 8 individuen zijn kenmerken X en Y gemeten. Stel dat Y lineair afhankelijk is van X. Dan is de richtingscoëfficiënt van de regressielijn van Y op X gelijk aan 
 
  /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F67&extension=png&mime_type=image%2Fpng 
 
@@ -24,7 +24,7 @@ Meta-information
 exname: uva-descriptive statistics-642-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Beschrijvende statistiek/Regressie (beschrijvende stat.)/Verband met corr coeff
+exsection: Beschrijvende statistiek,Regressie (beschrijvende stat.),Verband met corr coeff 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

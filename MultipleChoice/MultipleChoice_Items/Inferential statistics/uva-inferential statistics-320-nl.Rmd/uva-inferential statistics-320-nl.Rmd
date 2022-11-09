@@ -24,7 +24,7 @@ Meta-information
 exname: uva-inferential statistics-320-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: InferentiÃ«le statistiek/Toetstheorie/T-Toetsen/T toets voor 2 onafh. Steekproeven/Kritieke waarde / kritiek gebied
+exsection: Inferentiële statistiek,Toetstheorie,T-Toetsen,T toets voor 2 onafh. Steekproeven,Kritieke waarde / kritiek gebied 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,7 +1,7 @@
 Question
 ========
 
-Van een kunstenaarssociÃ«teit is 50% van de leden vrouw en 50% van de leden man. Van de vrouwen is 40% alcoholist, van de mannen 80%. Er wordt random een lid uit het ledenbestand gekozen. Deze blijkt alcoholist te zijn. Hoe groot is de kans dat het een vrouw is? 
+Van een kunstenaarssociëteit is 50% van de leden vrouw en 50% van de leden man. Van de vrouwen is 40% alcoholist, van de mannen 80%. Er wordt random een lid uit het ledenbestand gekozen. Deze blijkt alcoholist te zijn. Hoe groot is de kans dat het een vrouw is? 
 
 Answerlist
 ----------
@@ -19,7 +19,7 @@ Meta-information
 exname: uva-probability-4-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Kansrekening/Kansrekening (ond.)/Discrete stochastische variabelen (elementair begr
+exsection: Kansrekening,Kansrekening (ond.),Discrete stochastische variabelen (elementair begr 
 exextra[Type]: Calculation
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy

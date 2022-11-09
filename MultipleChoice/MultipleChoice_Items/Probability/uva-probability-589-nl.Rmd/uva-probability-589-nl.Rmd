@@ -1,7 +1,7 @@
 Question
 ========
 
-Stel dat gegeven is dat het gewicht van de Nederlandse mannen boven de 25 jaar normaal verdeeld is met Âµ = 81 en s = 9.We trekken uit deze populatie aselect een persoon. Hoe zwaar mag deze man hoogstens zijn om tot de lichtste 10% van de populatie te behoren? 
+Stel dat gegeven is dat het gewicht van de Nederlandse mannen boven de 25 jaar normaal verdeeld is met µ = 81 en s = 9.We trekken uit deze populatie aselect een persoon. Hoe zwaar mag deze man hoogstens zijn om tot de lichtste 10% van de populatie te behoren? 
 
 Answerlist
 ----------
@@ -20,7 +20,7 @@ Meta-information
 exname: uva-probability-589-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: Kansrekening/Kansverdeling/Kansverdeling steekproefgemiddelde (onafhankelijke
+exsection: Kansrekening,Kansverdeling,Kansverdeling steekproefgemiddelde (onafhankelijke 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

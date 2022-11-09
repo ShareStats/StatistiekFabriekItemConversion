@@ -1,7 +1,7 @@
 Question
 ========
 
-We meten Ã©Ã©n groep patiÃ«nten voor en na een bepaalde ingreep. Om te toetsen of de populatiegemiddelden voor en na de ingreep gelijk zijn aan elkaar gebruiken we een 
+We meten één groep patiënten voor en na een bepaalde ingreep. Om te toetsen of de populatiegemiddelden voor en na de ingreep gelijk zijn aan elkaar gebruiken we een 
 
 Answerlist
 ----------
@@ -20,7 +20,7 @@ Meta-information
 exname: uva-inferential statistics-566-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: InferentiÃ«le statistiek/T-Toetsen/Gepaarde T toets
+exsection: Inferentiële statistiek,T-Toetsen,Gepaarde T toets 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,7 +1,7 @@
 Question
 ========
 
-Op vier scholen worden de leerlingen in groepen 3, 4 en 5 in Ã©Ã©n van 3 klassen ingedeeld voor wat betreft hun leesvaardigheid: normaal, leesproblemen, dyslexie. De aantallen leerlingen in iedere klasse staan in de volgende 4 staafdiagrammen weergegeven. Dyslexie komt relatief het vaakst voor op school 
+Op vier scholen worden de leerlingen in groepen 3, 4 en 5 in één van 3 klassen ingedeeld voor wat betreft hun leesvaardigheid: normaal, leesproblemen, dyslexie. De aantallen leerlingen in iedere klasse staan in de volgende 4 staafdiagrammen weergegeven. Dyslexie komt relatief het vaakst voor op school 
 
  /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F23&extension=png&mime_type=image%2Fpng 
 
@@ -24,7 +24,7 @@ Meta-information
 exname: uva-descriptive statistics-294-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: Beschrijvende statistiek/Graphs/Bar graph
+exsection: Beschrijvende statistiek,Grafieken,Staafdiagram 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

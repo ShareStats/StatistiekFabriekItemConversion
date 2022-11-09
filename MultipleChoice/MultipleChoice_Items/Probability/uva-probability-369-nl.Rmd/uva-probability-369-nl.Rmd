@@ -1,7 +1,7 @@
 Question
 ========
 
-In een aselect getrokken steekproef van 200 onafhankelijke personen is gekeken naar het vÃ³Ã³rkomen van RSI-klachten (geen, licht, ernstig) en het type werk (veel computerwerk, overig).
+In een aselect getrokken steekproef van 200 onafhankelijke personen is gekeken naar het vóórkomen van RSI-klachten (geen, licht, ernstig) en het type werk (veel computerwerk, overig).
 
 yes RSI-klachten
 Geen Licht Ernstig
@@ -27,7 +27,7 @@ Meta-information
 exname: uva-probability-369-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: Kansrekening/Kansdefinities/Onafhankelijkheid van twee of meer gebeurtenissen
+exsection: Kansrekening,Kansdefinities,Onafhankelijkheid van twee of meer gebeurtenissen 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

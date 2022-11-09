@@ -1,7 +1,7 @@
 Question
 ========
 
-Een onderzoekster veronderstelt dat studenten vlak vÃ³Ã³r een tentamen een hogere hartslag hebben dan erna. Bij 12 studenten wordt de hartslag vlak voor en een uur na het tentamen gemeten. Bij Ã©Ã©n student is de hartslag hetzelfde, bij negen is ze afgenomen en bij twee toegenomen. De nulhypothese dat het tentamen geen invloed heeft gehad op de hartslag kan worden verworpen bij 
+Een onderzoekster veronderstelt dat studenten vlak vóór een tentamen een hogere hartslag hebben dan erna. Bij 12 studenten wordt de hartslag vlak voor en een uur na het tentamen gemeten. Bij één student is de hartslag hetzelfde, bij negen is ze afgenomen en bij twee toegenomen. De nulhypothese dat het tentamen geen invloed heeft gehad op de hartslag kan worden verworpen bij 
 
 Answerlist
 ----------
@@ -19,7 +19,7 @@ Meta-information
 exname: uva-inferential statistics-252-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: InferentiÃ«le statistiek/Non-parametrische toetsen
+exsection: Inferentiële statistiek,Non-parametrische toetsen 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

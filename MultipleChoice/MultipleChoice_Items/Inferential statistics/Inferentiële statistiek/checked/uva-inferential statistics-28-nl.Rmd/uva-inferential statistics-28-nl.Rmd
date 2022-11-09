@@ -19,7 +19,7 @@ Meta-information
 exname: uva-inferential statistics-28-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: InferentiÃ«le statistiek/Toetstheorie/p-value
+exsection: Inferentiële statistiek,Toetstheorie,p-waarde 
 exextra[Type]: Conceptua
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy

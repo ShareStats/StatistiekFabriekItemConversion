@@ -1,7 +1,7 @@
 Question
 ========
 
-Stel dat gegeven is dat voor een bepaalde patiÃ«ntenpopulatie het hemoglobinegehalte (Hb) normaal verdeeld is met Âµ = 7.90 en s = 0.80. We trekken uit deze populatie aselect een persoon. Hoe hoog mag het Hb van deze persoon hoogstens zijn om tot de laagste 10% van de populatie te behoren? 
+Stel dat gegeven is dat voor een bepaalde patiëntenpopulatie het hemoglobinegehalte (Hb) normaal verdeeld is met µ = 7.90 en s = 0.80. We trekken uit deze populatie aselect een persoon. Hoe hoog mag het Hb van deze persoon hoogstens zijn om tot de laagste 10% van de populatie te behoren? 
 
 Answerlist
 ----------
@@ -20,7 +20,7 @@ Meta-information
 exname: uva-inferential statistics-421-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: InferentiÃ«le statistiek/Toetstheorie/Dichotome data/Binomiaaltoets (Z-benadering)/Kritieke waarde / kritiek gebied
+exsection: Inferentiële statistiek,Toetstheorie,Dichotome data,Binomiaaltoets (Z-benadering),Kritieke waarde / kritiek gebied 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,7 +1,7 @@
 Question
 ========
 
-Aan een aantal patiÃ«nten wordt vÃ³Ã³r en na een behandeling een (normaal verdeelde) meting gedaan. Welke toets is hier het meest geschikt om een verschil in populatiegemiddelde voor en na behandeling te toetsen? 
+Aan een aantal patiënten wordt vóór en na een behandeling een (normaal verdeelde) meting gedaan. Welke toets is hier het meest geschikt om een verschil in populatiegemiddelde voor en na behandeling te toetsen? 
 
 Answerlist
 ----------
@@ -20,7 +20,7 @@ Meta-information
 exname: uva-inferential statistics-609-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: InferentiÃ«le statistiek/T-Toetsen/Gepaarde T toets
+exsection: Inferentiële statistiek,T-Toetsen,Gepaarde T toets 
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
