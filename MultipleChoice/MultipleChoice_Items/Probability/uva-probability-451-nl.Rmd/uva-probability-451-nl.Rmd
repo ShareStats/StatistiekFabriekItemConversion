@@ -1,7 +1,7 @@
 Question
 ========
 
-Gegeven dat Y ~ N ( 10, 5²). De kans is 33% dat Y een waarde aanneemt kleiner dan a; a is dan gelijk aan 
+Gegeven dat Y ~ N ( 10, 5Â²). De kans is 33% dat Y een waarde aanneemt kleiner dan a; a is dan gelijk aan 
 
 Answerlist
 ----------
@@ -20,7 +20,6 @@ Meta-information
 exname: uva-probability-451-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Kansrekening,Kansverdeling,Normale verdeling 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Kansrekening/Kansverdeling/Normale verdelingexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

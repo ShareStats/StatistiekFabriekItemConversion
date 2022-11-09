@@ -28,7 +28,6 @@ Meta-information
 exname: uva-inferential statistics-65-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Inferentiële statistiek,Anova,Twoway + interactie 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: InferentiÃ«le statistiek/ANOVA/Twoway + interactieexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -8,7 +8,7 @@ SX2 = 210
 SY = 48
 SY2 = 300
 SXY = 230
-De Pearson correlatiecoëfficiënt van X en Y is dan 
+De Pearson correlatiecoÃ«fficiÃ«nt van X en Y is dan 
 
 Answerlist
 ----------
@@ -27,7 +27,6 @@ Meta-information
 exname: uva-descriptive statistics-543-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: Beschrijvende statistiek,Correlatie (beschrijvende stat.),Pearson coefficient 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Beschrijvende statistiek/Correlatie (beschrijvende stat.)/Pearson coefficientexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

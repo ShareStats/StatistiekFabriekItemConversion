@@ -1,7 +1,7 @@
 Question
 ========
 
-In een steekproef van 17 personen is de Pearson product moment correlatiecoëfficiënt berekend tussen systolische en diastolische bloeddruk, met als uitkomst de waarde 0.845. Bij het toetsen van H0: <U+03C1> = 0 (a = 0.05 tweezijdig) is het kritieke gebied gelijk aan 
+In een steekproef van 17 personen is de Pearson product moment correlatiecoÃ«fficiÃ«nt berekend tussen systolische en diastolische bloeddruk, met als uitkomst de waarde 0.845. Bij het toetsen van H0: <U+03C1> = 0 (a = 0.05 tweezijdig) is het kritieke gebied gelijk aan 
 
 Answerlist
 ----------
@@ -20,7 +20,6 @@ Meta-information
 exname: uva-inferential statistics-442-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Inferentiële statistiek,Correlatie (inferentiële stat.),Toets (H0: ? = 0), Tgh m.b.v. T-verdeling en p-waa 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: InferentiÃ«le statistiek/Correlatie (inferentiÃ«le stat.)/Toets (H0exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

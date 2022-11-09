@@ -19,7 +19,6 @@ Meta-information
 exname: uva-inferential statistics-33-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Inferentiële statistiek,Toetstheorie 
-exextra[Type]: Conceptual
+exsection: InferentiÃ«le statistiek/Toetstheorieexextra[Type]: Conceptual
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy

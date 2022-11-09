@@ -1,7 +1,7 @@
 Question
 ========
 
-In een populatie zijn IQ-scores normaal verdeeld met µ = 100 en s = 16. De kans dat een willekeurige persoon een score heeft tussen de 92 en 116 is dan gelijk aan 
+In een populatie zijn IQ-scores normaal verdeeld met Âµ = 100 en s = 16. De kans dat een willekeurige persoon een score heeft tussen de 92 en 116 is dan gelijk aan 
 
 Answerlist
 ----------
@@ -19,7 +19,6 @@ Meta-information
 exname: uva-probability-135-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Kansrekening,Kansverdeling,Normale verdeling 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Kansrekening/Kansverdeling/Normale verdelingexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

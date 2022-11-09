@@ -24,7 +24,6 @@ Meta-information
 exname: uva-inferential statistics-487-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: Inferentiële statistiek,T-Toetsen,Gepaarde T toets 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: InferentiÃ«le statistiek/T-Toetsen/Gepaarde T toetsexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

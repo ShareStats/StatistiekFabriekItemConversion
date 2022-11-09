@@ -1,7 +1,7 @@
 Question
 ========
 
-Hieronder staat uitvoer van een één-steekproef T-toets. We willen H0:µ = 75 toetsen met a = 5% tweezijdig. Het 95% betrouwbaarheidsinterval voor µ is gelijk aan 
+Hieronder staat uitvoer van een Ã©Ã©n-steekproef T-toets. We willen H0:Âµ = 75 toetsen met a = 5% tweezijdig. Het 95% betrouwbaarheidsinterval voor Âµ is gelijk aan 
 
  /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F47&extension=png&mime_type=image%2Fpng 
 
@@ -24,7 +24,6 @@ Meta-information
 exname: uva-descriptive statistics-390-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Beschrijvende statistiek,Kengetallen,Locatiematen 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Beschrijvende statistiek/Kengetallen/Locatiematenexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

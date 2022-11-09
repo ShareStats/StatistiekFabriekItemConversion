@@ -1,7 +1,7 @@
 Question
 ========
 
-Van een variabele X werd bij 6 personen de waarde gemeten met als resultaten: 20, 27, 18, 24, 15, 22. Wanneer we met een eensteekproef T toets de nulhypothese toetsen dat µ = 24, bij een tweezijdig risico van 5%, moet de conclusie luiden: 
+Van een variabele X werd bij 6 personen de waarde gemeten met als resultaten: 20, 27, 18, 24, 15, 22. Wanneer we met een eensteekproef T toets de nulhypothese toetsen dat Âµ = 24, bij een tweezijdig risico van 5%, moet de conclusie luiden: 
 
 Answerlist
 ----------
@@ -20,7 +20,6 @@ Meta-information
 exname: uva-inferential statistics-439-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Inferentiële statistiek,T-Toetsen,1 steekproef T-toets 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: InferentiÃ«le statistiek/T-Toetsen/1 steekproef T-toetsexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

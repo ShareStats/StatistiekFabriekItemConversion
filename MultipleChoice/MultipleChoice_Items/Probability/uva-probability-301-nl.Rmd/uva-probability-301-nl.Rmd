@@ -1,7 +1,7 @@
 Question
 ========
 
-Van 80 patiënten met kanker in het hoofd-halsgebied is met behulp van de CES-D scorelijst een score voor depressiviteit bepaald. Deze score is vervolgens in één van drie klassen ingedeeld. Tevens is het geslacht van de patiënt genoteerd. De resultaten zijn in onderstaande kruistabel weergegeven.
+Van 80 patiÃ«nten met kanker in het hoofd-halsgebied is met behulp van de CES-D scorelijst een score voor depressiviteit bepaald. Deze score is vervolgens in Ã©Ã©n van drie klassen ingedeeld. Tevens is het geslacht van de patiÃ«nt genoteerd. De resultaten zijn in onderstaande kruistabel weergegeven.
 
 Frequentie CES-D < 10 10 = CES-D = 16 CES-D > 16
 man 5 15 10
@@ -26,7 +26,6 @@ Meta-information
 exname: uva-probability-301-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Kansrekening,Kansrekening (ond.),Discrete stochastische variabelen (elementair begr 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Kansrekening/Kansrekening (ond.)/Discrete stochastische variabelen (elementair begrexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

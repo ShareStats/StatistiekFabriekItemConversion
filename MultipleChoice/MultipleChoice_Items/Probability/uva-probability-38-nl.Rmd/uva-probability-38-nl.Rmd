@@ -19,7 +19,6 @@ Meta-information
 exname: uva-probability-38-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Kansrekening,Kansrekening (ond.),Optelregel voor kans op vereniging van twee gebeur 
-exextra[Type]: Calculation
+exsection: Kansrekening/Kansrekening (ond.)/Optelregel voor kans op vereniging van twee gebeurexextra[Type]: Calculation
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy

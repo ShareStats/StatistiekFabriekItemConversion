@@ -1,7 +1,7 @@
 Question
 ========
 
-Hieronder staat SPSS-uitvoer van een steekproef T toets betreffende afname in bloeddruk na medicatie. Het 95% tweezijdig betrouwbaarheidsinterval voor µ is gelijk aan 
+Hieronder staat SPSS-uitvoer van een steekproef T toets betreffende afname in bloeddruk na medicatie. Het 95% tweezijdig betrouwbaarheidsinterval voor Âµ is gelijk aan 
 
  /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F41&extension=png&mime_type=image%2Fpng 
 
@@ -24,7 +24,6 @@ Meta-information
 exname: uva-descriptive statistics-351-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: Beschrijvende statistiek,Kengetallen,Locatiematen 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Beschrijvende statistiek/Kengetallen/Locatiematenexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

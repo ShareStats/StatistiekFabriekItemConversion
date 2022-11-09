@@ -25,7 +25,6 @@ Meta-information
 exname: uva-probability-644-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: Kansrekening,Kansverdeling,Uniforme verdeling 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Kansrekening/Kansverdeling/Uniforme verdelingexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

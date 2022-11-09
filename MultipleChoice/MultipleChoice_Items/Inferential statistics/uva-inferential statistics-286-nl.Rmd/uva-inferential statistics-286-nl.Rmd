@@ -1,9 +1,9 @@
 Question
 ========
 
-Bij 10 personen zijn systolische en diastolische bloeddruk gemeten. Hiermee zijn een Pearson en een Spearman correlatiecoëfficiënt berekend. Beide bleken gelijk te zijn aan 0.65. Voor beide wordt de nulhypothese getoetst dat de populatie-correlatiecoëfficiënt gelijk is aan 0, tegen het tweezijdig alternatief, met een risico van a = 0.05. Welke van beide volgende uitspraken zijn waar?
-1: De Pearson correlatiecoëfficiënt <U+03C1>P wijkt significant af van 0.
-2: De Spearman rangcorrelatiecoëfficiënt <U+03C1>S wijkt significant af van 0. 
+Bij 10 personen zijn systolische en diastolische bloeddruk gemeten. Hiermee zijn een Pearson en een Spearman correlatiecoÃ«fficiÃ«nt berekend. Beide bleken gelijk te zijn aan 0.65. Voor beide wordt de nulhypothese getoetst dat de populatie-correlatiecoÃ«fficiÃ«nt gelijk is aan 0, tegen het tweezijdig alternatief, met een risico van a = 0.05. Welke van beide volgende uitspraken zijn waar?
+1: De Pearson correlatiecoÃ«fficiÃ«nt <U+03C1>P wijkt significant af van 0.
+2: De Spearman rangcorrelatiecoÃ«fficiÃ«nt <U+03C1>S wijkt significant af van 0. 
 
 Answerlist
 ----------
@@ -22,7 +22,6 @@ Meta-information
 exname: uva-inferential statistics-286-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Inferentiële statistiek,Correlatie (inferentiële stat.),Toets (H0: ? = 0), Tgh m.b.v. T-verdeling en p-waa 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: InferentiÃ«le statistiek/Correlatie (inferentiÃ«le stat.)/Toets (H0exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

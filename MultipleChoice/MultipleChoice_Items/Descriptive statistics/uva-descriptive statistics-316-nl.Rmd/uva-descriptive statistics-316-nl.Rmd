@@ -1,7 +1,7 @@
 Question
 ========
 
-4. X1, X2, X3 en X4 zijn onafhankelijke trekkingen uit een verdeling met µ = 3 en s2 = 0.25. De variantie van (X1 + X2 + X3 + X4) / 4 is dan gelijk aan 
+4. X1, X2, X3 en X4 zijn onafhankelijke trekkingen uit een verdeling met Âµ = 3 en s2 = 0.25. De variantie van (X1 + X2 + X3 + X4) / 4 is dan gelijk aan 
 
 Answerlist
 ----------
@@ -20,7 +20,6 @@ Meta-information
 exname: uva-descriptive statistics-316-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Beschrijvende statistiek,Kengetallen,Variantie 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Beschrijvende statistiek/Kengetallen/Varianceexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

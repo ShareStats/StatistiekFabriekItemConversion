@@ -1,7 +1,7 @@
 Question
 ========
 
-In een bepaald experiment worden patiënten door middel van loting in één van drie groepen ingedeeld. De drie groepen volgen een dieet en na afloop van het dieet wordt hun cholesterolgehalte gemeten. Om te toetsen of de populatiegemiddelden van het cholesterolgehalte in de drie groepen gelijk zijn aan elkaar gebruiken we een 
+In een bepaald experiment worden patiÃ«nten door middel van loting in Ã©Ã©n van drie groepen ingedeeld. De drie groepen volgen een dieet en na afloop van het dieet wordt hun cholesterolgehalte gemeten. Om te toetsen of de populatiegemiddelden van het cholesterolgehalte in de drie groepen gelijk zijn aan elkaar gebruiken we een 
 
 Answerlist
 ----------
@@ -20,7 +20,6 @@ Meta-information
 exname: uva-inferential statistics-578-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: Inferentiële statistiek,Anova,Oneway, ANOVA-table 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: InferentiÃ«le statistiek/ANOVA/Oneway/ANOVA-tableexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

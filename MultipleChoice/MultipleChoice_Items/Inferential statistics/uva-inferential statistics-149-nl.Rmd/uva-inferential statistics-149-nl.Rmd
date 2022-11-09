@@ -1,7 +1,7 @@
 Question
 ========
 
-In een onderzoek worden 20 psychiatrische patiënten met een bipolaire stoornis gematched met 20 psychiatrische patiënten zonder bipolaire stoornis. Er wordt gekeken of ze verschillen in de aard en de ernst van complicaties bij hun geboorte. Dit is een voorbeeld van een 
+In een onderzoek worden 20 psychiatrische patiÃ«nten met een bipolaire stoornis gematched met 20 psychiatrische patiÃ«nten zonder bipolaire stoornis. Er wordt gekeken of ze verschillen in de aard en de ernst van complicaties bij hun geboorte. Dit is een voorbeeld van een 
 
 Answerlist
 ----------
@@ -19,7 +19,6 @@ Meta-information
 exname: uva-inferential statistics-149-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Inferentiële statistiek 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: InferentiÃ«le statistiekexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,7 +1,7 @@
 Question
 ========
 
-Gegeven is de volgende tabel met gemiddelden voor factor A met twee niveau’s (A1 en A2) en B ook met twee niveau’s (B1 en B2):
+Gegeven is de volgende tabel met gemiddelden voor factor A met twee niveauâ€™s (A1 en A2) en B ook met twee niveauâ€™s (B1 en B2):
 
 A1 A2
 B1 12 24
@@ -25,7 +25,6 @@ Meta-information
 exname: uva-inferential statistics-75-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Inferentiële statistiek,Anova,Twoway + interactie 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: InferentiÃ«le statistiek/ANOVA/Twoway + interactieexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

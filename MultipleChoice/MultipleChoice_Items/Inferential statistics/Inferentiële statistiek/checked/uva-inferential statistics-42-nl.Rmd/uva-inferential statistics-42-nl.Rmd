@@ -19,7 +19,6 @@ Meta-information
 exname: uva-inferential statistics-42-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Inferentiële statistiek 
-exextra[Type]: Calculation
+exsection: Inferentiële statistiekexextra[Type]: Calculation
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy

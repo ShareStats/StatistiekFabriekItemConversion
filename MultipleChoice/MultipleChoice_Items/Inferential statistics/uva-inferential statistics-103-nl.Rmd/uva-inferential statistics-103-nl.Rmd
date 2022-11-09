@@ -1,7 +1,7 @@
 Question
 ========
 
-Een 95% betrouwbaarheidsinterval voor een gemiddelde in de populatie is (-2; 5). Dan geldt voor een hypothesetoets met H0: µ = 0 tegen Ha: µ <U+2260> 0 en een significantieniveau van 5% dat
+Een 95% betrouwbaarheidsinterval voor een gemiddelde in de populatie is (-2; 5). Dan geldt voor een hypothesetoets met H0: Âµ = 0 tegen Ha: Âµ <U+2260> 0 en een significantieniveau van 5% dat
 I. de Type II fout groter is dan 5%.
 II. de P-waarde kleiner is dan 5%. 
 
@@ -21,7 +21,6 @@ Meta-information
 exname: uva-inferential statistics-103-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: Inferentiële statistiek,T-Toetsen,1 steekproef T-toets 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: InferentiÃ«le statistiek/T-Toetsen/1 steekproef T-toetsexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

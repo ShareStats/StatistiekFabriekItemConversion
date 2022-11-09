@@ -8,7 +8,7 @@ Kiesdistrict 1 183 161 12
 Kiesdistrict 2 212 228 16
 Totaal 395 398 28
 
-Hoeveel procent van de niet-blanco stemmers in beide districten tezamen was vóór de grondwet? 
+Hoeveel procent van de niet-blanco stemmers in beide districten tezamen was vÃ³Ã³r de grondwet? 
 
 Answerlist
 ----------
@@ -28,7 +28,6 @@ Meta-information
 exname: uva-descriptive statistics-284-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: Beschrijvende statistiek 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Beschrijvende statistiekexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

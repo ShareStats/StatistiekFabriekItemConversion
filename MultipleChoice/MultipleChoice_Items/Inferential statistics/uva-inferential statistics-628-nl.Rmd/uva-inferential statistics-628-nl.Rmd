@@ -1,7 +1,7 @@
 Question
 ========
 
-We willen de hypothese H0: µ1= µ2 toetsen tegen het eenzijdig alternatief H1: µ1 < µ2 met risico a = 0.05, met behulp van een gepoolde T-toets. Daartoe trekken we twee steekproeven, beide van grootte 10, uit de bijbehorende populaties. De grenswaarde van het kritieke gebied is dan 
+We willen de hypothese H0: Âµ1= Âµ2 toetsen tegen het eenzijdig alternatief H1: Âµ1 < Âµ2 met risico a = 0.05, met behulp van een gepoolde T-toets. Daartoe trekken we twee steekproeven, beide van grootte 10, uit de bijbehorende populaties. De grenswaarde van het kritieke gebied is dan 
 
 Answerlist
 ----------
@@ -20,7 +20,6 @@ Meta-information
 exname: uva-inferential statistics-628-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: Inferentiële statistiek,T-Toetsen,T toets voor 2 onafh. Steekproeven 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: InferentiÃ«le statistiek/T-Toetsen/T toets voor 2 onafh. Steekproevenexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

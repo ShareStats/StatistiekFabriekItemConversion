@@ -1,7 +1,7 @@
 Question
 ========
 
-Zij x ~ N(µ = -2, s² = 5). Dan is P(-3 = x < 1) = 
+Zij x ~ N(Âµ = -2, sÂ² = 5). Dan is P(-3 = x < 1) = 
 
 Answerlist
 ----------
@@ -20,7 +20,6 @@ Meta-information
 exname: uva-probability-619-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Kansrekening,Kansverdeling,Kansverdeling steekproefgemiddelde (onafhankelijke 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Kansrekening/Kansverdeling/Kansverdeling steekproefgemiddelde (onafhankelijkeexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

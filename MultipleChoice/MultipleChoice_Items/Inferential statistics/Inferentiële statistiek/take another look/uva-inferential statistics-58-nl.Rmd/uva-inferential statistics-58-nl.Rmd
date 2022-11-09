@@ -19,7 +19,6 @@ Meta-information
 exname: uva-inferential statistics-58-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Inferentiële statistiek 
-exextra[Type]: Conceptual
+exsection: Inferentiële statistiekexextra[Type]: Conceptual
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy

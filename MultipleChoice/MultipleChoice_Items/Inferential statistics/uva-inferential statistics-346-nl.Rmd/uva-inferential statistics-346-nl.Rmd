@@ -3,7 +3,7 @@ Question
 
 Uit twee normaal verdeelde populaties zijn twee onafhankelijke steekproeven getrokken en hieruit is het volgende berekend:
 Steekproef 1: n = 7, gemiddelde = 34, variantie = 36
-Steekproef 2: n = 5, gemiddelde = 25, variantie = 46. De T toets voor het toetsen van H0: µ1 = µ2 heeft hier een waarde van 2.430. Welke kritieke waarde en conclusie omtrent Ho zijn hier juist (a = 10% tweezijdig)? 
+Steekproef 2: n = 5, gemiddelde = 25, variantie = 46. De T toets voor het toetsen van H0: Âµ1 = Âµ2 heeft hier een waarde van 2.430. Welke kritieke waarde en conclusie omtrent Ho zijn hier juist (a = 10% tweezijdig)? 
 
 Answerlist
 ----------
@@ -22,7 +22,6 @@ Meta-information
 exname: uva-inferential statistics-346-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Inferentiële statistiek,T-Toetsen,T toets voor 2 onafh. Steekproeven 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: InferentiÃ«le statistiek/T-Toetsen/T toets voor 2 onafh. Steekproevenexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

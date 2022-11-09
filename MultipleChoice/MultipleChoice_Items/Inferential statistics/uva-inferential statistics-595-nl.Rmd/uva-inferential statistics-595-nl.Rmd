@@ -7,10 +7,10 @@ linkerarm 68 67 70 79 65 70 75
 rechterarm 69 76 69 80 66 73 76
 
 We willen toetsen
-H0: µ(links) - µ(rechts) = 0
+H0: Âµ(links) - Âµ(rechts) = 0
 tegen
-H1: µ(links) - µ(rechts) < 0
-Geef de kritieke waarde van de éénzijdige toets met risico 0.05. 
+H1: Âµ(links) - Âµ(rechts) < 0
+Geef de kritieke waarde van de Ã©Ã©nzijdige toets met risico 0.05. 
 
 Answerlist
 ----------
@@ -29,7 +29,6 @@ Meta-information
 exname: uva-inferential statistics-595-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: Inferentiële statistiek,Toetstheorie,T-Toetsen,Gepaarde T toets,Kritieke waarde / kritiek gebied 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: InferentiÃ«le statistiek/Toetstheorie/T-Toetsen/Gepaarde T toets/Kritieke waarde / kritiek gebiedexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

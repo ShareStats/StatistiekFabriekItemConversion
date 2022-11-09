@@ -3,7 +3,7 @@ Question
 
 Hieronder staan twee uitspraken. Welke hiervan zijn juist?
 I: De power van een toets kan men vergroten door a te verkleinen.
-II: De power van een toets kan men vergroten door s² te verkleinen. 
+II: De power van een toets kan men vergroten door sÂ² te verkleinen. 
 
 Answerlist
 ----------
@@ -22,7 +22,6 @@ Meta-information
 exname: uva-inferential statistics-282-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: Inferentiële statistiek,Toetstheorie,Risico alpha of beta 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: InferentiÃ«le statistiek/Toetstheorie/Risico alpha of betaexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

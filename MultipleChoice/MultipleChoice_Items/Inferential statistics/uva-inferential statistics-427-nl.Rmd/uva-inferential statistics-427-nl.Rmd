@@ -1,10 +1,10 @@
 Question
 ========
 
-Van een aselect getrokken steekproef van 7 personen is de hartslag om 8 uur ’s ochtends en 4 uur ’s middags gemeten, met als resultaten:
+Van een aselect getrokken steekproef van 7 personen is de hartslag om 8 uur â€™s ochtends en 4 uur â€™s middags gemeten, met als resultaten:
 ochtend: 75, 74, 70, 79, 65, 70, 68
 middag: 76, 76, 69, 80, 66, 73, 69
-We willen toetsen H0: µ(ochtend) = µ(middag) tegen H1: µ(ochtend) <U+2260> µ(middag). De waarde van de toetsingsgrootheid (eventueel met minus-teken) is gelijk aan 
+We willen toetsen H0: Âµ(ochtend) = Âµ(middag) tegen H1: Âµ(ochtend) <U+2260> Âµ(middag). De waarde van de toetsingsgrootheid (eventueel met minus-teken) is gelijk aan 
 
 Answerlist
 ----------
@@ -23,7 +23,6 @@ Meta-information
 exname: uva-inferential statistics-427-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: Inferentiële statistiek,Toetstheorie,T-Toetsen,Gepaarde T toets,Toetsingsgrootheid (tgh) 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: InferentiÃ«le statistiek/Toetstheorie/T-Toetsen/Gepaarde T toets/Toetsingsgrootheid (tgh)exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -19,7 +19,6 @@ Meta-information
 exname: uva-inferential statistics-55-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Inferentiële statistiek,Toetstheorie,Risico alpha of beta 
-exextra[Type]: Conceptual 
+exsection: InferentiÃ«le statistiek/Toetstheorie/Risico alpha of betaexextra[Type]: Conceptual 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy

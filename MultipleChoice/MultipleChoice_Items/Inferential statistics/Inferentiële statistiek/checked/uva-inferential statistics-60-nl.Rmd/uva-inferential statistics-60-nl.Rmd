@@ -19,7 +19,6 @@ Meta-information
 exname: uva-inferential statistics-60-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Inferentiële statistiek,Dichotome data,Pearson's Chi-kwadraat 
-exextra[Type]: Conceptual
+exsection: InferentiÃ«le statistiek/Dichotome data/Pearson's Chi-kwadraatexextra[Type]: Conceptual
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy 

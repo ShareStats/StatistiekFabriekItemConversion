@@ -1,7 +1,7 @@
 Question
 ========
 
-Hieronder staat SPSS-uitvoer van een gepaarde T toets, met H0: µmeting 1 = µmeting 2. De waarde van de toetsingsgrootheid t (het vraagteken in de uitvoer) is gelijk aan 
+Hieronder staat SPSS-uitvoer van een gepaarde T toets, met H0: Âµmeting 1 = Âµmeting 2. De waarde van de toetsingsgrootheid t (het vraagteken in de uitvoer) is gelijk aan 
 
  /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F42&extension=png&mime_type=image%2Fpng 
 
@@ -24,7 +24,6 @@ Meta-information
 exname: uva-inferential statistics-354-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: Inferentiële statistiek,Toetstheorie,T-Toetsen,Gepaarde T toets,Toetsingsgrootheid (tgh) 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: InferentiÃ«le statistiek/Toetstheorie/T-Toetsen/Gepaarde T toets/Toetsingsgrootheid (tgh)exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

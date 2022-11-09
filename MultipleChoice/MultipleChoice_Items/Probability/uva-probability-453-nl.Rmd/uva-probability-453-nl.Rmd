@@ -1,7 +1,7 @@
 Question
 ========
 
-Stel D ~ N(100, 10²). Voor een steekproefgemiddelde van 4 waarnemingen uit deze verdeling geldt dan P (Xgemiddeld > 108) = 
+Stel D ~ N(100, 10Â²). Voor een steekproefgemiddelde van 4 waarnemingen uit deze verdeling geldt dan P (Xgemiddeld > 108) = 
 
 Answerlist
 ----------
@@ -20,7 +20,6 @@ Meta-information
 exname: uva-probability-453-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Kansrekening,Kansverdeling,Kansverdeling steekproefgemiddelde (onafhankelijke 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Kansrekening/Kansverdeling/Kansverdeling steekproefgemiddelde (onafhankelijkeexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

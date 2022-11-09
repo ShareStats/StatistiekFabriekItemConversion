@@ -1,7 +1,7 @@
 Question
 ========
 
-In een beschrijvend onderzoek is bij 50 patiënten met ademhalingsmoeilijkheden gekeken naar het aantal seconden dat zij de adem in kunnen houden. De resultaten staan in het onderstaande histogram weergegeven. Het percentage mensen dat de adem meer dan 55 seconden kan inhouden is in deze steekproef gelijk aan 
+In een beschrijvend onderzoek is bij 50 patiÃ«nten met ademhalingsmoeilijkheden gekeken naar het aantal seconden dat zij de adem in kunnen houden. De resultaten staan in het onderstaande histogram weergegeven. Het percentage mensen dat de adem meer dan 55 seconden kan inhouden is in deze steekproef gelijk aan 
 
  /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F29&extension=png&mime_type=image%2Fpng 
 
@@ -24,7 +24,6 @@ Meta-information
 exname: uva-descriptive statistics-319-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: Beschrijvende statistiek,Grafieken,Staafdiagram 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Beschrijvende statistiek/Graphs/Bar graphexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

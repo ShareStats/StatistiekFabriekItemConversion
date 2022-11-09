@@ -19,7 +19,6 @@ Meta-information
 exname: uva-descriptive statistics-228-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Beschrijvende statistiek,Outliers,Invloed op kengetallen 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: Beschrijvende statistiek/Outliers/Invloed op kengetallenexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

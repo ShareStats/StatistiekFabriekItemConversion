@@ -1,7 +1,7 @@
 Question
 ========
 
-Hieronder staat uitvoer van een één-steekproef T-toets. We willen H0:µ = 75 toetsen met a = 5% tweezijdig. De conclusie van de toets moet luiden 
+Hieronder staat uitvoer van een Ã©Ã©n-steekproef T-toets. We willen H0:Âµ = 75 toetsen met a = 5% tweezijdig. De conclusie van de toets moet luiden 
 
  /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F46&extension=png&mime_type=image%2Fpng 
 
@@ -24,7 +24,6 @@ Meta-information
 exname: uva-inferential statistics-389-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Inferentiële statistiek,T-Toetsen,1 steekproef T-toets 
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exsection: InferentiÃ«le statistiek/T-Toetsen/1 steekproef T-toetsexextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

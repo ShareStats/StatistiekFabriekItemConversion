@@ -19,7 +19,6 @@ Meta-information
 exname: uva-inferential statistics-49-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: Inferentiële statistiek,Dichotome data,Binomiaaltoets (Z-benadering) 
-exextra[Type]: Calculation
+exsection: InferentiÃ«le statistiek/Dichotome data/Binomiaaltoets (Z-benadering)exextra[Type]: Calculation
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy
