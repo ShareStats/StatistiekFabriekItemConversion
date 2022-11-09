@@ -133,7 +133,7 @@ if __name__ == "__main__":
                     for iss in issues:
                         log.write(f"   - {iss}\n")
 
-                rmd.content[cnt] = "exsection: " + "/".join(transl_sections)
+                rmd.content[cnt] = "exsection: " + "/".join(transl_sections) + "\n"
                 if not dryrun:
                     rmd.save()
 
