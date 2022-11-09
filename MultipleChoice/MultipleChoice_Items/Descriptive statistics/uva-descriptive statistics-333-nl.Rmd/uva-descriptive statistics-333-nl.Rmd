@@ -1,7 +1,7 @@
 Question
 ========
 
-In nevenstaande grafiek staat van 40 baby’s de leeftijd (in maanden) waarop hun eerste tand doorbrak. De variabele "leeftijd" is 
+In nevenstaande grafiek staat van 40 babyâ€™s de leeftijd (in maanden) waarop hun eerste tand doorbrak. De variabele "leeftijd" is 
 
  /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F37&extension=png&mime_type=image%2Fpng 
 
@@ -24,7 +24,7 @@ Meta-information
 exname: uva-descriptive statistics-333-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: Beschrijvende statistiek,Meetniveaus,Interval,Kwalitatief/kwantitatief 
+exsection: Beschrijvende statistiek/Meetniveaus/Interval/Kwalitatief/kwantitatief
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

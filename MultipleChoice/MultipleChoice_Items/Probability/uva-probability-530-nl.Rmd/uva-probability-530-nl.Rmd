@@ -20,7 +20,7 @@ Meta-information
 exname: uva-probability-530-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: Kansrekening,Kansverdeling,Verwachtingswaarde van (discrete) toevalvariabele; 
+exsection: Kansrekening/Kansverdeling/Verwachtingswaarde van (discrete) toevalvariabele;
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

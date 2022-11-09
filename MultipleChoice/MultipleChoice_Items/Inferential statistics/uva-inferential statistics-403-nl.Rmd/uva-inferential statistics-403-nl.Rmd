@@ -1,7 +1,7 @@
 Question
 ========
 
-Gegeven zijn de volgende steekproefuitkomsten: 28, 23, 17, 30, 28, 21. Een één-steekproef T-toets om H0:µ = 20 te toetsen met a = 5% tweezijdig risico, geeft als waarde van de toetsingsgrootheid en bijbehorende conclusie: 
+Gegeven zijn de volgende steekproefuitkomsten: 28, 23, 17, 30, 28, 21. Een Ã©Ã©n-steekproef T-toets om H0:Âµ = 20 te toetsen met a = 5% tweezijdig risico, geeft als waarde van de toetsingsgrootheid en bijbehorende conclusie: 
 
 Answerlist
 ----------
@@ -20,7 +20,7 @@ Meta-information
 exname: uva-inferential statistics-403-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: Inferentiële statistiek,T-Toetsen,1 steekproef T-toets 
+exsection: InferentiÃ«le statistiek/T-Toetsen/1 steekproef T-toets
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -8,7 +8,7 @@ Between groups 40.80 2 20.40 5.81
 Within groups
 Total 82.93
 
-Hoe groot is de kritieke waarde bij het toetsen, met a =5%, van H0: µl = µ2 = µ3 en hoe luidt de conclusie? 
+Hoe groot is de kritieke waarde bij het toetsen, met a =5%, van H0: Âµl = Âµ2 = Âµ3 en hoe luidt de conclusie? 
 
 Answerlist
 ----------
@@ -27,7 +27,7 @@ Meta-information
 exname: uva-inferential statistics-367-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Inferentiële statistiek,Anova,Oneway, ANOVA-table 
+exsection: InferentiÃ«le statistiek/ANOVA/Oneway/ANOVA-table
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

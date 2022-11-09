@@ -1,14 +1,14 @@
 Question
 ========
 
-Bij een ANOVA kan het verschil in gemiddelden worden beschreven in termen van regressie. Stel dat een éénweg ANOVA (één factor) met drie groepen wordt omgezet in een regressie met de volgende codering:
+Bij een ANOVA kan het verschil in gemiddelden worden beschreven in termen van regressie. Stel dat een Ã©Ã©nweg ANOVA (Ã©Ã©n factor) met drie groepen wordt omgezet in een regressie met de volgende codering:
 
-groep x1 x2 gemiddelden interpretatie ß
-1 1 0 µ1 = a + ß1
-2 0 1 µ2 = a + ß2
-3 0 0 µ3 = a
+groep x1 x2 gemiddelden interpretatie ÃŸ
+1 1 0 Âµ1 = a + ÃŸ1
+2 0 1 Âµ2 = a + ÃŸ2
+3 0 0 Âµ3 = a
 
-De interpretatie van ß3 is duidelijk, dat is a. De interpretatie van de andere twee coëfficiënten is als volgt: 
+De interpretatie van ÃŸ3 is duidelijk, dat is a. De interpretatie van de andere twee coÃ«fficiÃ«nten is als volgt: 
 
 Answerlist
 ----------
@@ -26,7 +26,7 @@ Meta-information
 exname: uva-inferential statistics-73-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Inferentiële statistiek,Regressie (inferentiële stat.),Anova,Oneway, ANOVA-table 
+exsection: InferentiÃ«le statistiek/Regressie (inferentiÃ«le stat.)/ANOVA/Oneway/ANOVA-table
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

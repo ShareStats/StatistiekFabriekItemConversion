@@ -1,7 +1,7 @@
 Question
 ========
 
-We trekken een steekproef uit een normaal verdeelde populatie N(µ, s²), met als uitkomsten: 20, 20, 36 en 20. We toetsen H0: µ = 20 tegen H1: µ <U+2260> 20 met 5% risico. Er is gegeven dat s = 8. Hoe moet de conclusie luiden? 
+We trekken een steekproef uit een normaal verdeelde populatie N(Âµ, sÂ²), met als uitkomsten: 20, 20, 36 en 20. We toetsen H0: Âµ = 20 tegen H1: Âµ <U+2260> 20 met 5% risico. Er is gegeven dat s = 8. Hoe moet de conclusie luiden? 
 
 Answerlist
 ----------
@@ -20,7 +20,7 @@ Meta-information
 exname: uva-inferential statistics-307-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: Inferentiële statistiek,T-Toetsen,1 steekproef T-toets 
+exsection: InferentiÃ«le statistiek/T-Toetsen/1 steekproef T-toets
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

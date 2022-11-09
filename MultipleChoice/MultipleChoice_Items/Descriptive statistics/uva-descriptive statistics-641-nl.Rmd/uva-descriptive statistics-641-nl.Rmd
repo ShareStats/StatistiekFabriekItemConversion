@@ -1,7 +1,7 @@
 Question
 ========
 
-Van 8 individuen zijn kenmerken X en Y gemeten. De Pearson correlatiecoëfficiënt van X en Y is 
+Van 8 individuen zijn kenmerken X en Y gemeten. De Pearson correlatiecoÃ«fficiÃ«nt van X en Y is 
 
  /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F66&extension=png&mime_type=image%2Fpng 
 
@@ -24,7 +24,7 @@ Meta-information
 exname: uva-descriptive statistics-641-nl.Rmd 
 extype: schoice 
 exsolution: 0001 
-exsection: Beschrijvende statistiek,Correlatie (beschrijvende stat.),Pearson coefficient 
+exsection: Beschrijvende statistiek/Correlatie (beschrijvende stat.)/Pearson coefficient
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

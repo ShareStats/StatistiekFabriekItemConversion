@@ -1,7 +1,7 @@
 Question
 ========
 
-In nevenstaande grafiek staat van 40 baby’s de leeftijd (in maanden) waarop hun eerste tand doorbrak. Welke van de onderstaande beweringen omtrent mediaan en gemiddelde is juist? 
+In nevenstaande grafiek staat van 40 babyâ€™s de leeftijd (in maanden) waarop hun eerste tand doorbrak. Welke van de onderstaande beweringen omtrent mediaan en gemiddelde is juist? 
 
  /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F38&extension=png&mime_type=image%2Fpng 
 
@@ -24,7 +24,7 @@ Meta-information
 exname: uva-descriptive statistics-334-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Beschrijvende statistiek,Kengetallen,Gemiddelde,Mediaan 
+exsection: Beschrijvende statistiek/Kengetallen/Mean/Median
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
