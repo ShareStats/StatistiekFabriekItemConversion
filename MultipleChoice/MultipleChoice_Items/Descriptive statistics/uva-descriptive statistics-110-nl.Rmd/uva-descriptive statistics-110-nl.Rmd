@@ -12,7 +12,7 @@ Answerlist
 Solution
 ========
 
-The correct answer is  kwantitatieve variabele. 
+The correct answer is kwantitatieve variabele. 
 
 Meta-information
 ================

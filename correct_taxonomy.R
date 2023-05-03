@@ -28,4 +28,10 @@ for (i in 1:n) {
 
 }
 
-taxonomy.conversion.table$lastWord = word(str_replace(taxonomy.conversion.table$exsection, ",", " "), -2)
+# taxonomy.conversion.table$lastWord = word(str_replace(taxonomy.conversion.table$exsection, ",", " "), -1)
+
+unique.initial.taxonomy = unique(taxonomy.conversion.table$exsection)
+
+taxonomy.lookup.table = data.frame(oldTax = unique(taxonomy.conversion.table$exsection), newTax = "exsection: ")
+
+write.csv2(file = "2taxonomyLookupTable.csv", taxonomy.lookup.table, row.names = FALSE)

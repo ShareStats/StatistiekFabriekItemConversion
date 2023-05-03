@@ -1,7 +1,7 @@
 Question
 ========
 
-Om te onderzoeken of er een relatie bestaat tussen de variabelen x en y wordt een regressie-analyse uitgevoerd. Voordat de analyse wordt uitgevoerd, wordt een aantal assumpties voor het toetsen op regressiecoëfficiënten gecontroleerd. Als eerste worden de waarden van x en y in een grafiek uitgezet. Uit de grafiek lijkt waarschijnlijk de assumptie van regressie geschonden die stelt 
+Om te onderzoeken of er een relatie bestaat tussen de variabelen x en y wordt een regressie-analyse uitgevoerd. Voordat de analyse wordt uitgevoerd, wordt een aantal assumpties voor het toetsen op regressieco?ffici?nten gecontroleerd. Als eerste worden de waarden van x en y in een grafiek uitgezet. Uit de grafiek lijkt waarschijnlijk de assumptie van regressie geschonden die stelt 
 
  /text_renderers/item_files/?url=%2Fitem_files%2Fdownload%2F7&extension=png&mime_type=image%2Fpng 
 
@@ -16,7 +16,7 @@ Answerlist
 Solution
 ========
 
-The correct answer is  dat de populatiestandaarddeviatie van y hetzelfde moet zijn voor alle waarden van x. 
+Het correcte antwoord is dat de populatiestandaarddeviatie van y hetzelfde moet zijn voor alle waarden van x. 
 
 Meta-information
 ================
