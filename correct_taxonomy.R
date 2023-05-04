@@ -45,3 +45,32 @@ taxonomy.lookup.table = data.frame(oldTax = unique(taxonomy.conversion.table$exs
 
 taxonomy.conversion <- read.csv2("taxonomyLookupTable.csv")
 
+# Rewrite taxonomy paths
+
+for (i in 2:3) {
+  
+  # print(all.item.paths[i])
+  
+  text <- readLines( all.item.paths[i] )
+  
+  # Search for something in text and return line number
+  # Some usefull key words: exsection Language Type Level
+  line.nr = grep("exsection", text)
+  
+  # Lookup new taxonomy path
+  
+  newTax <- taxonomy.conversion[which( taxonomy.conversion == text[line.nr] ), "newTax"]
+  
+  # replace old taxonomy with new one in specific line in text
+  
+  text[line.nr] <- newTax
+  
+  writeLines(text, all.item.paths[i] )
+  
+  # Check if new path has been writen
+  ifelse( readLines( all.item.paths[i])[grep("exsection", readLines( all.item.paths[i]))] == newTax,
+          print(paste("1 - ", all.item.paths[i])), 
+          print(paste("0 - ", all.item.paths[i])) 
+        )
+  
+}
