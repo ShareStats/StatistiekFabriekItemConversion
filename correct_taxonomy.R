@@ -1,3 +1,5 @@
+# Script to extract taxonomy path in statistiekfabriek items
+
 # retrieve path to all rmarkdown files
 all.item.paths <- list.files(pattern = ".Rmd", ignore.case = TRUE, recursive = TRUE)
 
@@ -34,4 +36,12 @@ unique.initial.taxonomy = unique(taxonomy.conversion.table$exsection)
 
 taxonomy.lookup.table = data.frame(oldTax = unique(taxonomy.conversion.table$exsection), newTax = "exsection: ")
 
-write.csv2(file = "2taxonomyLookupTable.csv", taxonomy.lookup.table, row.names = FALSE)
+# Write unique taxonomies paths to file
+
+# write.csv2(file = "2taxonomyLookupTable.csv", taxonomy.lookup.table, row.names = FALSE)
+
+# Manually add new taxonomie path to file
+# Read newly created taxonomy conversion table
+
+taxonomy.conversion <- read.csv2("taxonomyLookupTable.csv")
+

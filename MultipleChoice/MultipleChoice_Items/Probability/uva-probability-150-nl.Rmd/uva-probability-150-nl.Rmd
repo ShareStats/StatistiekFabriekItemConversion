@@ -18,3 +18,8 @@ Meta-information
 ================
 exname: uva-probability-150-nl.Rmd 
 extype: schoice 
+exsolution: 100 
+exsection: Distributions/Discrete/Binomial
+exextra[Type]: Conceptual 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Reasoning
