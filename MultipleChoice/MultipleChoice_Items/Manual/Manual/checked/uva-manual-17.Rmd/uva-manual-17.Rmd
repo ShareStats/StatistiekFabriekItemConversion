@@ -19,7 +19,7 @@ Meta-information
 exname: uva-manual-17.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Kansdefinities,Uitkomstenruimte (even waarschijnlijke uitkomsten) 
+exsection: Probability/Elementary Probability/Sample Space
 exextra[Type]: Conceptual
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy

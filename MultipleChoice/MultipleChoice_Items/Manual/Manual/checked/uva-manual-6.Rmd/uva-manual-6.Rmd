@@ -19,7 +19,7 @@ Meta-information
 exname: uva-manual-6.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: Kansdefinities,Klassieke kansdefinitie 
+exsection: Probability/Elementary Probability
 exextra[Type]: Calculation
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy

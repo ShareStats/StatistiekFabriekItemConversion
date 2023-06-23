@@ -20,7 +20,7 @@ Meta-information
 exname: uva-inferential statistics-439-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Inferentiële statistiek,T-Toetsen,1 steekproef T-toets 
+exsection: Inferential Statistics/Parametric Techniques/t-test/One sample mean
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

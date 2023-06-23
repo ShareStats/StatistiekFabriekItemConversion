@@ -19,7 +19,7 @@ Meta-information
 exname: uva-inferential statistics-31-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Inferentiële statistiek,Anova,Twoway + interactie 
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
 exextra[Type]: Conceptual
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy

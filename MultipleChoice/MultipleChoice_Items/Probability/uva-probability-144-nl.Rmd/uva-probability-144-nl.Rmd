@@ -19,7 +19,7 @@ Meta-information
 exname: uva-probability-144-nl.Rmd 
 extype: schoice 
 exsolution: 100 
-exsection: Kansrekening,Kansrekening (ond.),Continue stochastische variabelen 
+exsection: Variable type/Continuous variable
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

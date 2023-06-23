@@ -22,7 +22,7 @@ Meta-information
 exname: uva-inferential statistics-356-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: Inferentiële statistiek,Intervalschatting,Betrouwbaarheidsinterval voor mu, Coverage (95%, 9 
+exsection: Inferential Statistics/Confidence Intervals/Confidence level
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -47,7 +47,7 @@ taxonomy.conversion <- read.csv2("taxonomyLookupTable.csv")
 
 # Rewrite taxonomy paths
 
-for (i in 2:3) {
+for (i in 440:440) {
   
   # print(all.item.paths[i])
   
@@ -58,8 +58,11 @@ for (i in 2:3) {
   line.nr = grep("exsection", text)
   
   # Lookup new taxonomy path
+
+    # correct ?  to \xeb conversion  
+    string <- gsub("(\xeb)|(\xdf)|(\xe9)","?", text[line.nr])
   
-  newTax <- taxonomy.conversion[which( taxonomy.conversion == text[line.nr] ), "newTax"]
+  newTax <- taxonomy.conversion[which( taxonomy.conversion == string ), "newTax"]
   
   # replace old taxonomy with new one in specific line in text
   

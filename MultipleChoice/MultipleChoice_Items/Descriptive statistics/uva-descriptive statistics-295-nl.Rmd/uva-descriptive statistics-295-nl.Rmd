@@ -24,7 +24,7 @@ Meta-information
 exname: uva-descriptive statistics-295-nl.Rmd 
 extype: schoice 
 exsolution: 001 
-exsection: Beschrijvende statistiek,Grafieken,Staafdiagram 
+exsection: Descriptive statistics/Data representation/Graphs/Bar graph
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

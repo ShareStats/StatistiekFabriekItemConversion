@@ -20,7 +20,7 @@ Meta-information
 exname: uva-descriptive statistics-574-nl.Rmd 
 extype: schoice 
 exsolution: 010 
-exsection: Beschrijvende statistiek,Kengetallen,Standaarddeviatie 
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
 exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
 exextra[Langauge]: Dutch 
 exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
