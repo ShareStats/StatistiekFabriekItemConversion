@@ -6,7 +6,7 @@ NA
 Answerlist
 ----------
 * F-toets
-* toets op Pearson correlatieco\u00ebffici\u00ebnt
+* toets op Pearson correlatiecoëfficiënt
 * gepoolde T-toets
 * gepaarde T-toets
 
