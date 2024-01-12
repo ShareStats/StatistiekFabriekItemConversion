@@ -1,7 +1,7 @@
 Question
 ========
 
-Zij x ~ N(µ = -2, s² = 5). Dan is P(-3 = x < 1) = 
+NA
 
 Answerlist
 ----------

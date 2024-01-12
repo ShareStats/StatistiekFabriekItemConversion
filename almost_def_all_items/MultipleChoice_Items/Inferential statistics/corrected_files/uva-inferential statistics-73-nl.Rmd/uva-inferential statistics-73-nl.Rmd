@@ -1,14 +1,14 @@
 Question
 ========
 
-Bij een ANOVA kan het verschil in gemiddelden worden beschreven in termen van regressie. Stel dat een éénweg ANOVA (één factor) met drie groepen wordt omgezet in een regressie met de volgende codering:
+NA
 
-groep x1 x2 gemiddelden interpretatie ß
-1 1 0 µ1 = a + ß1
-2 0 1 µ2 = a + ß2
-3 0 0 µ3 = a
+NA
+NA
+NA
+NA
 
-De interpretatie van ß3 is duidelijk, dat is a. De interpretatie van de andere twee coëfficiënten is als volgt: 
+NA
 
 Answerlist
 ----------

@@ -1,7 +1,7 @@
 Question
 ========
 
-Stel dat een stochastische variabele r normaal verdeeld is met µ = 15 en s² = 25. Wat is de kans dat een aselect uit deze verdeling getrokken waarde tussen 10 en 13 ligt? 
+NA
 
 Answerlist
 ----------

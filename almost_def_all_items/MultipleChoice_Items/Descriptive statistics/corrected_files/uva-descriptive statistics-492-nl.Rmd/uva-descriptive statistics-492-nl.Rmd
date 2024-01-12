@@ -1,7 +1,7 @@
 Question
 ========
 
-Twee onafhankelijke stochastische variabelen X en Y zijn beide normaal ver-deeld: X ~ N(70, 9²) en Y ~ N(88, 12²). Dan is de variantie van Y - X gelijk aan 
+NA
 
 Answerlist
 ----------

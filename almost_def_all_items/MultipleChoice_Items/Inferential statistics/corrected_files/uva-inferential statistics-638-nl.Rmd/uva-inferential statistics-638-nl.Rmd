@@ -1,7 +1,7 @@
 Question
 ========
 
-In een aselecte steekproef zijn bij tien personen de variabelen X en Y gemeten. De Pearson correlatiecoëfficiënt rP van X en Y is -0.61. Toets tweezijdig met a = 5% de nulhypothese dat de werkelijke correlatie in de populatie 0 is. De conclusie moet dan luiden: 
+NA
 
 Answerlist
 ----------

@@ -1,7 +1,7 @@
 Question
 ========
 
-Gegeven zijn de volgende steekproefuitkomsten: 29, 22, 17, 23, 23, 19, 21. Het 90% betrouwbaarheidsinterval voor het populatiegemiddelde µ is gelijk aan 
+NA
 
 Answerlist
 ----------

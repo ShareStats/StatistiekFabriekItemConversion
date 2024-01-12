@@ -1,7 +1,7 @@
 Question
 ========
 
-De kansvariabele X is normaal verdeeld met gemiddelde µ = 20 en standaarddeviatie s = 5. Dan is P(X > 30 ||| µ = 20; s = 5) 
+NA
 
 Answerlist
 ----------

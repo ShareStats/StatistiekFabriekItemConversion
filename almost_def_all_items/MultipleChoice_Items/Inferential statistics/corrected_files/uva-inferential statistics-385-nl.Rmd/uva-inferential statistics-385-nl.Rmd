@@ -1,7 +1,7 @@
 Question
 ========
 
-X en Y zijn twee onafhankelijke stochastische variabelen, met µx = 9 en sx²= 5 en µy = 15 en sy² = 2. Dan zijn de verwachting en variantie van X - Y gelijk aan resp. 
+NA
 
 Answerlist
 ----------

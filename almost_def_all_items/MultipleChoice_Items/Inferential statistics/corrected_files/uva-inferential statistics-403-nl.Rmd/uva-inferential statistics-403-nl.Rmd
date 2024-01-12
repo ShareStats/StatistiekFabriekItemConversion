@@ -1,7 +1,7 @@
 Question
 ========
 
-Gegeven zijn de volgende steekproefuitkomsten: 28, 23, 17, 30, 28, 21. Een één-steekproef T-toets om H0:µ = 20 te toetsen met a = 5% tweezijdig risico, geeft als waarde van de toetsingsgrootheid en bijbehorende conclusie: 
+NA
 
 Answerlist
 ----------

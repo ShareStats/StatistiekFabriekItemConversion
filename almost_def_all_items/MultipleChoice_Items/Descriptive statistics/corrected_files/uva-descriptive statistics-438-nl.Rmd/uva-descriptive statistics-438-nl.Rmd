@@ -1,7 +1,7 @@
 Question
 ========
 
-Van een variabele X werd bij 6 personen de waarde gemeten met als resultaten: 20, 27, 18, 24, 15, 22. Het 95% betrouwbaarheidsinterval voor µ, het populatiegemiddelde, is gelijk aan 
+NA
 
 Answerlist
 ----------

@@ -1,7 +1,7 @@
 Question
 ========
 
-Gegeven is de volgende tabel met gemiddelden voor factor A met twee niveau’s (A1 en A2) en B ook met twee niveau’s (B1 en B2):
+NA
 
 A1 A2
 B1 12 24

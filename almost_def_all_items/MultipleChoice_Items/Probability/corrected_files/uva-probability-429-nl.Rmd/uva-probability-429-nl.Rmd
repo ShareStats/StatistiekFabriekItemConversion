@@ -1,7 +1,7 @@
 Question
 ========
 
-Uit een normaal verdeelde populatie N(440, 40²) trek ik een steekproef van grootte 4. De kans dat het steekproefgemiddelde kleiner is dan 420 is gelijk aan 
+NA
 
 Answerlist
 ----------

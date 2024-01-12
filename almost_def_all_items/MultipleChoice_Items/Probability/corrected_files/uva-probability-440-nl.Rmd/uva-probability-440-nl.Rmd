@@ -1,7 +1,7 @@
 Question
 ========
 
-Van 143 ziekenhuispatiënten die een bepaalde infectie opliepen is het geslacht bepaald, en of ze de infectie al dan niet overleefden. Van de 126 overlevenden waren er 78 mannelijk, van de overledenen waren er 13 mannelijk. Stel we kiezen aselect een van de patiënten. De beste schatting van de kans dat deze patiënt de infectie overleeft is gelijk aan 
+NA
 
 Answerlist
 ----------

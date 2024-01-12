@@ -1,7 +1,7 @@
 Question
 ========
 
-Stel dat gegeven is dat voor een bepaalde patiëntenpopulatie het haemoglobinegehalte (Hb) normaal verdeeld is met µ = 8.10 en s = 1.20. We trekken uit deze populatie aselect een persoon. Wat is de kans dat deze persoon een Hb heeft tussen 8.10 en 9.00 ? 
+NA
 
 Answerlist
 ----------

@@ -1,7 +1,7 @@
 Question
 ========
 
-Stel dat gegeven is dat het gewicht van de Nederlandse mannen boven de 25 jaar normaal verdeeld is met µ = 81 en s = 9.We trekken uit deze populatie aselect een persoon. Hoe zwaar mag deze man hoogstens zijn om tot de lichtste 10% van de populatie te behoren? 
+NA
 
 Answerlist
 ----------

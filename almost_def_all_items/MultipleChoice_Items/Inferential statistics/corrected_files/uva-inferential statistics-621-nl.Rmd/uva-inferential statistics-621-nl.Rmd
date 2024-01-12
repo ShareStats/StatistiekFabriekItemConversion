@@ -1,7 +1,7 @@
 Question
 ========
 
-Een variabele A is normaal verdeeld volgens N(µ,s²). We trekken een steekproef ter grootte van n uit deze verdeling, met gemiddelde \(\bar{x}\) en sd s. Dan volgt de grootheid \(\frac{\bar{A}-\mu }{\frac{s}{\sqrt{n}}}\) de volgende verdeling: 
+NA
 
 Answerlist
 ----------

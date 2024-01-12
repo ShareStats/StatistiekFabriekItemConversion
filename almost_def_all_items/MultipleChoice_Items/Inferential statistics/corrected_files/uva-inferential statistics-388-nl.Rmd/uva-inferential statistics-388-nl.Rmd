@@ -1,7 +1,7 @@
 Question
 ========
 
-Om de nulhypothese te toetsen dat twee populatiegemiddelden gelijk zijn, hebben we uit beide populaties een steekproef getrokken, één ter grootte van n = 10, de ander van n = 8. Het kritieke gebied van de twee steekproeven T-toets voor onafhankelijke steekproeven is dan, bij een tweezijdig risico van 5%, gelijk aan 
+NA
 
 Answerlist
 ----------

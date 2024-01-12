@@ -1,7 +1,7 @@
 Question
 ========
 
-Van 80 patiënten met kanker in het hoofd-halsgebied is met behulp van de CES-D scorelijst een score voor depressiviteit bepaald. Deze score is vervolgens in één van drie klassen ingedeeld. Tevens is het geslacht van de patiënt genoteerd. De resultaten zijn in onderstaande kruistabel weergegeven.
+NA
 
 Frequentie CES-D < 10 10 = CES-D = 16 CES-D > 16
 man 5 15 10

@@ -1,7 +1,7 @@
 Question
 ========
 
-Van 5 verpleegkundigen is hun attitude vóór en na een bepaalde interventie gemeten met als resultaat:
+NA
 VOOR: 46, 38, 30, 42, 41
 NA: 43, 43, 37, 39, 45.
 De geschatte standaarddeviatie van het gemiddelde verschil tussen de nameting en de voormeting is gelijk aan: 

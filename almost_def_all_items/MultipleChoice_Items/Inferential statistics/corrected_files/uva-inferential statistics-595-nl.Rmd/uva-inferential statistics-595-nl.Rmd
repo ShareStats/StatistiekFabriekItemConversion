@@ -7,10 +7,10 @@ linkerarm 68 67 70 79 65 70 75
 rechterarm 69 76 69 80 66 73 76
 
 We willen toetsen
-H0: µ(links) - µ(rechts) = 0
+NA
 tegen
-H1: µ(links) - µ(rechts) < 0
-Geef de kritieke waarde van de éénzijdige toets met risico 0.05. 
+NA
+NA
 
 Answerlist
 ----------

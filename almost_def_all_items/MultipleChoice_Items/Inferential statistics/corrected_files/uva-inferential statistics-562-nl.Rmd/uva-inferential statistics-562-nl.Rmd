@@ -3,7 +3,7 @@ Question
 
 Van een aselect getrokken steekproef van 5 vrouwen is het (normaal verdeelde) gewicht (in kg.) gemeten:
 55, 70, 61, 58, 66
-We willen H0: µ=60 toetsen. De te gebruiken toetsingsgrootheid volgt een 
+NA
 
 Answerlist
 ----------

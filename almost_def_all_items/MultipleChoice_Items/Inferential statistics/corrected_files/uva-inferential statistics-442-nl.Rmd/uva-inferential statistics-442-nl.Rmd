@@ -1,7 +1,7 @@
 Question
 ========
 
-In een steekproef van 17 personen is de Pearson product moment correlatiecoëfficiënt berekend tussen systolische en diastolische bloeddruk, met als uitkomst de waarde 0.845. Bij het toetsen van H0: <U+03C1> = 0 (a = 0.05 tweezijdig) is het kritieke gebied gelijk aan 
+NA
 
 Answerlist
 ----------

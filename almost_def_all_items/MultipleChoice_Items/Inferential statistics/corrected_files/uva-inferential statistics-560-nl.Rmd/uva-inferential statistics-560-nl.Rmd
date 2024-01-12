@@ -1,9 +1,9 @@
 Question
 ========
 
-Gegeven de volgende twee uitspraken over ß, de fout van de tweede soort, van een toets. Welke uitspraken zijn juist?
-I: Als a (risico) toeneemt, neemt ß ook toe.
-II: Als n (steekproefgrootte) toeneemt, neemt ß ook toe. 
+NA
+NA
+NA
 
 Answerlist
 ----------

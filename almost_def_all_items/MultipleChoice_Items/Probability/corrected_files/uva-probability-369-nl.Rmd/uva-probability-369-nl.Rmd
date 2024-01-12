@@ -1,7 +1,7 @@
 Question
 ========
 
-In een aselect getrokken steekproef van 200 onafhankelijke personen is gekeken naar het vóórkomen van RSI-klachten (geen, licht, ernstig) en het type werk (veel computerwerk, overig).
+NA
 
 yes RSI-klachten
 Geen Licht Ernstig

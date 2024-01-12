@@ -10,7 +10,7 @@ x3 0.35 0.05
 
 De regressievergelijking voor de afhankelijke variabele y is met alleen x1 en x3:
 y = 23.13 + 12.17 x1 + 2.10 x3
-Stel dat nu het model berekend wordt met x2 erbij. Dan zal de coëfficiënt 
+NA
 
 Answerlist
 ----------

@@ -1,7 +1,7 @@
 Question
 ========
 
-x volgt een normale verdeling met µ = -2 en s² = 16. Voor welk getal a geldt dat P(-6 < x < a) = 0.3413? 
+NA
 
 Answerlist
 ----------

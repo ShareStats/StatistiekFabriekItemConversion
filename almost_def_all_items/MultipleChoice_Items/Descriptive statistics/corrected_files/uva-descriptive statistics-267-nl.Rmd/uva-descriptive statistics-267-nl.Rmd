@@ -3,7 +3,7 @@ Question
 
 Uit twee populaties zijn twee onafhankelijke steekproeven getrokken met als resultaten:
 Steekproef 1: grootte = 16, gemiddelde = 42.0, standaardafwijking = 5.4
-Steekproef 2: grootte = 12, gemiddelde = 37.0, standaardafwijking = 5.9 Het tweezijdig 95% betrouwbaarheidsinterval voor µ1, het gemiddelde van de eerste populatie, is gelijk aan 
+NA
 
 Answerlist
 ----------

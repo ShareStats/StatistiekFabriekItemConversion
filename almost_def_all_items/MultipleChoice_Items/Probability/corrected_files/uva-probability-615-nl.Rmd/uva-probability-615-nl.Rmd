@@ -8,8 +8,8 @@ vrouw 30 26 54 10 120
 man 10 24 36 10 80
 40 50 90 20 200
 
-Uit deze 200 personen wordt aselect één persoon getrokken.
-We definiëren de volgende twee gebeurtenissen:
+NA
+NA
 A: de oorspronkelijke haarkleur van de persoon is zwart.
 B: de persoon is van het vrouwelijk geslacht.P(A | B) = 
 

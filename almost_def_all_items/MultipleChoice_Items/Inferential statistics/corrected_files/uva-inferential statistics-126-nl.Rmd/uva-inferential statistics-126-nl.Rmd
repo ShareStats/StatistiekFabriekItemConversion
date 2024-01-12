@@ -6,13 +6,13 @@ Het voorspellen van verkiezingsuitslagen is een voorbeeld van
 Answerlist
 ----------
 * experimenteel onderzoek
-* inferentiële statistiek
+NA
 * regressie-analyse
 
 Solution
 ========
 
-The correct answer is  inferentiële statistiek 
+NA
 
 Meta-information
 ================

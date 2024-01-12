@@ -1,7 +1,7 @@
 Question
 ========
 
-We trekken een steekproef uit een normaal verdeelde populatie N(µ, s²), met als uitkomsten: 20, 20, 36 en 20. Stel nu dat s² niet bekend is en geschat wordt m.b.v. s². Wat is dan de kritieke waarde bij toetsing van H0: µ = 20 tegen H1: µ <U+2260> 20 met 5% risico? 
+NA
 
 Answerlist
 ----------

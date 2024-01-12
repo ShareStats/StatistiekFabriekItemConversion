@@ -1,7 +1,7 @@
 Question
 ========
 
-We trekken een steekproef uit een normaal verdeelde populatie N(µ, s²), met als uitkomsten: 20, 20, 36 en 20. We toetsen H0: µ = 20 tegen H1: µ <U+2260> 20 met 5% risico. Er is gegeven dat s = 8. Hoe moet de conclusie luiden? 
+NA
 
 Answerlist
 ----------

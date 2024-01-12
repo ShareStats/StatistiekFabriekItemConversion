@@ -1,7 +1,7 @@
 Question
 ========
 
-Stel D ~ N(100, 10²). Voor een steekproefgemiddelde van 4 waarnemingen uit deze verdeling geldt dan P (Xgemiddeld > 108) = 
+NA
 
 Answerlist
 ----------

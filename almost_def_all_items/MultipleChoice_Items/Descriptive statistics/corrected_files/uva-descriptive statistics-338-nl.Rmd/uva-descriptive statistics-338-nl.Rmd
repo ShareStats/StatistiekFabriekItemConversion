@@ -1,7 +1,7 @@
 Question
 ========
 
-Het gewicht van een persoon in ponden geven we aan met de stochastische variabele Y. In een bepaalde populatie geldt dat µY = 140 en s2Y = 900. We willen de gewichten nu in kilogrammen weergeven en gebruiken hiervoor de variabele X. In deze populatie geldt dan voor verwachting µX en variantie s2X: 
+NA
 
 Answerlist
 ----------

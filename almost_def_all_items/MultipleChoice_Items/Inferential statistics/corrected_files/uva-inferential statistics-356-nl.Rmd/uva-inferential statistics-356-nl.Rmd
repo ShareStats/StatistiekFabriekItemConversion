@@ -1,7 +1,7 @@
 Question
 ========
 
-Uit een normaal verdeelde populatie met verwachting µ wordt een steekproef getrokken. Met behulp hiervan wordt H0: µ = 20 getoetst (met a = 5%) en een 95% betrouwbaarheidsinterval voor µ opgesteld. Welke van de volgende twee beweringen zijn waar?
+NA
 1: Als H0 wordt verworpen ligt de waarde 20 in het betrouwbaarheidsinterval.
 2: Het steekproefgemiddelde ligt altijd in het betrouwbaarheidsinterval. 
 

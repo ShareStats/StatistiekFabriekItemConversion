@@ -1,7 +1,7 @@
 Question
 ========
 
-Uit een normaal verdeelde populatie N(µ,s²) met bekende variantie trek ik een steekproef van grootte 10. Als ik met 1% risico tweezijdig wil toetsen of µ = 0 dan worden de grenzen van het kritieke gebied: 
+NA
 
 Answerlist
 ----------

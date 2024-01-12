@@ -8,7 +8,7 @@ SX2 = 210
 SY = 48
 SY2 = 300
 SXY = 230
-De Pearson correlatiecoëfficiënt van X en Y is dan 
+NA
 
 Answerlist
 ----------

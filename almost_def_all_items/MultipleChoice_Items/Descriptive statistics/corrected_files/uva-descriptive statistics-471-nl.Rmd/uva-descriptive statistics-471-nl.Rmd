@@ -1,7 +1,7 @@
 Question
 ========
 
-In een Amerikaans onderzoek is de temperatuur van een aantal patiënten gemeten in graden Fahrenheit. De standaarddeviatie wordt gemeld als een bepaalde waarde s. We drukken de waarden uit in graden Celsius, door van alle waarden 32 af te trekken en het resultaat te vermenigvuldigen met 5/9. Dan geldt voor de standaarddeviatie van de nieuwe waarden het volgende 
+NA
 
 Answerlist
 ----------

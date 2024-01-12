@@ -1,7 +1,7 @@
 Question
 ========
 
-Uit ieder van twee normaal verdeelde populaties met gelijke varianties wordt een steekproef getrokken. Voor de eerste steekproef geldt n = 4, s² = 30, voor de tweede geldt n = 6, s² = 20. De beste schatter voor de gezamenlijke populatievariantie is 
+NA
 
 Answerlist
 ----------

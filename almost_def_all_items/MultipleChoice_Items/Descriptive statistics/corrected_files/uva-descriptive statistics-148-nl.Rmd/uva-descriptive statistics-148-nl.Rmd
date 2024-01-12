@@ -1,7 +1,7 @@
 Question
 ========
 
-De kwantitatieve variabelen x en y hebben een standaardafwijking gelijk aan sx = 2 en sy = 4. De correlatiecoëfficiënt heeft de waarde 0,80. Dan is in de regressievergelijking y = a + bx de waarde van b gelijk aan 
+NA
 
 Answerlist
 ----------

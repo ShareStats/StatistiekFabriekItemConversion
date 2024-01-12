@@ -1,7 +1,7 @@
 Question
 ========
 
-Onderzoek naar de werking van medicijn A op schizofrene patiënten levert een positieve correlatie op tussen de dosis (x) van medicijn A en hoe goed de patiënt zich voelt (y). De toets op de hellingparameter geeft aan dat de relatie significant is. De onderzoekers merken op dat er drie verschillende leeftijdsgroepen van patiënten zijn: 21-25, 26-30 en 31-35 jaar. De onderzoekers voeren voor iedere leeftijdsgroep apart een regressie-analyse uit. Dan blijkt dat er voor ieder van deze drie groepen een negatieve correlatie is tussen de dosis van medicijn A en hoe goed de patiënt zich voelt. Dit is een voorbeeld van 
+NA
 
 Answerlist
 ----------

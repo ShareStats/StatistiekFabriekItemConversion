@@ -1,7 +1,7 @@
 Question
 ========
 
-Een onderzoeker heeft met behulp van een steekproef een 95% tweezijdig betrouwbaarheidsinterval opgesteld voor het populatiegemiddelde, µ, en wel (23.4 ; 28.9). Wanneer hij nu de nulhypothese zou toetsen dat µ gelijk is aan 30, met een tweezijdig risico a van 5%, dan zou de conclusie moeten luiden: 
+NA
 
 Answerlist
 ----------

@@ -1,7 +1,7 @@
 Question
 ========
 
-Stel dat gegeven is dat voor een bepaalde patiëntenpopulatie het hemoglobinegehalte (Hb) normaal verdeeld is met µ = 7.90 en s = 0.80. We trekken uit deze populatie aselect een persoon. Wat is de kans op een Hb van meer dan 7.50 ? 
+NA
 
 Answerlist
 ----------

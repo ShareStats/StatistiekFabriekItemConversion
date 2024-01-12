@@ -1,7 +1,7 @@
 Question
 ========
 
-In een aselecte steekproef zijn bij acht personen de variabelen X en Y gemeten. De Spearman rangcorrelatie-coëfficiënt rS van X en Y is -0.69. Toets tweezijdig met a = 5% de nulhypothese dat de werkelijke correlatie in de populatie 0 is. De juiste conclusie moet dan luiden: 
+NA
 
 Answerlist
 ----------

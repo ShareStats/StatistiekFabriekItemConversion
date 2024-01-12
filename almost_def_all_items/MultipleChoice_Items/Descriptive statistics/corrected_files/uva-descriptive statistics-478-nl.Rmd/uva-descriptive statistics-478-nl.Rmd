@@ -1,7 +1,7 @@
 Question
 ========
 
-In een personenlift is plaats voor 4 personen. De maximale belasting is 360 kilogram. Veronderstel dat de gewichten in een zekere populatie normaal verdeeld zijn volgens N(80, 10²). Iemand beweert bij de zwaarste 1% van de populatie te behoren. Hoe zwaar moet hij dan tenminste zijn? 
+NA
 
 Answerlist
 ----------

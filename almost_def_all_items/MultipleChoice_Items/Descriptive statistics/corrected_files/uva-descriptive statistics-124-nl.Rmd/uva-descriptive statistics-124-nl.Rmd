@@ -6,7 +6,7 @@ Question
 
 Er wordt een regressie gedaan met twee onafhankelijke variabelen x1 en x2 die samen de afhankelijke variabele y moeten verklaren. Om de regressie weer te geven in een figuur, wordt voor een aantal waarden van x2 de regressie met alleen x1 steeds opnieuw uitgerekend en in de figuur gezet. In deze figuur staan twee van die aparte regressielijnen met de waarden voor x2 van 2 en 5: Welke assumptie van multipele regressie voor het toetsen op co?ffici?nten wordt hier waarschijnlijk geschonden? 
 
- ![](UvA20091102-20-1.png) 
+![](UvA20091102-20-1.png) 
 
 Answerlist
 ----------

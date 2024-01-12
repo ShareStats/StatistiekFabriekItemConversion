@@ -1,7 +1,7 @@
 Question
 ========
 
-In een aselecte steekproef zijn bij acht personen de variabelen X en Y gemeten. De Spearman rangcorrelatie-coëfficiënt rS van X en Y is -0.69. Als we m.b.v. de Pearson correlatiecoëfficiënt deze nulhypothese dat de werkelijke correlatie in de populatie 0 is zouden willen toetsen (5% risico, tweezijdig) dan zijn de grenswaarden van het kritieke gebied 
+NA
 
 Answerlist
 ----------

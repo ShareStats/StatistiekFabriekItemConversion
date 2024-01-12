@@ -1,7 +1,7 @@
 Question
 ========
 
-Bij toetsing van de nulhypothese µ = 6 met een tweezijdig risico van 5% zal voor de waarde van de toetsingsgrootheid (tgh) en de conclusie gelden: 
+NA
 
 Answerlist
 ----------

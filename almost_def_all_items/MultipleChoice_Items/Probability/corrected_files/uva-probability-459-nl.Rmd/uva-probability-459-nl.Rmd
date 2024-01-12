@@ -1,7 +1,7 @@
 Question
 ========
 
-X ~ N(-12, 8²). Dan is P(X > 0) gelijk aan 
+NA
 
 Answerlist
 ----------

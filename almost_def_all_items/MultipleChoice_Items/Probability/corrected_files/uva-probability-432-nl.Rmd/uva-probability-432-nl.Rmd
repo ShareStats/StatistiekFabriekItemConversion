@@ -1,7 +1,7 @@
 Question
 ========
 
-Een steekproef van n = 9 uit een N(50, 12²) verdeling heeft gemiddelde ¯X. Dan is P(¯X < 47) gelijk aan 
+NA
 
 Answerlist
 ----------

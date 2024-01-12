@@ -1,7 +1,7 @@
 Question
 ========
 
-Aan een aantal patiënten wordt vóór en na een behandeling een (normaal verdeelde) meting gedaan. Welke toets is hier het meest geschikt om een verschil in populatiegemiddelde voor en na behandeling te toetsen? 
+NA
 
 Answerlist
 ----------

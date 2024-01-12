@@ -1,7 +1,7 @@
 Question
 ========
 
-Uit een normaal verdeelde populatie N(200, 20²) trek ik een steekproef van grootte 4. De kans dat het steekproefgemiddelde kleiner is dan 190 is gelijk aan 
+NA
 
 Answerlist
 ----------

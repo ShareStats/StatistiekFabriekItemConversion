@@ -3,7 +3,7 @@ Question
 
 Hieronder staan twee uitspraken. Welke hiervan zijn juist?
 I: De power van een toets kan men vergroten door a te verkleinen.
-II: De power van een toets kan men vergroten door s² te verkleinen. 
+NA
 
 Answerlist
 ----------

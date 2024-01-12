@@ -1,7 +1,7 @@
 Question
 ========
 
-De stochastische variabele X volgt een N(µ=10, s²=4) verdeling. P(X < 8) is dan 
+NA
 
 Answerlist
 ----------

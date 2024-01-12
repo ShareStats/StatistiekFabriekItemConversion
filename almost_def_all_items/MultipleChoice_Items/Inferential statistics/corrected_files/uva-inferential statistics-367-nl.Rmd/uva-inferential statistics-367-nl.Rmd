@@ -8,7 +8,7 @@ Between groups 40.80 2 20.40 5.81
 Within groups
 Total 82.93
 
-Hoe groot is de kritieke waarde bij het toetsen, met a =5%, van H0: µl = µ2 = µ3 en hoe luidt de conclusie? 
+NA
 
 Answerlist
 ----------

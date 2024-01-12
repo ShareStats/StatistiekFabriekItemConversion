@@ -1,7 +1,7 @@
 Question
 ========
 
-Gegeven de volgende steekproefuitkomsten: 4.5, 3.9, 4.6, 4.1, 4.4. Het 95% betrouwbaarheidsinterval voor het populatiegemiddelde µ is gelijk aan 
+NA
 
 Answerlist
 ----------

@@ -1,10 +1,10 @@
 Question
 ========
 
-Van een aselect getrokken steekproef van 7 personen is de hartslag om 8 uur ’s ochtends en 4 uur ’s middags gemeten, met als resultaten:
+NA
 ochtend: 75, 74, 70, 79, 65, 70, 68
 middag: 76, 76, 69, 80, 66, 73, 69
-We willen toetsen H0: µ(ochtend) = µ(middag) tegen H1: µ(ochtend) <U+2260> µ(middag). De rechter kritieke waarde van de toets met een tweezijdig risico van 0.05 is gelijk aan 
+NA
 
 Answerlist
 ----------

@@ -1,7 +1,7 @@
 Question
 ========
 
-Stel dat we een steekproef van grootte 4 trekken uit een normaal verdeelde populatie met µ = 20 en s²= 64. De kans dat een individuele waarde uit de steekproef groter dan of gelijk is aan 24 is gelijk aan 
+NA
 
 Answerlist
 ----------

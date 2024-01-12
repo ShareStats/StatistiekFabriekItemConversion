@@ -1,7 +1,7 @@
 Question
 ========
 
-We meten één groep patiënten voor en na een bepaalde ingreep. Om te toetsen of de populatiegemiddelden voor en na de ingreep gelijk zijn aan elkaar gebruiken we een 
+NA
 
 Answerlist
 ----------

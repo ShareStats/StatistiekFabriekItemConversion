@@ -8,7 +8,7 @@ Kiesdistrict 1 183 161 12
 Kiesdistrict 2 212 228 16
 Totaal 395 398 28
 
-Hoeveel procent van de niet-blanco stemmers in beide districten tezamen was vóór de grondwet? 
+NA
 
 Answerlist
 ----------

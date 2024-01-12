@@ -1,7 +1,7 @@
 Question
 ========
 
-In een bepaald experiment worden patiënten door middel van loting in één van drie groepen ingedeeld. De drie groepen volgen een dieet en na afloop van het dieet wordt hun cholesterolgehalte gemeten. Om te toetsen of de populatiegemiddelden van het cholesterolgehalte in de drie groepen gelijk zijn aan elkaar gebruiken we een 
+NA
 
 Answerlist
 ----------

@@ -1,7 +1,7 @@
 Question
 ========
 
-Uit een grote populatie wordt een steekproef van 7 personen getrokken en hun lichaamstemperatuur (in °C) wordt gemeten, met als uitkomsten: 37.5, 37.1, 38.0, 37.6, 36.8, 37.1, 37.7 Deze variabele wordt gemeten op 
+NA
 
 Answerlist
 ----------

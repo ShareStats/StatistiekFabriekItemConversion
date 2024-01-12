@@ -1,7 +1,7 @@
 Question
 ========
 
-Een steekproef heeft de volgende uitkomsten: 12, 31, 15, 8, 24. Het 95% betrouwbaarheidsinterval voor het populatiegemiddelde µ is gelijk aan 
+NA
 
 Answerlist
 ----------

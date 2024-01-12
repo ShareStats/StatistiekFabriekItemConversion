@@ -4,7 +4,7 @@ Question
 Om twee populaties met elkaar te vergelijken wordt uit beide een steekproef getrokken met de volgende resultaten:
 Groep 1: n = 10, gemiddelde = 107, variantie = 400
 Groep 2: n = 12, gemiddelde = 112, variantie = 484
-De waarde van de toetsingsgrootheid F om de nulhypothese s1² = s2² te toetsen is gelijk aan 
+NA
 
 Answerlist
 ----------
