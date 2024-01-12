@@ -1,0 +1,26 @@
+Question
+========
+
+X1, X2 en X3 zijn onafhankelijke trekkingen uit een verdeling met verwachting 30 en standaardafwijking 2. Dan is de variantie van X1 + X2 + X3 gelijk aan 
+
+Answerlist
+----------
+* 6
+* 12
+* 18
+* 24
+
+Solution
+========
+
+The correct answer is  12 
+
+Meta-information
+================
+exname: uva-descriptive statistics-394-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Variance
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

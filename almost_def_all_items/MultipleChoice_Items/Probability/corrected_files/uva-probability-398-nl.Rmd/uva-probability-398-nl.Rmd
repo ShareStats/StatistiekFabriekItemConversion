@@ -1,0 +1,26 @@
+Question
+========
+
+Een stochastische variabele X volgt een normale verdeling, X ~ N(1, 0.52). Voor welke waarde a geldt dat P(X < a) = 20% ? 
+
+Answerlist
+----------
+* -0.84
+* -0.42
+* 0.42
+* 0.58
+
+Solution
+========
+
+The correct answer is  0.58 
+
+Meta-information
+================
+exname: uva-probability-398-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Distributions/Continuous/Normal
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,25 @@
+Question
+========
+
+In een kansexperiment is van twee gebeurtenissen A en B gegeven dat ze disjunct zijn en dat P(A) = 0,4 en P(B) = 0,3. Dan is P(A of B) gelijk aan 
+
+Answerlist
+----------
+* 0
+* 0.12
+* 0.7
+
+Solution
+========
+
+The correct answer is  0.7 
+
+Meta-information
+================
+exname: uva-probability-117-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Probability/Elementary Probability
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

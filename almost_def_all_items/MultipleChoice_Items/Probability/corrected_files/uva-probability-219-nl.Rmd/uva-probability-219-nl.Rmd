@@ -1,0 +1,25 @@
+Question
+========
+
+In de populatie psychologiestudenten is de variabele lengte normaal verdeeld met gemiddelde µ = 175 en standaardafwijking s = 6. Hoe groot is de kans dat in een aselecte steekproef van n = 9 studenten de gemiddelde lengte groter is dan 180 cm? 
+
+Answerlist
+----------
+* 0.01
+* 0.2
+* 0.8
+
+Solution
+========
+
+The correct answer is  0.01 
+
+Meta-information
+================
+exname: uva-probability-219-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferential Statistics/Sampling Distributions/Sample mean
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

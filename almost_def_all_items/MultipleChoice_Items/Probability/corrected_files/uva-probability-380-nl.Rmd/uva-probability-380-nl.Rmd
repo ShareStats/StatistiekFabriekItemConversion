@@ -1,0 +1,26 @@
+Question
+========
+
+Er is gegeven dat P(A) = 0.4, P(B) = 0.25 en P(A n B) = 0.1. P(A <U+222A> B) is gelijk aan 
+
+Answerlist
+----------
+* 0.45
+* 0.55
+* 0.65
+* 0.75
+
+Solution
+========
+
+The correct answer is  0.55 
+
+Meta-information
+================
+exname: uva-probability-380-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+Probability/Elementary Probability/General Rules/Addition rule
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

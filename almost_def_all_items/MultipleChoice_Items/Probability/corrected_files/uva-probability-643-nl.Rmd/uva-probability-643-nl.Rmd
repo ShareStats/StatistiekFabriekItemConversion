@@ -1,0 +1,26 @@
+Question
+========
+
+Als drie maal een zuivere munt wordt opgegooid, dan is de kans dat drie maal dezelfde kant bovenkomt (dus: drie maal kop of drie maal munt) gelijk aan: 
+
+Answerlist
+----------
+* 8%
+* 16%
+* 25%
+* 50%
+
+Solution
+========
+
+The correct answer is  25% 
+
+Meta-information
+================
+exname: uva-probability-643-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Probability/Elementary Probability
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

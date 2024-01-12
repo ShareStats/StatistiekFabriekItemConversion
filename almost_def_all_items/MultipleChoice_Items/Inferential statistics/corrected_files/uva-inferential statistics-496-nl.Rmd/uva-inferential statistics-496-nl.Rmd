@@ -1,0 +1,32 @@
+Question
+========
+
+Hieronder staat een gedeeltelijk ingevulde ANOVA-tabel, behorende bij een Completely Randomized Design (Oneway) ANOVA.
+
+Source of variation SS df MS F
+Between groups 27 3
+Within groups 24 12
+
+De waarde van de toetsingsgrootheid F om gelijkheid van alle populatiegemiddelden te toetsen is hier gelijk aan 
+
+Answerlist
+----------
+* 1.13
+* 3.4
+* 4.5
+* 6.19
+
+Solution
+========
+
+The correct answer is  4.5 
+
+Meta-information
+================
+exname: uva-inferential statistics-496-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

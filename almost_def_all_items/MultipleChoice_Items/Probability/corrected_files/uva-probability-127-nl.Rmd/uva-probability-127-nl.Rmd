@@ -1,0 +1,25 @@
+Question
+========
+
+Een diagnostisch instrument voor de zeldzame tropische ziekte Koeles Black Fever (KBF) heeft sensitiviteit 0,80 en specificiteit 0,90. De kans dat een reiziger de ziekte oploopt is 0,02. Hoe groot is de kans dat iemand die volgens het instrument de ziekte heeft ook echt aan KBF leidt? 
+
+Answerlist
+----------
+* 0.14
+* 0.50
+* 0.72
+
+Solution
+========
+
+The correct answer is  0.14 
+
+Meta-information
+================
+exname: uva-probability-127-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Probability/Elementary Probability/Random variables
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

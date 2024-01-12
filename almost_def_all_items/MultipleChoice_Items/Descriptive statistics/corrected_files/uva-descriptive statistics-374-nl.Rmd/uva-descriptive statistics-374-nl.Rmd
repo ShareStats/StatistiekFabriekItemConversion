@@ -1,0 +1,26 @@
+Question
+========
+
+Uit een populatie van astmapatiënten wordt een steekproef van 6 personen getrokken en hun vitale longcapaciteit (in liter) wordt gemeten, met als uitkomsten: 2.47, 2.25, 2.65, 2.00, 3.41, 2.22. De standaarddeviatie van de steekproef is gelijk aan 
+
+Answerlist
+----------
+* 0.21
+* 0.25
+* 0.46
+* 0.50
+
+Solution
+========
+
+The correct answer is  0.50 
+
+Meta-information
+================
+exname: uva-descriptive statistics-374-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

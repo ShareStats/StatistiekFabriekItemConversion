@@ -1,0 +1,26 @@
+Question
+========
+
+In een personenlift is plaats voor 4 personen. De maximale belasting is 360 kilogram. Veronderstel dat de gewichten in een zekere populatie normaal verdeeld zijn volgens N(80, 10²). Iemand beweert bij de zwaarste 1% van de populatie te behoren. Hoe zwaar moet hij dan tenminste zijn? 
+
+Answerlist
+----------
+* 99.0 kg
+* 100.5 kg
+* 103.3 kg
+* 105.8 kg
+
+Solution
+========
+
+The correct answer is  103.3 kg 
+
+Meta-information
+================
+exname: uva-descriptive statistics-478-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

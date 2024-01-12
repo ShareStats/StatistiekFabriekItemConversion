@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("item_file_id42_UMCU20030517-3.png", recursive = TRUE)
+```
+Question
+========
+
+Hieronder staat SPSS-uitvoer van een gepaarde T toets, met H0: ?meting 1 = ?meting 2. De kritieke waarde uit de tabel, bij een tweezijdig risico van 0.05, is hier gelijk aan 
+
+
+![](item_file_id42_UMCU20030517-3.png)
+
+Answerlist
+----------
+* 1.7823
+* 2.0555
+* 2.0639
+* 2.1788
+
+Solution
+========
+
+The correct answer is  2.1788 
+
+Meta-information
+================
+exname: uva-inferential statistics-355-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Inferential Statistics/Parametric Techniques/t-test/Paired samples
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

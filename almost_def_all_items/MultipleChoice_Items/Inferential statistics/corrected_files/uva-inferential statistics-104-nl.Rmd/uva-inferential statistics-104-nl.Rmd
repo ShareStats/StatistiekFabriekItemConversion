@@ -1,0 +1,25 @@
+Question
+========
+
+Stel een onderzoeker heeft vier gemiddelden waarvoor zij multiple comparison Tukey betrouwbaarheidsintervallen wil uitrekenen. Er zijn met vier gemiddelden in totaal zes mogelijke verschillen tussen gemiddelden en dus zes betrouwbaarheidsintervallen. De onderzoeker rekent ter vergelijking ook de gewone 95% betrouwbaarheidsintervallen uit. Twee van deze gewone 95% betrouwbaarheidsintervallen zijn (3; 7) en (12; 16). Wat zijn nu mogelijke Tukey 95% betrouwbaarheidsintervallen die corresponderen met de twee bovenstaande gewone betrouwbaarheidsintervallen? 
+
+Answerlist
+----------
+* (3.5; 6.5) en (12.5; 15.5).
+* (4; 6) en (12.5; 15.5).
+* (2.5; 7.5) en (11.5; 16.5).
+
+Solution
+========
+
+The correct answer is  (2.5; 7.5) en (11.5; 16.5). 
+
+Meta-information
+================
+exname: uva-inferential statistics-104-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferential Statistics/Confidence Intervals
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

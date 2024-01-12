@@ -1,0 +1,25 @@
+Question
+========
+
+Als voor de pmcc tussen X en Y geldt r = 1, dan betekent dat 
+
+Answerlist
+----------
+* alle punten (X, Y) liggen op \u00e9\u00e9n lijn.
+* X veroorzaakt Y.
+* X en Y zijn onafhankelijk.
+
+Solution
+========
+
+The correct answer is  alle punten (X, Y) liggen op \u00e9\u00e9n lijn. 
+
+Meta-information
+================
+exname: uva-descriptive statistics-216-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferential Statistics/Parametric Techniques/Correlations/Pearson
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,26 @@
+Question
+========
+
+Z ~ N(0, 1). Dan is P(Z = - 1.96 of Z = 1.96) gelijk aan 
+
+Answerlist
+----------
+* 0.025
+* 0.05
+* 0.95
+* 0.975
+
+Solution
+========
+
+The correct answer is  0.05 
+
+Meta-information
+================
+exname: uva-probability-299-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Distributions/Continuous/Normal
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

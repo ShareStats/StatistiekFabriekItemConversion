@@ -1,0 +1,26 @@
+Question
+========
+
+Twee gebeurtenissen A en B zijn onafhankelijk als geldt 
+
+Answerlist
+----------
+* P (A &#8746; B) = P (A) + P (B)
+* P (A &#8746; B) = P (A) + P (B) - P (A &#8745; B)
+* P (A &#8745; B) = P (A)   P (B)
+* P (A | B) = P (B | A)
+
+Solution
+========
+
+The correct answer is  P (A &#8745; B) = P (A)   P (B) 
+
+Meta-information
+================
+exname: uva-probability-639-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Probability/Elementary Probability/General Rules/Multiplication rule
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

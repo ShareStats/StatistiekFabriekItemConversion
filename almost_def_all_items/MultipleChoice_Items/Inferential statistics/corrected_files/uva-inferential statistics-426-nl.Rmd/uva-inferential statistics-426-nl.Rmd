@@ -1,0 +1,29 @@
+Question
+========
+
+Van een aselect getrokken steekproef van 7 personen is de hartslag om 8 uur ’s ochtends en 4 uur ’s middags gemeten, met als resultaten:
+ochtend: 75, 74, 70, 79, 65, 70, 68
+middag: 76, 76, 69, 80, 66, 73, 69
+We willen toetsen H0: µ(ochtend) = µ(middag) tegen H1: µ(ochtend) <U+2260> µ(middag). De rechter kritieke waarde van de toets met een tweezijdig risico van 0.05 is gelijk aan 
+
+Answerlist
+----------
+* 2.4469
+* 2.3646
+* 2.1788
+* 1.9432
+
+Solution
+========
+
+The correct answer is  2.4469 
+
+Meta-information
+================
+exname: uva-inferential statistics-426-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferential Statistics/Parametric Techniques/t-test/Paired samples
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

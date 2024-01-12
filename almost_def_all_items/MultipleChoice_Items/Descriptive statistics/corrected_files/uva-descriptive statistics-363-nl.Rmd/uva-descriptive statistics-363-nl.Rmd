@@ -1,0 +1,26 @@
+Question
+========
+
+Een steekproef heeft de volgende uitkomsten: 12, 31, 15, 8, 24. Het 95% betrouwbaarheidsinterval voor het populatiegemiddelde µ is gelijk aan 
+
+Answerlist
+----------
+* ( 9.80 ; 26.20 )
+* ( 7.61 ; 28.39 )
+* ( 7.25 ; 28.75 )
+* ( 6.39 ; 29.61 )
+
+Solution
+========
+
+The correct answer is  ( 6.39 ; 29.61 ) 
+
+Meta-information
+================
+exname: uva-descriptive statistics-363-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Descriptive statistics/Summary Statistics/Measures of Location
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

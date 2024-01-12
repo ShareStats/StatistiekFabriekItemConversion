@@ -1,0 +1,26 @@
+Question
+========
+
+Uit een grote populatie wordt een steekproef van 7 personen getrokken en hun lichaamstemperatuur (in °C) wordt gemeten, met als uitkomsten: 37.5, 37.1, 38.0, 37.6, 36.8, 37.1, 37.7 De mediaan van deze steekproef is gelijk aan 
+
+Answerlist
+----------
+* 37.1
+* 37.4
+* 37.5
+* 37.6
+
+Solution
+========
+
+The correct answer is  37.5 
+
+Meta-information
+================
+exname: uva-descriptive statistics-413-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Median
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

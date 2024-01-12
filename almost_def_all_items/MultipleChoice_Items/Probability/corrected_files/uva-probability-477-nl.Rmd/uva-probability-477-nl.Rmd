@@ -1,0 +1,26 @@
+Question
+========
+
+In een personenlift is plaats voor 4 personen. De maximale belasting is 360 kilogram. Veronderstel dat de gewichten in een zekere populatie normaal verdeeld zijn volgens N(80, 10²). Hoe groot is de kans dat 4 personen, waarvan de gewichten onafhankelijk zijn, samen de lift zullen overbelasten? 
+
+Answerlist
+----------
+* 0.00063
+* 0.0228
+* 0.0252
+* 0.1554
+
+Solution
+========
+
+The correct answer is  0.0228 
+
+Meta-information
+================
+exname: uva-probability-477-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Probability/Elementary Probability/General Rules/Independent events
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

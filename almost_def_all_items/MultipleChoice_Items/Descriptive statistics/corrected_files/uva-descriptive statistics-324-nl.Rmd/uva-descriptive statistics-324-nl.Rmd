@@ -1,0 +1,26 @@
+Question
+========
+
+Uit een normaal verdeelde populatie wordt een steekproef van grootte 25 getrokken. Het gemiddelde van de steekproef is 13 en de standaardafwijking 4.2. Het 95% betrouwbaarheidsinterval voor het populatiegemiddelde is 
+
+Answerlist
+----------
+* (11.27 ; 14.73)
+* (11.35 ; 14.65)
+* (11.54 ; 14.46)
+* (11.56 ; 14.44)
+
+Solution
+========
+
+The correct answer is  (11.27 ; 14.73) 
+
+Meta-information
+================
+exname: uva-descriptive statistics-324-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Descriptive statistics/Summary Statistics/Measures of Location
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

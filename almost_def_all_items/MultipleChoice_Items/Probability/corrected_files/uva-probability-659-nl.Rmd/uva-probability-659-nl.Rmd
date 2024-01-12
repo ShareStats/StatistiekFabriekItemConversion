@@ -1,0 +1,26 @@
+Question
+========
+
+Als A = {4,5,6,8} en B = {3,5,7,8}, wat is dan de vereniging van A en B? 
+
+Answerlist
+----------
+* <em>A<\/em> &#8746; <em>B<\/em> = &#8709;
+* <em>A<\/em> &#8746; <em>B<\/em> = {3,4,5,6,7,8}
+* <em>A<\/em> &#8746; <em>B<\/em> = {3,4,5,6,8}
+* <em>A<\/em> &#8746; <em>B<\/em> = {4,5,6,7,8}
+
+Solution
+========
+
+The correct answer is  <em>A<\/em> &#8746; <em>B<\/em> = {3,4,5,6,7,8} 
+
+Meta-information
+================
+exname: uva-probability-659-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Probability/Elementary Probability/General Rules/Addition rule
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

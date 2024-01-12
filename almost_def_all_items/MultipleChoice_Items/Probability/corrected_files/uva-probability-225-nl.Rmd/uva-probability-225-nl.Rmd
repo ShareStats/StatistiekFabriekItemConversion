@@ -1,0 +1,25 @@
+Question
+========
+
+Gegeven voor twee gebeurtenissen A en B zijn P(A)=P(B) en A en B zijn onderling onafhankelijk. Verder is bekend dat P(A|||B)=0.4. Dan is de kans op A of B P(A<U+222A>B) gelijk aan 
+
+Answerlist
+----------
+* 0.16
+* 0.6
+* 0.8
+
+Solution
+========
+
+The correct answer is  0.8 
+
+Meta-information
+================
+exname: uva-probability-225-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Probability/Elementary Probability
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

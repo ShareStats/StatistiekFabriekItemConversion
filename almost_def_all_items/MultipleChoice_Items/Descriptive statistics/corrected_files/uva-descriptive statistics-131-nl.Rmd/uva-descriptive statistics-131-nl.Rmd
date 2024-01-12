@@ -1,0 +1,25 @@
+Question
+========
+
+De variantie van een aantal scores kan gezien worden als het gemiddelde van de 
+
+Answerlist
+----------
+* gekwadrateerde deviaties
+* positieve en negatieve deviaties
+* wortels van deviaties
+
+Solution
+========
+
+The correct answer is  gekwadrateerde deviaties 
+
+Meta-information
+================
+exname: uva-descriptive statistics-131-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Variance
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

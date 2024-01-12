@@ -1,0 +1,26 @@
+Question
+========
+
+We nemen voor deze vraag aan dat geboortegewicht (in kg.) normaal verdeeld is met verwachting 2.90 en variantie 0.64. Hoe zwaar moet een baby minstens zijn bij zijn geboorte om tot de zwaarste 4% te behoren? 
+
+Answerlist
+----------
+* 3.72
+* 4.02
+* 4.3
+* 4.65
+
+Solution
+========
+
+The correct answer is  4.3 
+
+Meta-information
+================
+exname: uva-descriptive statistics-379-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Descriptive statistics/Summary Statistics/Measures of Location
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

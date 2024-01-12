@@ -1,0 +1,26 @@
+Question
+========
+
+Uit een populatie van astmapatiënten wordt een steekproef van 6 personen getrokken en hun vitale longcapaciteit (in liter) wordt gemeten, met als uitkomsten: 2.47, 2.25, 2.65, 2.00, 3.41, 2.22. Voor deze steekproef geldt 
+
+Answerlist
+----------
+* de mediaan is kleiner dan het gemiddelde
+* de mediaan en het gemiddelde zijn even groot
+* de mediaan is groter dan het gemiddelde
+* mediaan en gemiddelde kunnen niet vergeleken worden
+
+Solution
+========
+
+The correct answer is  de mediaan is kleiner dan het gemiddelde 
+
+Meta-information
+================
+exname: uva-descriptive statistics-373-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Descriptive statistics/Summary Statistics/Measures of Location
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

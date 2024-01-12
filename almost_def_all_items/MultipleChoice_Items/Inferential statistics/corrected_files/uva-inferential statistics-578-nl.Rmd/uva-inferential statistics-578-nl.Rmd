@@ -1,0 +1,26 @@
+Question
+========
+
+In een bepaald experiment worden patiënten door middel van loting in één van drie groepen ingedeeld. De drie groepen volgen een dieet en na afloop van het dieet wordt hun cholesterolgehalte gemeten. Om te toetsen of de populatiegemiddelden van het cholesterolgehalte in de drie groepen gelijk zijn aan elkaar gebruiken we een 
+
+Answerlist
+----------
+* gepoolde T-toets
+* regressieanalyse
+* gepaarde T-toets
+* CRD-ANOVA
+
+Solution
+========
+
+The correct answer is  CRD-ANOVA 
+
+Meta-information
+================
+exname: uva-inferential statistics-578-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("item_file_id67_UMCU19950624-9.png", recursive = TRUE)
+```
+Question
+========
+
+Van 8 individuen zijn kenmerken X en Y gemeten. De Pearson correlatieco?ffici?nt van X en Y is 
+
+
+ ![](item_file_id67_UMCU19950624-9.png)
+
+Answerlist
+----------
+* 0.91
+* -0.54
+* 0.83
+* 0.98
+
+Solution
+========
+
+The correct answer is  0.98 
+
+Meta-information
+================
+exname: uva-descriptive statistics-641-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Inferential Statistics/Parametric Techniques/Correlations/Pearson
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

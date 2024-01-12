@@ -1,0 +1,26 @@
+Question
+========
+
+Het gemiddelde van een steekproef van 25 personen heeft een SEM van 15. Stel dat ieder van de steekproefuitkomsten met 3 wordt vermenigvuldigd en dat hierbij dan nog 10 wordt opgeteld. De SEM van het steekproefgemiddelde van deze 25 getransformeerde, nieuwe waarden is dan 
+
+Answerlist
+----------
+* 45
+* 55
+* 135
+* 225
+
+Solution
+========
+
+The correct answer is  45 
+
+Meta-information
+================
+exname: uva-descriptive statistics-446-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

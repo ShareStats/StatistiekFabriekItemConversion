@@ -1,0 +1,25 @@
+Question
+========
+
+Men toetst H1: p = 0.5 tegen H2: p = 0.3 in een aselecte steekproef van n = 10 waarnemingen. Toetsingsgrootheid is de binomiaal verdeelde stochast B, het aantal successen in de steekproef. Als linker kritieke grens wordt de waarde 4 gebruikt. Het onderscheidingsvermogen 1 - ß is dan gelijk aan 
+
+Answerlist
+----------
+* 0.65
+* 0.85
+* 0.95
+
+Solution
+========
+
+The correct answer is  0.85 
+
+Meta-information
+================
+exname: uva-inferential statistics-226-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferential Statistics/NHST/Power
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

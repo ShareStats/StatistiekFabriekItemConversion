@@ -1,0 +1,26 @@
+Question
+========
+
+Stel dat een stochastische variabele r normaal verdeeld is met µ = 15 en s² = 25. Wat is de kans dat een aselect uit deze verdeling getrokken waarde tussen 10 en 13 ligt? 
+
+Answerlist
+----------
+* 0.4967
+* 0.1859
+* 0.3141
+* 0.6859
+
+Solution
+========
+
+The correct answer is  0.1859 
+
+Meta-information
+================
+exname: uva-probability-593-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferential Statistics/Sampling Distributions/Sample mean
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

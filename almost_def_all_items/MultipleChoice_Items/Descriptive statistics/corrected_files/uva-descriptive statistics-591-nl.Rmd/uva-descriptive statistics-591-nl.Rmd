@@ -1,0 +1,26 @@
+Question
+========
+
+Gegeven een steekproef met uitkomsten 4, 12, 9, 4, 10, 4 en 6. De SEM (standaardfout van het steekproefgemiddelde) is dan gelijk aan 
+
+Answerlist
+----------
+* 3.32
+* 1.25
+* 1.57
+* 3.07
+
+Solution
+========
+
+The correct answer is  1.57 
+
+Meta-information
+================
+exname: uva-descriptive statistics-591-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Median
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

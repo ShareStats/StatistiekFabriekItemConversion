@@ -1,0 +1,34 @@
+Question
+========
+
+Hieronder staat een onvolledige ANOVA-tabel, behorend bij een Randomized Complete Block ANOVA.
+
+Variatiebron SS df MS F
+Groep 3 39.0 8.67
+Blok 2 22.5 5.00
+Error 6 4.5
+Totaal 11
+
+De totale kwadratensom in deze ANOVA-tabel is gelijk aan 
+
+Answerlist
+----------
+* 17.2
+* 66
+* 162
+* 189
+
+Solution
+========
+
+The correct answer is  189 
+
+Meta-information
+================
+exname: uva-inferential statistics-541-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

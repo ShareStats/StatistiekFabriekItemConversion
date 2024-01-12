@@ -1,0 +1,26 @@
+Question
+========
+
+Als X en Y onderling onafhankelijke stochastische variabelen zijn met P(X = 1) = 0.4 en P(Y = 3) = 0.1 dan geldt dat de voorwaardelijke kans P(X = 1 | Y = 3) gelijk is aan 
+
+Answerlist
+----------
+* 0.3
+* 0.04
+* 0.4
+* 0.5
+
+Solution
+========
+
+The correct answer is  0.4 
+
+Meta-information
+================
+exname: uva-probability-602-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Probability/Elementary Probability/Conditional probability
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

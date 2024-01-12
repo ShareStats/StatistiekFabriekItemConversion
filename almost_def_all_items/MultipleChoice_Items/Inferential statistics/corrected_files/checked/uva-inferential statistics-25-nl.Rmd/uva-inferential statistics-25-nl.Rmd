@@ -1,0 +1,25 @@
+Question
+========
+
+Wat is het belangrijkste verschil tussen een echt experiment en een quasi-experiment? 
+
+Answerlist
+----------
+* Experimenten vinden plaats in het lab, quasi-experimenten buiten het lab.
+* Bij experimenten wordt gebruik gemaakt van *random assignment* (aselecte toewijzing), maar bij quasi-experimenten niet.
+* Bij experimenten worden factoriële designs gebruikt, maar bij quasi-experimenten niet.
+
+Solution
+========
+
+The correct answer is  Bij experimenten wordt gebruik gemaakt van *random assignment* (aselecte toewijzing), maar bij quasi-experimenten niet. 
+
+Meta-information
+================
+exname: uva-inferential statistics-25-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferential Statistics/NHST
+exextra[Type]: Conceptual 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy 

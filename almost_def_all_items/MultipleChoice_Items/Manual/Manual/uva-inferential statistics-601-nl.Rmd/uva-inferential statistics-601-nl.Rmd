@@ -1,0 +1,26 @@
+Question
+========
+
+Om te toetsen of twee populatievarianties gelijk zijn gebruiken we een F-toets; de toetsingsgrootheid heeft als waarde 4.65, en volgt als H0 waar is een F-verdeling met 7 vrijheidsgraden in de teller en 5 in de noemer. Voor de bijbehorende tweezijdige P-waarde geldt dan 
+
+Answerlist
+----------
+* P &lt; 0.01
+* 0.01 &lt; P &lt; 0.05
+* 0.05 &lt; P &lt; 0.10
+* P &gt; 0.10
+
+Solution
+========
+
+The correct answer is  P &gt; 0.10 
+
+Meta-information
+================
+exname: uva-inferential statistics-601-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANOVA F-test
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

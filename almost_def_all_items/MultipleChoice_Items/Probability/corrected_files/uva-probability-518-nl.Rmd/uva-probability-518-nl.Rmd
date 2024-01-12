@@ -1,0 +1,26 @@
+Question
+========
+
+x volgt een normale verdeling met µ = -2 en s² = 16. Voor welk getal a geldt dat P(-6 < x < a) = 0.3413? 
+
+Answerlist
+----------
+* -2
+* 0
+* 1
+* 4
+
+Solution
+========
+
+The correct answer is  -2 
+
+Meta-information
+================
+exname: uva-probability-518-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferential Statistics/Sampling Distributions/Sample mean
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

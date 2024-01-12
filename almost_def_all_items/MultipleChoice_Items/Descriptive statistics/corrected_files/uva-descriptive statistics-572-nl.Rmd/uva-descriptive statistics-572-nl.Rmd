@@ -1,0 +1,30 @@
+Question
+========
+
+In een regressiesituatie is bij een aantal individuen een onafhankelijke variabele (X) en een afhankelijke (Y) gemeten.
+Het gemiddelde van de X-waarden is 54.
+De vergelijking van de regressielijn is
+Y = 11.64 - 0.16 X.
+Het gemiddelde van de Y-waarnemingen is 
+
+Answerlist
+----------
+* -0.16
+* 3
+* 11.64
+* 11.8
+
+Solution
+========
+
+The correct answer is  3 
+
+Meta-information
+================
+exname: uva-descriptive statistics-572-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferential Statistics/Regression/R squared
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,25 @@
+Question
+========
+
+Men voorspelt het aantal ec's dat studenten toegepaste algebra in hun eerste jaar behalen ('response variable' y) op basis van hun eindexamencijfer wiskunde ('exploratary variable' x). De voorspelde score voor iemand met x = 4 is gelijk aan 30, en die voor iemand met x = 10 is gelijk aan 40. Wat is de voorspelde score voor iemand met x = 7? 
+
+Answerlist
+----------
+* 34
+* 35
+* 36
+
+Solution
+========
+
+The correct answer is  35 
+
+Meta-information
+================
+exname: uva-probability-115-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Probability/Elementary Probability
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,25 @@
+Question
+========
+
+In een aselecte steekproef van n = 16 economiestudenten treft men 8 meisjes aan. Het 95% betrouwbaarheidsinterval voor de proportie vrouwelijke economiestudenten omvat dan de waarden 
+
+Answerlist
+----------
+* 0.20 en 0.60
+* 0.35 en 0.70
+* 0.35 en 0.80
+
+Solution
+========
+
+The correct answer is  0.35 en 0.70 
+
+Meta-information
+================
+exname: uva-descriptive statistics-251-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Descriptive statistics/Summary Statistics/Measures of Location
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,32 @@
+Question
+========
+
+In een onderzoek naar verschillen tussen verpleeg- en verzorgingshuizen werd o.a. gekeken naar de leeftijd van de (502) bewoners in de steekproef. Leeftijd is hierbij in 5 klassen ingedeeld. De uitkomsten staan in de onderstaande kruistabel:
+
+Frequentie 50-64 65-74 75-84 85-94 =95
+verpleeghuis 4 27 96 108 14
+verzorgingshuis 0 6 91 129 27
+
+De kans dat een willekeurig getrokken persoon jonger is dan 85 jaar, gegeven dat hij/zij in een verpleeghuis woont, is 
+
+Answerlist
+----------
+* 0.25
+* 0.45
+* 0.51
+* 0.57
+
+Solution
+========
+
+The correct answer is  0.51 
+
+Meta-information
+================
+exname: uva-probability-256-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Probability/Elementary Probability/Random variables
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

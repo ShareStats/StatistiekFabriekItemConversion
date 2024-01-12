@@ -1,0 +1,26 @@
+Question
+========
+
+Een variabele X volgt een normale verdeling, X ~ N (16, 22). Dan geldt P(X < 14) is gelijk aan: 
+
+Answerlist
+----------
+* 0.1587
+* 0.3085
+* 0.3413
+* 0.8413
+
+Solution
+========
+
+The correct answer is  0.1587 
+
+Meta-information
+================
+exname: uva-probability-327-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Distributions/Continuous/Normal
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

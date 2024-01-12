@@ -1,0 +1,26 @@
+Question
+========
+
+Gegeven een steekproef met uitkomsten 14, 17, 19, 24 en 26. De standaardfout van het steekproefgemiddelde is gelijk aan 
+
+Answerlist
+----------
+* 2.21
+* 2.47
+* 4.9
+* 4.95
+
+Solution
+========
+
+The correct answer is  2.21 
+
+Meta-information
+================
+exname: uva-descriptive statistics-344-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

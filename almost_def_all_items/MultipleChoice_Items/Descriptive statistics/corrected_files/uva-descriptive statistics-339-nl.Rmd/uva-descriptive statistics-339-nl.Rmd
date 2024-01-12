@@ -1,0 +1,26 @@
+Question
+========
+
+Stel dat in een zekere populatie een variabele een verwachting heeft van 20 en een variantie van 100. We trekken nu aselect een steekproef van 25 onafhankelijke waarnemingen uit deze populatie. Dan geldt dat de standaardafwijking van het steekproefgemiddelde gelijk is aan 
+
+Answerlist
+----------
+* 0.4
+* 2
+* 4
+* 20
+
+Solution
+========
+
+The correct answer is  2 
+
+Meta-information
+================
+exname: uva-descriptive statistics-339-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,25 @@
+Question
+========
+
+Er wordt twee keer met een zuivere munt gegooid. Hoeveel elementen bevat de uitkomstruimte (sample space) ? 
+
+Answerlist
+----------
+* 2
+* 4
+* 8
+
+Solution
+========
+
+The correct answer is  4 
+
+Meta-information
+================
+exname: uva-manual-17.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Probability/Elementary Probability/Sample Space
+exextra[Type]: Conceptual
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy

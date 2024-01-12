@@ -1,0 +1,26 @@
+Question
+========
+
+Om 4 behandelingen (1, 2, 3, en 4) met elkaar te vergelijken op gemiddelde effectiviteit worden in 5 klinieken (A, B, C, D en E) 4 personen door loting over de behandelingen verdeeld. De gegevens worden m.b.v. ANOVA geanalyseerd. Hoeveel vrijheidsgraden heeft de Error-term in de bijbehorende ANOVA-tabel? 
+
+Answerlist
+----------
+* 3
+* 4
+* 12
+* 18
+
+Solution
+========
+
+The correct answer is  12 
+
+Meta-information
+================
+exname: uva-inferential statistics-359-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

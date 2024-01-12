@@ -1,0 +1,25 @@
+Question
+========
+
+Getoetst wordt H0: p = 0.4 tegen HA: p > 0.4 in een steekproef van n = 10 waarnemingen. Toetsingsgrootheid is de binomiaal verdeelde stochast B, het aantal successen in de steekproef. Wanneer als rechter kritieke grens r = 7 wordt gehanteerd is het significantieniveau a gelijk aan 
+
+Answerlist
+----------
+* 0.002
+* 0.022
+* 0.045
+
+Solution
+========
+
+The correct answer is  0.045 
+
+Meta-information
+================
+exname: uva-inferential statistics-243-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferential Statistics/NHST/Significance level/Critical value
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,27 @@
+Question
+========
+
+Bepaal de modus van de volgende 20 getallen:
+1 4 5 7 9 10 10 11 13 13 14 15 16 16 16 17 17 18 18 20 
+
+Answerlist
+----------
+* 12.5
+* 13
+* 13.5
+* 16
+
+Solution
+========
+
+The correct answer is  16 
+
+Meta-information
+================
+exname: uva-descriptive statistics-519-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mode
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

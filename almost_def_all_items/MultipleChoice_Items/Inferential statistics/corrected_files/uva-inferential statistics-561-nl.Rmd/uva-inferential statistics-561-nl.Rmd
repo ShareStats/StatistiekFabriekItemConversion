@@ -1,0 +1,28 @@
+Question
+========
+
+Van een aselect getrokken steekproef van 5 vrouwen is het (normaal verdeelde) gewicht (in kg.) gemeten:
+55, 70, 61, 58, 66
+We willen H0: µ=60 toetsen. Wat is de uitkomst van de toetsingsgrootheid? 
+
+Answerlist
+----------
+* 0.33
+* 0.74
+* 1.66
+* 1.7
+
+Solution
+========
+
+The correct answer is  0.74 
+
+Meta-information
+================
+exname: uva-inferential statistics-561-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferential Statistics/Parametric Techniques/t-test/One sample mean
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

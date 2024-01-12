@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("item_file_id33_UMCU20040612-6.png", recursive = TRUE)
+```
+Question
+========
+
+Een onderzoekster is ge?nteresseerd in de correlatie tussen twee normaal verdeelde variabelen X en Y en trekt daartoe een aselecte steekproef van 20 personen uit haar doelpopulatie. Hieruit berekent zij de onderstaande grootheden. De waarde van de Pearson correlatieco?ffici?nt is gelijk aan 
+
+![](item_file_id33_UMCU20040612-6.png)
+
+Answerlist
+----------
+* -0.687
+* -0.335
+* 0.0012
+* 0.687
+
+Solution
+========
+
+The correct answer is  -0.687 
+
+Meta-information
+================
+exname: uva-descriptive statistics-328-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferential Statistics/Parametric Techniques/Correlations/Pearson
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

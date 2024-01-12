@@ -1,0 +1,26 @@
+Question
+========
+
+Gegeven een steekproef met uitkomsten 7, 11, 5, 20, 18 en 17. De steekproefvariantie is dan gelijk aan 
+
+Answerlist
+----------
+* 32.33
+* 38.8
+* 5.69
+* 6.23
+
+Solution
+========
+
+The correct answer is  38.8 
+
+Meta-information
+================
+exname: uva-descriptive statistics-586-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Variance
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

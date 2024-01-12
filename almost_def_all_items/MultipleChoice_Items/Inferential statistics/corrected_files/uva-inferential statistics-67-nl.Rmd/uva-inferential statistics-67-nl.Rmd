@@ -1,0 +1,32 @@
+Question
+========
+
+In de tabel staat het resultaat van een ANOVA met één factor
+
+Source df SS MS F
+Groups 3 30
+Error 27
+Total 30 300
+
+De toets op de nulhypothese ANOVA kan bij significantieniveau 0.05 
+
+Answerlist
+----------
+* niet worden verworpen.
+* worden verworpen.
+* niet worden bepaald.
+
+Solution
+========
+
+The correct answer is  niet worden verworpen. 
+
+Meta-information
+================
+exname: uva-inferential statistics-67-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

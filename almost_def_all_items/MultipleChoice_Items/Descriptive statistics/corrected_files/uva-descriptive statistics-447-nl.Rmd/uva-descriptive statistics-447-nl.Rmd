@@ -1,0 +1,33 @@
+Question
+========
+
+Van 100 personen is de systolische bloeddruk (SB) gemeten en in drie klassen ingedeeld: 1 = laag, 2 = middel en 3 = hoog. Tevens is het lichamelijke activiteitengedrag (AG) gemeten en in drie klassen ingedeeld: 1 = zelden, 2 = soms, 3 = regelmatig. De uitkomsten zijn in onderstaande kruistabel weergegeven:
+
+frequenties SB = 1 SB = 2 SB = 3
+AG = 1 4 12 14
+AG = 2 13 25 12
+AG = 3 8 8 4
+
+Op welke schaal is de variabele AG weergegeven? 
+
+Answerlist
+----------
+* nominaal
+* ordinaal
+* interval
+* ratio
+
+Solution
+========
+
+The correct answer is  ordinaal 
+
+Meta-information
+================
+exname: uva-descriptive statistics-447-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Measurement Level/Ordinal
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("item_file_id67_UMCU19950624-9.png", recursive = TRUE)
+```
+Question
+========
+
+Van 8 individuen zijn kenmerken X en Y gemeten. Stel dat Y lineair afhankelijk is van X. Dan is de richtingsco?ffici?nt van de regressielijn van Y op X gelijk aan 
+
+
+ ![](item_file_id67_UMCU19950624-9.png)
+
+Answerlist
+----------
+* 0.921
+* 0.896
+* 0.786
+* 1.042
+
+Solution
+========
+
+The correct answer is  0.896 
+
+Meta-information
+================
+exname: uva-descriptive statistics-642-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

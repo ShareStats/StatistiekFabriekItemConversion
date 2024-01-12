@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("item_file_id35_UMCU20040612-9.png", recursive = TRUE)
+```
+Question
+========
+
+Hieronder staat SPSS-uitvoer van een gepaarde T-toets op depressiescores van 15 pati?nten, gemeten voor en na een gesprek met een therapeut. Wanneer we ge?nteresseerd zijn in de vraag of de scores voor en na het gesprek afhankelijk zijn moet de conclusie luiden: 
+
+
+![](item_file_id35_UMCU20040612-9.png)
+
+Answerlist
+----------
+* Verwerp de nulhypothese dat ze afhankelijk zijn.
+* Verwerp de nulhypothese dat ze onafhankelijk zijn.
+* Verwerp de nulhypothese dat ze afhankelijk zijn niet.
+* Verwerp de nulhyp
+
+Solution
+========
+
+The correct answer is  Verwerp de nulhypothese dat ze onafhankelijk zijn. 
+
+Meta-information
+================
+exname: uva-inferential statistics-331-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferential Statistics/Parametric Techniques/t-test/Paired samples
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

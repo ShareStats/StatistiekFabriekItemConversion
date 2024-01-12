@@ -1,0 +1,25 @@
+Question
+========
+
+Zestig procent van het Nederlandse volk smeert regelmatig pindakaas op het brood. Stel, van hen komt 80% voor de leeftijd van 75 jaar te overlijden. Bij de niet-pindakaasgebruikers is dat maar 40%. Hoe groot is dan de kans dat iemand die voor zijn 75e overlijdt geen pindakaasgebruiker is? 
+
+Answerlist
+----------
+* 0.25
+* 0.32
+* 0.60
+
+Solution
+========
+
+The correct answer is  0.25 
+
+Meta-information
+================
+exname: uva-probability-118-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Probability/Elementary Probability/Random variables
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

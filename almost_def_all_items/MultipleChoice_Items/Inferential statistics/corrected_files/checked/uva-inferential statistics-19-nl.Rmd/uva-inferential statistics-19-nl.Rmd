@@ -1,0 +1,25 @@
+Question
+========
+
+De voornaamste controlemechanismen van de wetenschap worden gevormd door 
+
+Answerlist
+----------
+* *peer review* en replicatie.
+* replicatie en wetenschappelijk bewijs.
+* wetenschappelijk bewijs en *peer review*.
+
+Solution
+========
+
+The correct answer is *peer review* en replicatie. 
+
+Meta-information
+================
+exname: uva-inferential statistics-19-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferential Statistics
+exextra[Type]: Conceptual 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy 

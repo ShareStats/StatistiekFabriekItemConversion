@@ -1,0 +1,25 @@
+Question
+========
+
+De populatie van Amsterdamse psychologiestudenten bestaat voor 80% uit vrouwen. Voor een onderzoek trek ik een simple random sample van n = 100 personen uit de populatie. De normale verdeling die een goede benadering is van de kansverdeling van de kansvariabele "Aantal vrouwen in de steekproef" heeft dan 
+
+Answerlist
+----------
+* &mu; = 0 en &sigma; = 1
+* &mu; = 80 en &sigma; = 4
+* &mu; = 80 en &sigma; = 16
+
+Solution
+========
+
+The correct answer is  &mu; = 80 en &sigma; = 4 
+
+Meta-information
+================
+exname: uva-inferential statistics-137-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferential Statistics
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

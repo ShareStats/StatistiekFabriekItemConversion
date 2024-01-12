@@ -1,0 +1,26 @@
+Question
+========
+
+Stel dat gegeven is dat voor een bepaalde patiëntenpopulatie het haemoglobinegehalte (Hb) normaal verdeeld is met µ = 8.10 en s = 1.20. We trekken uit deze populatie aselect een persoon. Wat is de kans op een Hb van meer dan 7.50 ? 
+
+Answerlist
+----------
+* 19.15%
+* 30.85%
+* 69.15%
+* 80.85%
+
+Solution
+========
+
+The correct answer is  69.15% 
+
+Meta-information
+================
+exname: uva-probability-553-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferential Statistics/Sampling Distributions/Sample mean
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

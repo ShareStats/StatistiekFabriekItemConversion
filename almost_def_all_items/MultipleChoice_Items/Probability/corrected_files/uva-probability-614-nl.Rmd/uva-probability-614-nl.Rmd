@@ -1,0 +1,36 @@
+Question
+========
+
+Van 200 personen is het geslacht en de oorspronkelijke haarkleur bepaald. De uitkomsten staan in de volgende kruistabel:
+
+zwart bruin blond rood
+vrouw 30 26 54 10 120
+man 10 24 36 10 80
+40 50 90 20 200
+
+Uit deze 200 personen wordt aselect één persoon getrokken.
+We definiëren de volgende twee gebeurtenissen:
+A: de oorspronkelijke haarkleur van de persoon is zwart.
+B: de persoon is van het vrouwelijk geslacht.P(A <U+222A> B) = 
+
+Answerlist
+----------
+* 0.15
+* 0.65
+* 0.8
+* 0.25
+
+Solution
+========
+
+The correct answer is  0.65 
+
+Meta-information
+================
+exname: uva-probability-614-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Probability/Elementary Probability/General Rules/Addition rule
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

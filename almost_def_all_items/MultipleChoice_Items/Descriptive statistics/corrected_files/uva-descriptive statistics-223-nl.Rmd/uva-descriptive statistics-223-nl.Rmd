@@ -1,0 +1,25 @@
+Question
+========
+
+Men berekent twee maal een 95% betrouwbaarheidsinterval voor de populatieproportie p, éénmaal gebaseerd op een steekproef van 50 waarnemingen (interval A) en éénmaal gebaseerd op een steekproef van 200 waarnemingen (interval B). In vergelijking met interval A is interval B 
+
+Answerlist
+----------
+* twee maal zo smal
+* vier maal zo smal
+* acht maal zo smal
+
+Solution
+========
+
+The correct answer is  twee maal zo smal 
+
+Meta-information
+================
+exname: uva-descriptive statistics-223-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Descriptive statistics/Summary Statistics/Measures of Location
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

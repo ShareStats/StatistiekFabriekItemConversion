@@ -1,0 +1,28 @@
+Question
+========
+
+Een onderzoeker heeft onderzoek gedaan en komt met de volgende tabel
+
+|Source|df|SS|MS|F|
+|-|-|-|-|-|
+|Groups|4|40| | |
+|Error|25| | | |
+|Total|29|90| | |
+
+Wat is de bijbehorende F-waarde?
+
+Solution
+========
+
+The correct answer is 5.
+
+Meta-information
+================
+exname: uva-inferential statistics-806-nl.Rmd 
+extype: num 
+exsolution: 5
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Calculation
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy 
+

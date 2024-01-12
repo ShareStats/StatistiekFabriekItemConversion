@@ -1,0 +1,25 @@
+Question
+========
+
+Van een regressie van Y op X is het volgende bekend: b = 1.25, SX = 0.75 en SY = 1.2. Wat is de proportie verklaarde variantie? 
+
+Answerlist
+----------
+* 0.21
+* 0.61
+* 0.78
+
+Solution
+========
+
+The correct answer is  0.61 
+
+Meta-information
+================
+exname: uva-descriptive statistics-215-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferential Statistics/Regression/R squared
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

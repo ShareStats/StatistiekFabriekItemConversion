@@ -1,0 +1,33 @@
+Question
+========
+
+Van 200 mensen is bepaald of zij links- of rechtshandig zijn, en hoe goed zij artistiek ontwikkeld zijn (goed, matig, slecht). De resultaten zijn weergegeven in onderstaande kruistabel.
+
+Artistieke ontwikkeling
+Goed Matig Slecht
+Rechtshandig 42 72 56
+Linkshandig 18 8 4
+
+Wanneer we aselect een van deze 200 personen trekken, wat is dan de kans dat deze persoon rechtshandig of artistiek slecht ontwikkeld (of beide) is? 
+
+Answerlist
+----------
+* 0.28
+* 0.33
+* 0.87
+* 0.93
+
+Solution
+========
+
+The correct answer is  0.87 
+
+Meta-information
+================
+exname: uva-probability-340-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Probability/Elementary Probability/Random variables
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

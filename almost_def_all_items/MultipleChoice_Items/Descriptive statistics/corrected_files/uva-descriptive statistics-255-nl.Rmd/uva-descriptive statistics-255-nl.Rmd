@@ -1,0 +1,29 @@
+Question
+========
+
+Op een bepaalde ziekenhuisafdeling wordt gedurende een jaar bijgehouden hoeveel mannen en hoeveel vrouwen er op de eerste dag van de maand liggen.
+De getallen voor het aantal vrouwen gedurende dat jaar waren:
+10 13 12 9 9 11 12 12 10 14 12 10
+De steekproefvariantie is: 
+
+Answerlist
+----------
+* 0.192
+* 1.586
+* 2.306
+* 2.515
+
+Solution
+========
+
+The correct answer is  2.515 
+
+Meta-information
+================
+exname: uva-descriptive statistics-255-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Variance
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

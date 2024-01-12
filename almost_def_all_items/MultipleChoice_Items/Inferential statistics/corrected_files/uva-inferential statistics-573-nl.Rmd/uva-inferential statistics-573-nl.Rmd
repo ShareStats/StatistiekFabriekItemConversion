@@ -1,0 +1,26 @@
+Question
+========
+
+Het kritieke gebied om in een steekproef van 12 personen met 5% risico tweezijdig te toetsen of een Spearman rangcorrelatiecoefficient gelijk is aan 0 heeft als grenzen 
+
+Answerlist
+----------
+* +\/- 0.4965
+* +\/- 0.5804
+* +\/- 0.5515
+* +\/- 0.6364
+
+Solution
+========
+
+The correct answer is  +\/- 0.5515 
+
+Meta-information
+================
+exname: uva-inferential statistics-573-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferential Statistics/NHST/Test statistic/t-statistic
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

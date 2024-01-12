@@ -1,0 +1,26 @@
+Question
+========
+
+We trekken een steekproef van n = 11 uit een verdeling met µ = 88 en s2 = 25. Dan geldt voor de verwachting en variantie van het steekproefgemiddelde: 
+
+Answerlist
+----------
+* &mu; = 8 en &sigma;<sup>2<\/sup> = 7.54
+* &mu; = 88 en &sigma;<sup>2<\/sup> = 2.27
+* &mu; = 88 en &sigma;<sup>2<\/sup> = 7.54
+* &mu; = 88 en &sigma;<sup>2<\/sup> = 25
+
+Solution
+========
+
+The correct answer is  &mu; = 88 en &sigma;<sup>2<\/sup> = 2.27 
+
+Meta-information
+================
+exname: uva-descriptive statistics-260-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Variance
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

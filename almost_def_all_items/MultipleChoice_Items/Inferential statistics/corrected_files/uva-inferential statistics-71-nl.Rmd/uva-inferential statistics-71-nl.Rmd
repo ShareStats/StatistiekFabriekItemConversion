@@ -1,0 +1,25 @@
+Question
+========
+
+In veel psychologisch onderzoek wordt gebruik gemaakt van 'convenience samples' van psychologiestudenten. Voor welk van de volgende modellen van externe validiteit is dat vooral een probleem? 
+
+Answerlist
+----------
+* Theoretische model van externe validiteit.
+* Generalisatiemodel van externe validiteit.
+* Representativiteitsmodel van externe validiteit.
+
+Solution
+========
+
+The correct answer is  Generalisatiemodel van externe validiteit. 
+
+Meta-information
+================
+exname: uva-inferential statistics-71-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferential Statistics
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

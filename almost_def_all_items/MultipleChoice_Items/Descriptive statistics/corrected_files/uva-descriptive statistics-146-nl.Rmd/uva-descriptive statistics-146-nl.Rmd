@@ -1,0 +1,25 @@
+Question
+========
+
+In een random sample van tien psychologiestudenten vinden we een gemiddelde leeftijd van 24 met een standaardafwijking gelijk aan 5. We nemen aan dat leeftijd in de populatie van psychologiestudenten normaal verdeeld is. Het 95% confidence interval voor het populatie gemiddelde is dan 
+
+Answerlist
+----------
+* 24 &plusmn; 3,10.
+* 24 &plusmn; 3,58.
+* 24 &plusmn; 9,80.
+
+Solution
+========
+
+The correct answer is  24 &plusmn; 3,58. 
+
+Meta-information
+================
+exname: uva-descriptive statistics-146-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Descriptive statistics/Summary Statistics/Measures of Location
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

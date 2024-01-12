@@ -1,0 +1,26 @@
+Question
+========
+
+We hebben een aselecte steekproef uit een populatie getrokken, met de volgende 5 steekproefuitkomsten: 6, 9, 6, 11, 13. Het 95%-betrouwbaarheidsinterval voor het populatiegemiddelde is gelijk aan 
+
+Answerlist
+----------
+* &lt; 5.17 ; 12.83 &gt;
+* &lt; 5.46 ; 12.54 &gt;
+* &lt; 6.06 ; 11.94 &gt;>
+* &lt; 6.30 ; 11.70 &gt;
+
+Solution
+========
+
+The correct answer is  &lt; 5.17 ; 12.83 &gt; 
+
+Meta-information
+================
+exname: uva-descriptive statistics-455-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Descriptive statistics/Summary Statistics/Measures of Location
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

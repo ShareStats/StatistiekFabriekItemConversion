@@ -1,0 +1,25 @@
+Question
+========
+
+In twee aselecte steekproeven uit een normaal verdeelde populatie (n1 = 10 en n2 = 30) vindt men S12 = 50 en S22 = 40. Een gewogen schatting van de populatievariantie s2 heeft dan de waarde 
+
+Answerlist
+----------
+* 42.37
+* 45
+* 47.63
+
+Solution
+========
+
+The correct answer is  42.37 
+
+Meta-information
+================
+exname: uva-descriptive statistics-237-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Variance
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

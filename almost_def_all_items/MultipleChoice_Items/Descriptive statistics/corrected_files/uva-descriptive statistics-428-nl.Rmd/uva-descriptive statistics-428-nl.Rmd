@@ -1,0 +1,26 @@
+Question
+========
+
+Gegeven twee onafhankelijke stochastische variabelen X en Y met standaarddeviaties respectievelijk 12 en 5. Stel nu dat Z = X - Y. De s.d. van Z is dan gelijk aan 
+
+Answerlist
+----------
+* 7
+* 10.9
+* 13
+* 17
+
+Solution
+========
+
+The correct answer is  13 
+
+Meta-information
+================
+exname: uva-descriptive statistics-428-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,31 @@
+Question
+========
+
+Als een cijfer willekeurig en gelijkmatig is verdeeld over de getallen 0 tot en met 9 dan wordt de kansverdeling weergegeven door de volgende tabel:
+
+cijfer 0 1 2 3 4 5 6 7 8 9
+Kans 1/10 1/10 1/10 1/10 1/10 1/10 1/10 1/10 1/10 1/10
+
+We kiezen aselect een getal uit de verzameling S = {0,1,2,3,4,5,6,7,8,9}. B is de gebeurtenis dat het gekozen getal vijf of groter is. De kans op gebeurtenis B is dan: 
+
+Answerlist
+----------
+* 1\/10
+* 1\/9
+* 1\/5
+* 1\/2
+
+Solution
+========
+
+The correct answer is  1\/2 
+
+Meta-information
+================
+exname: uva-probability-644-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Distributions/Continuous/Uniform
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

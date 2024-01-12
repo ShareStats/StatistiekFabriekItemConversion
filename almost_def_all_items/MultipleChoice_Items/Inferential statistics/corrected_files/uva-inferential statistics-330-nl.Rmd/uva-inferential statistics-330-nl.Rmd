@@ -1,0 +1,32 @@
+Question
+========
+
+Hieronder staat een (onvolledige) ANOVA-tabel, behorende bij lineaire regressie van een afhankelijke variabele op een verklarende variabele.
+
+Variatiebron SS df MS F
+Regressie 54
+Residueel 90 9
+
+De waarde van de toetsingsgrootheid F, de kritieke waarde en de conclusie (bij toetsing met een risico van a = 0.05) moeten dan zijn 
+
+Answerlist
+----------
+* F = 5.4, kritieke waarde = 5.12, significant
+* F = 2.7, kritieke waarde = 4.26, niet significant
+* F = 5.4, kritieke waarde = 10.56, niet significant
+* F = 0.6, kritieke waarde = 4.96, niet significant
+
+Solution
+========
+
+The correct answer is  F = 5.4, kritieke waarde = 5.12, significant 
+
+Meta-information
+================
+exname: uva-inferential statistics-330-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferential Statistics/NHST/Test statistic/F-statistic
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

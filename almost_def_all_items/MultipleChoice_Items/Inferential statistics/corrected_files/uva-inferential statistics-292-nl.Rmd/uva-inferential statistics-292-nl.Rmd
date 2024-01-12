@@ -1,0 +1,34 @@
+Question
+========
+
+Hieronder staat de ANOVA-tabel, behorende bij een Randomized Complete Block-ANOVA op een experiment naar het mogelijke effect van een aantal behandelingen.
+
+Variatiebron SS df MS F
+Behandeling 120 3 40 1.14
+Blok 90 2 45 1.29
+Error 210 6 35
+Totaal 420 11
+
+Als we geen rekening hadden gehouden met de blokken, en een Completely Randomised Design ANOVA hadden toegepast, hoe groot zou dan de gemiddelde residuele kwadraatsom MS(Error) geweest zijn? 
+
+Answerlist
+----------
+* 35
+* 37.5
+* 38.2
+* 40
+
+Solution
+========
+
+The correct answer is  37.5 
+
+Meta-information
+================
+exname: uva-inferential statistics-292-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

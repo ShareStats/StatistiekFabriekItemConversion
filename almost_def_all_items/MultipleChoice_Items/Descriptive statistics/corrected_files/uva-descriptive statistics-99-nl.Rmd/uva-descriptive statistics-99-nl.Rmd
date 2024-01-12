@@ -1,0 +1,34 @@
+Question
+========
+
+Gegeven is een tabel met correlaties voor drie predictoren x1, x2 en x3.
+
+x1 x2 x3
+x1
+x2 0.01
+x3 0.35 0.05
+
+De regressievergelijking voor de afhankelijke variabele y is met alleen x1 en x3:
+y = 23.13 + 12.17 x1 + 2.10 x3
+Stel dat nu het model berekend wordt met x2 erbij. Dan zal de coëfficiënt 
+
+Answerlist
+----------
+* van <em>x<\/em>1 veel kleiner en van <em>x<\/em>3 veel groter worden.
+* van <em>x<\/em>1 ongeveer hetzelfde blijven en voor <em>x<\/em>3 veel kleiner worden.
+* van <em>x<\/em>1 ongeveer hetzelfde blijven en van <em>x<\/em>3 ook.
+
+Solution
+========
+
+The correct answer is  van <em>x<\/em>1 ongeveer hetzelfde blijven en van <em>x<\/em>3 ook. 
+
+Meta-information
+================
+exname: uva-descriptive statistics-99-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Descriptive statistics/Summary Statistics/Outliers
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

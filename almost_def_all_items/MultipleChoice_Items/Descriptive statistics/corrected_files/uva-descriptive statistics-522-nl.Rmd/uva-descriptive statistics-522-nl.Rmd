@@ -1,0 +1,27 @@
+Question
+========
+
+Uit een populatie zijn de volgende 5 getallen getrokken:
+57, 43, 89, 66, 70. Het tweezijdig 95% betrouwbaarheidsinterval voor het populatiegemiddelde is 
+
+Answerlist
+----------
+* &lt;43.95;86.05&gt;
+* &lt;45.51;84.49&gt;
+* &lt;46.17;83.83&gt;
+* &lt;48.83;81.17&gt;
+
+Solution
+========
+
+The correct answer is  &lt;43.95;86.05&gt; 
+
+Meta-information
+================
+exname: uva-descriptive statistics-522-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Descriptive statistics/Summary Statistics/Measures of Location
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

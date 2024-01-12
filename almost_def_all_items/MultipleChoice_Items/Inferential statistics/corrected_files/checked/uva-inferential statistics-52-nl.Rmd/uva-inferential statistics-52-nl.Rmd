@@ -1,0 +1,25 @@
+Question
+========
+
+Bij een toets op een coëfficiënt uit een multipele regressie met drie explanatory variables, wordt de nulhypothese getoetst die stelt dat de coëfficiënt 0 is tegen het alternatief dat de coëfficiënt ongelijk aan 0 is. De coëfficiënt is b1 = 2.3 met se = 1.5 en er zijn 16 vrijheidsgraden. Dan kan de nulhypothese 
+
+Answerlist
+----------
+* worden verworpen bij 0.20 maar niet bij 0.10.
+* worden verworpen bij 0.10 maar niet bij 0.05.
+* worden verworpen bij 0.05 maar niet bij 0.02.
+
+Solution
+========
+
+The correct answer is  worden verworpen bij 0.20 maar niet bij 0.10. 
+
+Meta-information
+================
+exname: uva-inferential statistics-52-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Inferential Statistics/Regression
+exextra[Type]: Conceptual
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy

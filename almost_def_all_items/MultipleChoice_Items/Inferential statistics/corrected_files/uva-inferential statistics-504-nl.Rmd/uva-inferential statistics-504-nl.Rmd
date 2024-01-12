@@ -1,0 +1,33 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("item_file_id60_UMCU19990612-6.png", recursive = TRUE)
+```
+Question
+========
+
+Hieronder staat een gedeelte van de SPSS-uitvoer van een gepaarde T-toets op twee metingen aan 17 mensen. De geschatte standaardfout van het steekproefgemiddelde van METING1 is gelijk aan 
+
+ 
+
+ ![](item_file_id60_UMCU19990612-6.png) 
+
+Answerlist
+----------
+* 0.15
+* 0.58
+* 0.64
+* 2.62
+
+Solution
+========
+
+The correct answer is  0.64 
+
+Meta-information
+================
+exname: uva-inferential statistics-504-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferential Statistics/Parametric Techniques/t-test/Paired samples
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

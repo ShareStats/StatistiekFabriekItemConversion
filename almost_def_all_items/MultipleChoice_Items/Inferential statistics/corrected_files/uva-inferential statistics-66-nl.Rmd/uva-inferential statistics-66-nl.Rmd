@@ -1,0 +1,25 @@
+Question
+========
+
+Bij controversiële onderwerpen in de psychologie worden vaak argumenten gebruikt die weinig inhoudelijk zijn, maar wel persoonlijk. Zo wordt een mannelijke onderzoeker die een sekseverschil heeft gevonden in gemiddeld IQ door een vrouwelijke collega uitgemaakt voor seksist. Die mannelijke onderzoeker reageert vervolgens door te schrijven dat de vrouwelijke collega duidelijk een vooringenomen feministe is wiens onderzoek daarom ook niet te vertrouwen is. Hoe worden dergelijke argumenten ook wel genoemd? 
+
+Answerlist
+----------
+* discriminerende argumenten
+* ad hominem argumenten
+* kwetsende argumenten
+
+Solution
+========
+
+The correct answer is  ad hominem argumenten 
+
+Meta-information
+================
+exname: uva-inferential statistics-66-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferential Statistics
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

@@ -1,0 +1,26 @@
+Question
+========
+
+Stel dat gegeven is dat voor een bepaalde patiëntenpopulatie het hemoglobinegehalte (Hb) normaal verdeeld is met µ = 7.90 en s = 0.80. We trekken uit deze populatie aselect een persoon. Wat is de kans dat deze persoon een Hb heeft tussen 7.90 en 8.50 ? 
+
+Answerlist
+----------
+* 0.2266
+* 0.258
+* 0.2734
+* 0.7266
+
+Solution
+========
+
+The correct answer is  0.2734 
+
+Meta-information
+================
+exname: uva-probability-419-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Distributions/Continuous/Normal
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

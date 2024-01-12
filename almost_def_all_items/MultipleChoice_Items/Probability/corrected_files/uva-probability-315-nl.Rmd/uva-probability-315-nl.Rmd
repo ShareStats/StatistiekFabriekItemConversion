@@ -1,0 +1,26 @@
+Question
+========
+
+Z is een standaardnormaal verdeelde variabele, Z ~ N(0,1). Dan is P(Z < -2 n Z > 1) gelijk aan 
+
+Answerlist
+----------
+* 0
+* 0.1359
+* 0.1815
+* 0.8185
+
+Solution
+========
+
+The correct answer is  0 
+
+Meta-information
+================
+exname: uva-probability-315-nl.Rmd 
+extype: schoice 
+exsolution: 100 
+exsection: Distributions/Continuous/Normal
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

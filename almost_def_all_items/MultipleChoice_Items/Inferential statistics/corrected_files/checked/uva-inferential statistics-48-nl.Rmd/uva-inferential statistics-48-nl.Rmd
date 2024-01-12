@@ -1,0 +1,25 @@
+Question
+========
+
+Twee categorische variabelen hebben exact dezelfde conditionele kansen in de populatie. Deze variabelen zijn dan 
+
+Answerlist
+----------
+* afhankelijk.
+* onafhankelijk.
+* gecorreleerd.
+
+Solution
+========
+
+The correct answer is  onafhankelijk. 
+
+Meta-information
+================
+exname: uva-inferential statistics-48-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferential Statistics/NHST/Test statistic/Chi-squared
+exextra[Type]: Conceptual 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy

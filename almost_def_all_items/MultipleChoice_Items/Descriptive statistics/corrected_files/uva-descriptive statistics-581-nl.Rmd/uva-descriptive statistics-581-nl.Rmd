@@ -1,0 +1,37 @@
+Question
+========
+
+Gegeven is de volgende frequentietabel:
+
+klassegrenzen klassemidden frequenties
+[14,16> 15 4
+[16,18> 17 6
+[18,20> 19 8
+[20,22> 21 3
+[22,24> 23 9
+[24,26> 25 1
+[26,28> 27 10
+
+In welke klasse valt de mediaan? 
+
+Answerlist
+----------
+* [18,20>
+* [20,22>
+* [22,24>
+* [26,28>
+
+Solution
+========
+
+The correct answer is  [20,22> 
+
+Meta-information
+================
+exname: uva-descriptive statistics-581-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Median
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

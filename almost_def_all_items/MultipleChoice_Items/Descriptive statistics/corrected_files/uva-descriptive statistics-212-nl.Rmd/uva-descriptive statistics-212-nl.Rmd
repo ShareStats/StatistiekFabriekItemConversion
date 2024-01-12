@@ -1,0 +1,27 @@
+Question
+========
+
+Men berekent afzonderlijk voor een groep jongens en een groep meisjes de correlatie (pmcc) tussen de variabelen Intelligentie en Logisch Redeneren. Bij de meisjes heeft de pmcc de waarde 0.30 (rm), bij de jongens de waarde 0.60 (rj). Mogelijke conclusies zijn nu:
+I. rm is twee keer zo laag als rj
+II. rm is lager dan rj 
+
+Answerlist
+----------
+* I en II zijn beide juist.
+* I is onjuist en II is juist.
+* I en II zijn beide onjuist.
+
+Solution
+========
+
+The correct answer is  I is onjuist en II is juist. 
+
+Meta-information
+================
+exname: uva-descriptive statistics-212-nl.Rmd 
+extype: schoice 
+exsolution: 010 
+exsection: Inferential Statistics/Parametric Techniques/Correlations/Pearson
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

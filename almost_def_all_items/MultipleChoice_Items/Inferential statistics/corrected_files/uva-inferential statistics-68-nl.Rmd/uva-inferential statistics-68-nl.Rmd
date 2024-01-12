@@ -1,0 +1,25 @@
+Question
+========
+
+In een onderzoeksartikel worden drie experimenten gepresenteerd naar het effect van kou op de stemming. Deze experimenten lijken veel op elkaar en verschillen alleen in de manier waarop stemming wordt gemeten. Van wat voor soort replicatie is hier sprake? 
+
+Answerlist
+----------
+* conceptuele replicatie
+* directe replicatie
+* systematische replicatie
+
+Solution
+========
+
+The correct answer is  systematische replicatie 
+
+Meta-information
+================
+exname: uva-inferential statistics-68-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Inferential Statistics
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

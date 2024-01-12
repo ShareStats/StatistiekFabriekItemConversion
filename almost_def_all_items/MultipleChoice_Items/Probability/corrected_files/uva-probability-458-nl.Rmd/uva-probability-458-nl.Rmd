@@ -1,0 +1,26 @@
+Question
+========
+
+Twee gebeurtenissen A en B zijn onafhankelijk, met kansen P(A) = 0.50 en P(B) = 0.36. Dan is P(A n B) gelijk aan 
+
+Answerlist
+----------
+* 0
+* 0.14
+* 0.18
+* 0.86
+
+Solution
+========
+
+The correct answer is  0.18 
+
+Meta-information
+================
+exname: uva-probability-458-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Probability/Elementary Probability/General Rules/Independent events
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

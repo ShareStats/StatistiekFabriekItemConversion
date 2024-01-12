@@ -1,0 +1,26 @@
+Question
+========
+
+In een aselecte steekproef zijn bij acht personen de variabelen X en Y gemeten. De Spearman rangcorrelatie-coëfficiënt rS van X en Y is -0.69. Toets tweezijdig met a = 5% de nulhypothese dat de werkelijke correlatie in de populatie 0 is. De juiste conclusie moet dan luiden: 
+
+Answerlist
+----------
+* Significant resultaat, verwerp H<sub>0<\/sub>.
+* Significant resultaat, verwerp H<sub>0<\/sub> niet.
+* Geen significant resultaat, verwerp H<sub>0<\/sub>.
+* Geen significant resultaat, verwerp H<sub>0<\/sub> niet.
+
+Solution
+========
+
+The correct answer is  Geen significant resultaat, verwerp H<sub>0<\/sub> niet. 
+
+Meta-information
+================
+exname: uva-inferential statistics-606-nl.Rmd 
+extype: schoice 
+exsolution: 0001 
+exsection: Inferential Statistics/NHST/Test statistic/t-statistic
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 

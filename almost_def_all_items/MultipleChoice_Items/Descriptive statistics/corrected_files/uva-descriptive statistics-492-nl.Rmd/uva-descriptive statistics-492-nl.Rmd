@@ -1,0 +1,26 @@
+Question
+========
+
+Twee onafhankelijke stochastische variabelen X en Y zijn beide normaal ver-deeld: X ~ N(70, 9²) en Y ~ N(88, 12²). Dan is de variantie van Y - X gelijk aan 
+
+Answerlist
+----------
+* 15
+* 63
+* 225
+* 324
+
+Solution
+========
+
+The correct answer is  225 
+
+Meta-information
+================
+exname: uva-descriptive statistics-492-nl.Rmd 
+extype: schoice 
+exsolution: 001 
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Variance
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
+exextra[Langauge]: Dutch 
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
