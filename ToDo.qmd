@@ -1,0 +1,52 @@
+# Verwerking
+
+Huidige staat
+
+-   Alle exsections correct
+
+-   alle afbeeldingen correct toegevoegd aan map en binnen het bestand goed neergezet
+
+-   Ik heb als encoding per file de originele encoding gebruikt, omdat ik de juiste niet kon vinden
+
+Problemen
+
+-   Sommige vragen hebben meer antwoordopties dan aangeduid in de exsolution. Vb. vraag heeft 4 keuzeopties maar achter exsolution staat: 010
+
+    -   voorbeeldvragen: multiple choice items descriptive: 328, 333, 335
+
+-   Ik kan niet de correcte encoding vinden, waardoor bv: ë, é, ä, griekse letters veranderen in ‘?’ of in bytes
+
+    -   voorbeeldvragen: Multiple choice descriptive items : 124, 338, 625
+    -   bv. één = ??n
+    -   bv. richtingscoëfficiënt is = richtingsco\u00ebffici\u00ebnt
+        -   unicode escape lijkt veel op te pakken, maar niet alles, vandaar heb ik deze nog niet verwerkt Wat er nog moet gebeuren
+
+-   multiple choice probability 150 heeft ENTER MANUALLY als antwoord, dit moet handmatig aangepast worden
+
+-   exextra\[type\]
+
+-   exextra\[level\]
+
+-   Andere nog onbekende fouten
+
+Uitleg geuploade bestanden
+
+Conversiescript.ipnyb
+
+-   importeren van packages
+-   functie om encoding van bestand te vinden
+-   inladen van directories, helaas geen relatieve paden gebruikt
+-   inladen (door mij aangepaste kopie van) csv file om als conversietabel te gebruiken
+-   conversiescript voor Multiple Choice vragen (niet zomaar runnen)
+    -   de ‘encoding =’ staat niet vast
+-   conversiescript voor Open string vragen (niet zomaar runnen)
+    -   was eerst anders dan mc maar is nu hetzelfde alleen met andere doorgegeven variabelen
+-   functies om bijv om .png te vinden binnen files
+    -   kan aangepast worden naar iedere string of aangepast worden om woorden met vraagtekens midden in woorden te vinden.
+-   notities voor mezelf
+-   rotzooi code die je niet zomaar moet runnen want allemaal destructief
+
+Directories
+
+-   de directories en bestanden hebben allemaal dezelfde benaming als voor de transformatie en ook dezelfde paden. Dit heb ik bewust gedaan om geen verwarring te veroorzaken bij de originele maker van deze paden. Wel is er af en toe een map met genaamd ‘corrected files’ tussengevoegd. csv file
+-   Ik heb een kopie van de csv file gemaakt met toevoegingen, die alleen werken op mijn script zodat ik niet het originele csv file verpest.
