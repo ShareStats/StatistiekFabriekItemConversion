@@ -24,10 +24,13 @@ words = c("[:blank:]\\!\\[",           # 1
           "\\?voor \\? \\?na",         # 12
           "\\?voor",                   # 13
           "\\?na",                     # 14
-          "\\?D"                       # 15
+          "\\?D",                      # 15
+          "\\&\\#",                    # 16 Find HTML character encoding
+          "&#8746;",                   # 17
+          "^NA$"                        # 18
           )
 
-word = 3
+word = 18
 
 find = words[word]
 find

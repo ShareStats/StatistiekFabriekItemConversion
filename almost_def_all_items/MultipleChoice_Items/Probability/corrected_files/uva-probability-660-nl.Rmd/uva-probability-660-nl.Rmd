@@ -5,22 +5,23 @@ A is de verzameling van even getallen en B van de oneven getallen. Wat is dan de
 
 Answerlist
 ----------
-* <em>A<\/em> &#8745; <em>B<\/em> = &#8709;
-* <em>A<\/em> &#8745; <em>B<\/em> = {0}
-* <em>A<\/em> &#8745; <em>B<\/em> = {even getallen}
-* <em>A<\/em> &#8745; <em>B<\/em> = {oneven getallen}
+
+* $A \cap B = \emptyset$
+* $A \cap B = 0$
+* $A \cap B = \text{even getallen}$
+* $A \cap B = \text{oneven getallen}$
 
 Solution
 ========
 
-The correct answer is  <em>A<\/em> &#8745; <em>B<\/em> = &#8709;
+The correct answer is $A \cap B = \emptyset$
 
 Meta-information
 ================
 exname: uva-probability-660-nl.Rmd
 extype: schoice
-exsolution: 100
+exsolution: 1000
 exsection: Probability/Elementary Probability/Events
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Type]: Conceptual
 exextra[Langauge]: Dutch
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking
+exextra[Level]: Statistical Literacy

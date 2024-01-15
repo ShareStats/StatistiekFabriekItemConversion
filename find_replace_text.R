@@ -26,10 +26,11 @@ findReplace = rbind(c("co\\?ffici\\?nten", "coëfficiënten"), # 1: Correct ë r
                     c("\\?voor", "voor"),                    # 16
                     c("\\?na", "na"),                        # 17
                     c("\\?D", "D"),                          # 18
+  #                  c("&#8746;", "$\cup$"),                  # 19
                     c("", "")
                   )
 
-word = 17
+word = 18
 
 find    = findReplace[word, 1]
 replace = findReplace[word, 2]
