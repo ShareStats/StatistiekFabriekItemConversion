@@ -1,7 +1,7 @@
 Question
 ========
 
-Er is gegeven dat P(A) = 0.4, P(B) = 0.25 en P(A n B) = 0.1. Zijn de gebeurtenissen A en B onafhankelijk? 
+Er is gegeven dat P(A) = 0.4, P(B) = 0.25 en P(A n B) = 0.1. Zijn de gebeurtenissen A en B onafhankelijk?
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  Ja, want P(A) x P(B) = P(A &#8745; B). 
+The correct answer is  Ja, want P(A) x P(B) = P(A &#8745; B).
 
 Meta-information
 ================
-exname: uva-probability-381-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-probability-381-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Probability/Elementary Probability/General Rules/Independent events
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

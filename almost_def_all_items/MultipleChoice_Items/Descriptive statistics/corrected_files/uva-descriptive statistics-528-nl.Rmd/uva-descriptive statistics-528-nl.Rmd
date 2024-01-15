@@ -1,7 +1,7 @@
 Question
 ========
 
-Gegeven de steekproefwaarnemingen 22, 24, 28, 34, 40, 51. De beste schatting van de standaarddeviatie van het steekproefgemiddelde is 
+Gegeven de steekproefwaarnemingen 22, 24, 28, 34, 40, 51. De beste schatting van de standaarddeviatie van het steekproefgemiddelde is
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  4.48 
+The correct answer is  4.48
 
 Meta-information
 ================
-exname: uva-descriptive statistics-528-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-descriptive statistics-528-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

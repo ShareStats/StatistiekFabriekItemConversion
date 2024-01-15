@@ -1,7 +1,7 @@
 Question
 ========
 
-Het 'dubbel-blind placebo gecontroleerd experiment met aselecte toewijzing' is het standaard design in onderzoek naar de werkzaamheid van medicijnen. Welk van de eigenschappen van dit design is het lastigst te implementeren in interventieonderzoek naar de werkzaamheid van psychotherapie? 
+Het 'dubbel-blind placebo gecontroleerd experiment met aselecte toewijzing' is het standaard design in onderzoek naar de werkzaamheid van medicijnen. Welk van de eigenschappen van dit design is het lastigst te implementeren in interventieonderzoek naar de werkzaamheid van psychotherapie?
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  De placebo controle. 
+The correct answer is  De placebo controle.
 
 Meta-information
 ================
-exname: uva-inferential statistics-36-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-inferential statistics-36-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics/NHST
 exextra[Type]: Conceptual
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy 
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy

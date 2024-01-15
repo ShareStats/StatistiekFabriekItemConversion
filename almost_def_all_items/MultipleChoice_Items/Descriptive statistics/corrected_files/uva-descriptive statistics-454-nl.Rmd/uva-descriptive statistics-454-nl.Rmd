@@ -1,7 +1,7 @@
 Question
 ========
 
-We hebben een aselecte steekproef uit een populatie getrokken, met de volgende 5 steekproefuitkomsten: 6, 9, 6, 11, 13. De geschatte variantie van het steekproefgemiddelde is 
+We hebben een aselecte steekproef uit een populatie getrokken, met de volgende 5 steekproefuitkomsten: 6, 9, 6, 11, 13. De geschatte variantie van het steekproefgemiddelde is
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  1.9 
+The correct answer is  1.9
 
 Meta-information
 ================
-exname: uva-descriptive statistics-454-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-descriptive statistics-454-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Variance
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

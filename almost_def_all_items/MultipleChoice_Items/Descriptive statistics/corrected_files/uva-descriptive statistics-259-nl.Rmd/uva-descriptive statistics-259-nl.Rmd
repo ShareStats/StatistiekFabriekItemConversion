@@ -1,7 +1,7 @@
 Question
 ========
 
-Van de variabele X is gegeven dat hij een gemiddelde van 45 en een standaardafwijking van 12 heeft. De variabele wordt gestandaardiseerd, door er 45 van af te trekken, en vervolgens door 12 te delen. De standaardafwijking van deze gestandaardiseerde variabele is dan gelijk aan: 
+Van de variabele X is gegeven dat hij een gemiddelde van 45 en een standaardafwijking van 12 heeft. De variabele wordt gestandaardiseerd, door er 45 van af te trekken, en vervolgens door 12 te delen. De standaardafwijking van deze gestandaardiseerde variabele is dan gelijk aan:
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  1 
+The correct answer is  1
 
 Meta-information
 ================
-exname: uva-descriptive statistics-259-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-descriptive statistics-259-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

@@ -1,7 +1,7 @@
 Question
 ========
 
-Z is een standaardnormaal verdeelde stochastische variabele. De kans dat Z een waarde aanneemt tussen -1.32 en 0.43 is gelijk aan 
+Z is een standaardnormaal verdeelde stochastische variabele. De kans dat Z een waarde aanneemt tussen -1.32 en 0.43 is gelijk aan
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.573 
+The correct answer is  0.573
 
 Meta-information
 ================
-exname: uva-probability-450-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-probability-450-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Distributions/Continuous/Normal
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

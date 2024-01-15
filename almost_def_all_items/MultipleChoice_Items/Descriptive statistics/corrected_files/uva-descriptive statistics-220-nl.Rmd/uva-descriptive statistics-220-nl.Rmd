@@ -1,7 +1,7 @@
 Question
 ========
 
-Voor de variabelen X en Y geldt: het gemiddelde van X is 3 en het gemiddelde van Y is 3, de standaarddeviatie van X is 1 en de standaarddeviatie van Y is 2, en de covariantie tussen X en Y is 1. De regressievergelijking van Y op X is dan 
+Voor de variabelen X en Y geldt: het gemiddelde van X is 3 en het gemiddelde van Y is 3, de standaarddeviatie van X is 1 en de standaarddeviatie van Y is 2, en de covariantie tussen X en Y is 1. De regressievergelijking van Y op X is dan
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  Y' = X 
+The correct answer is  Y' = X
 
 Meta-information
 ================
-exname: uva-descriptive statistics-220-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-descriptive statistics-220-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics/Regression/R squared
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

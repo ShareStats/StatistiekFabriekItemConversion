@@ -8,7 +8,7 @@ Gegeven is de volgende frequentietabel.
 man| 26| 10
 vrouw| 24| 15
 
-Wat is de verwachte celfrequentie van een man met sportauto onder de aanname van onafhankelijkheid van de nulhypothese? 
+Wat is de verwachte celfrequentie van een man met sportauto onder de aanname van onafhankelijkheid van de nulhypothese?
 
 Answerlist
 ----------
@@ -19,14 +19,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  24 
+The correct answer is  24
 
 Meta-information
 ================
-exname: uva-inferential statistics-44-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-inferential statistics-44-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics/NHST/Test statistic/Chi-squared
 exextra[Type]: Calculation
-exextra[Langauge]: Dutch 
+exextra[Langauge]: Dutch
 exextra[Level]: Statistical Literacy

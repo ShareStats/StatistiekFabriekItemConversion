@@ -10,7 +10,7 @@ Nederlands hervormd 2 169 17
 Gereformeerd 3 80 8
 Overig 4 52 5
 
-Welke centrummaten zijn/is hier zinvol om uit te rekenen? 
+Welke centrummaten zijn/is hier zinvol om uit te rekenen?
 
 Answerlist
 ----------
@@ -22,14 +22,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  alleen modus 
+The correct answer is  alleen modus
 
 Meta-information
 ================
-exname: uva-descriptive statistics-469-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-descriptive statistics-469-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mode
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

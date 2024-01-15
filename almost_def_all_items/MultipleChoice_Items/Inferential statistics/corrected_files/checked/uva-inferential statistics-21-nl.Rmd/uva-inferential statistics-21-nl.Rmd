@@ -1,7 +1,7 @@
 Question
 ========
 
-Een onderzoeker wil er bij het opzetten van een experiment voor zorgen dat hij de kans op een significant resultaat zo groot mogelijk maakt. Waar moet hij op letten? 
+Een onderzoeker wil er bij het opzetten van een experiment voor zorgen dat hij de kans op een significant resultaat zo groot mogelijk maakt. Waar moet hij op letten?
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is dat de meting van de afhankelijke variabele betrouwbaar is. 
+The correct answer is dat de meting van de afhankelijke variabele betrouwbaar is.
 
 Meta-information
 ================
-exname: uva-inferential statistics-21-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-inferential statistics-21-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics/NHST
-exextra[Type]: Conceptual 
-exextra[Langauge]: Dutch 
+exextra[Type]: Conceptual
+exextra[Langauge]: Dutch
 exextra[Level]: Statistical Literacy

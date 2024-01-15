@@ -1,7 +1,7 @@
 Question
 ========
 
-Gegeven de steekproefwaarnemingen 22, 24, 28, 34, 40, 51. Geef aan welke stelling over voorgaande getallen juist is. 
+Gegeven de steekproefwaarnemingen 22, 24, 28, 34, 40, 51. Geef aan welke stelling over voorgaande getallen juist is.
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  Het gemiddelde is groter dan de mediaan 
+The correct answer is  Het gemiddelde is groter dan de mediaan
 
 Meta-information
 ================
-exname: uva-descriptive statistics-527-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-descriptive statistics-527-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

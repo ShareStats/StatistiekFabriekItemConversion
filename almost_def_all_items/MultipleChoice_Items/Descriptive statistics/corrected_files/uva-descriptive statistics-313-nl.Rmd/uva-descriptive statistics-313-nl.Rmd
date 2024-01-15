@@ -1,7 +1,7 @@
 Question
 ========
 
-Welke van de volgende 4 grootheden is een maat voor de spreiding van het steekproefgemiddelde? 
+Welke van de volgende 4 grootheden is een maat voor de spreiding van het steekproefgemiddelde?
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  SEM 
+The correct answer is  SEM
 
 Meta-information
 ================
-exname: uva-descriptive statistics-313-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-descriptive statistics-313-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

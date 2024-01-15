@@ -1,7 +1,7 @@
 Question
 ========
 
-Z ~ N(0, 1). Dan is P(Z = - 1.96 of Z = 1.96) gelijk aan 
+Z ~ N(0, 1). Dan is P(Z = - 1.96 of Z = 1.96) gelijk aan
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.05 
+The correct answer is  0.05
 
 Meta-information
 ================
-exname: uva-probability-299-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-probability-299-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Distributions/Continuous/Normal
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

@@ -9,7 +9,7 @@ John verkoopt fietsen. Van de commissie van 10% van de bruto-opbrengst die hij k
 |Verkochte Batavus fietsen|0|1|2|
 |Kans|0.2|0.3|0.5|
 
-Wat is de verwachtingswaarde van de verdiensten in Euro van John die zaterdag? 
+Wat is de verwachtingswaarde van de verdiensten in Euro van John die zaterdag?
 
 Solution
 ========
@@ -18,10 +18,10 @@ The correct answer is 97.
 
 Meta-information
 ================
-exname: uva-expected-value-648-nl 
-extype: num 
-exsolution: 97 
-exsection: Probability/Elementary Probability/Random variables/Expected value 
-exextra[Type]: Calculation 
-exextra[Language]: Dutch 
-exextra[Level]: Statistical Literacy 
+exname: uva-expected-value-648-nl
+extype: num
+exsolution: 97
+exsection: Probability/Elementary Probability/Random variables/Expected value
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

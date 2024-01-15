@@ -1,7 +1,7 @@
 Question
 ========
 
-Studente Claire B. wil een test voor beslisgedrag die ze heeft geconstrueerd uitproberen. Via email vraagt ze vrienden en familieleden naar een website te gaan waar de test kan worden gemaakt. Dit is een voorbeeld van een 
+Studente Claire B. wil een test voor beslisgedrag die ze heeft geconstrueerd uitproberen. Via email vraagt ze vrienden en familieleden naar een website te gaan waar de test kan worden gemaakt. Dit is een voorbeeld van een
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  convenience sample 
+The correct answer is  convenience sample
 
 Meta-information
 ================
-exname: uva-inferential statistics-139-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-inferential statistics-139-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

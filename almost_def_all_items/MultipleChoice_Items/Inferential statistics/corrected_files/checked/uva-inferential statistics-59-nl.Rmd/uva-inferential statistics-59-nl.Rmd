@@ -1,7 +1,7 @@
 Question
 ========
 
-Er wordt een hypothesetoets uitgevoerd op een gemiddelde van 4.40 en standaarddeviatie 2.90. Het gemiddelde volgens de nulhypothese is 4.50. Dan is de t-waarde bij 100 proefpersonen en 10000 proefpersonen respectievelijk 
+Er wordt een hypothesetoets uitgevoerd op een gemiddelde van 4.40 en standaarddeviatie 2.90. Het gemiddelde volgens de nulhypothese is 4.50. Dan is de t-waarde bij 100 proefpersonen en 10000 proefpersonen respectievelijk
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  -0.345 en -3.45. 
+The correct answer is  -0.345 en -3.45.
 
 Meta-information
 ================
-exname: uva-inferential statistics-59-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-inferential statistics-59-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics/Parametric Techniques/t-test/One sample mean
 exextra[Type]: Calculation
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy 
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy

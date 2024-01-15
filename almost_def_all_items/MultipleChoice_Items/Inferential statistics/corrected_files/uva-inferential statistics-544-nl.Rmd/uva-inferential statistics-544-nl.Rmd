@@ -8,7 +8,7 @@ SX2 = 210
 SY = 48
 SY2 = 300
 SXY = 230
-Wanneer we tweezijdig met a = 0.01 de hypothese willen toetsen dat er in de populatie geen sprake is van correlatie tussen X en Y, worden de grenzen van het kritieke gebied 
+Wanneer we tweezijdig met a = 0.01 de hypothese willen toetsen dat er in de populatie geen sprake is van correlatie tussen X en Y, worden de grenzen van het kritieke gebied
 
 Answerlist
 ----------
@@ -20,14 +20,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  &#177; 0.8343 
+The correct answer is  &#177; 0.8343
 
 Meta-information
 ================
-exname: uva-inferential statistics-544-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-inferential statistics-544-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics/NHST/Test statistic/t-statistic
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

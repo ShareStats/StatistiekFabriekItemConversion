@@ -12,7 +12,7 @@ klassegrenzen klassemidden frequenties
 [24,26> 25 1
 [26,28> 27 10
 
-Wat is de beste schatting van het gemiddelde? 
+Wat is de beste schatting van het gemiddelde?
 
 Answerlist
 ----------
@@ -24,14 +24,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  21.44 
+The correct answer is  21.44
 
 Meta-information
 ================
-exname: uva-descriptive statistics-582-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-descriptive statistics-582-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

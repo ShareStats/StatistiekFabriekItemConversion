@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.1973 
+The correct answer is  0.1973
 
 Meta-information
 ================
-exname: uva-probability-618-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-probability-618-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics/Sampling Distributions/Sample mean
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

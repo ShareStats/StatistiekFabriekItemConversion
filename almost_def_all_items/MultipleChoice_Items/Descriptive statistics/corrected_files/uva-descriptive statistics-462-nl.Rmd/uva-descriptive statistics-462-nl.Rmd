@@ -1,7 +1,7 @@
 Question
 ========
 
-Van twee onafhankelijke stochastische variabelen X en Y is gegeven: var(X) = 9 en var(Y) = 16. Dan is de standaarddeviatie van X - Y gelijk aan 
+Van twee onafhankelijke stochastische variabelen X en Y is gegeven: var(X) = 9 en var(Y) = 16. Dan is de standaarddeviatie van X - Y gelijk aan
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  5 
+The correct answer is  5
 
 Meta-information
 ================
-exname: uva-descriptive statistics-462-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-descriptive statistics-462-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

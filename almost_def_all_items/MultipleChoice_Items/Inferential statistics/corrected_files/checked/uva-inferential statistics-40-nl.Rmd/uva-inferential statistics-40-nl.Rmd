@@ -4,7 +4,7 @@ include_supplement("UvA20101029-20-1.png", recursive = TRUE)
 Question
 ========
 
-Gegeven zijn de volgende gemiddelden per conditie in een experiment met de factor Conditie en de factor Sekse. Van welke effecten lijkt er in dit design sprake? 
+Gegeven zijn de volgende gemiddelden per conditie in een experiment met de factor Conditie en de factor Sekse. Van welke effecten lijkt er in dit design sprake?
 
 ![](UvA20101029-20-1.png )
 
@@ -17,14 +17,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  Een hoofdeffect van Conditie en een interactie tussen Conditie en Sekse. 
+The correct answer is  Een hoofdeffect van Conditie en een interactie tussen Conditie en Sekse.
 
 Meta-information
 ================
-exname: uva-inferential statistics-40-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-inferential statistics-40-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
 exextra[Type]: Interpretating graph
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

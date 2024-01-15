@@ -1,7 +1,7 @@
 Question
 ========
 
-Simpsons paradox is dat de richting van de slope die het verband tussen de response en explanatory variabelen beschrijft, sterk verandert 
+Simpsons paradox is dat de richting van de slope die het verband tussen de response en explanatory variabelen beschrijft, sterk verandert
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  wanneer de data wordt opgesplitst door middel van een derde (categorische) variabele. 
+The correct answer is  wanneer de data wordt opgesplitst door middel van een derde (categorische) variabele.
 
 Meta-information
 ================
-exname: uva-inferential statistics-3-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-inferential statistics-3-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics
 exextra[Type]: Conceptual
-exextra[Langauge]: Dutch 
+exextra[Langauge]: Dutch
 exextra[Level]: Statistical Literacy

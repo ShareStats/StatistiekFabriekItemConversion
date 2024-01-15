@@ -10,7 +10,7 @@ Meisjes en jongens kiezen verschillende studierichtingen op de middelbare school
 |Totaal|158|361|288|339|332|1478|
 
 Hoe groot is de kans dat een aselect gekozen student een jongen is? Rond af op drie decimalen.
- 
+
 
 Solution
 ========
@@ -19,10 +19,10 @@ The correct answer is 0.497.
 
 Meta-information
 ================
-exname: uva-general-rules-686-nl 
-extype: num 
-exsolution: 0.497 
-exsection: Probability/Elementary Probability/General Rules 
-exextra[Type]: Calculation 
-exextra[Language]: Dutch 
-exextra[Level]: Statistical Literacy 
+exname: uva-general-rules-686-nl
+extype: num
+exsolution: 0.497
+exsection: Probability/Elementary Probability/General Rules
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

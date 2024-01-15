@@ -19,14 +19,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  <em>&beta;<\/em><sub>1<\/sub> = <em>&mu;<\/em><sub>1<\/sub> - <em>&mu;<\/em><sub>3<\/sub> en <em>&beta;<\/em><sub>2<\/sub> = <em>&mu;<\/em><sub>2<\/sub> - <em>&mu;<\/em><sub>3<\/sub>. 
+The correct answer is  <em>&beta;<\/em><sub>1<\/sub> = <em>&mu;<\/em><sub>1<\/sub> - <em>&mu;<\/em><sub>3<\/sub> en <em>&beta;<\/em><sub>2<\/sub> = <em>&mu;<\/em><sub>2<\/sub> - <em>&mu;<\/em><sub>3<\/sub>.
 
 Meta-information
 ================
-exname: uva-inferential statistics-73-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-inferential statistics-73-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics/Regression/Regression F-test
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

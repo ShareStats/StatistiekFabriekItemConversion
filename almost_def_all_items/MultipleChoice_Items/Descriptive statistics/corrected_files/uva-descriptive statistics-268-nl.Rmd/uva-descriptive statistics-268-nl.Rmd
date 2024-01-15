@@ -15,14 +15,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  2.0555 
+The correct answer is  2.0555
 
 Meta-information
 ================
-exname: uva-descriptive statistics-268-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-descriptive statistics-268-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

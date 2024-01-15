@@ -12,7 +12,7 @@ methode A methode B methode C
 NA
 A: de persoon werd behandeld met methode A.
 B: het oordeel van de persoon over zijn methode was: "goed".
-P(A n B) = 
+P(A n B) =
 
 Answerlist
 ----------
@@ -24,14 +24,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.24 
+The correct answer is  0.24
 
 Meta-information
 ================
-exname: uva-probability-626-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-probability-626-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Probability/Elementary Probability/General Rules/Addition rule
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

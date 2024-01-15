@@ -7,7 +7,7 @@ A = 1 A = 2 A = 3
 B = 1 19 50 13
 B = 2 18 32 18
 
-We trekken aselect iemand uit de 150 personen. Voor deze persoon is P(A = 1 <U+222A> B = 2) gelijk aan 
+We trekken aselect iemand uit de 150 personen. Voor deze persoon is P(A = 1 <U+222A> B = 2) gelijk aan
 
 Answerlist
 ----------
@@ -19,14 +19,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.67 
+The correct answer is  0.67
 
 Meta-information
 ================
-exname: uva-probability-604-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-probability-604-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Probability/Elementary Probability/General Rules/Addition rule
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

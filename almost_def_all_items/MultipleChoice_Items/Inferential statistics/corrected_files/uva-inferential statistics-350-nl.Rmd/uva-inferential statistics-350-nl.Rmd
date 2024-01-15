@@ -4,10 +4,10 @@ include_supplement("item_file_id40_UMCU20030426-9.png", recursive = TRUE)
 Question
 ========
 
-Hieronder staat SPSS-uitvoer van een steekproef T toets betreffende afname in bloeddruk na medicatie. In de uitvoer wordt de hypothese getoetst dat de gemiddelde afname in de populatie, ?, gelijk is aan 10. Bij een tweezijdig risico van 5% moet de conclusie luiden 
+Hieronder staat SPSS-uitvoer van een steekproef T toets betreffende afname in bloeddruk na medicatie. In de uitvoer wordt de hypothese getoetst dat de gemiddelde afname in de populatie, ?, gelijk is aan 10. Bij een tweezijdig risico van 5% moet de conclusie luiden
 
 
- ![](item_file_id40_UMCU20030426-9.png) 
+![](item_file_id40_UMCU20030426-9.png)
 
 Answerlist
 ----------
@@ -19,14 +19,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  T-waarde valt niet in het kritieke gebied, verwerp H<sub>0<\/sub> niet. 
+The correct answer is  T-waarde valt niet in het kritieke gebied, verwerp H<sub>0<\/sub> niet.
 
 Meta-information
 ================
-exname: uva-inferential statistics-350-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-inferential statistics-350-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Inferential Statistics/Parametric Techniques/t-test/One sample mean
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

@@ -1,7 +1,7 @@
 Question
 ========
 
-Het gemiddelde van X is 5 en de standaardafwijking van X is 1. Een nieuwe variabele Z wordt gemaakt met behulp van de formule Z = (X - 5)/1. Het gemiddelde van Z is 
+Het gemiddelde van X is 5 en de standaardafwijking van X is 1. Een nieuwe variabele Z wordt gemaakt met behulp van de formule Z = (X - 5)/1. Het gemiddelde van Z is
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0 
+The correct answer is  0
 
 Meta-information
 ================
-exname: uva-descriptive statistics-206-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-descriptive statistics-206-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

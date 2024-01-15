@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.0228 
+The correct answer is  0.0228
 
 Meta-information
 ================
-exname: uva-probability-477-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-probability-477-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Probability/Elementary Probability/General Rules/Independent events
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

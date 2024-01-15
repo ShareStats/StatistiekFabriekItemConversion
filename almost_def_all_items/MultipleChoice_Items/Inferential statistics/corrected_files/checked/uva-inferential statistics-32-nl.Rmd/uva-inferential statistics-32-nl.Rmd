@@ -1,7 +1,7 @@
 Question
 ========
 
-Bij een experiment wordt een significant verschil tussen condities gevonden. Dit impliceert dat _____ géen rol van betekenis hebben gespeeld. 
+Bij een experiment wordt een significant verschil tussen condities gevonden. Dit impliceert dat _____ géen rol van betekenis hebben gespeeld.
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is *obscuring factors* 
+The correct answer is *obscuring factors*
 
 Meta-information
 ================
-exname: uva-inferential statistics-32-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-inferential statistics-32-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics/NHST
 exextra[Type]: Conceptual
-exextra[Langauge]: Dutch 
+exextra[Langauge]: Dutch
 exextra[Level]: Statistical Literacy

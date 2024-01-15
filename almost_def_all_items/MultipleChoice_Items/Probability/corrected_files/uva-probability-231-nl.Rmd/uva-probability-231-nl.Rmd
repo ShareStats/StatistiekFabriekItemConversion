@@ -1,7 +1,7 @@
 Question
 ========
 
-Gegeven is de kans dat gebeurtenissen A en B samen optreden P(AnB) = 0.4. Verder is gegeven de kans op A P(A) = 0.5 en de kans op B P(B) = 0.4. De voorwaardelijke kans van A gegeven B P(A|||B) is 
+Gegeven is de kans dat gebeurtenissen A en B samen optreden P(AnB) = 0.4. Verder is gegeven de kans op A P(A) = 0.5 en de kans op B P(B) = 0.4. De voorwaardelijke kans van A gegeven B P(A|||B) is
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  1 
+The correct answer is  1
 
 Meta-information
 ================
-exname: uva-probability-231-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-probability-231-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Probability/Elementary Probability/General Rules/Independent events
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

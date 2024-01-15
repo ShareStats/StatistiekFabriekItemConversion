@@ -1,7 +1,7 @@
 Question
 ========
 
-Voor de twee gebeurtenissen A en B geldt P(A) = 0.3 en P(B) = 0.7. Dan is de kans op A of B 
+Voor de twee gebeurtenissen A en B geldt P(A) = 0.3 en P(B) = 0.7. Dan is de kans op A of B
 
 Answerlist
 ----------
@@ -12,11 +12,11 @@ Answerlist
 Solution
 ========
 
-The correct answer is 1 
+The correct answer is 1
 
 Meta-information
 ================
-exname: uva-probability-82-nl.Rmd 
-extype: schoice 
+exname: uva-probability-82-nl.Rmd
+extype: schoice
 exsolution: 001
 exsection: Probability/Elementary Probability/General Rules/Addition rule

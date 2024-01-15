@@ -1,7 +1,7 @@
 Question
 ========
 
-Gegeven de volgende steekproefuitkomsten: 4.5, 3.9, 4.6, 4.1, 4.4. Gemiddelde en standaarddeviatie van deze steekproef zijn gelijk aan respectievelijk 
+Gegeven de volgende steekproefuitkomsten: 4.5, 3.9, 4.6, 4.1, 4.4. Gemiddelde en standaarddeviatie van deze steekproef zijn gelijk aan respectievelijk
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  4.3 en 0.292 
+The correct answer is  4.3 en 0.292
 
 Meta-information
 ================
-exname: uva-descriptive statistics-392-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-descriptive statistics-392-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Descriptive statistics/Summary Statistics
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

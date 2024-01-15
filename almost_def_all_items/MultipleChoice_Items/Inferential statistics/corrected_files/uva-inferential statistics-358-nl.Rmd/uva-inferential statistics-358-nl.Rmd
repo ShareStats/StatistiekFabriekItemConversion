@@ -1,7 +1,7 @@
 Question
 ========
 
-Om 4 behandelingen (1, 2, 3, en 4) met elkaar te vergelijken op gemiddelde effectiviteit worden in 5 klinieken (A, B, C, D en E) 4 personen door loting over de behandelingen verdeeld. De gegevens worden m.b.v. ANOVA geanalyseerd. Welke nulhypothese kan hier zinvol getoetst worden? 
+Om 4 behandelingen (1, 2, 3, en 4) met elkaar te vergelijken op gemiddelde effectiviteit worden in 5 klinieken (A, B, C, D en E) 4 personen door loting over de behandelingen verdeeld. De gegevens worden m.b.v. ANOVA geanalyseerd. Welke nulhypothese kan hier zinvol getoetst worden?
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  &mu;<sub>1<\/sub> = &mu;<sub>2<\/sub> = &mu;<sub>3<\/sub> = &mu;<sub>4<\/sub> 
+The correct answer is  &mu;<sub>1<\/sub> = &mu;<sub>2<\/sub> = &mu;<sub>3<\/sub> = &mu;<sub>4<\/sub>
 
 Meta-information
 ================
-exname: uva-inferential statistics-358-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-inferential statistics-358-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

@@ -7,7 +7,7 @@ Hieronder is in een kruistabel van 80 werknemers het geslacht en het aantal werk
 man 1 7 14 8
 vrouw 6 18 21 5
 
-De kans dat een aselect uit deze werknemers getrokken persoon vrouwelijk is en/of minder dan 18 uur werkt, is 
+De kans dat een aselect uit deze werknemers getrokken persoon vrouwelijk is en/of minder dan 18 uur werkt, is
 
 Answerlist
 ----------
@@ -19,14 +19,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  63.75% 
+The correct answer is  63.75%
 
 Meta-information
 ================
-exname: uva-probability-500-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-probability-500-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Probability/Elementary Probability/Conditional probability
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

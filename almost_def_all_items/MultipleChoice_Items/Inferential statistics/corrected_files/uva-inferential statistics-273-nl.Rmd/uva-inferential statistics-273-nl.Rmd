@@ -8,7 +8,7 @@ Among groups 8.0
 Within groups 60 12
 Total 180
 
-De waarde van MS(Among groups) is hier gelijk aan 
+De waarde van MS(Among groups) is hier gelijk aan
 
 Answerlist
 ----------
@@ -20,14 +20,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  40 
+The correct answer is  40
 
 Meta-information
 ================
-exname: uva-inferential statistics-273-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-inferential statistics-273-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  T<sub>[n-1]<\/sub>, de T-verdeling met <em>n-1<\/em> vrijheidsgraden 
+The correct answer is  T<sub>[n-1]<\/sub>, de T-verdeling met <em>n-1<\/em> vrijheidsgraden
 
 Meta-information
 ================
-exname: uva-inferential statistics-621-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-inferential statistics-621-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Distributions/Continuous/t-distribution
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

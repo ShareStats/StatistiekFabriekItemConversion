@@ -1,7 +1,7 @@
 Question
 ========
 
-Y ~ N(6, 22). Dan is P(Y > 10) gelijk aan 
+Y ~ N(6, 22). Dan is P(Y > 10) gelijk aan
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.0228 
+The correct answer is  0.0228
 
 Meta-information
 ================
-exname: uva-probability-300-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-probability-300-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Distributions/Continuous/Normal
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

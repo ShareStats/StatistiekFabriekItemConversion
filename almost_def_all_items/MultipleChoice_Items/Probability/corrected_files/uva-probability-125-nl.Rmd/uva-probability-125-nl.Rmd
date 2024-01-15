@@ -1,7 +1,7 @@
 Question
 ========
 
-Een sampling distribution is altijd een 
+Een sampling distribution is altijd een
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  kansverdeling 
+The correct answer is  kansverdeling
 
 Meta-information
 ================
-exname: uva-probability-125-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-probability-125-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics/Sampling Distributions/Sample mean
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

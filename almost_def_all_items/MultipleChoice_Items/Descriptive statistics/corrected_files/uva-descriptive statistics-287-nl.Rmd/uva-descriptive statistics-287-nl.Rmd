@@ -4,11 +4,11 @@ include_supplement("item_file_id18_UMCU20050611-5.png", recursive = TRUE)
 Question
 ========
 
-Hieronder staan 4 spreidingsdiagrammen (genaamd A, B, C en D) van X en Y. In welk van de 4 spreidingsdiagrammen is de variatie in Y die door X kan worden verklaard het hoogst? 
+Hieronder staan 4 spreidingsdiagrammen (genaamd A, B, C en D) van X en Y. In welk van de 4 spreidingsdiagrammen is de variatie in Y die door X kan worden verklaard het hoogst?
 
 
 
- ![](item_file_id18_UMCU20050611-5.png) 
+![](item_file_id18_UMCU20050611-5.png)
 
 Answerlist
 ----------
@@ -20,14 +20,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  A 
+The correct answer is  A
 
 Meta-information
 ================
-exname: uva-descriptive statistics-287-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-descriptive statistics-287-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics/Regression/Equation
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

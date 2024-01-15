@@ -1,7 +1,7 @@
 Question
 ========
 
-Een zuivere munt wordt vijftig keer geworpen. De sample proportion van het aantal malen kruis boven is gelijk aan 0,6. Hoe veel standard errors (se) ligt dit resultaat boven het gemiddelde van de sampling distribution van de sample proportion? 
+Een zuivere munt wordt vijftig keer geworpen. De sample proportion van het aantal malen kruis boven is gelijk aan 0,6. Hoe veel standard errors (se) ligt dit resultaat boven het gemiddelde van de sampling distribution van de sample proportion?
 
 Answerlist
 ----------
@@ -12,15 +12,15 @@ Answerlist
 Solution
 ========
 
-The correct answer is ENTER MANUALLY 
+The correct answer is ENTER MANUALLY
 
 Meta-information
 ================
-exname: uva-probability-150-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-probability-150-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Distributions/Discrete/Binomial
-exextra[Type]: Conceptual 
-exextra[Langauge]: Dutch 
+exextra[Type]: Conceptual
+exextra[Langauge]: Dutch
 exextra[Level]: Statistical Reasoning
 

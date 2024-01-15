@@ -1,7 +1,7 @@
 Question
 ========
 
-Uit een populatie van mensen die een kalktekort hadden is een aselecte steekproef van 10 personen getrokken, die daarop een calcium-verrijkt dieet hebben gevolgd. Van deze mensen is het calciumgehalte voor en na het dieet gemeten. Welke toets moet je gebruiken om te toetsen of in deze populatie het gemiddelde calciumgehalte voor het dieet gelijk is aan het gemiddelde calciumgehalte na het volgen van het dieet? 
+Uit een populatie van mensen die een kalktekort hadden is een aselecte steekproef van 10 personen getrokken, die daarop een calcium-verrijkt dieet hebben gevolgd. Van deze mensen is het calciumgehalte voor en na het dieet gemeten. Welke toets moet je gebruiken om te toetsen of in deze populatie het gemiddelde calciumgehalte voor het dieet gelijk is aan het gemiddelde calciumgehalte na het volgen van het dieet?
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  gepaarde T-toets 
+The correct answer is  gepaarde T-toets
 
 Meta-information
 ================
-exname: uva-inferential statistics-536-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-inferential statistics-536-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics/Parametric Techniques/t-test/Paired samples
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

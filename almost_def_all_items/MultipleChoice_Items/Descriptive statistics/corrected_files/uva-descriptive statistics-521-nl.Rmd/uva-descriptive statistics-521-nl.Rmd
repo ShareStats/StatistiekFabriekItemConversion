@@ -2,7 +2,7 @@ Question
 ========
 
 Uit een populatie zijn de volgende 5 getallen getrokken:
-57, 43, 89, 66, 70. Geef de SEM (Standard Error of the Mean), de geschatte standaarddeviatie van het steekproefgemiddelde. 
+57, 43, 89, 66, 70. Geef de SEM (Standard Error of the Mean), de geschatte standaarddeviatie van het steekproefgemiddelde.
 
 Answerlist
 ----------
@@ -14,14 +14,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  7.58 
+The correct answer is  7.58
 
 Meta-information
 ================
-exname: uva-descriptive statistics-521-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-descriptive statistics-521-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

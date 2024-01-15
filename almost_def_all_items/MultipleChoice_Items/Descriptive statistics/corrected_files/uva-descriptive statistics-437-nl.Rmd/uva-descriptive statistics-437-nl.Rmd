@@ -1,7 +1,7 @@
 Question
 ========
 
-Van een variabele X werd bij 6 personen de waarde gemeten met als resultaten: 20, 27, 18, 24, 15, 22. Welke stelling over het gemiddelde en de mediaan van X is waar? 
+Van een variabele X werd bij 6 personen de waarde gemeten met als resultaten: 20, 27, 18, 24, 15, 22. Welke stelling over het gemiddelde en de mediaan van X is waar?
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  Het gemiddelde en de mediaan zijn gelijk 
+The correct answer is  Het gemiddelde en de mediaan zijn gelijk
 
 Meta-information
 ================
-exname: uva-descriptive statistics-437-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-descriptive statistics-437-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

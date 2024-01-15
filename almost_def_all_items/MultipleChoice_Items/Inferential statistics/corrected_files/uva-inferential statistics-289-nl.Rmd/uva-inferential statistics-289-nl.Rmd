@@ -4,7 +4,7 @@ include_supplement("item_file_id20_UMCU20050611-7.png", recursive = TRUE)
 Question
 ========
 
-Elf personen volgen een dieet om hun hemoglobine-gehalte te verhogen. Hieronder staat SPSS-uitvoer van een toets om te kijken of het Hb-gehalte voor en na het dieet inderdaad anders is. Bij het toetsen van H0: ?voor = ?na tegen H1: ?voor < ?na, met een eenzijdig risico van 5%, moet de conclusie luiden 
+Elf personen volgen een dieet om hun hemoglobine-gehalte te verhogen. Hieronder staat SPSS-uitvoer van een toets om te kijken of het Hb-gehalte voor en na het dieet inderdaad anders is. Bij het toetsen van H0: voor = na tegen H1: voor < na, met een eenzijdig risico van 5%, moet de conclusie luiden
 
 
 
@@ -20,14 +20,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  Het toetsresultaat is significant, verwerp H<sub>0<\/sub>. 
+The correct answer is  Het toetsresultaat is significant, verwerp H<sub>0<\/sub>.
 
 Meta-information
 ================
-exname: uva-inferential statistics-289-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-inferential statistics-289-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics/Parametric Techniques/t-test/Paired samples
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

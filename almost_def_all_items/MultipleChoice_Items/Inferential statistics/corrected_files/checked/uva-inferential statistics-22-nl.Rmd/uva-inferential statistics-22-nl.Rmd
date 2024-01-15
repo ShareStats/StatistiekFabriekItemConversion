@@ -1,7 +1,7 @@
 Question
 ========
 
-Een multiple baseline design is een 
+Een multiple baseline design is een
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is *within-subjects* design. 
+The correct answer is *within-subjects* design.
 
 Meta-information
 ================
-exname: uva-inferential statistics-22-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-inferential statistics-22-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics/NHST
 exextra[Type]: Conceptual
-exextra[Langauge]: Dutch 
+exextra[Langauge]: Dutch
 exextra[Level]: Statistical Literacy

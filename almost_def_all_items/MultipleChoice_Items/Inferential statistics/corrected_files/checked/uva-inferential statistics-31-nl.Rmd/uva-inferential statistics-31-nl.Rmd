@@ -1,7 +1,7 @@
 Question
 ========
 
-Hoeveel hoofdeffecten en hoeveel interacties zijn er mogelijk in een factorieel 3-bij-2 design? 
+Hoeveel hoofdeffecten en hoeveel interacties zijn er mogelijk in een factorieel 3-bij-2 design?
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  Twee hoofdeffecten en een interactie. 
+The correct answer is  Twee hoofdeffecten en een interactie.
 
 Meta-information
 ================
-exname: uva-inferential statistics-31-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-inferential statistics-31-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
 exextra[Type]: Conceptual
-exextra[Langauge]: Dutch 
+exextra[Langauge]: Dutch
 exextra[Level]: Statistical Literacy

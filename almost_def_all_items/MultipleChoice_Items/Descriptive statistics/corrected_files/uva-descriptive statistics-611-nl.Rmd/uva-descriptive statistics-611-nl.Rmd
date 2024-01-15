@@ -1,7 +1,7 @@
 Question
 ========
 
-Op welke schaal worden jaartallen gemeten? 
+Op welke schaal worden jaartallen gemeten?
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  interval 
+The correct answer is  interval
 
 Meta-information
 ================
-exname: uva-descriptive statistics-611-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-descriptive statistics-611-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Measurement Level/Interval
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

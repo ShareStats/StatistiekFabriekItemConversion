@@ -10,10 +10,10 @@ The correct answer is 0.5.
 
 Meta-information
 ================
-exname: uva-multiplication-rule-657-nl 
-extype: num 
-exsolution: 0.5 
-exsection: Probability/Elementary Probability/General Rules/Multiplication rule 
-exextra[Type]: Calculation 
-exextra[Language]: Dutch 
-exextra[Level]: Statistical Literacy 
+exname: uva-multiplication-rule-657-nl
+extype: num
+exsolution: 0.5
+exsection: Probability/Elementary Probability/General Rules/Multiplication rule
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

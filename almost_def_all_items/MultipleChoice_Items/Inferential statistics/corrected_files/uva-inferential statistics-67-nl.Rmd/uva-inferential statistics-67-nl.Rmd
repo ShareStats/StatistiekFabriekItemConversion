@@ -8,7 +8,7 @@ Groups 3 30
 Error 27
 Total 30 300
 
-De toets op de nulhypothese ANOVA kan bij significantieniveau 0.05 
+De toets op de nulhypothese ANOVA kan bij significantieniveau 0.05
 
 Answerlist
 ----------
@@ -19,14 +19,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  niet worden verworpen. 
+The correct answer is  niet worden verworpen.
 
 Meta-information
 ================
-exname: uva-inferential statistics-67-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-inferential statistics-67-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

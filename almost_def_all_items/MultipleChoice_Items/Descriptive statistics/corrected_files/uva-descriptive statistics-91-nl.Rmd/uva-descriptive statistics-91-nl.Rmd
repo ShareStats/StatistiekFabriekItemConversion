@@ -4,10 +4,10 @@ include_supplement("UvA20100806-11-1.png", recursive = TRUE)
 Question
 ========
 
-Om te onderzoeken of er een relatie bestaat tussen de variabelen x en y wordt een regressie-analyse uitgevoerd. Voordat de analyse wordt uitgevoerd, wordt een aantal assumpties voor het toetsen op regressiecoëfficiënten gecontroleerd. Als eerste worden de waarden van x en y in een grafiek uitgezet. Uit de grafiek lijkt waarschijnlijk de assumptie van regressie geschonden die stelt 
+Om te onderzoeken of er een relatie bestaat tussen de variabelen x en y wordt een regressie-analyse uitgevoerd. Voordat de analyse wordt uitgevoerd, wordt een aantal assumpties voor het toetsen op regressiecoëfficiënten gecontroleerd. Als eerste worden de waarden van x en y in een grafiek uitgezet. Uit de grafiek lijkt waarschijnlijk de assumptie van regressie geschonden die stelt
 
 
- ![](UvA20100806-11-1.png) 
+![](UvA20100806-11-1.png)
 
 Answerlist
 ----------
@@ -18,14 +18,14 @@ Answerlist
 Solution
 ========
 
-Het correcte antwoord is dat de populatiestandaarddeviatie van y hetzelfde moet zijn voor alle waarden van x. 
+Het correcte antwoord is dat de populatiestandaarddeviatie van y hetzelfde moet zijn voor alle waarden van x.
 
 Meta-information
 ================
-exname: uva-descriptive statistics-91-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-descriptive statistics-91-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Assumptions/Homoscedasticity
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

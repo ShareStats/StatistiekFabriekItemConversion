@@ -1,7 +1,7 @@
 Question
 ========
 
-Wanneer de populatiecorrelatie <U+03C1> groter is dan nul heeft de steekproef pmcc R een 
+Wanneer de populatiecorrelatie <U+03C1> groter is dan nul heeft de steekproef pmcc R een
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  niet-symmetrische steekproefverdeling 
+The correct answer is  niet-symmetrische steekproefverdeling
 
 Meta-information
 ================
-exname: uva-descriptive statistics-241-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-descriptive statistics-241-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics/Parametric Techniques/Correlations/Pearson
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

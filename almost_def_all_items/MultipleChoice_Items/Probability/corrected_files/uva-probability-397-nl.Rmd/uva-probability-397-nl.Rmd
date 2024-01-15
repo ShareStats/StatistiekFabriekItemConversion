@@ -1,7 +1,7 @@
 Question
 ========
 
-Een stochastische variabele X volgt een normale verdeling, X ~ N(1, 0.52). De kans dat X een negatieve waarde aanneemt is gelijk aan 
+Een stochastische variabele X volgt een normale verdeling, X ~ N(1, 0.52). De kans dat X een negatieve waarde aanneemt is gelijk aan
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.0228 
+The correct answer is  0.0228
 
 Meta-information
 ================
-exname: uva-probability-397-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-probability-397-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Distributions/Continuous/Normal
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

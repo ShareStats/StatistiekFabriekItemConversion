@@ -19,10 +19,10 @@ The correct answer is 11.3%.
 
 Meta-information
 ================
-exname: uva-addition-rule-654-nl 
-extype: num 
-exsolution: 11.3% 
-exsection: Probability/Elementary Probability/General Rules/Addition rule 
-exextra[Type]: Calculation 
-exextra[Language]: Dutch 
-exextra[Level]: Statistical Literacy 
+exname: uva-addition-rule-654-nl
+extype: num
+exsolution: 11.3%
+exsection: Probability/Elementary Probability/General Rules/Addition rule
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

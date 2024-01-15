@@ -8,7 +8,7 @@ Goed Matig Slecht
 Rechtshandig 42 72 56
 Linkshandig 18 8 4
 
-Wanneer we aselect een van deze 200 personen trekken, wat is dan de kans dat deze persoon rechtshandig of artistiek slecht ontwikkeld (of beide) is? 
+Wanneer we aselect een van deze 200 personen trekken, wat is dan de kans dat deze persoon rechtshandig of artistiek slecht ontwikkeld (of beide) is?
 
 Answerlist
 ----------
@@ -20,14 +20,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.87 
+The correct answer is  0.87
 
 Meta-information
 ================
-exname: uva-probability-340-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-probability-340-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Probability/Elementary Probability/Random variables
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

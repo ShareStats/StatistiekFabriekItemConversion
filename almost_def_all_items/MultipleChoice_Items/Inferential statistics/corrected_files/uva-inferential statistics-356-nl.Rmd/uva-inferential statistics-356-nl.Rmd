@@ -3,7 +3,7 @@ Question
 
 NA
 1: Als H0 wordt verworpen ligt de waarde 20 in het betrouwbaarheidsinterval.
-2: Het steekproefgemiddelde ligt altijd in het betrouwbaarheidsinterval. 
+2: Het steekproefgemiddelde ligt altijd in het betrouwbaarheidsinterval.
 
 Answerlist
 ----------
@@ -15,14 +15,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  Bewering 1 is onjuist, bewering 2 is juist. 
+The correct answer is  Bewering 1 is onjuist, bewering 2 is juist.
 
 Meta-information
 ================
-exname: uva-inferential statistics-356-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-inferential statistics-356-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics/Confidence Intervals/Confidence level
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

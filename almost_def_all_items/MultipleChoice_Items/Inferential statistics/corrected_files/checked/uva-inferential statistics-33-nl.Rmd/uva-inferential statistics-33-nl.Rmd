@@ -1,7 +1,7 @@
 Question
 ========
 
-Met random assignment (of aselecte toewijzing) van proefpersonen aan condities wordt voorkomen dat 
+Met random assignment (of aselecte toewijzing) van proefpersonen aan condities wordt voorkomen dat
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  de interne validiteit van het experiment bedreigd wordt. 
+The correct answer is  de interne validiteit van het experiment bedreigd wordt.
 
 Meta-information
 ================
-exname: uva-inferential statistics-33-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-inferential statistics-33-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics/NHST
 exextra[Type]: Conceptual
-exextra[Langauge]: Dutch 
+exextra[Langauge]: Dutch
 exextra[Level]: Statistical Literacy

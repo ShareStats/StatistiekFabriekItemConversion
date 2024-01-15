@@ -7,7 +7,7 @@ Source of variation SS df MS F
 Between groups 27 3
 Within groups 24 12
 
-De kritieke waarde uit de F-tabel (bij toetsing met een risico van 5%) die hier van toepassing is, is gelijk aan 
+De kritieke waarde uit de F-tabel (bij toetsing met een risico van 5%) die hier van toepassing is, is gelijk aan
 
 Answerlist
 ----------
@@ -19,14 +19,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  3.49 
+The correct answer is  3.49
 
 Meta-information
 ================
-exname: uva-inferential statistics-497-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-inferential statistics-497-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

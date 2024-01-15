@@ -7,7 +7,7 @@ Source of variation SS df MS F
 Between groups 27 3
 Within groups 24 12
 
-Een aanname bij deze variantieanalyse is dat de waarnemingen komen uit normaal verdeelde populaties met gelijke varianties. De beste schatting van deze variantie is gelijk aan 
+Een aanname bij deze variantieanalyse is dat de waarnemingen komen uit normaal verdeelde populaties met gelijke varianties. De beste schatting van deze variantie is gelijk aan
 
 Answerlist
 ----------
@@ -19,14 +19,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  2 
+The correct answer is  2
 
 Meta-information
 ================
-exname: uva-inferential statistics-498-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-inferential statistics-498-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

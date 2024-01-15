@@ -20,10 +20,10 @@ The correct answer is 0.230.
 
 Meta-information
 ================
-exname: uva-elementary-probability-1012-nl 
-extype: num 
-exsolution: 0.230 
-exsection: Probability/Elementary Probability 
-exextra[Type]: Calculation 
-exextra[Language]: Dutch 
-exextra[Level]: Statistical Literacy 
+exname: uva-elementary-probability-1012-nl
+extype: num
+exsolution: 0.230
+exsection: Probability/Elementary Probability
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

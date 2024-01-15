@@ -9,7 +9,7 @@ Blok 90 2 45 1.29
 Error 210 6 35
 Totaal 420 11
 
-Hoeveel behandelingen waren er in dit experiment? 
+Hoeveel behandelingen waren er in dit experiment?
 
 Answerlist
 ----------
@@ -21,14 +21,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  4 
+The correct answer is  4
 
 Meta-information
 ================
-exname: uva-inferential statistics-291-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-inferential statistics-291-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

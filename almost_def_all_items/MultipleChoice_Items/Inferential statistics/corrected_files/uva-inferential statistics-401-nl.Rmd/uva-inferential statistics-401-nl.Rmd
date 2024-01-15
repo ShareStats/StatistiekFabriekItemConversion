@@ -4,11 +4,11 @@ include_supplement("item_file_id50_UMCU20020511-8.png", recursive = TRUE)
 Question
 ========
 
-Hieronder staat (onvolledige) SPSS-uitvoer van een RCB-ANOVA, waarbij binnen de blokken individuen aselect zijn toegewezen aan een therapie. De F-waarde en conclusie over therapiegemiddelden luiden 
+Hieronder staat (onvolledige) SPSS-uitvoer van een RCB-ANOVA, waarbij binnen de blokken individuen aselect zijn toegewezen aan een therapie. De F-waarde en conclusie over therapiegemiddelden luiden
 
 
 
- ![](item_file_id50_UMCU20020511-8.png)
+![](item_file_id50_UMCU20020511-8.png)
 
 Answerlist
 ----------
@@ -20,14 +20,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  F = 9.541, een significant resultaat 
+The correct answer is  F = 9.541, een significant resultaat
 
 Meta-information
 ================
-exname: uva-inferential statistics-401-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-inferential statistics-401-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Distributions/Continuous/F-distribution
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

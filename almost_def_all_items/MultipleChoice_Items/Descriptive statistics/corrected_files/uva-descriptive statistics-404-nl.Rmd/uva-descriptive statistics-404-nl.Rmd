@@ -1,7 +1,7 @@
 Question
 ========
 
-X en Y zijn onafhankelijke stochastische variabelen met verwachting resp. 12 en 21 en variantie resp. 4 en 9. Dan is de variantie van Y - X gelijk aan 
+X en Y zijn onafhankelijke stochastische variabelen met verwachting resp. 12 en 21 en variantie resp. 4 en 9. Dan is de variantie van Y - X gelijk aan
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  13 
+The correct answer is  13
 
 Meta-information
 ================
-exname: uva-descriptive statistics-404-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-descriptive statistics-404-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Variance
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

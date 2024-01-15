@@ -1,7 +1,7 @@
 Question
 ========
 
-Gegeven de twee onafhankelijke stochastische variabelen x ( met gemiddelde 3 en variantie 5) en y (met gemiddelde 6 en variantie 4). z = x - y. Gemiddelde en variantie van z zijn dan resp. 
+Gegeven de twee onafhankelijke stochastische variabelen x ( met gemiddelde 3 en variantie 5) en y (met gemiddelde 6 en variantie 4). z = x - y. Gemiddelde en variantie van z zijn dan resp.
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  -3 en 9 
+The correct answer is  -3 en 9
 
 Meta-information
 ================
-exname: uva-descriptive statistics-616-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-descriptive statistics-616-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Descriptive statistics/Summary Statistics
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

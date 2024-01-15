@@ -7,7 +7,7 @@ A = 1 A = 2 A = 3
 B = 1 50 36 64
 B = 2 20 12 18
 
-De gebeurtenissen A=2 en B=1 zijn 
+De gebeurtenissen A=2 en B=1 zijn
 
 Answerlist
 ----------
@@ -19,14 +19,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  onafhankelijk, want P(A=2 &#8745; B=1) = P(A=2)   P(B=1) 
+The correct answer is  onafhankelijk, want P(A=2 &#8745; B=1) = P(A=2)   P(B=1)
 
 Meta-information
 ================
-exname: uva-probability-540-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-probability-540-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Probability/Elementary Probability/General Rules/Addition rule
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

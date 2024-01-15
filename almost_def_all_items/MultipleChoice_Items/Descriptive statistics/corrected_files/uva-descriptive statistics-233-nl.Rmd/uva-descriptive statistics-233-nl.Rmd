@@ -11,7 +11,7 @@ X f
 2 4
 1 2
 
-Het percentiel P30 is 
+Het percentiel P30 is
 
 Answerlist
 ----------
@@ -22,14 +22,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  3 
+The correct answer is  3
 
 Meta-information
 ================
-exname: uva-descriptive statistics-233-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-descriptive statistics-233-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

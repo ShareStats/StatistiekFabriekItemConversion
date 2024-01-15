@@ -1,7 +1,7 @@
 Question
 ========
 
-Een onderzoeker wil in een quasi-experiment ervoor zorgen dat het selectieprobleem geen alternatieve verklaring vormt voor de gevonden resultaten. Welke mogelijkheden heeft hij om dit probleem op te vangen? 
+Een onderzoeker wil in een quasi-experiment ervoor zorgen dat het selectieprobleem geen alternatieve verklaring vormt voor de gevonden resultaten. Welke mogelijkheden heeft hij om dit probleem op te vangen?
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  Door proefpersonen in de steekproef eerst te *matchen*. 
+The correct answer is  Door proefpersonen in de steekproef eerst te *matchen*.
 
 Meta-information
 ================
-exname: uva-inferential statistics-24-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-inferential statistics-24-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics/NHST
 exextra[Type]: Conceptual
-exextra[Langauge]: Dutch 
+exextra[Langauge]: Dutch
 exextra[Level]: Statistical Literac

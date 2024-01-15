@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  &lt; -&#8734;,-2.1199] &#8746; [2.1199, &#8734; &gt; 
+The correct answer is  &lt; -&#8734;,-2.1199] &#8746; [2.1199, &#8734; &gt;
 
 Meta-information
 ================
-exname: uva-inferential statistics-388-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-inferential statistics-388-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics/Parametric Techniques/t-test/Independent samples means
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

@@ -1,7 +1,7 @@
 Question
 ========
 
-Van een steekproef is gegeven: gemiddelde = 45, variantie = 30, steekproefgrootte = 10. Dan is de SEM gelijk aan 
+Van een steekproef is gegeven: gemiddelde = 45, variantie = 30, steekproefgrootte = 10. Dan is de SEM gelijk aan
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  1.73 
+The correct answer is  1.73
 
 Meta-information
 ================
-exname: uva-descriptive statistics-283-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-descriptive statistics-283-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

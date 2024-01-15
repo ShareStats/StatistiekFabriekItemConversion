@@ -1,7 +1,7 @@
 Question
 ========
 
-Een steekproef heeft de volgende uitkomsten: 12, 31, 15, 8, 24. Hoe groot is de steekproefvariantie van deze getallen? 
+Een steekproef heeft de volgende uitkomsten: 12, 31, 15, 8, 24. Hoe groot is de steekproefvariantie van deze getallen?
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  87.5 
+The correct answer is  87.5
 
 Meta-information
 ================
-exname: uva-descriptive statistics-362-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-descriptive statistics-362-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Variance
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

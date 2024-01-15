@@ -1,7 +1,7 @@
 Question
 ========
 
-Het voorspellen van verkiezingsuitslagen is een voorbeeld van 
+Het voorspellen van verkiezingsuitslagen is een voorbeeld van
 
 Answerlist
 ----------
@@ -16,10 +16,10 @@ NA
 
 Meta-information
 ================
-exname: uva-inferential statistics-126-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-inferential statistics-126-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

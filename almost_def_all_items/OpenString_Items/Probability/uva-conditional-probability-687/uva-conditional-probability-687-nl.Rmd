@@ -9,7 +9,7 @@ Meisjes en jongens kiezen verschillende studierichtingen op de middelbare school
 |Jongens|124|345|231|28|8|736|
 |Totaal|158|361|288|339|332|1478|
 
-Hoe groot is de voorwaardelijke kans dat een aselect gekozen student Verpleging volgt, gegeven het feit dat het een jongen is? 
+Hoe groot is de voorwaardelijke kans dat een aselect gekozen student Verpleging volgt, gegeven het feit dat het een jongen is?
 
 Solution
 ========
@@ -18,10 +18,10 @@ The correct answer is 0.04.
 
 Meta-information
 ================
-exname: uva-conditional-probability-687-nl 
-extype: num 
-exsolution: 0.04 
-exsection: Probability/Elementary Probability/Conditional probability 
-exextra[Type]: Calculation 
-exextra[Language]: Dutch 
-exextra[Level]: Statistical Literacy 
+exname: uva-conditional-probability-687-nl
+extype: num
+exsolution: 0.04
+exsection: Probability/Elementary Probability/Conditional probability
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

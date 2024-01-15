@@ -2,7 +2,7 @@ Question
 ========
 
 Geef de modus van de volgende twaalf getallen:
-11, 18, 11, 22, 17 ,18, 15, 22, 13, 16, 18, 10 
+11, 18, 11, 22, 17 ,18, 15, 22, 13, 16, 18, 10
 
 Answerlist
 ----------
@@ -14,14 +14,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  18 
+The correct answer is  18
 
 Meta-information
 ================
-exname: uva-descriptive statistics-603-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-descriptive statistics-603-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mode
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

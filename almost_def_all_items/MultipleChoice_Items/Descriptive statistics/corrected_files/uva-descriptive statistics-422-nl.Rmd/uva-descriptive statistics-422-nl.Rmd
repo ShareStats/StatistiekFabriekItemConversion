@@ -1,7 +1,7 @@
 Question
 ========
 
-Gegeven de volgende getallen in een steekproef: 8, 5, 2, 8, 4, 9. Geef aan welke stelling over voorgaande getallen juist is. 
+Gegeven de volgende getallen in een steekproef: 8, 5, 2, 8, 4, 9. Geef aan welke stelling over voorgaande getallen juist is.
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  Het gemiddelde is kleiner dan de mediaan 
+The correct answer is  Het gemiddelde is kleiner dan de mediaan
 
 Meta-information
 ================
-exname: uva-descriptive statistics-422-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-descriptive statistics-422-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

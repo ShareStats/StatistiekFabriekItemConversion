@@ -1,7 +1,7 @@
 Question
 ========
 
-Een onderzoeker heeft aan drie groepen aselect telkens drie personen toegewezen en zijn resultaatvariabele gemeten. De drie groepsgemiddelden waren respectievelijk 45, 48 en 54. Hij gaat zijn resultaten analyseren met variantieanalyse. De kwadratensom tussen groepen SS(Among) is gelijk aan 
+Een onderzoeker heeft aan drie groepen aselect telkens drie personen toegewezen en zijn resultaatvariabele gemeten. De drie groepsgemiddelden waren respectievelijk 45, 48 en 54. Hij gaat zijn resultaten analyseren met variantieanalyse. De kwadratensom tussen groepen SS(Among) is gelijk aan
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  126 
+The correct answer is  126
 
 Meta-information
 ================
-exname: uva-inferential statistics-531-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-inferential statistics-531-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Inferential Statistics/Parametric Techniques/ANOVA
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

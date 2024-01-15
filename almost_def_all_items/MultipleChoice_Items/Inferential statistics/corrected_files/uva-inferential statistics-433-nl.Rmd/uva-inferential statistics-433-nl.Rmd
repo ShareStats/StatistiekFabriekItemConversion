@@ -4,7 +4,7 @@ Question
 NA
 Standaard: n = 10, gemiddelde = 35.10, standaardafwijking = 29.39
 Uitgebreid: n = 6, gemiddelde = 27.17, standaardafwijking = 24.32
-De toets op gelijkheid van populatievarianties heeft als waarde van de toetsingsgrootheid en conclusie 
+De toets op gelijkheid van populatievarianties heeft als waarde van de toetsingsgrootheid en conclusie
 
 Answerlist
 ----------
@@ -16,14 +16,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.68, verwerp de nulhypothese niet. 
+The correct answer is  0.68, verwerp de nulhypothese niet.
 
 Meta-information
 ================
-exname: uva-inferential statistics-433-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-inferential statistics-433-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics/Parametric Techniques/t-test/Independent samples means
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

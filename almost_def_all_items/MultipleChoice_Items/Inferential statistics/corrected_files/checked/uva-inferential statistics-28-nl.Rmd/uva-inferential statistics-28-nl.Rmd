@@ -1,7 +1,7 @@
 Question
 ========
 
-Welk van de volgende stellingen geeft het beste weer wat de onderzoeker wil bereiken bij het gebruik van een t-toets voor gemiddeldenverschil om na te gaan of het door hem verwachte verschil tussen condities significant is? 
+Welk van de volgende stellingen geeft het beste weer wat de onderzoeker wil bereiken bij het gebruik van een t-toets voor gemiddeldenverschil om na te gaan of het door hem verwachte verschil tussen condities significant is?
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  De onderzoeker wil de nulhypothese verwerpen door middel van een p-waarde onder de .05. 
+The correct answer is  De onderzoeker wil de nulhypothese verwerpen door middel van een p-waarde onder de .05.
 
 Meta-information
 ================
-exname: uva-inferential statistics-28-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-inferential statistics-28-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics/NHST/p-value
 exextra[Type]: Conceptua
-exextra[Langauge]: Dutch 
+exextra[Langauge]: Dutch
 exextra[Level]: Statistical Literacy

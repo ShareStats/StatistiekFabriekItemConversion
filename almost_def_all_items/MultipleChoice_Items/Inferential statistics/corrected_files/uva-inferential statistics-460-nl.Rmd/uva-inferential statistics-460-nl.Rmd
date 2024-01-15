@@ -9,7 +9,7 @@ Blok 15
 Error 12 2
 Total 81 11
 
-Het aantal vrijheidsgraden voor het blokeffect is 
+Het aantal vrijheidsgraden voor het blokeffect is
 
 Answerlist
 ----------
@@ -21,14 +21,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  2 
+The correct answer is  2
 
 Meta-information
 ================
-exname: uva-inferential statistics-460-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-inferential statistics-460-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

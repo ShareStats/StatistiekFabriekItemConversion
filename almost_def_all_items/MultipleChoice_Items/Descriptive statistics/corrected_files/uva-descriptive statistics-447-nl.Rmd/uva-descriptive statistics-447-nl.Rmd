@@ -8,7 +8,7 @@ AG = 1 4 12 14
 AG = 2 13 25 12
 AG = 3 8 8 4
 
-Op welke schaal is de variabele AG weergegeven? 
+Op welke schaal is de variabele AG weergegeven?
 
 Answerlist
 ----------
@@ -20,14 +20,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  ordinaal 
+The correct answer is  ordinaal
 
 Meta-information
 ================
-exname: uva-descriptive statistics-447-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-descriptive statistics-447-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Measurement Level/Ordinal
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

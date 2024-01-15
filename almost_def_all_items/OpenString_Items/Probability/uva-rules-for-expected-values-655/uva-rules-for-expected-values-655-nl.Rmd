@@ -11,7 +11,7 @@ Gebaseerd op deze data hebben wij:
 Correlatie tussen X en Y || -0,12|
 
 
-Wat is de standaardafwijking van de opbrengst (&sigma; <sub> R </sub>) van de beleggingen uitgedeeld in procenten? Rond af op twee decimalen. 
+Wat is de standaardafwijking van de opbrengst (&sigma; <sub> R </sub>) van de beleggingen uitgedeeld in procenten? Rond af op twee decimalen.
 
 Solution
 ========
@@ -20,10 +20,10 @@ The correct answer is 12.65%.
 
 Meta-information
 ================
-exname: uva-rules-for-expected-values-655-nl 
-extype: num 
-exsolution: 12.65% 
-exsection: Probability/Elementary Probability/Random variables/Rules for expected values 
-exextra[Type]: Calculation 
-exextra[Language]: Dutch 
-exextra[Level]: Statistical Literacy 
+exname: uva-rules-for-expected-values-655-nl
+extype: num
+exsolution: 12.65%
+exsection: Probability/Elementary Probability/Random variables/Rules for expected values
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

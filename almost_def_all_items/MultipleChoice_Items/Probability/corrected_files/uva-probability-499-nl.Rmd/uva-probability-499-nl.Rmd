@@ -7,7 +7,7 @@ Hieronder is in een kruistabel van 80 werknemers het geslacht en het aantal werk
 man 1 7 14 8
 vrouw 6 18 21 5
 
-De relatieve cumulatieve frequentie van de klasse 18-32 uur voor alle werknemers samen is gelijk aan: 
+De relatieve cumulatieve frequentie van de klasse 18-32 uur voor alle werknemers samen is gelijk aan:
 
 Answerlist
 ----------
@@ -19,14 +19,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.40 
+The correct answer is  0.40
 
 Meta-information
 ================
-exname: uva-probability-499-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-probability-499-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Probability/Elementary Probability/Conditional probability
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

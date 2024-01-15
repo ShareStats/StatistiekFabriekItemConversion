@@ -10,7 +10,7 @@ Een onderzoeker heeft onderzoek gedaan en komt met de volgende tabel
 |Total|29|90| | |
 
 
-Wat is de kritieke grens? Dit is de grens die hoort bij significantieniveau 0.05 in de F-verdeling welke hoort bij de twee vrijheidsgraden in de tabel. 
+Wat is de kritieke grens? Dit is de grens die hoort bij significantieniveau 0.05 in de F-verdeling welke hoort bij de twee vrijheidsgraden in de tabel.
 
 Solution
 ========
@@ -19,10 +19,10 @@ The correct answer is 2.76.
 
 Meta-information
 ================
-exname: uva-inferential statistics-807-nl.Rmd 
-extype: num 
+exname: uva-inferential statistics-807-nl.Rmd
+extype: num
 exsolution: 2.76
 exsection: Distributions/Continuous/F-distribution
-exextra[Type]: Calculation 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy 
+exextra[Type]: Calculation
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy

@@ -3,7 +3,7 @@ Question
 
 Hieronder staan twee uitspraken. Welke hiervan zijn juist?
 I: A en B zijn onafhankelijk als P(A n B) = P(A)*P(B)
-II: A en B zijn onafhankelijk als P(A|||B) = P(B) 
+II: A en B zijn onafhankelijk als P(A|||B) = P(B)
 
 Answerlist
 ----------
@@ -15,14 +15,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  Uitspraak I is juist, uitspraak II is onjuist. 
+The correct answer is  Uitspraak I is juist, uitspraak II is onjuist.
 
 Meta-information
 ================
-exname: uva-probability-314-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-probability-314-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Probability/Elementary Probability/General Rules/Independent events
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

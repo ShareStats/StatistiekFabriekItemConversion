@@ -12,7 +12,7 @@ X f
 1 1
 n = 22
 
-Het percentiel P90 voor deze tabel is 
+Het percentiel P90 voor deze tabel is
 
 Answerlist
 ----------
@@ -23,14 +23,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  6 
+The correct answer is  6
 
 Meta-information
 ================
-exname: uva-descriptive statistics-213-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-descriptive statistics-213-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

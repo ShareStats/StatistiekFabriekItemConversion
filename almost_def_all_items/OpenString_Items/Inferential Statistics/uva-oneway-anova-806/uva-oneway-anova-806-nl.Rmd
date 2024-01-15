@@ -9,7 +9,7 @@ Een onderzoeker heeft onderzoek gedaan en komt met de volgende tabel
 |Error|25| | | |
 |Total|29|90| | |
 
-Wat is de bijbehorende F-waarde? 
+Wat is de bijbehorende F-waarde?
 
 Solution
 ========
@@ -18,10 +18,10 @@ The correct answer is 5.
 
 Meta-information
 ================
-exname: uva-oneway-anova-806-nl 
-extype: num 
-exsolution: 5 
-exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA 
-exextra[Type]: Calculation 
-exextra[Language]: Dutch 
-exextra[Level]: Statistical Literacy 
+exname: uva-oneway-anova-806-nl
+extype: num
+exsolution: 5
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

@@ -3,7 +3,7 @@ Question
 
 Hieronder volgen twee uitspraken:
 I: Als A en B onafhankelijk zijn geldt P(A<U+222A>B) = P(A) x P(B)
-II: Als A en B onafhankelijk zijn geldt P(AnB) = 0 
+II: Als A en B onafhankelijk zijn geldt P(AnB) = 0
 
 Answerlist
 ----------
@@ -15,14 +15,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  Beide uitspraken zijn onjuist 
+The correct answer is  Beide uitspraken zijn onjuist
 
 Meta-information
 ================
-exname: uva-probability-520-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-probability-520-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Probability/Elementary Probability/General Rules/Independent events
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

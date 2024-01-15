@@ -11,7 +11,7 @@ man 10 24 36 10 80
 NA
 NA
 A: de oorspronkelijke haarkleur van de persoon is zwart.
-B: de persoon is van het vrouwelijk geslacht.P(A | B) = 
+B: de persoon is van het vrouwelijk geslacht.P(A | B) =
 
 Answerlist
 ----------
@@ -23,14 +23,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  25% 
+The correct answer is  25%
 
 Meta-information
 ================
-exname: uva-probability-615-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-probability-615-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Probability/Elementary Probability/Conditional probability
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

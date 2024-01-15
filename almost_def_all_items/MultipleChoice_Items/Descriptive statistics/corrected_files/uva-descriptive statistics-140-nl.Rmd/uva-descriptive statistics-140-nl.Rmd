@@ -1,7 +1,7 @@
 Question
 ========
 
-In een bepaalde frequentieverdeling zijn de kwartielen Q1, Q2 en Q3 respectievelijk gelijk aan 8, 12 en 19. Dat betekent dat de Interquartile Range (IQR) gelijk is aan 
+In een bepaalde frequentieverdeling zijn de kwartielen Q1, Q2 en Q3 respectievelijk gelijk aan 8, 12 en 19. Dat betekent dat de Interquartile Range (IQR) gelijk is aan
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  11 
+The correct answer is  11
 
 Meta-information
 ================
-exname: uva-descriptive statistics-140-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-descriptive statistics-140-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

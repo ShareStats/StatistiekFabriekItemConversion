@@ -11,7 +11,7 @@ man 10 24 36 10 80
 NA
 NA
 A: de oorspronkelijke haarkleur van de persoon is zwart.
-B: de persoon is van het vrouwelijk geslacht.P(A <U+222A> B) = 
+B: de persoon is van het vrouwelijk geslacht.P(A <U+222A> B) =
 
 Answerlist
 ----------
@@ -23,14 +23,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.65 
+The correct answer is  0.65
 
 Meta-information
 ================
-exname: uva-probability-614-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-probability-614-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Probability/Elementary Probability/General Rules/Addition rule
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

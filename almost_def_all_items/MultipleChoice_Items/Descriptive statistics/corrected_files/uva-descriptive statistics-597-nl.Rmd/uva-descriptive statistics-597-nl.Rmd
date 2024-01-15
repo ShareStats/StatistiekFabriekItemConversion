@@ -1,7 +1,7 @@
 Question
 ========
 
-Bereken de steekproefvariantie van de volgende 5 getallen: 8, 14, 7, 10, 11 
+Bereken de steekproefvariantie van de volgende 5 getallen: 8, 14, 7, 10, 11
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  7.5 
+The correct answer is  7.5
 
 Meta-information
 ================
-exname: uva-descriptive statistics-597-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-descriptive statistics-597-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Variance
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

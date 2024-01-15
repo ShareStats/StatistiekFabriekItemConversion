@@ -8,7 +8,7 @@ Among 3 54
 Within 12
 Total 15 102
 
-Vul de tabel aan. De waarde van de toetsingsgrootheid F in deze tabel zal dan zijn 
+Vul de tabel aan. De waarde van de toetsingsgrootheid F in deze tabel zal dan zijn
 
 Answerlist
 ----------
@@ -20,14 +20,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  4.5 
+The correct answer is  4.5
 
 Meta-information
 ================
-exname: uva-inferential statistics-535-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-inferential statistics-535-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

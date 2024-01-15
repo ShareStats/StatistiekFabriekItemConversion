@@ -1,7 +1,7 @@
 Question
 ========
 
-Bij een vast significantieniveau van 5% en een toename in aantal proefpersonen, dan 
+Bij een vast significantieniveau van 5% en een toename in aantal proefpersonen, dan
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  neemt de power toe en daalt de Type II fout. 
+The correct answer is  neemt de power toe en daalt de Type II fout.
 
 Meta-information
 ================
-exname: uva-inferential statistics-108-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-inferential statistics-108-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics/NHST/Statistical errors
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

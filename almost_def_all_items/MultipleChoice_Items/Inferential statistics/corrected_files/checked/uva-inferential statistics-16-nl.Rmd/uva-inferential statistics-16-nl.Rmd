@@ -1,7 +1,7 @@
 Question
 ========
 
-Observer effects treden op wanneer de observator 
+Observer effects treden op wanneer de observator
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  zelf een effect heeft op de onderzochte situatie. 
+The correct answer is  zelf een effect heeft op de onderzochte situatie.
 
 Meta-information
 ================
-exname: uva-inferential statistics-16-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-inferential statistics-16-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics
-exextra[Type]: Conceptual 
-exextra[Langauge]: Dutch 
+exextra[Type]: Conceptual
+exextra[Langauge]: Dutch
 exextra[Level]: Statistical Literacy

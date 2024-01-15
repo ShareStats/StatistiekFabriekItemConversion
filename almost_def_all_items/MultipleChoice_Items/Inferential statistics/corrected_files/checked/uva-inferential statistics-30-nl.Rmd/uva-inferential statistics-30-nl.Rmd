@@ -1,7 +1,7 @@
 Question
 ========
 
-Voor het uitvoeren van een onderzoek bedenkt de onderzoeker dat ze eerst moeten bepalen hoeveel proefpersonen er nodig zijn voor een margin of error van m = 0.04 bij een confidence interval van 95%, dus voor z = 1.96, voor proportie p. De proportie wordt geschat op 0.20. Het minimale aantal proefpersonen dat nodig is voor een margin of error kleiner dan of gelijk aan 0.04 is 
+Voor het uitvoeren van een onderzoek bedenkt de onderzoeker dat ze eerst moeten bepalen hoeveel proefpersonen er nodig zijn voor een margin of error van m = 0.04 bij een confidence interval van 95%, dus voor z = 1.96, voor proportie p. De proportie wordt geschat op 0.20. Het minimale aantal proefpersonen dat nodig is voor een margin of error kleiner dan of gelijk aan 0.04 is
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  385 
+The correct answer is  385
 
 Meta-information
 ================
-exname: uva-inferential statistics-30-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-inferential statistics-30-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics/Confidence Intervals/Confidence level
 exextra[Type]: Calculation
-exextra[Langauge]: Dutch 
+exextra[Langauge]: Dutch
 exextra[Level]: Statistical Literacy

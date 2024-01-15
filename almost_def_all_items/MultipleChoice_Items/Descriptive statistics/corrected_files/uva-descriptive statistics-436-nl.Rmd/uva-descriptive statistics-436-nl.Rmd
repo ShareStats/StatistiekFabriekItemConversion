@@ -6,7 +6,7 @@ Van een aantal promovendi is bepaald hoe lang zij over hun promotieonderzoek heb
 Duur promotieonderzoek 3 4 5 6 7 8
 Aantal (in procenten) 2 24 42 22 8 2
 
-Geef aan welke stelling over de modus en mediaan van de gegeven tabel, juist is. 
+Geef aan welke stelling over de modus en mediaan van de gegeven tabel, juist is.
 
 Answerlist
 ----------
@@ -18,14 +18,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  De modus en de mediaan zijn gelijk 
+The correct answer is  De modus en de mediaan zijn gelijk
 
 Meta-information
 ================
-exname: uva-descriptive statistics-436-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-descriptive statistics-436-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

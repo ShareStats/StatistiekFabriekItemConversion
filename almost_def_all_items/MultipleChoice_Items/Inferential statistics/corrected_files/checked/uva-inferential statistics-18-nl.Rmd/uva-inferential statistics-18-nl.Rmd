@@ -1,7 +1,7 @@
 Question
 ========
 
-Inferentiële statistiek gaat over een beslissing nemen over een of meerdere 
+Inferentiële statistiek gaat over een beslissing nemen over een of meerdere
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is populaties op basis van een of meerdere steekproeven. 
+The correct answer is populaties op basis van een of meerdere steekproeven.
 
 Meta-information
 ================
-exname: uva-inferential statistics-18-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-inferential statistics-18-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics
 exextra[Type]:  Conceptual
-exextra[Langauge]: Dutch 
+exextra[Langauge]: Dutch
 exextra[Level]: Statistical Literacy

@@ -1,7 +1,7 @@
 Question
 ========
 
-Er is gegeven voor twee gebeurtenissen A en B dat P(A) = 0.6 en P(A en B) = 0.3. Dan geldt dat P(B|||A) gelijk is aan 
+Er is gegeven voor twee gebeurtenissen A en B dat P(A) = 0.6 en P(A en B) = 0.3. Dan geldt dat P(B|||A) gelijk is aan
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.5 
+The correct answer is  0.5
 
 Meta-information
 ================
-exname: uva-manual-13.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-manual-13.Rmd
+extype: schoice
+exsolution: 001
 exsection: Probability/Elementary Probability
 exextra[Type]: Calculation
-exextra[Langauge]: Dutch 
+exextra[Langauge]: Dutch
 exextra[Level]: Statistical Literacy

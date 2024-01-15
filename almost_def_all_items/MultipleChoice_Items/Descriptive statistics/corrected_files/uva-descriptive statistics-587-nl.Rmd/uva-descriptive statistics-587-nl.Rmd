@@ -1,7 +1,7 @@
 Question
 ========
 
-Stel dat in een populatie een stochastische variabele d normaal verdeeld is met gemiddelde 20 en standaarddeviatie 16. We trekken uit deze populatie een steekproef van grootte n = 4. Dan geldt voor het steekproefgemiddelde 
+Stel dat in een populatie een stochastische variabele d normaal verdeeld is met gemiddelde 20 en standaarddeviatie 16. We trekken uit deze populatie een steekproef van grootte n = 4. Dan geldt voor het steekproefgemiddelde
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  gem. ~ N(&mu; = 20 , &sigma; =  8) 
+The correct answer is  gem. ~ N(&mu; = 20 , &sigma; =  8)
 
 Meta-information
 ================
-exname: uva-descriptive statistics-587-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-descriptive statistics-587-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

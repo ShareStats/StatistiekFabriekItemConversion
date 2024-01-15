@@ -13,7 +13,7 @@ Blok 2 22
 Error 8 20
 Totaal 14 90
 
-Wat is de kritieke waarde waarmee de F-waarde vergeleken moet worden bij toetsen met 5% risico? 
+Wat is de kritieke waarde waarmee de F-waarde vergeleken moet worden bij toetsen met 5% risico?
 
 Answerlist
 ----------
@@ -25,14 +25,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  3.84 
+The correct answer is  3.84
 
 Meta-information
 ================
-exname: uva-inferential statistics-569-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-inferential statistics-569-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

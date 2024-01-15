@@ -4,10 +4,10 @@ include_supplement("item_file_id28_UMCU20040515-5.png", recursive = TRUE)
 Question
 ========
 
-Hieronder staat SPSS-uitvoer van een Randomised Complete Block ANOVA met TIME als afhankelijke variabele, TREATMNT als behandelvariabele en BLOCK als blokvariabele. Bij het toetsen of er een behandeleffect is (met een tweezijdig risico van 5%) moet de redenering plus conclusie luiden: 
+Hieronder staat SPSS-uitvoer van een Randomised Complete Block ANOVA met TIME als afhankelijke variabele, TREATMNT als behandelvariabele en BLOCK als blokvariabele. Bij het toetsen of er een behandeleffect is (met een tweezijdig risico van 5%) moet de redenering plus conclusie luiden:
 
 
-![](item_file_id28_UMCU20040515-5.png) 
+![](item_file_id28_UMCU20040515-5.png)
 
 Answerlist
 ----------
@@ -19,14 +19,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  Een significant effect want de p-waarde is kleiner dan 0.05. 
+The correct answer is  Een significant effect want de p-waarde is kleiner dan 0.05.
 
 Meta-information
 ================
-exname: uva-inferential statistics-317-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-inferential statistics-317-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

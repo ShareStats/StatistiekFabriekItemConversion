@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  -6 en 7 
+The correct answer is  -6 en 7
 
 Meta-information
 ================
-exname: uva-inferential statistics-385-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-inferential statistics-385-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

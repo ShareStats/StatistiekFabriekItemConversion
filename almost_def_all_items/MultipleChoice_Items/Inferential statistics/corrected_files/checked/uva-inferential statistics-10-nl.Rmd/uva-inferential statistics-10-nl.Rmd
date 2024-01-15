@@ -1,7 +1,7 @@
 Question
 ========
 
-De onderzoeker kan zich wapenen tegen observer bias door het gebruik van 
+De onderzoeker kan zich wapenen tegen observer bias door het gebruik van
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  een 'dubbel-blind' onderzoeksdesign. 
+The correct answer is  een 'dubbel-blind' onderzoeksdesign.
 
 Meta-information
 ================
-exname: uva-inferential statistics-10-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-inferential statistics-10-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics
-exextra[Type]: Conceptual 
-exextra[Langauge]: Dutch 
+exextra[Type]: Conceptual
+exextra[Langauge]: Dutch
 exextra[Level]: Statistical Literacy

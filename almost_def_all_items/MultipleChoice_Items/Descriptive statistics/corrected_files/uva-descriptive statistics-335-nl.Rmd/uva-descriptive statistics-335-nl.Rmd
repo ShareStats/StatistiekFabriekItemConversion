@@ -1,7 +1,7 @@
 Question
 ========
 
-Gegeven een steekproef met uitkomsten 14, 17, 19, 24 en 26. De standaarddeviatie s van deze getallen is gelijk aan 
+Gegeven een steekproef met uitkomsten 14, 17, 19, 24 en 26. De standaarddeviatie s van deze getallen is gelijk aan
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  4.95 
+The correct answer is  4.95
 
 Meta-information
 ================
-exname: uva-descriptive statistics-335-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-descriptive statistics-335-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

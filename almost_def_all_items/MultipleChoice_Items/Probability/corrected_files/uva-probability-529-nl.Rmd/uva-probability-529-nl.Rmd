@@ -1,7 +1,7 @@
 Question
 ========
 
-Uit een gewone stok met 52 speelkaarten, waarvan de helft zwart is (13 klaveren, 13 schoppen) en de andere helft rood (13 harten, 13 ruiten) wordt aselect een kaart getrokken. De kans dat de getrokken kaart klaveren of rood is, is 
+Uit een gewone stok met 52 speelkaarten, waarvan de helft zwart is (13 klaveren, 13 schoppen) en de andere helft rood (13 harten, 13 ruiten) wordt aselect een kaart getrokken. De kans dat de getrokken kaart klaveren of rood is, is
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  3\/4 
+The correct answer is  3\/4
 
 Meta-information
 ================
-exname: uva-probability-529-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-probability-529-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Probability/Elementary Probability/Random variables
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

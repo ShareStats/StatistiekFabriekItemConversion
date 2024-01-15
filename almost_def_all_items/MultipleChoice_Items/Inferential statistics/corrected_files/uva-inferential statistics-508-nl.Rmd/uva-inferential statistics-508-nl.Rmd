@@ -4,10 +4,10 @@ include_supplement("item_file_id63_UMCU19990612-9.png", recursive = TRUE)
 Question
 ========
 
-Een aanname bij deze regressieanalyse is, dat de waarnemingen gespreid liggen rondom de werkelijke regressielijn volgens een normale verdeling met gelijke varianties over de gehele range van waarnemingen. De beste schatting van deze variantie is gelijk aan 
+Een aanname bij deze regressieanalyse is, dat de waarnemingen gespreid liggen rondom de werkelijke regressielijn volgens een normale verdeling met gelijke varianties over de gehele range van waarnemingen. De beste schatting van deze variantie is gelijk aan
 
 
- ![](item_file_id63_UMCU19990612-9.png) 
+![](item_file_id63_UMCU19990612-9.png)
 
 Answerlist
 ----------
@@ -19,14 +19,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  209.512 
+The correct answer is  209.512
 
 Meta-information
 ================
-exname: uva-inferential statistics-508-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-inferential statistics-508-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics/Regression/Coefficient t-test
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

@@ -8,7 +8,7 @@ Je doet een onderzoek naar geboortegewicht. Je maakt een onderscheid tussen jong
 |Meisjes|1,91|2,59|2,81|2,86|2,95|2,99|3,04|
 
 Bron: statistiek voor het secundair onderwijs - universiteit Hasselt
-Wat is de standaardafwijking van het geboortegewicht van de jongens? Rond af op drie decimalen. 
+Wat is de standaardafwijking van het geboortegewicht van de jongens? Rond af op drie decimalen.
 
 Solution
 ========
@@ -17,10 +17,10 @@ The correct answer is 0.196.
 
 Meta-information
 ================
-exname: uva-expected-value-666-nl 
-extype: num 
-exsolution: 0.196 
-exsection: Probability/Elementary Probability/Random variables/Expected value 
-exextra[Type]: Calculation 
-exextra[Language]: Dutch 
-exextra[Level]: Statistical Literacy 
+exname: uva-expected-value-666-nl
+extype: num
+exsolution: 0.196
+exsection: Probability/Elementary Probability/Random variables/Expected value
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

@@ -1,7 +1,7 @@
 Question
 ========
 
-In een steekproef van 25 personen blijkt de variantie 64 te zijn. De SEM (standaardfout van het gemiddelde) is dan 
+In een steekproef van 25 personen blijkt de variantie 64 te zijn. De SEM (standaardfout van het gemiddelde) is dan
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  1.6 
+The correct answer is  1.6
 
 Meta-information
 ================
-exname: uva-descriptive statistics-574-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-descriptive statistics-574-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

@@ -1,7 +1,7 @@
 Question
 ========
 
-Zes studenten aardwetenschappen hebben in hun derde jaar respectievelijk 60, 54, 12, 18, 9 en 12 ec's behaald. Vergeleken met hun gemiddelde aantal ec's is hun mediane aantal ec's 
+Zes studenten aardwetenschappen hebben in hun derde jaar respectievelijk 60, 54, 12, 18, 9 en 12 ec's behaald. Vergeleken met hun gemiddelde aantal ec's is hun mediane aantal ec's
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  lager. 
+The correct answer is  lager.
 
 Meta-information
 ================
-exname: uva-descriptive statistics-116-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-descriptive statistics-116-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

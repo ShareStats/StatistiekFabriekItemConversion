@@ -9,7 +9,7 @@ Blok 15
 Error 12 2
 Total 81 11
 
-De F-waarde voor het toetsen van het behandelingseffect is gelijk aan 
+De F-waarde voor het toetsen van het behandelingseffect is gelijk aan
 
 Answerlist
 ----------
@@ -21,14 +21,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  9 
+The correct answer is  9
 
 Meta-information
 ================
-exname: uva-inferential statistics-461-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-inferential statistics-461-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Distributions/Continuous/F-distribution
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

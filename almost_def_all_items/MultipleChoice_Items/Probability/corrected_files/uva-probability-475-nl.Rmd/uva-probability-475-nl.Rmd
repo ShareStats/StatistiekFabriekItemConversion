@@ -7,7 +7,7 @@ ziek gezond
 Test positief 40 10
 Test negatief 20 130
 
-Men noemt de kans dat een daadwerkelijk ziek persoon een positieve testuit-slag heeft de sensitiviteit van de test. Wat is hier de beste schatting van de sensitiviteit? 
+Men noemt de kans dat een daadwerkelijk ziek persoon een positieve testuit-slag heeft de sensitiviteit van de test. Wat is hier de beste schatting van de sensitiviteit?
 
 Answerlist
 ----------
@@ -19,14 +19,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.67 
+The correct answer is  0.67
 
 Meta-information
 ================
-exname: uva-probability-475-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-probability-475-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Probability/Elementary Probability/Random variables
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

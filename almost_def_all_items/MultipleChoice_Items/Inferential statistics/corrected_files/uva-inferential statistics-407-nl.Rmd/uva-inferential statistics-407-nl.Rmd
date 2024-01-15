@@ -4,7 +4,7 @@ Question
 Van twee steekproeven, die aselect uit twee populaties getrokken zijn, is het volgende bekend:
 Steekproef 1: n = 10, gemiddelde = 56, s.d. = 9
 Steekproef 2: n = 5, gemiddelde = 64, s.d. = 20
-Bij toetsen of de populatievarianties gelijk zijn is de waarde van de toetsingsgrootheid en de bijbehorende conclusie (bij 10% risico tweezijdig) gelijk aan 
+Bij toetsen of de populatievarianties gelijk zijn is de waarde van de toetsingsgrootheid en de bijbehorende conclusie (bij 10% risico tweezijdig) gelijk aan
 
 Answerlist
 ----------
@@ -16,14 +16,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  4.94, significant 
+The correct answer is  4.94, significant
 
 Meta-information
 ================
-exname: uva-inferential statistics-407-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-inferential statistics-407-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Inferential Statistics/Parametric Techniques/t-test/Independent samples means
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

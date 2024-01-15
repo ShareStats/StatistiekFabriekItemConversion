@@ -1,7 +1,7 @@
 Question
 ========
 
-Bij een bepaald spelletje kun je 10 euro verliezen met 60% kans of 50 euro winnen met 40% kans. Wat is de gemiddelde opbrengst (expected value) van dit spelletje? 
+Bij een bepaald spelletje kun je 10 euro verliezen met 60% kans of 50 euro winnen met 40% kans. Wat is de gemiddelde opbrengst (expected value) van dit spelletje?
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  14 euro. 
+The correct answer is  14 euro.
 
 Meta-information
 ================
-exname: uva-probability-144-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-probability-144-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Variable type/Continuous variable
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

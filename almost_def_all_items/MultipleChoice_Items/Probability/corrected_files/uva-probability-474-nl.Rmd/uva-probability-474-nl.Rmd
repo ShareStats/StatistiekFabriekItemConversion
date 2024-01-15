@@ -7,7 +7,7 @@ ziek gezond
 Test positief 40 10
 Test negatief 20 130
 
-Uit de 200 individuen wordt aselect een persoon getrokken. Hoe groot is de kans dat deze persoon ziek is en een positieve testuitslag heeft? 
+Uit de 200 individuen wordt aselect een persoon getrokken. Hoe groot is de kans dat deze persoon ziek is en een positieve testuitslag heeft?
 
 Answerlist
 ----------
@@ -19,14 +19,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.2 
+The correct answer is  0.2
 
 Meta-information
 ================
-exname: uva-probability-474-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-probability-474-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Probability/Elementary Probability/Random variables
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

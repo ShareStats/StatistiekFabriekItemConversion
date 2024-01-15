@@ -8,7 +8,7 @@ Goed Matig Slecht
 Rechtshandig 42 72 56
 Linkshandig 18 8 4
 
-Hoe groot is P(Rechtshandig ||| Artistiek matig ontwikkeld)? 
+Hoe groot is P(Rechtshandig ||| Artistiek matig ontwikkeld)?
 
 Answerlist
 ----------
@@ -20,14 +20,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.9 
+The correct answer is  0.9
 
 Meta-information
 ================
-exname: uva-probability-341-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-probability-341-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Probability/Elementary Probability/Random variables
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

@@ -1,7 +1,7 @@
 Question
 ========
 
-Een onderzoekster laat mensen gedurende een maand bijhouden of ze tijdens hun werkdagen met de fiets, het openbaar vervoer of de auto naar hun werk zijn gegaan. Dit is een voorbeeld van 
+Een onderzoekster laat mensen gedurende een maand bijhouden of ze tijdens hun werkdagen met de fiets, het openbaar vervoer of de auto naar hun werk zijn gegaan. Dit is een voorbeeld van
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is categorisch meten 
+The correct answer is categorisch meten
 
 Meta-information
 ================
-exname: uva-descriptive statistics-87-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-descriptive statistics-87-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Measurement Level/Nominal
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

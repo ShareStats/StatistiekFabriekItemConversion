@@ -15,14 +15,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  Beide uitspraken zijn onjuist. 
+The correct answer is  Beide uitspraken zijn onjuist.
 
 Meta-information
 ================
-exname: uva-inferential statistics-560-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-inferential statistics-560-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Inferential Statistics/NHST/Statistical errors
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

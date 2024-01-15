@@ -1,7 +1,7 @@
 Question
 ========
 
-In regressie kan de adequaatheid van het model worden vastgesteld met behulp van r2. Wanneer de hellingparameter gelijk is aan 0, dan geldt dat 
+In regressie kan de adequaatheid van het model worden vastgesteld met behulp van r2. Wanneer de hellingparameter gelijk is aan 0, dan geldt dat
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  <em>r<\/em><sup>2<\/sup> = 0. 
+The correct answer is  <em>r<\/em><sup>2<\/sup> = 0.
 
 Meta-information
 ================
-exname: uva-descriptive statistics-106-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-descriptive statistics-106-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics/Regression/R squared
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

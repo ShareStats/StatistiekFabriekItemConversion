@@ -1,7 +1,7 @@
 Question
 ========
 
-De mediaan van de getallen 2, 3, 8, 4, 2, 2, 7, 5 is gelijk aan 
+De mediaan van de getallen 2, 3, 8, 4, 2, 2, 7, 5 is gelijk aan
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  3.5 
+The correct answer is  3.5
 
 Meta-information
 ================
-exname: uva-descriptive statistics-147-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-descriptive statistics-147-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Location/Median
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

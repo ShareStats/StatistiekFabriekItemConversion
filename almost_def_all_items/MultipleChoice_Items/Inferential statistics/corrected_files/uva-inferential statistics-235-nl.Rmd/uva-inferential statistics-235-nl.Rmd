@@ -1,7 +1,7 @@
 Question
 ========
 
-Wanneer een variabele normaal verdeeld is is het steekproefgemiddelde een betere schatter van het populatiegemiddelde dan de steekproefmediaan omdat het steekproefgemiddelde 
+Wanneer een variabele normaal verdeeld is is het steekproefgemiddelde een betere schatter van het populatiegemiddelde dan de steekproefmediaan omdat het steekproefgemiddelde
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  doeltreffender is 
+The correct answer is  doeltreffender is
 
 Meta-information
 ================
-exname: uva-inferential statistics-235-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-inferential statistics-235-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

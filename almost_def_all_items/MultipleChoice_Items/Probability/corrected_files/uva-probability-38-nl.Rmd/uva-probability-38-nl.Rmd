@@ -1,7 +1,7 @@
 Question
 ========
 
-Welk van de volgende weddenschappen levert het meeste geld op in the long run? 
+Welk van de volgende weddenschappen levert het meeste geld op in the long run?
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.90 kans op 10 euro, 0.05 kans op 50 euro en 0.05 kans op 5 euro verlies. 
+The correct answer is  0.90 kans op 10 euro, 0.05 kans op 50 euro en 0.05 kans op 5 euro verlies.
 
 Meta-information
 ================
-exname: uva-probability-38-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-probability-38-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Probability/Elementary Probability/General Rules/Addition rule
 exextra[Type]: Calculation
-exextra[Langauge]: Dutch 
+exextra[Langauge]: Dutch
 exextra[Level]: Statistical Literacy

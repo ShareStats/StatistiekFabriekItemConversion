@@ -8,7 +8,7 @@ Groups 3
 Error 25 20
 Total 28 35
 
-Gegeven is een significantieniveau van 0.05. Dan volgt uit de tabel dat 
+Gegeven is een significantieniveau van 0.05. Dan volgt uit de tabel dat
 
 Answerlist
 ----------
@@ -19,14 +19,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  6 &le; F &le; 7 en dus kan de nulhypothese van ANOVA worden verworpen. 
+The correct answer is  6 &le; F &le; 7 en dus kan de nulhypothese van ANOVA worden verworpen.
 
 Meta-information
 ================
-exname: uva-inferential statistics-102-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-inferential statistics-102-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Distributions/Continuous/F-distribution
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

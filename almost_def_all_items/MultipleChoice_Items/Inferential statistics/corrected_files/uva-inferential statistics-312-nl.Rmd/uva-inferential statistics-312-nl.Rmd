@@ -4,10 +4,10 @@ include_supplement("item_file_id25_UMCU20040417-9.png", recursive = TRUE)
 Question
 ========
 
-Voor een experiment over de effectiviteit van een hulpprogramma voor zelfredzaamheid bij ouderen worden mensen aselect in een controle- of behandelde groep ingedeeld. In onderstaande SPSS uitvoer staat een toets op gelijkheid van gemiddelde leeftijd. Bij een tweezijdig risico van 5% zou de conclusie van deze t-toets voor gelijkheid van gemiddelden moeten luiden: 
+Voor een experiment over de effectiviteit van een hulpprogramma voor zelfredzaamheid bij ouderen worden mensen aselect in een controle- of behandelde groep ingedeeld. In onderstaande SPSS uitvoer staat een toets op gelijkheid van gemiddelde leeftijd. Bij een tweezijdig risico van 5% zou de conclusie van deze t-toets voor gelijkheid van gemiddelden moeten luiden:
 
 
- ![](item_file_id25_UMCU20040417-9.png) 
+![](item_file_id25_UMCU20040417-9.png)
 
 Answerlist
 ----------
@@ -19,14 +19,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  Populatiegemiddelden zouden gelijk kunnen zijn 
+The correct answer is  Populatiegemiddelden zouden gelijk kunnen zijn
 
 Meta-information
 ================
-exname: uva-inferential statistics-312-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-inferential statistics-312-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics/Parametric Techniques/t-test/Independent samples means
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

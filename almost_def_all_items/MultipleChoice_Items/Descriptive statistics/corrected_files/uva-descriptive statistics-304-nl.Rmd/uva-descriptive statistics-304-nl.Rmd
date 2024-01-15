@@ -1,7 +1,7 @@
 Question
 ========
 
-Tien waarnemingen hebben een gemiddelde van 30 en een standaardafwijking van 8. Als we ieder van de waarnemingen met 2 vermenigvuldigen en bij het resultaat vervolgens nog 5 optellen, dan is de standaardafwijking van de nieuwe getallen gelijk aan 
+Tien waarnemingen hebben een gemiddelde van 30 en een standaardafwijking van 8. Als we ieder van de waarnemingen met 2 vermenigvuldigen en bij het resultaat vervolgens nog 5 optellen, dan is de standaardafwijking van de nieuwe getallen gelijk aan
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  16 
+The correct answer is  16
 
 Meta-information
 ================
-exname: uva-descriptive statistics-304-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-descriptive statistics-304-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

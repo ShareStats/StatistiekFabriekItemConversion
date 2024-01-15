@@ -9,7 +9,7 @@ Opleidingsniveau man 1 75 52 3
 2 49 63 12
 3 12 45 89
 
-Hoe groot is in deze steekproef de kans dat het opleidingsniveau van de vrouw 'middel' is, wanneer gegeven is dat haar man laag opgeleid is? 
+Hoe groot is in deze steekproef de kans dat het opleidingsniveau van de vrouw 'middel' is, wanneer gegeven is dat haar man laag opgeleid is?
 
 Answerlist
 ----------
@@ -21,14 +21,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.4 
+The correct answer is  0.4
 
 Meta-information
 ================
-exname: uva-probability-465-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-probability-465-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Probability/Elementary Probability/Random variables
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

@@ -3,7 +3,7 @@ Question
 
 NA
 VOOR: 46, 38, 30, 42, 41
-NA: 43, 43, 37, 39, 45. Het gemiddelde van het verschil van de nameting minus de voormeting is gelijk aan: 
+NA: 43, 43, 37, 39, 45. Het gemiddelde van het verschil van de nameting minus de voormeting is gelijk aan:
 
 Answerlist
 ----------
@@ -15,14 +15,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  2 
+The correct answer is  2
 
 Meta-information
 ================
-exname: uva-descriptive statistics-489-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-descriptive statistics-489-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

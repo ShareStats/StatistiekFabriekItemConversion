@@ -10,7 +10,7 @@ A*B 2
 Error 25 225 9
 Total 30 500
 
-De nulhypothese van geen interactie kan bij significantieniveau 0.05 
+De nulhypothese van geen interactie kan bij significantieniveau 0.05
 
 Answerlist
 ----------
@@ -21,14 +21,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  worden verworpen. 
+The correct answer is  worden verworpen.
 
 Meta-information
 ================
-exname: uva-inferential statistics-65-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-inferential statistics-65-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

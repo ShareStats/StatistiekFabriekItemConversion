@@ -20,14 +20,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  Kritieke waarde is 3.49, verwerp H<sub>0</sub>. 
+The correct answer is  Kritieke waarde is 3.49, verwerp H<sub>0</sub>.
 
 Meta-information
 ================
-exname: uva-inferential statistics-274-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-inferential statistics-274-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

@@ -1,7 +1,7 @@
 Question
 ========
 
-A en B zijn onafhankelijke gebeurtenissen met P(A) = 0.5 en P(B) = 0.3. Dan is P(A|||B) gelijk aan 
+A en B zijn onafhankelijke gebeurtenissen met P(A) = 0.5 en P(B) = 0.3. Dan is P(A|||B) gelijk aan
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.5 
+The correct answer is  0.5
 
 Meta-information
 ================
-exname: uva-probability-387-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-probability-387-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Probability/Elementary Probability/General Rules/Independent events
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

@@ -1,7 +1,7 @@
 Question
 ========
 
-Er wordt onderzocht hoeveel mensen 'ja' zouden antwoorden op de vraag of ze akkoord gaan met de leeftijdsverhoging van de AOW van 65 naar 67 jaar. Het percentage dat met 'ja' antwoordt is 60% uit een steekproef van 240 aselect gevraagde mensen. De onderzoekers willen weten of het populatie percentage groter is dan 30%. Daartoe stellen zij de nulhypothese op H0: p0 = 30%. Vanaf welk percentage kan de nulhypothese worden verworpen wanneer een significantieniveau wordt gebruikt van 2,5%? 
+Er wordt onderzocht hoeveel mensen 'ja' zouden antwoorden op de vraag of ze akkoord gaan met de leeftijdsverhoging van de AOW van 65 naar 67 jaar. Het percentage dat met 'ja' antwoordt is 60% uit een steekproef van 240 aselect gevraagde mensen. De onderzoekers willen weten of het populatie percentage groter is dan 30%. Daartoe stellen zij de nulhypothese op H0: p0 = 30%. Vanaf welk percentage kan de nulhypothese worden verworpen wanneer een significantieniveau wordt gebruikt van 2,5%?
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.36 
+The correct answer is  0.36
 
 Meta-information
 ================
-exname: uva-inferential statistics-122-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-inferential statistics-122-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics/NHST/Significance level/Critical value
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

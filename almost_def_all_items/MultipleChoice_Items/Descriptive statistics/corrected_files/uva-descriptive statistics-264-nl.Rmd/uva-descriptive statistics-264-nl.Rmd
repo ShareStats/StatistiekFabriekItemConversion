@@ -6,7 +6,7 @@ Van 60 personen is gedurende een maand bijgehouden hoeveel sigaretten zij (afger
 Sigaretten 0 1 2 3 4 5 7 10 12 15 20 30 Totaal
 Frequentie 36 4 3 3 4 2 1 2 1 2 1 1 60
 
-Voor de mediaan en modus van deze getallen geldt: 
+Voor de mediaan en modus van deze getallen geldt:
 
 Answerlist
 ----------
@@ -18,14 +18,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  De mediaan en modus zijn even groot 
+The correct answer is  De mediaan en modus zijn even groot
 
 Meta-information
 ================
-exname: uva-descriptive statistics-264-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-descriptive statistics-264-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

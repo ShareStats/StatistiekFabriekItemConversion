@@ -1,7 +1,7 @@
 Question
 ========
 
-Men veronderstelt dat de correlatie tussen twee tests X en Y die beide intelligentie meten 0.80 is. In een aselecte steekproef van n = 50 personen vindt men RXY = 0.71. Op basis van dit resultaat kan de nulhypothese <U+03C1>XY = 0.80 worden verworpen ten gunste van de alternatieve hypothese <U+03C1> XY < 0.80 bij 
+Men veronderstelt dat de correlatie tussen twee tests X en Y die beide intelligentie meten 0.80 is. In een aselecte steekproef van n = 50 personen vindt men RXY = 0.71. Op basis van dit resultaat kan de nulhypothese <U+03C1>XY = 0.80 worden verworpen ten gunste van de alternatieve hypothese <U+03C1> XY < 0.80 bij
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  &alpha; = 0.10 maar niet bij &alpha; = 0.05 
+The correct answer is  &alpha; = 0.10 maar niet bij &alpha; = 0.05
 
 Meta-information
 ================
-exname: uva-inferential statistics-222-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-inferential statistics-222-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics/NHST/Test statistic/t-statistic
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

@@ -13,7 +13,7 @@ Gegeven de volgende twee beweringen over deze gegevens:
 P(rechtshandig n linkshandig) = 0.
 2: Artistiek goed ontwikkeld zijn en linkshandigheid zijn onafhankelijk want
 P(linkshandig ||| artistiek goed ontwikkeld) = P(artistiek goed ontwikkeld).
-Welke van deze beweringen zijn juist? 
+Welke van deze beweringen zijn juist?
 
 Answerlist
 ----------
@@ -25,14 +25,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  Beweringen 1 en 2 zijn beide onjuist. 
+The correct answer is  Beweringen 1 en 2 zijn beide onjuist.
 
 Meta-information
 ================
-exname: uva-probability-342-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-probability-342-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Probability/Elementary Probability/General Rules/Independent events
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

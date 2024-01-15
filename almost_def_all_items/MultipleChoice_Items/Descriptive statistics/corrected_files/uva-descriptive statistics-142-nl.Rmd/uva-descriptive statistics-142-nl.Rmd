@@ -1,7 +1,7 @@
 Question
 ========
 
-De standard error van een sample mean wordt 
+De standard error van een sample mean wordt
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  kleiner wanneer de <em>sample size<\/em> groter wordt. 
+The correct answer is  kleiner wanneer de <em>sample size<\/em> groter wordt.
 
 Meta-information
 ================
-exname: uva-descriptive statistics-142-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-descriptive statistics-142-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

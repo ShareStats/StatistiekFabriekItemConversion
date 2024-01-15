@@ -1,7 +1,7 @@
 Question
 ========
 
-Twee gebeurtenissen A en B zijn onafhankelijk. Er is gegeven dat P(A) = 0.4 en P(B) = 0.2. P(A n B) is gelijk aan 
+Twee gebeurtenissen A en B zijn onafhankelijk. Er is gegeven dat P(A) = 0.4 en P(B) = 0.2. P(A n B) is gelijk aan
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.08 
+The correct answer is  0.08
 
 Meta-information
 ================
-exname: uva-probability-548-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-probability-548-nl.Rmd
+extype: schoice
+exsolution: 010
 Probability/Elementary Probability/General Rules/Addition rule
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

@@ -8,7 +8,7 @@ Je doet een onderzoek naar geboortegewicht. Je maakt een onderscheid tussen jong
 |Meisjes|1,91|2,59|2,81|2,86|2,95|2,99|3,04|
 
 Bron: statistiek voor het secundair onderwijs - universiteit Hasselt
-Wat is het gemiddelde geboortegewicht van de meisjes? Rond af op twee decimalen. 
+Wat is het gemiddelde geboortegewicht van de meisjes? Rond af op twee decimalen.
 
 Solution
 ========
@@ -17,10 +17,10 @@ The correct answer is 2.74.
 
 Meta-information
 ================
-exname: uva-expected-value-665-nl 
-extype: num 
-exsolution: 2.74 
-exsection: Probability/Elementary Probability/Random variables/Expected value 
-exextra[Type]: Calculation 
-exextra[Language]: Dutch 
-exextra[Level]: Statistical Literacy 
+exname: uva-expected-value-665-nl
+extype: num
+exsolution: 2.74
+exsection: Probability/Elementary Probability/Random variables/Expected value
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

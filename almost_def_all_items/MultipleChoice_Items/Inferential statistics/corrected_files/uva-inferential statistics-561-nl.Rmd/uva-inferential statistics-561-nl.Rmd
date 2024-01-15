@@ -15,14 +15,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.74 
+The correct answer is  0.74
 
 Meta-information
 ================
-exname: uva-inferential statistics-561-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-inferential statistics-561-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics/Parametric Techniques/t-test/One sample mean
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

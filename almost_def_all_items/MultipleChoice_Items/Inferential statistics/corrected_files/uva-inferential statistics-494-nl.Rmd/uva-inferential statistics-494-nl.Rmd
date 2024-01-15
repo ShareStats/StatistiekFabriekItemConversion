@@ -4,11 +4,11 @@ include_supplement("item_file_id58_UMCU19990515-5.png", recursive = TRUE)
 Question
 ========
 
-Hieronder staat SPSS-uitvoer van een gepoolde T-toets. De conclusie omtrent de nulhypothese van gelijke populatiegemiddelden moet hier luiden (bij a = 5%, tweezijdig): 
+Hieronder staat SPSS-uitvoer van een gepoolde T-toets. De conclusie omtrent de nulhypothese van gelijke populatiegemiddelden moet hier luiden (bij a = 5%, tweezijdig):
 
 
 
- ![](item_file_id58_UMCU19990515-5.png) 
+![](item_file_id58_UMCU19990515-5.png)
 
 Answerlist
 ----------
@@ -20,14 +20,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  geen significant resultaat, H<sub>0<\/sub> wordt niet verworpen 
+The correct answer is  geen significant resultaat, H<sub>0<\/sub> wordt niet verworpen
 
 Meta-information
 ================
-exname: uva-inferential statistics-494-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-inferential statistics-494-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Inferential Statistics/Parametric Techniques/t-test/Independent samples means
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

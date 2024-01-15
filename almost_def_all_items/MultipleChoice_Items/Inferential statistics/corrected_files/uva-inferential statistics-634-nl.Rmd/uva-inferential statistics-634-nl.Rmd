@@ -8,7 +8,7 @@ Among groups 4 48
 Within groups 10 15
 Total 14 63
 
-Wat is in deze ANOVA-tabel de waarde van de toetsingsgrootheid om gelijkheid van groepsgemiddelden te toetsen? 
+Wat is in deze ANOVA-tabel de waarde van de toetsingsgrootheid om gelijkheid van groepsgemiddelden te toetsen?
 
 Answerlist
 ----------
@@ -20,14 +20,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  8 
+The correct answer is  8
 
 Meta-information
 ================
-exname: uva-inferential statistics-634-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-inferential statistics-634-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

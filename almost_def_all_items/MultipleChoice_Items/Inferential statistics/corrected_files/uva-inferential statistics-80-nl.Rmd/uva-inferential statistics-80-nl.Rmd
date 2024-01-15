@@ -19,14 +19,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  <em>&mu;<\/em><sub>1<\/sub> = <em>&mu;<\/em><sub>2<\/sub>. 
+The correct answer is  <em>&mu;<\/em><sub>1<\/sub> = <em>&mu;<\/em><sub>2<\/sub>.
 
 Meta-information
 ================
-exname: uva-inferential statistics-80-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-inferential statistics-80-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

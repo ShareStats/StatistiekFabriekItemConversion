@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  4.5 
+The correct answer is  4.5
 
 Meta-information
 ================
-exname: uva-descriptive statistics-276-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-descriptive statistics-276-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Variance
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

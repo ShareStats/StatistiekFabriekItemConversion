@@ -1,7 +1,7 @@
 Question
 ========
 
-Welke van de volgende assumpties hoort niet bij inferentiële regressie? 
+Welke van de volgende assumpties hoort niet bij inferentiële regressie?
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  Het steekproefgemiddelde van *x* is chi-kwadraat verdeeld. 
+The correct answer is  Het steekproefgemiddelde van *x* is chi-kwadraat verdeeld.
 
 Meta-information
 ================
-exname: uva-inferential statistics-57-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-inferential statistics-57-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics/Regression
 exextra[Type]: Conceptual
-exextra[Langauge]: Dutch 
+exextra[Langauge]: Dutch
 exextra[Level]: Statistical Literacy

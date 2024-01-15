@@ -1,7 +1,7 @@
 Question
 ========
 
-Tien loten worden in aselecte volgorde verkocht aan tien personen. De kans om te winnen voor persoon A en persoon B is respectievelijk 
+Tien loten worden in aselecte volgorde verkocht aan tien personen. De kans om te winnen voor persoon A en persoon B is respectievelijk
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  \\(\\frac{1}{10},\\frac{1}{10}\\) 
+The correct answer is  \\(\\frac{1}{10},\\frac{1}{10}\\)
 
 Meta-information
 ================
-exname: uva-probability-649-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-probability-649-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Distributions/Continuous/Uniform
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

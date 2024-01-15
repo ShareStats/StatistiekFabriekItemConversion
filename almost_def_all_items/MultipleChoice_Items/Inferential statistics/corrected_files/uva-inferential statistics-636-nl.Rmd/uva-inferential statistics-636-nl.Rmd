@@ -8,7 +8,7 @@ Among groups 4 48
 Within groups 10 15
 Total 14 63
 
-Stel men wil ieder van de 5 groepen paarsgewijs tegen elkaar toetsen; dat zijn hier 10 toetsen. Hiervoor gebruikt men tweezijdige toetsen met Bonferroni-correctie, met een totaal risico van (hier) 10%. Wat is dan de kritieke waarde van zo'n T-toets? 
+Stel men wil ieder van de 5 groepen paarsgewijs tegen elkaar toetsen; dat zijn hier 10 toetsen. Hiervoor gebruikt men tweezijdige toetsen met Bonferroni-correctie, met een totaal risico van (hier) 10%. Wat is dan de kritieke waarde van zo'n T-toets?
 
 Answerlist
 ----------
@@ -20,14 +20,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  3.169 
+The correct answer is  3.169
 
 Meta-information
 ================
-exname: uva-inferential statistics-636-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-inferential statistics-636-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

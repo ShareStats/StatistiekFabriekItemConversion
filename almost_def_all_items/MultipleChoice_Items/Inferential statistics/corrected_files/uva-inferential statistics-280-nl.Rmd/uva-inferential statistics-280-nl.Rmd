@@ -4,9 +4,9 @@ include_supplement("item_file_id15_UMCU20050514-6.png", recursive = TRUE)
 Question
 ========
 
-De waarde uit de tabel van de T-verdeling, die gebruikt is bij het berekenen van het equal variances assumed 95% betrouwbaarheidsinterval, (1.885 ; 11.004), is gelijk aan 
+De waarde uit de tabel van de T-verdeling, die gebruikt is bij het berekenen van het equal variances assumed 95% betrouwbaarheidsinterval, (1.885 ; 11.004), is gelijk aan
 
- 
+
 
 ![](item_file_id15_UMCU20050514-6.png)
 
@@ -20,14 +20,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  2.086 
+The correct answer is  2.086
 
 Meta-information
 ================
-exname: uva-inferential statistics-280-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-inferential statistics-280-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics/Parametric Techniques/t-test/Independent samples means
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

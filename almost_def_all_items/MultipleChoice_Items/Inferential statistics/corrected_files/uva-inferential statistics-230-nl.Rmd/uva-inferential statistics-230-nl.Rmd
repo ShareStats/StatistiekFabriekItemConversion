@@ -1,7 +1,7 @@
 Question
 ========
 
-Bij de chi-kwadraattoets voor passing is de verwachte frequentie voor categorie ci gelijk aan 
+Bij de chi-kwadraattoets voor passing is de verwachte frequentie voor categorie ci gelijk aan
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  np<sub>i<\/sub> 
+The correct answer is  np<sub>i<\/sub>
 
 Meta-information
 ================
-exname: uva-inferential statistics-230-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-inferential statistics-230-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics/NHST/Test statistic/Chi-squared
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

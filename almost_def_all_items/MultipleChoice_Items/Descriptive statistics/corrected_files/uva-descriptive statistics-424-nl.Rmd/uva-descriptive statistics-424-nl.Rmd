@@ -1,7 +1,7 @@
 Question
 ========
 
-Gegeven de volgende getallen in een steekproef: 8, 5, 2, 8, 4, 9. Het 95% betrouwbaarheidsinterval voor het gemiddelde van de populatie waaruit de steekproef is getrokken is: 
+Gegeven de volgende getallen in een steekproef: 8, 5, 2, 8, 4, 9. Het 95% betrouwbaarheidsinterval voor het gemiddelde van de populatie waaruit de steekproef is getrokken is:
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  &lt;3.11; 8.89 &gt; 
+The correct answer is  &lt;3.11; 8.89 &gt;
 
 Meta-information
 ================
-exname: uva-descriptive statistics-424-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-descriptive statistics-424-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

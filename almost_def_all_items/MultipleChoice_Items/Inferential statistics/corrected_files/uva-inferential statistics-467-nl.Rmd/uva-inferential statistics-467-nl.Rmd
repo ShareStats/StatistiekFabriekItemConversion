@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  Kritieke waarde is 0.6319, dus niet significant. 
+The correct answer is  Kritieke waarde is 0.6319, dus niet significant.
 
 Meta-information
 ================
-exname: uva-inferential statistics-467-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-inferential statistics-467-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics/NHST/Test statistic/t-statistic
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

@@ -1,7 +1,7 @@
 Question
 ========
 
-We nemen voor deze vraag aan dat geboortegewicht (in kg.) normaal verdeeld is met verwachting 2.90 en variantie 0.64. Een geboortegewicht van 2500 gram heeft een Z-score van 
+We nemen voor deze vraag aan dat geboortegewicht (in kg.) normaal verdeeld is met verwachting 2.90 en variantie 0.64. Een geboortegewicht van 2500 gram heeft een Z-score van
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  -0.5 
+The correct answer is  -0.5
 
 Meta-information
 ================
-exname: uva-inferential statistics-377-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-inferential statistics-377-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics/Parametric Techniques/z-test/One sample mean
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

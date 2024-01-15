@@ -1,7 +1,7 @@
 Question
 ========
 
-De polsslag van een proefpersoon, uitgedrukt in aantal slagen per minuut, is een voorbeeld van een 
+De polsslag van een proefpersoon, uitgedrukt in aantal slagen per minuut, is een voorbeeld van een
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  diskrete, kwantitatieve variabele 
+The correct answer is  diskrete, kwantitatieve variabele
 
 Meta-information
 ================
-exname: uva-descriptive statistics-610-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-descriptive statistics-610-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Variable type
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

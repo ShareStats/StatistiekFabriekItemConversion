@@ -22,10 +22,10 @@ The correct answer is 0.471.
 
 Meta-information
 ================
-exname: uva-elementary-probability-1013-nl 
-extype: num 
-exsolution: 0.471 
-exsection: Probability/Elementary Probability 
-exextra[Type]: Calculation 
-exextra[Language]: Dutch 
-exextra[Level]: Statistical Literacy 
+exname: uva-elementary-probability-1013-nl
+extype: num
+exsolution: 0.471
+exsection: Probability/Elementary Probability
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

@@ -1,7 +1,7 @@
 Question
 ========
 
-Van een steekproef van 10 twintigjarige mannen is hun longinhoud bepaald en de afstand die ze in 15 minuten hardlopend kunnen afleggen. De Pearson correlatie tussen deze variabelen bleek 0.60 te zijn. De nulhypothese <U+03C1> = 0 wordt dan bij toetsing (a = 0.05 tweezijdig) 
+Van een steekproef van 10 twintigjarige mannen is hun longinhoud bepaald en de afstand die ze in 15 minuten hardlopend kunnen afleggen. De Pearson correlatie tussen deze variabelen bleek 0.60 te zijn. De nulhypothese <U+03C1> = 0 wordt dan bij toetsing (a = 0.05 tweezijdig)
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  niet verworpen, geen significant resultaat 
+The correct answer is  niet verworpen, geen significant resultaat
 
 Meta-information
 ================
-exname: uva-inferential statistics-576-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-inferential statistics-576-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Inferential Statistics/NHST/Test statistic/t-statistic
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

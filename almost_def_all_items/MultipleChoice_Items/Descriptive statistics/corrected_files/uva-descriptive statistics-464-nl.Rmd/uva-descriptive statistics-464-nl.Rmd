@@ -1,7 +1,7 @@
 Question
 ========
 
-Gegeven de volgende getallen: 7, 5, 8, 4, 9, 8, 7, 8. De geschatte standaardafwijking van het steekproefgemiddelde is gelijk aan 
+Gegeven de volgende getallen: 7, 5, 8, 4, 9, 8, 7, 8. De geschatte standaardafwijking van het steekproefgemiddelde is gelijk aan
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  1.69 
+The correct answer is  1.69
 
 Meta-information
 ================
-exname: uva-descriptive statistics-464-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-descriptive statistics-464-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

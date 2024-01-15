@@ -1,7 +1,7 @@
 Question
 ========
 
-De scores op een Cito-toets Rekenen zijn normaal verdeeld met gemiddelde 20 en standaardafwijking 5. Een meisje uit de 8e groep van een basisschool haalt de score 27 op de toets. Hoeveel procent van de 8e groepers zal een score halen die hoger is dan de hare? 
+De scores op een Cito-toets Rekenen zijn normaal verdeeld met gemiddelde 20 en standaardafwijking 5. Een meisje uit de 8e groep van een basisschool haalt de score 27 op de toets. Hoeveel procent van de 8e groepers zal een score halen die hoger is dan de hare?
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  8 procent 
+The correct answer is  8 procent
 
 Meta-information
 ================
-exname: uva-descriptive statistics-141-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-descriptive statistics-141-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

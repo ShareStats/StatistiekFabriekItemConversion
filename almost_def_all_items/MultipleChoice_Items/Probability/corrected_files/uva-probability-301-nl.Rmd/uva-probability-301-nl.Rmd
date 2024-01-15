@@ -7,7 +7,7 @@ Frequentie CES-D < 10 10 = CES-D = 16 CES-D > 16
 man 5 15 10
 vrouw 6 20 24
 
-De kans dat de getrokken persoon een man is en een CES-D score heeft van 16 of minder, is gelijk aan 
+De kans dat de getrokken persoon een man is en een CES-D score heeft van 16 of minder, is gelijk aan
 
 Answerlist
 ----------
@@ -19,14 +19,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  25% 
+The correct answer is  25%
 
 Meta-information
 ================
-exname: uva-probability-301-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-probability-301-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Probability/Elementary Probability/Random variables
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

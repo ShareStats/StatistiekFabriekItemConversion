@@ -16,10 +16,10 @@ The correct answer is 0.50.
 
 Meta-information
 ================
-exname: uva-expected-value-658-nl 
-extype: num 
-exsolution: 0.50 
-exsection: Probability/Elementary Probability/Random variables/Expected value 
-exextra[Type]: Calculation 
-exextra[Language]: Dutch 
-exextra[Level]: Statistical Literacy 
+exname: uva-expected-value-658-nl
+extype: num
+exsolution: 0.50
+exsection: Probability/Elementary Probability/Random variables/Expected value
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

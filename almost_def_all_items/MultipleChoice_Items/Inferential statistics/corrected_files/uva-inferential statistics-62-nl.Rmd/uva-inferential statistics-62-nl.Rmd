@@ -1,7 +1,7 @@
 Question
 ========
 
-De niet-parametrische test van Wilcoxon op rangordeningen kan gezien worden als alternatief op standaardmethoden die gebruik maken van verdelingen zoals de t-verdeling indien (a) de data niet normaal verdeeld zijn of (b) de data niet random zijn getrokken uit de populatie. 
+De niet-parametrische test van Wilcoxon op rangordeningen kan gezien worden als alternatief op standaardmethoden die gebruik maken van verdelingen zoals de t-verdeling indien (a) de data niet normaal verdeeld zijn of (b) de data niet random zijn getrokken uit de populatie.
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  a is waar en b is onwaar. 
+The correct answer is  a is waar en b is onwaar.
 
 Meta-information
 ================
-exname: uva-inferential statistics-62-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-inferential statistics-62-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics/Non-parametric Techniques/Signed Rank test
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

@@ -8,7 +8,7 @@ AG = 1 4 12 14
 AG = 2 13 25 12
 AG = 3 8 8 4
 
-Hoe groot is voor deze 100 personen P(SB = 2 <U+222A> AG = 3)? 
+Hoe groot is voor deze 100 personen P(SB = 2 <U+222A> AG = 3)?
 
 Answerlist
 ----------
@@ -20,14 +20,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.74 
+The correct answer is  0.74
 
 Meta-information
 ================
-exname: uva-probability-448-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-probability-448-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Probability/Elementary Probability/Random variables
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

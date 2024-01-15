@@ -4,11 +4,11 @@ include_supplement("UMCU19970621-10.png", recursive = TRUE)
 Question
 ========
 
-Bereken de Pearson correlatiecoefficient, als gegeven is 
+Bereken de Pearson correlatiecoefficient, als gegeven is
 
 
 
- ![](UMCU19970621-10.png) 
+![](UMCU19970621-10.png)
 
 Answerlist
 ----------
@@ -20,14 +20,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.78 
+The correct answer is  0.78
 
 Meta-information
 ================
-exname: uva-descriptive statistics-579-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-descriptive statistics-579-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics/Parametric Techniques/Correlations/Pearson
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

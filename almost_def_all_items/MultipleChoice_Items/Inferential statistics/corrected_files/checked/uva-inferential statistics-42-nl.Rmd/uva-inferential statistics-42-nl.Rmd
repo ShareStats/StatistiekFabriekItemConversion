@@ -1,7 +1,7 @@
 Question
 ========
 
-Een aantal onderzoekers is ge?nteresseerd in beslissingen gebaseerd op rationele gronden. Daartoe stellen ze een onderzoek in met twee groepen die uit twee auto's (auto A en auto B) moeten kiezen: éen groep van 100 proefpersonen waarin men moet beslissen welke auto ze kiezen aan de hand van vijf gegevens (prijs, kleur, grootte, air-conditioning en stuurbekrachtiging), en éen groep van 100 proefpersonen waarin men moet beslissen welke auto ze kiezen aan de hand van twee gegevens (prijs en kleur). In de eerste groep heeft een proportie van 0.25 voor auto A gekozen en in de tweede groep heeft een proportie van 0.30 voor auto A gekozen. De vraag van de onderzoekers is of het uitmaakt hoeveel gegevens er worden gegeven voor de keuze van auto. Getoetst wordt de nulhypothese dat het niet uitmaakt tegen de alternatieve hypothese dat het verschil in proporties groter of kleiner dan nul is. De P-waarde van deze toets is 
+Een aantal onderzoekers is geïnteresseerd in beslissingen gebaseerd op rationele gronden. Daartoe stellen ze een onderzoek in met twee groepen die uit twee auto's (auto A en auto B) moeten kiezen: éen groep van 100 proefpersonen waarin men moet beslissen welke auto ze kiezen aan de hand van vijf gegevens (prijs, kleur, grootte, air-conditioning en stuurbekrachtiging), en éen groep van 100 proefpersonen waarin men moet beslissen welke auto ze kiezen aan de hand van twee gegevens (prijs en kleur). In de eerste groep heeft een proportie van 0.25 voor auto A gekozen en in de tweede groep heeft een proportie van 0.30 voor auto A gekozen. De vraag van de onderzoekers is of het uitmaakt hoeveel gegevens er worden gegeven voor de keuze van auto. Getoetst wordt de nulhypothese dat het niet uitmaakt tegen de alternatieve hypothese dat het verschil in proporties groter of kleiner dan nul is. De P-waarde van deze toets is
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.4296 
+The correct answer is  0.4296
 
 Meta-information
 ================
-exname: uva-inferential statistics-42-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-inferential statistics-42-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics
 exextra[Type]: Calculation
-exextra[Langauge]: Dutch 
+exextra[Langauge]: Dutch
 exextra[Level]: Statistical Literacy

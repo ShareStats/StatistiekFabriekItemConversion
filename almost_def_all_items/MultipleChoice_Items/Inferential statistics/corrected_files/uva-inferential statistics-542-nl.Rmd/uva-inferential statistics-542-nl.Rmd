@@ -9,7 +9,7 @@ Blok 2 22.5 5.00
 Error 6 4.5
 Totaal 11
 
-We willen de nulhypothese testen dat er geen groepseffect is, met 5% risico. Het toetsresultaat is 
+We willen de nulhypothese testen dat er geen groepseffect is, met 5% risico. Het toetsresultaat is
 
 Answerlist
 ----------
@@ -21,14 +21,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  significant, verwerp H<sub>0<\/sub> 
+The correct answer is  significant, verwerp H<sub>0<\/sub>
 
 Meta-information
 ================
-exname: uva-inferential statistics-542-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-inferential statistics-542-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

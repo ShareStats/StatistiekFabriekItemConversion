@@ -4,10 +4,10 @@ include_supplement("item_file_id30_UMCU20040515-8.png", recursive = TRUE)
 Question
 ========
 
-Bij het toetsen van H0: ?1 = ?2 tegen H1: ?1 <U+2260> ?2 met 5% risico moet de conclusie luiden: 
+Bij het toetsen van H0: ?1 = ?2 tegen H1: ?1 <U+2260> ?2 met 5% risico moet de conclusie luiden:
 
 
-![](item_file_id30_UMCU20040515-8.png) 
+![](item_file_id30_UMCU20040515-8.png)
 
 Answerlist
 ----------
@@ -19,14 +19,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  Het toetsresultaat is significant, verwerp H<sub>0<\/sub>. 
+The correct answer is  Het toetsresultaat is significant, verwerp H<sub>0<\/sub>.
 
 Meta-information
 ================
-exname: uva-inferential statistics-321-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-inferential statistics-321-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics/Parametric Techniques/t-test/Independent samples means
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

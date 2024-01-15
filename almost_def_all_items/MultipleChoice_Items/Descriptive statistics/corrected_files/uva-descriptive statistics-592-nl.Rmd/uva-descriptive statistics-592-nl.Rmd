@@ -1,7 +1,7 @@
 Question
 ========
 
-Van 9 personen in een steekproef is het gewicht in kilogram bepaald. De variantie van deze gewichten was 225. Als de gewichten in ponden waren uitgedrukt, wat zou dan de steekproefvariantie van die nieuwe getallen zijn? 
+Van 9 personen in een steekproef is het gewicht in kilogram bepaald. De variantie van deze gewichten was 225. Als de gewichten in ponden waren uitgedrukt, wat zou dan de steekproefvariantie van die nieuwe getallen zijn?
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  900 
+The correct answer is  900
 
 Meta-information
 ================
-exname: uva-descriptive statistics-592-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-descriptive statistics-592-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Variance
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

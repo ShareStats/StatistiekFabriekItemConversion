@@ -7,7 +7,7 @@ A B C D
 I 30 40 80 10
 II 40 10 60 30
 
-P(A <U+222A> B | I) = 
+P(A <U+222A> B | I) =
 
 Answerlist
 ----------
@@ -19,14 +19,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.44 
+The correct answer is  0.44
 
 Meta-information
 ================
-exname: uva-probability-559-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-probability-559-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Probability/Elementary Probability/Conditional probability
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

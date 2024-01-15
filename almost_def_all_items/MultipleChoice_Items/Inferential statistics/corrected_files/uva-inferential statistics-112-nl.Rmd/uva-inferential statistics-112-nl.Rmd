@@ -3,7 +3,7 @@ Question
 
 NA
 I. de Type I fout groter is dan 0.05.
-II. de P-waarde kleiner is dan 0.05. 
+II. de P-waarde kleiner is dan 0.05.
 
 Answerlist
 ----------
@@ -14,14 +14,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  I is onwaar en II is waar. 
+The correct answer is  I is onwaar en II is waar.
 
 Meta-information
 ================
-exname: uva-inferential statistics-112-nl.Rmd 
-extype: schoice 
-exsolution: 100 
+exname: uva-inferential statistics-112-nl.Rmd
+extype: schoice
+exsolution: 100
 exsection: Inferential Statistics/NHST/Hypothesis/Null hypothesis
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

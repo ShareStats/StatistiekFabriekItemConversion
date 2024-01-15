@@ -4,7 +4,7 @@ Question
 Uit ieder van twee normaal verdeelde populaties met gelijke varianties wordt een steekproef getrokken.
 steekproef 1: n = 18, gemiddelde = 38, sd = 5.43
 steekproef 2: n = 13, gemiddelde = 46, sd = 9.04
-De gepoolde variantieschatter heeft als waarde 51.10. Er wordt getoetst of de populatiegemiddelden gelijk zijn. De waarde van de bijbehorende toetsingsgrootheid is dan 
+De gepoolde variantieschatter heeft als waarde 51.10. Er wordt getoetst of de populatiegemiddelden gelijk zijn. De waarde van de bijbehorende toetsingsgrootheid is dan
 
 Answerlist
 ----------
@@ -16,14 +16,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  3.075 
+The correct answer is  3.075
 
 Meta-information
 ================
-exname: uva-inferential statistics-599-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-inferential statistics-599-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics/Parametric Techniques/t-test/Independent samples means
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

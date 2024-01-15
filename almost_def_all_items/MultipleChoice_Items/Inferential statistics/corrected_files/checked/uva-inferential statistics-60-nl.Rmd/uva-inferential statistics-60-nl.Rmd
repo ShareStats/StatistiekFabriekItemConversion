@@ -1,7 +1,7 @@
 Question
 ========
 
-Twee onderzoekers voeren een chi-kwadraat toets op onafhankelijkheid uit op een dataset voor een 2-bij-2 tabel. Ze krijgen een P-waarde die kleiner is dan 0.05. De onderzoekers hanteren een significantieniveau van 0.05 en dus verwerpen ze de nulhypothese. Er ontstaat nu onenigheid over de conclusie. De eerste onderzoeker beweert dat met dit resultaat de conclusie moet zijn dat de twee variabelen onafhankelijk zijn, terwijl de tweede onderzoeker beweert dat de variabelen juist afhankelijk zijn. 
+Twee onderzoekers voeren een chi-kwadraat toets op onafhankelijkheid uit op een dataset voor een 2-bij-2 tabel. Ze krijgen een P-waarde die kleiner is dan 0.05. De onderzoekers hanteren een significantieniveau van 0.05 en dus verwerpen ze de nulhypothese. Er ontstaat nu onenigheid over de conclusie. De eerste onderzoeker beweert dat met dit resultaat de conclusie moet zijn dat de twee variabelen onafhankelijk zijn, terwijl de tweede onderzoeker beweert dat de variabelen juist afhankelijk zijn.
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  De eerste onderzoeker heeft ongelijk en de tweede gelijk. 
+The correct answer is  De eerste onderzoeker heeft ongelijk en de tweede gelijk.
 
 Meta-information
 ================
-exname: uva-inferential statistics-60-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-inferential statistics-60-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics/NHST/Test statistic/Chi-squared
 exextra[Type]: Conceptual
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy 
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy

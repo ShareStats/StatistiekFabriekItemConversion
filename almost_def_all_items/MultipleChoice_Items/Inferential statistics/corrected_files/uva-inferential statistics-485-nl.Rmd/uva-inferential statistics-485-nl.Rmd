@@ -1,7 +1,7 @@
 Question
 ========
 
-Om de gelijkheid van twee populatiegemiddelden te toetsen m.b.v. twee on-afhankelijke steekproeven, waarbij de onbekende populatievarianties gelijk worden verondersteld, gebruiken we een 
+Om de gelijkheid van twee populatiegemiddelden te toetsen m.b.v. twee on-afhankelijke steekproeven, waarbij de onbekende populatievarianties gelijk worden verondersteld, gebruiken we een
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  gepoolde T-toets 
+The correct answer is  gepoolde T-toets
 
 Meta-information
 ================
-exname: uva-inferential statistics-485-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-inferential statistics-485-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics/Parametric Techniques/t-test/Independent samples means
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

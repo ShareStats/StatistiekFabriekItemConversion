@@ -1,7 +1,7 @@
 Question
 ========
 
-Een regressievergelijking heeft de vorm y = 0.3x - 2. Verder geldt sx = sy = 4. De correlatie r heeft dan de waarde 
+Een regressievergelijking heeft de vorm y = 0.3x - 2. Verder geldt sx = sy = 4. De correlatie r heeft dan de waarde
 
 Answerlist
 ----------
@@ -12,16 +12,16 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.3 
+The correct answer is  0.3
 
 Meta-information
 ================
-exname: uva-descriptive statistics-89-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-descriptive statistics-89-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Inferential Statistics/Regression/R squared
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking
 
 

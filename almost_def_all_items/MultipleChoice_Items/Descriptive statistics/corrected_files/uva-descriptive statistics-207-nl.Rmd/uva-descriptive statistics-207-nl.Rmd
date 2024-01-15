@@ -1,7 +1,7 @@
 Question
 ========
 
-In een vragenlijst komt de vraag voor "Bent u over het algemeen gelukkig?" met de antwoordmogelijkheden: ja, nee, geen mening. Dit is een voorbeeld van 
+In een vragenlijst komt de vraag voor "Bent u over het algemeen gelukkig?" met de antwoordmogelijkheden: ja, nee, geen mening. Dit is een voorbeeld van
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  ongeordend-categoriserend meten. 
+The correct answer is  ongeordend-categoriserend meten.
 
 Meta-information
 ================
-exname: uva-descriptive statistics-207-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-descriptive statistics-207-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Measurement Level/Nominal
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

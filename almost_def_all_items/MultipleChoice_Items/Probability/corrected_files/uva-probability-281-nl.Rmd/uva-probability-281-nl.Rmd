@@ -1,7 +1,7 @@
 Question
 ========
 
-Een variabele X is verdeeld volgens N (18, 42). P(X < 13) is dan gelijk aan 
+Een variabele X is verdeeld volgens N (18, 42). P(X < 13) is dan gelijk aan
 
 Answerlist
 ----------
@@ -13,14 +13,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  0.1056 
+The correct answer is  0.1056
 
 Meta-information
 ================
-exname: uva-probability-281-nl.Rmd 
-extype: schoice 
-exsolution: 010 
+exname: uva-probability-281-nl.Rmd
+extype: schoice
+exsolution: 010
 exsection: Distributions/Continuous/Normal
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking

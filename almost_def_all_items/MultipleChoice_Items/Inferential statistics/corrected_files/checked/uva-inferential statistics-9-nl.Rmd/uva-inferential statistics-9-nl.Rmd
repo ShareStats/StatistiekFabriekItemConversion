@@ -1,7 +1,7 @@
 Question
 ========
 
-Van aselecte steekproeftrekking (random sampling) is sprake wanneer 
+Van aselecte steekproeftrekking (random sampling) is sprake wanneer
 
 Answerlist
 ----------
@@ -12,14 +12,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  ieder lid van de populatie dezelfde kans heeft in de steekproef terecht te komen. 
+The correct answer is  ieder lid van de populatie dezelfde kans heeft in de steekproef terecht te komen.
 
 Meta-information
 ================
-exname: uva-inferential statistics-9-nl.Rmd 
-extype: schoice 
-exsolution: 001 
+exname: uva-inferential statistics-9-nl.Rmd
+extype: schoice
+exsolution: 001
 exsection: Inferential Statistics
 exextra[Type]: Conceptual
-exextra[Langauge]: Dutch 
+exextra[Langauge]: Dutch
 exextra[Level]: Statistical Literacy

@@ -7,7 +7,7 @@ Source of variation SS df MS F
 Between groups 27 3
 Within groups 24 12
 
-Het totaal aantal waarnemingen waarop deze ANOVA-tabel is gebaseerd is gelijk aan 
+Het totaal aantal waarnemingen waarop deze ANOVA-tabel is gebaseerd is gelijk aan
 
 Answerlist
 ----------
@@ -19,14 +19,14 @@ Answerlist
 Solution
 ========
 
-The correct answer is  16 
+The correct answer is  16
 
 Meta-information
 ================
-exname: uva-inferential statistics-495-nl.Rmd 
-extype: schoice 
-exsolution: 0001 
+exname: uva-inferential statistics-495-nl.Rmd
+extype: schoice
+exsolution: 0001
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice 
-exextra[Langauge]: Dutch 
-exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking 
+exextra[Type]: Calculation, Case, Conceptual, Creating graphs, Data manipulation, Interpretating graph, Interpretating output, Performing analysis, Test choice
+exextra[Langauge]: Dutch
+exextra[Level]: Statistical Literacy, Statistical Reasoning, Statistical Thinking
