@@ -22,11 +22,27 @@ item.type     = jsonItem$type
 item.question = jsonItem$question$content[[1]]
 item.answer   = itemResrults$correct_answer
 
+# Retrieve nl taxonomy
+
+query = "select items_tags.tag_id,
+                tags.description
+         from   items_tags,
+                tags
+         where  items_tags.item_id = %s
+         and    items_tags.tag_id = tags.id"
+
+query = sprintf(query, item.id)
+
+res     <- dbSendQuery(con, query)
+tag.ids <- dbFetch(res)
+
 exname.university = "uva-"
 exname.taxonomy   = ""
 exname.number     = item.id
 exname.langguage  = "-nl"
 exname.suffix     = ".Rmd"
+
+
 
 exname = paste0(exname.university,
                 exname.taxonomy,  
@@ -41,7 +57,6 @@ if(item.type == "MultipleChoice") {
   # item.answer starts at 0, hense +1 for use in R
   exsolution = paste0(as.numeric(1:length(item.answer.options) == as.numeric(item.answer)+1), collapse = "" )
 
-  
 }
 
 
