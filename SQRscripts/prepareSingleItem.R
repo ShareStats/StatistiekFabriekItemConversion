@@ -36,19 +36,34 @@ query = sprintf(query, item.id)
 res     <- dbSendQuery(con, query)
 tag.ids <- dbFetch(res)
 
+# Create file / path / item name
+
 exname.university = "uva-"
 exname.taxonomy   = ""
 exname.number     = item.id
 exname.langguage  = "-nl"
 exname.suffix     = ".Rmd"
 
+# Path (Still needs to be updated with taxonomy)
+exname = paste0(exname.university,
+                exname.taxonomy,  
+                exname.number,    
+                exname.langguage )
 
-
+# file name (Still needs to be updated with taxonomy)
 exname = paste0(exname.university,
                 exname.taxonomy,  
                 exname.number,    
                 exname.langguage, 
-                exname.suffix   )
+                exname.suffix )
+
+# item name (Still needs to be updated with taxonomy)
+exname = paste0(exname.university,
+                exname.taxonomy,  
+                exname.number,    
+                exname.langguage )
+
+# Create variables only for MultipleChoice item types
 
 if(item.type == "MultipleChoice") {
   
