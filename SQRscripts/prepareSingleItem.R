@@ -10,7 +10,7 @@ query = "select id,
                 answer_options,
                 correct_answer
          from   items 
-         limit  1"
+         limit  1542, 1"
 
 res <- dbSendQuery(con, query)
 itemResrults <- dbFetch(res)
@@ -35,6 +35,31 @@ query = sprintf(query, item.id)
 
 res     <- dbSendQuery(con, query)
 tag.ids <- dbFetch(res)
+
+# Select only taxonomy tags which have tag id < 156
+taxonomy <- tag.ids[which(tag.ids$tag_id<151), "description"]
+exsection.nl = paste(taxonomy, collapse = ",")
+
+# load lookup table for NL > EN taxonomy
+nl.en.lookup <- read.csv2(file = "taxonomyLookupTable.csv", header = TRUE)
+# get rid of exsection text
+nl.en.lookup$oldTax <- gsub("exsection: ", "", nl.en.lookup$oldTax)
+nl.en.lookup$newTax <- gsub("exsection: ", "", nl.en.lookup$newTax)
+# trim trailing white spaces
+nl.en.lookup$oldTax <- gsub(" $","", nl.en.lookup$oldTax)
+
+# Check if there is a match, replace exsection.nl with exsection.en
+if(!identical(which(nl.en.lookup$oldTax == exsection.nl), integer(0) ) ) {
+  
+  # Add EN taxonomy to exsection
+  exsection <- nl.en.lookup[which(nl.en.lookup$oldTax == exsection.nl), "newTax"]
+
+} else {
+  
+  # Add error message set exsection.nl
+  exsection <- paste("taxonomyError", exsection.nl)
+  
+}
 
 # Create file / path / item name
 
