@@ -9,7 +9,9 @@ dbListTables(con)
 query = "select id, 
                 question,
                 answer_options,
-                correct_answer
+                correct_answer,
+                round(rating,2) as beta, 
+                round(rating/max(rating),2) as difficultyPercentage
          from   items 
          limit  985, 1"
 
@@ -76,14 +78,14 @@ exname.number     = item.id
 exname.langguage  = "-nl"
 exname.suffix     = ".Rmd"
 
-# Path (Still needs to be updated with taxonomy)
+# item name
 exname = paste0(exname.university,
                 exname.taxonomy,
                 "-",
                 exname.number,    
                 exname.langguage )
 
-# file name (Still needs to be updated with taxonomy)
+# file name
 file.name = paste0(exname.university,
                    exname.taxonomy,
                    "-",
@@ -91,26 +93,45 @@ file.name = paste0(exname.university,
                    exname.langguage, 
                    exname.suffix )
 
-# folder name (Still needs to be updated with taxonomy)
+# folder name
 folder.name = exname
 
-#### Retrieve item level
-
+#### Retrieve item tags
 
 # Parent ids for classification range from 154 to 156
 level.nl = na.omit(tag.ids[between(tag.ids$parent_id, 154, 156), "description"])[1]
 
-# convert the three possible levels to EN
-level.nl.to.en.conversion.table <- data.frame(level.nl = c("Kennisitem",
-                                                           "Vaardigheidsitem",
-                                                           "Gemengd item (kennis & vaardigheid)" ),
-                                             level.en = c("","","")
-                                               )
+# 3 levels have been applied: "Kennisitem", "Vaardigheidsitem", "Gemengd item (kennis & vaardigheid)"
 
-#### Retrieve item type
+# Set type to vector for there can be multiple type values
+type = vector()
 
-# Determine based on answer options of answer correct
-# If answer option is numeric than assume type is caluclation
+# Applying type conceptual to all knowledge items
+if (level.nl == "Kennisitem") { type = append(type, "Conceptual", length(type)) }
+if (level.nl == "Gemengd item (kennis & vaardigheid)") { type = append(type, "Conceptual", length(type)) }
+
+# Application "Vaardigheidsitem" could be on multiple topics.
+# For example: the ability to interpret results or perform an analysis
+# Will try to assume based on queston
+
+# Assume that if the question contains the word bereken
+# with or without capital B, the question type is calculation
+if ( stringr::str_count("[bB]ereken", item.question) > 0 ) {
+  
+  type = append(type, "Calculation", length(type))
+  
+}
+
+# Queried questions for use of the word spss, 
+# all indicate output interpertation questions
+if ( stringr::str_count("spss|SPSS", item.question) > 0 ) {
+  
+  type = append(type, "Interpreting output", length(type))
+  
+}
+
+# combine multiple type tags
+type = stringr::str_c(type, collapse = ", ")
 
 #### Create variables only for MultipleChoice item types
 
@@ -120,7 +141,7 @@ if(item.type == "MultipleChoice") {
   # Create binary solution string
   # item.answer starts at 0, hense +1 for use in R
   exsolution = paste0(as.numeric(1:length(item.answer.options) == as.numeric(item.answer)+1), collapse = "" )
-
+  
 }
 
 
