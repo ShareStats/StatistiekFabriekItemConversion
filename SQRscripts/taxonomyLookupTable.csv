@@ -1,0 +1,172 @@
+oldTax;newTax
+Beschrijvende statistiek;Descriptive statistics
+Beschrijvende statistiek,Correlatie (beschrijvende stat.);Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation
+Beschrijvende statistiek,Correlatie (beschrijvende stat.),Formule;Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation
+Beschrijvende statistiek,Correlatie (beschrijvende stat.),Gestandaardiseerde variabelen;Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation
+Beschrijvende statistiek,Correlatie (beschrijvende stat.),Interpretatie r;Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation
+Beschrijvende statistiek,Correlatie (beschrijvende stat.),Invloed van extra punt;Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation
+Beschrijvende statistiek,Correlatie (beschrijvende stat.),Lineair verband (correlatie);Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation
+Beschrijvende statistiek,Correlatie (beschrijvende stat.),Pearson coefficient;Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation
+Beschrijvende statistiek,Correlatie (beschrijvende stat.),Pearson coefficient,Formule;Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation
+Beschrijvende statistiek,Correlatie (beschrijvende stat.),Schatten uit spreidingsdiagram;Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation
+Beschrijvende statistiek,Grafieken,Boxplot;Descriptive statistics/Data representation/Graphs/Boxplot
+Beschrijvende statistiek,Grafieken,Histogram;Descriptive statistics/Data representation/Graphs/Histogram
+Beschrijvende statistiek,Grafieken,Histogram,Boxplot;Descriptive statistics/Data representation/Graphs/Boxplot
+Beschrijvende statistiek,Grafieken,Keuze grafiek;Descriptive statistics/Data representation/Graphs
+Beschrijvende statistiek,Grafieken,Scheve verdeling;Descriptive statistics/Data representation/Graphs
+Beschrijvende statistiek,Grafieken,Spreidingsdiagram;Descriptive statistics/Data representation/Graphs/Scatterplot
+Beschrijvende statistiek,Grafieken,Staafdiagram;Descriptive statistics/Data representation/Graphs/Bar graph
+Beschrijvende statistiek,Grafieken,Transformaties;Descriptive statistics/Data representation/Graphs
+Beschrijvende statistiek,Kengetallen;Descriptive statistics/Summary Statistics
+Beschrijvende statistiek,Kengetallen,Gemiddelde;Descriptive statistics/Summary Statistics/Measures of Location/Mean
+Beschrijvende statistiek,Kengetallen,Gemiddelde,Mediaan;Descriptive statistics/Summary Statistics/Measures of Location/Median
+Beschrijvende statistiek,Kengetallen,Gemiddelde,Modus;Descriptive statistics/Summary Statistics/Measures of Location/Mode
+Beschrijvende statistiek,Kengetallen,Gemiddelde,Standaarddeviatie;Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
+Beschrijvende statistiek,Kengetallen,Gemiddelde,Variantie;Descriptive statistics/Summary Statistics/Measures of Spread/Variance
+Beschrijvende statistiek,Kengetallen,Grafieken,Gemiddelde,Mediaan,Boxplot;Descriptive statistics/Data representation/Graphs/Boxplot
+Beschrijvende statistiek,Kengetallen,Grafieken,Gemiddelde,Spreidingsdiagram;Descriptive statistics/Data representation/Graphs/Scatterplot
+Beschrijvende statistiek,Kengetallen,Grafieken,Gemiddelde,Staafdiagram;Descriptive statistics/Data representation/Graphs/Bar graph
+Beschrijvende statistiek,Kengetallen,Grafieken,Inter Quartile Range,Boxplot;Descriptive statistics/Summary Statistics/Measures of Spread/Interquartile Range
+Beschrijvende statistiek,Kengetallen,Grafieken,Mediaan,Inter Quartile Range,Spreidingsbreedte,Boxplot;Descriptive statistics/Summary Statistics/Measures of Spread/Interquartile Range
+Beschrijvende statistiek,Kengetallen,Grafieken,Mediaan,Staafdiagram;Descriptive statistics/Data representation/Graphs/Bar graph
+Beschrijvende statistiek,Kengetallen,Grafieken,Minimum+maximum,Spreidingsdiagram;Descriptive statistics/Summary Statistics/Measures of Spread/Range
+Beschrijvende statistiek,Kengetallen,Grafieken,Modus,Staafdiagram;Descriptive statistics/Data representation/Graphs/Bar graph
+Beschrijvende statistiek,Kengetallen,Grafieken,Spreidingsbreedte,Spreidingsdiagram;Descriptive statistics/Data representation/Graphs/Scatterplot
+Beschrijvende statistiek,Kengetallen,Grafieken,Standaarddeviatie,Boxplot;Descriptive statistics/Data representation/Graphs/Boxplot
+Beschrijvende statistiek,Kengetallen,Grafieken,Standaarddeviatie,Histogram;Descriptive statistics/Data representation/Graphs/Histogram
+Beschrijvende statistiek,Kengetallen,Locatiematen;Descriptive statistics/Summary Statistics/Measures of Location
+Beschrijvende statistiek,Kengetallen,Mediaan;Descriptive statistics/Summary Statistics/Measures of Location/Mean
+Beschrijvende statistiek,Kengetallen,Mediaan,Modus;Descriptive statistics/Summary Statistics/Measures of Location/Median
+Beschrijvende statistiek,Kengetallen,Modus;Descriptive statistics/Summary Statistics/Measures of Location/Mode
+Beschrijvende statistiek,Kengetallen,Spreidingsbreedte;Descriptive statistics/Summary Statistics/Measures of Spread
+Beschrijvende statistiek,Kengetallen,Spreidingsmaten;Descriptive statistics/Summary Statistics/Measures of Spread
+Beschrijvende statistiek,Kengetallen,Standaarddeviatie;Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
+Beschrijvende statistiek,Kengetallen,Variantie;Descriptive statistics/Summary Statistics/Measures of Spread/Variance
+Beschrijvende statistiek,Meetniveaus,Continu/discreet;Measurement Level
+Beschrijvende statistiek,Meetniveaus,Interval;Measurement Level/Interval
+Beschrijvende statistiek,Meetniveaus,Interval,Continu/discreet;Variable type
+Beschrijvende statistiek,Meetniveaus,Interval,Kwalitatief/kwantitatief;Measurement Level/Interval
+Beschrijvende statistiek,Meetniveaus,Kwalitatief/kwantitatief;Measurement Level
+Beschrijvende statistiek,Meetniveaus,Kwalitatief/kwantitatief,Continu/discreet;Variable type
+Beschrijvende statistiek,Meetniveaus,Nominaal;Measurement Level/Nominal
+Beschrijvende statistiek,Meetniveaus,Nominaal,Continu/discreet;Measurement Level/Nominal
+Beschrijvende statistiek,Meetniveaus,Ordinaal;Measurement Level/Ordinal
+Beschrijvende statistiek,Outliers,Invloed op kengetallen;Descriptive statistics/Summary Statistics/Outliers
+Beschrijvende statistiek,Regressie (beschrijvende stat.);Inferential Statistics/Regression
+Beschrijvende statistiek,Regressie (beschrijvende stat.),Formules;Inferential Statistics/Regression/Equation
+Beschrijvende statistiek,Regressie (beschrijvende stat.),Interpretatie intercept en r.c.;Inferential Statistics/Regression/Intercept
+Beschrijvende statistiek,Regressie (beschrijvende stat.),Interpretatie intercept en r.c.,Verband met corr coeff;Inferential Statistics/Regression/Intercept
+Beschrijvende statistiek,Regressie (beschrijvende stat.),Invloed van extra punt op regressie vgl.;Inferential Statistics/Regression/Simple linear regression
+Beschrijvende statistiek,Regressie (beschrijvende stat.),Populatieverdelingen;Inferential Statistics/Regression/Simple linear regression
+Beschrijvende statistiek,Regressie (beschrijvende stat.),Regressielijn;Inferential Statistics/Regression/Slope
+Beschrijvende statistiek,Regressie (beschrijvende stat.),Schatten regressievergelijking;Inferential Statistics/Regression/Equation
+Beschrijvende statistiek,Regressie (beschrijvende stat.),Verband met corr coeff;Inferential Statistics/Regression/Simple linear regression
+Beschrijvende statistiek,Regressie (beschrijvende stat.),Voorspelde Y bij gegeven X;Inferential Statistics/Regression/Simple linear regression
+Gepaarde T toets,Toetsingsgrootheid (tgh);Inferential Statistics/Parametric Techniques/t-test/Paired samples
+Inferentiële statistiek;Inferential Statistics
+Inferentiële statistiek,Anova;Inferential Statistics/Parametric Techniques/ANOVA
+Inferentiële statistiek,Anova,Oneway, ANOVA-table;Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+Inferentiële statistiek,Anova,Oneway, F-verdeling;Inferential Statistics/Parametric Techniques/ANOVA/ANOVA F-test
+Inferentiële statistiek,Anova,Twoway + interactie;Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
+Inferentiële statistiek,Correlatie (inferentiële stat.),Toets (H0: ? = 0), Tgh m.b.v. T-verdeling en p-waarde alleen via ß1;Inferential Statistics/Parametric Techniques/t-test
+Inferentiële statistiek,Dichotome data,Binomiaaltoets (Z-benadering);Inferential Statistics/Non-parametric Techniques/Binomial test
+Inferentiële statistiek,Dichotome data,Pearson's Chi-kwadraat;Inferential Statistics/NHST/Test statistic/Chi-squared
+Inferentiële statistiek,Intervalschatting;Inferential Statistics/Confidence Intervals
+Inferentiële statistiek,Intervalschatting,Betrouwbaarheidsinterval voor mu, Coverage (95%, 99%);Inferential Statistics/Confidence Intervals/Confidence level
+Inferentiële statistiek,Intervalschatting,Betrouwbaarheidsinterval voor mu, Interpretatie;Inferential Statistics/Confidence Intervals/Confidence level
+Inferentiële statistiek,Intervalschatting,Bhi voor proportie pi;Inferential Statistics/Confidence Intervals/Confidence level
+Inferentiële statistiek,Non-parametrische toetsen;Inferential Statistics/Non-parametric Techniques
+Inferentiële statistiek,Non-parametrische toetsen,Mann-Whitney / Wilcoxon Rank Sum test;Inferential Statistics/Non-parametric Techniques/Rank Sum test
+Inferentiële statistiek,Non-parametrische toetsen,Wilcoxon (Matched Pairs) Signed Rank test;Inferential Statistics/Non-parametric Techniques/Signed Rank test
+Inferentiële statistiek,Regressie (inferentiële stat.);Inferential Statistics/Regression
+Inferentiële statistiek,Regressie (inferentiële stat.),Anova,Oneway, ANOVA-table;Inferential Statistics/Regression/Sum of squares
+Inferentiële statistiek,Regressie (inferentiële stat.),Toets (H0 : ß1 = 0), Bhi en predictieinterval voor Y bij gegeven X-waarde;Inferential Statistics/Regression/Equation
+Inferentiële statistiek,Regressie (inferentiële stat.),Toets (H0 : ß1 = 0), Relatie met toets voor ? = 0.;Inferential Statistics/Regression/Simple linear regression
+Inferentiële statistiek,Regressie (inferentiële stat.),Toets (H0 : ß1 = 0), Tgh m.b.v. T-verdeling;Inferential Statistics/Regression/Simple linear regression
+Inferentiële statistiek,T-Toetsen;Inferential Statistics/Parametric Techniques/t-test
+Inferentiële statistiek,T-Toetsen,1 steekproef T-toets;Inferential Statistics/Parametric Techniques/t-test/One sample mean
+Inferentiële statistiek,T-Toetsen,Correlatie (inferentiële stat.),Toets (H0: ? = 0), Tgh m.b.v. T-verdeling en p-waarde alleen via ß1,Gepaarde T toets;Inferential Statistics/Parametric Techniques/t-test/Test for correlation
+Inferentiële statistiek,T-Toetsen,Gepaarde T toets;Inferential Statistics/Parametric Techniques/t-test/Paired samples
+Inferentiële statistiek,T-Toetsen,T toets voor 2 onafh. Steekproeven;Inferential Statistics/Parametric Techniques/t-test/Independent samples means
+Inferentiële statistiek,T-Toetsen,T-verdeling, vrijheidsgraden;Distributions/Continuous/t-distribution
+Inferentiële statistiek,Toetstheorie;Inferential Statistics
+Inferentiële statistiek,Toetstheorie,Anova,Oneway, ANOVA-table,p-waarde;Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+Inferentiële statistiek,Toetstheorie,Anova,Oneway, ANOVA-table,Statistische significantie, H0 wel/niet verwerpen, conclusie in context;Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+Inferentiële statistiek,Toetstheorie,Anova,Oneway, F-verdeling,p-waarde;Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+Inferentiële statistiek,Toetstheorie,Anova,Oneway, F-verdeling,Toetsingsgrootheid (tgh);Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+Inferentiële statistiek,Toetstheorie,Dichotome data,Binomiaaltoets (Z-benadering),Kritieke waarde / kritiek gebied;Inferential Statistics/Non-parametric Techniques/Binomial test
+"Inferentiële statistiek,Toetstheorie,Hypotheses (nul en alternatief; één- en tweezijdig)";Inferential Statistics/NHST/Hypothesis/Two sided hypothesis
+Inferentiële statistiek,Toetstheorie,Intervalschatting,Betrouwbaarheidsinterval voor mu, Interpretatie,Risico alpha of beta (fout van de eerste of tweede soort);Inferential Statistics/Confidence Intervals/Confidence level
+Inferentiële statistiek,Toetstheorie,Kansverdeling van tgh onder H0;Inferential Statistics/NHST/Hypothesis/Null hypothesis
+Inferentiële statistiek,Toetstheorie,Kritieke waarde / kritiek gebied;Inferential Statistics/NHST/Significance level/Critical value
+Inferentiële statistiek,Toetstheorie,Non-parametrische toetsen,Risico alpha of beta (fout van de eerste of tweede soort);Inferential Statistics/NHST/Statistical errors
+Inferentiële statistiek,Toetstheorie,p-waarde;Inferential Statistics/NHST/p-value
+Inferentiële statistiek,Toetstheorie,Power en steekproefomvang;Inferential Statistics/NHST/Power
+Inferentiële statistiek,Toetstheorie,Power en steekproefomvang,Kritieke waarde / kritiek gebied;Inferential Statistics/NHST/Significance level/Critical value
+Inferentiële statistiek,Toetstheorie,Power en steekproefomvang,p-waarde;Inferential Statistics/NHST/p-value
+Inferentiële statistiek,Toetstheorie,Regressie (inferentiële stat.),Toets (H0 : ß1 = 0), Tgh m.b.v. T-verdeling,p-waarde;Inferential Statistics/Regression/Coefficient t-test
+Inferentiële statistiek,Toetstheorie,Risico alpha of beta (fout van de eerste of tweede soort);Inferential Statistics/NHST/Statistical errors
+Inferentiële statistiek,Toetstheorie,Risico alpha of beta (fout van de eerste of tweede soort),Power en steekproefomvang;Inferential Statistics/NHST/Statistical errors
+Inferentiële statistiek,Toetstheorie,Statistische significantie, H0 wel/niet verwerpen, conclusie in context;Inferential Statistics/NHST/Hypothesis/Null hypothesis
+Inferentiële statistiek,Toetstheorie,T-Toetsen,Gepaarde T toets,Kritieke waarde / kritiek gebied;Inferential Statistics/Parametric Techniques/t-test/Paired samples
+Inferentiële statistiek,Toetstheorie,T-Toetsen,Gepaarde T toets,Toetsingsgrootheid (tgh);Inferential Statistics/Parametric Techniques/t-test/Paired samples
+Inferentiële statistiek,Toetstheorie,T-Toetsen,T toets voor 2 onafh. Steekproeven,Kritieke waarde / kritiek gebied;Inferential Statistics/Parametric Techniques/t-test/Independent samples means
+Inferentiële statistiek,Toetstheorie,T-Toetsen,T toets voor 2 onafh. Steekproeven,Toetsingsgrootheid (tgh);Inferential Statistics/Parametric Techniques/t-test/Independent samples means
+Inferentiële statistiek,Toetstheorie,Toetsingsgrootheid (tgh);Inferential Statistics/Parametric Techniques/t-test
+Inferentiële statistiek,Toetstheorie,Z-toets,(normaal verdeeld, mu onbekend, sigma bekend),Kritieke waarde / kritiek gebied;Inferential Statistics/Parametric Techniques/z-test
+Inferentiële statistiek,Toetstheorie,Z-toets,(normaal verdeeld, mu onbekend, sigma bekend),Toetsingsgrootheid (tgh);Inferential Statistics/Parametric Techniques/z-test
+Inferentiële statistiek,Z-toets,(normaal verdeeld, mu onbekend, sigma bekend);Inferential Statistics/Parametric Techniques/z-test
+Kansdefinities,Klassieke kansdefinitie;Probability/Elementary Probability
+Kansdefinities,Uitkomstenruimte (even waarschijnlijke uitkomsten);Probability/Elementary Probability/Sample Space
+Kansrekening;Probability
+Kansrekening,Kansdefinities,Gebeurtenis;Probability/Elementary Probability/Events
+Kansrekening,Kansdefinities,Kansrekening (ond.),Complementregel,Klassieke kansdefinitie;Probability/Elementary Probability/General Rules
+Kansrekening,Kansdefinities,Kansrekening (ond.),Productregel,Klassieke kansdefinitie;Probability/Elementary Probability/General Rules/Multiplication rule
+Kansrekening,Kansdefinities,Kansrekening (ond.),Productregel,Onafhankelijkheid van twee of meer gebeurtenissen;Probability/Elementary Probability/General Rules/Independent events
+Kansrekening,Kansdefinities,Kansrekening (ond.),Productregel,Relatieve frequentie kansdefinitie;Probability/Elementary Probability/General Rules/Multiplication rule
+Kansrekening,Kansdefinities,Kansrekening (ond.),Productregel,Uitkomstenruimte (even waarschijnlijke uitkomsten);Probability/Elementary Probability/General Rules/Multiplication rule
+Kansrekening,Kansdefinities,Kansrekening (ond.),Somregel,Onafhankelijkheid van twee of meer gebeurtenissen;Probability/Elementary Probability/General Rules/Addition rule
+Kansrekening,Kansdefinities,Kansrekening (ond.),Somregel,Relatieve frequentie kansdefinitie;Probability/Elementary Probability/General Rules/Addition rule
+Kansrekening,Kansdefinities,Kansverdeling,Binomiale verdeling,Klassieke kansdefinitie;Distributions/Discrete/Binomial
+Kansrekening,Kansdefinities,Kansverdeling,Normale verdeling,Onafhankelijkheid van twee of meer gebeurtenissen;Probability/Elementary Probability/General Rules/Independent events
+Kansrekening,Kansdefinities,Kansverdeling,Uniforme verdeling,Relatieve frequentie kansdefinitie;Distributions/Continuous/Uniform
+Kansrekening,Kansdefinities,Kansverdeling,Voorwaardelijke kansen,Klassieke kansdefinitie;Probability/Elementary Probability/Conditional probability
+Kansrekening,Kansdefinities,Kansverdeling,Voorwaardelijke kansen,Onafhankelijkheid van twee of meer gebeurtenissen;Probability/Elementary Probability/Conditional probability
+Kansrekening,Kansdefinities,Klassieke kansdefinitie;Probability/Elementary Probability
+Kansrekening,Kansdefinities,Klassieke kansdefinitie,Gebeurtenis;Probability/Elementary Probability/Events
+Kansrekening,Kansdefinities,Klassieke kansdefinitie,Onafhankelijkheid van twee of meer gebeurtenissen;Probability/Elementary Probability/General Rules/Independent events
+Kansrekening,Kansdefinities,Klassieke kansdefinitie,Uitkomstenruimte (even waarschijnlijke uitkomsten);Probability/Elementary Probability/Sample Space
+Kansrekening,Kansdefinities,Onafhankelijkheid van twee of meer gebeurtenissen;Probability/Elementary Probability/General Rules/Independent events
+Kansrekening,Kansdefinities,Relatieve frequentie kansdefinitie;Probability/Elementary Probability
+Kansrekening,Kansdefinities,Relatieve frequentie kansdefinitie,Uitkomstenruimte (even waarschijnlijke uitkomsten);Probability/Elementary Probability/Sample Space
+Kansrekening,Kansdefinities,Uitkomstenruimte (even waarschijnlijke uitkomsten);Probability/Elementary Probability/Sample Space
+Kansrekening,Kansdefinities,Uitkomstenruimte (even waarschijnlijke uitkomsten),Onafhankelijkheid van twee of meer gebeurtenissen;Probability/Elementary Probability/Sample Space
+Kansrekening,Kansrekening (ond.),Complementregel;Probability/Elementary Probability/General Rules
+Kansrekening,Kansrekening (ond.),Complementregel,Productregel;Probability/Elementary Probability/General Rules/Multiplication rule
+Kansrekening,Kansrekening (ond.),Complementregel,Somregel;Probability/Elementary Probability/General Rules/Addition rule
+Kansrekening,Kansrekening (ond.),Complementregel,Somregel,Productregel;Probability/Elementary Probability/General Rules/Addition rule
+Kansrekening,Kansrekening (ond.),Continue stochastische variabelen;Probability/Elementary Probability/Random variables
+Kansrekening,Kansrekening (ond.),Discrete stochastische variabelen (elementair begrip);Probability/Elementary Probability/Random variables
+Kansrekening,Kansrekening (ond.),Discrete stochastische variabelen (elementair begrip),Continue stochastische variabelen;Probability/Elementary Probability/Random variables
+Kansrekening,Kansrekening (ond.),Kansverdeling,Kansverdeling steekproefgemiddelde (onafhankelijke steekproef uit verdeling);Probability/Elementary Probability/Random variables/Random sample
+Kansrekening,Kansrekening (ond.),Kansverdeling,Kansverdeling steekproefgemiddelde (onafhankelijke steekproef uit verdeling),Continue stochastische variabelen;Probability/Elementary Probability/Random variables/Random sample
+Kansrekening,Kansrekening (ond.),Kansverdeling,Kansverdeling steekproefgemiddelde (onafhankelijke steekproef uit verdeling),Discrete stochastische variabelen (elementair begrip);Probability/Elementary Probability/Random variables/Random sample
+Kansrekening,Kansrekening (ond.),Kansverdeling,Normale verdeling,Productregel;Probability/Elementary Probability/General Rules/Multiplication rule
+Kansrekening,Kansrekening (ond.),Kansverdeling,Voorwaardelijke kansen,Productregel;Probability/Elementary Probability/General Rules/Multiplication rule
+Kansrekening,Kansrekening (ond.),Opstelregel;Probability/Elementary Probability/Random variables/Rules for expected values
+Kansrekening,Kansrekening (ond.),Optelregel voor kans op vereniging van twee gebeurtenissen (algemeen);Probability/Elementary Probability/Random variables/Rules for expected values
+Kansrekening,Kansrekening (ond.),Productregel;Probability/Elementary Probability/General Rules/Multiplication rule
+Kansrekening,Kansrekening (ond.),Somregel;Probability/Elementary Probability/General Rules/Addition rule
+Kansrekening,Kansrekening (ond.),Somregel,Productregel;Probability/Elementary Probability/General Rules/Multiplication rule
+Kansrekening,Kansverdeling,Binomiale verdeling;Distributions/Discrete/Binomial
+Kansrekening,Kansverdeling,Centrale limietstelling;Distributions/Limit Theorems/Central Limit Theorem
+Kansrekening,Kansverdeling,Kansverdeling steekproefgemiddelde (onafhankelijke steekproef uit verdeling);Inferential Statistics/Sampling Distributions/Sample mean
+Kansrekening,Kansverdeling,Normale benadering binomiale verdeling (niet: continuïteitscorrectie);Distributions/Discrete/Normal approximation to Binomial
+Kansrekening,Kansverdeling,Normale verdeling;Distributions/Continuous/Normal
+Kansrekening,Kansverdeling,Normale verdeling,Kansverdeling steekproefgemiddelde (onafhankelijke steekproef uit verdeling);Distributions/Continuous/Normal
+Kansrekening,Kansverdeling,Normale verdeling,Normale benadering binomiale verdeling (niet: continuïteitscorrectie);Distributions/Continuous/Normal
+Kansrekening,Kansverdeling,Stelling van Bayes;Inferential Statistics/Bayesian Statistics
+Kansrekening,Kansverdeling,Uniforme verdeling;Distributions/Continuous/Uniform
+"Kansrekening,Kansverdeling,Variantie van (discrete) toevalsvariabele; regels voor varianties; SD";Probability/Elementary Probability/Random variables/Variance
+"Kansrekening,Kansverdeling,Verwachtingswaarde van (discrete) toevalvariabele; regels voor verwachtingswaarden";Probability/Elementary Probability/Random variables/Expected value
+Kansrekening,Kansverdeling,Voorwaardelijke kansen;Probability/Elementary Probability/Conditional probability

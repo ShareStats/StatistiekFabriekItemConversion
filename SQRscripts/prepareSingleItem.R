@@ -10,7 +10,7 @@ query = "select id,
                 answer_options,
                 correct_answer
          from   items 
-         limit  1542, 1"
+         limit  985, 1"
 
 res <- dbSendQuery(con, query)
 itemResrults <- dbFetch(res)
@@ -25,7 +25,8 @@ item.answer   = itemResrults$correct_answer
 # Retrieve nl taxonomy
 
 query = "select items_tags.tag_id,
-                tags.description
+                tags.description,
+                parent_id
          from   items_tags,
                 tags
          where  items_tags.item_id = %s
@@ -41,7 +42,7 @@ taxonomy <- tag.ids[which(tag.ids$tag_id<151), "description"]
 exsection.nl = paste(taxonomy, collapse = ",")
 
 # load lookup table for NL > EN taxonomy
-nl.en.lookup <- read.csv2(file = "taxonomyLookupTable.csv", header = TRUE)
+nl.en.lookup <- read.csv2(file = "SQRscripts/taxonomyLookupTable.csv", header = TRUE)
 # get rid of exsection text
 nl.en.lookup$oldTax <- gsub("exsection: ", "", nl.en.lookup$oldTax)
 nl.en.lookup$newTax <- gsub("exsection: ", "", nl.en.lookup$newTax)
@@ -49,7 +50,7 @@ nl.en.lookup$newTax <- gsub("exsection: ", "", nl.en.lookup$newTax)
 nl.en.lookup$oldTax <- gsub(" $","", nl.en.lookup$oldTax)
 
 # Check if there is a match, replace exsection.nl with exsection.en
-if(!identical(which(nl.en.lookup$oldTax == exsection.nl), integer(0) ) ) {
+if (!identical(which(nl.en.lookup$oldTax == exsection.nl), integer(0) ) ) {
   
   # Add EN taxonomy to exsection
   exsection <- nl.en.lookup[which(nl.en.lookup$oldTax == exsection.nl), "newTax"]
@@ -59,36 +60,54 @@ if(!identical(which(nl.en.lookup$oldTax == exsection.nl), integer(0) ) ) {
   # Add error message set exsection.nl
   exsection <- paste("taxonomyError", exsection.nl)
   
+  # Indicate error on item
+  print(paste("error on item:", item.id))
+  
 }
 
 # Create file / path / item name
 
 exname.university = "uva-"
-exname.taxonomy   = ""
+exname.taxonomy   = stringr::str_extract(exsection, "[a-zA-Z ]+$")      # select last taxonomy level
+exname.taxonomy   = stringr::str_replace_all(exname.taxonomy, " ", "-") # replace whitespace with underscore
+exname.taxonomy   = stringr::str_to_lower(exname.taxonomy)              # convert to small caps
 exname.number     = item.id
 exname.langguage  = "-nl"
 exname.suffix     = ".Rmd"
 
 # Path (Still needs to be updated with taxonomy)
 exname = paste0(exname.university,
-                exname.taxonomy,  
+                exname.taxonomy,
+                "-",
                 exname.number,    
                 exname.langguage )
 
 # file name (Still needs to be updated with taxonomy)
-exname = paste0(exname.university,
-                exname.taxonomy,  
-                exname.number,    
-                exname.langguage, 
-                exname.suffix )
+file.name = paste0(exname.university,
+                   exname.taxonomy,
+                   "-",
+                   exname.number,    
+                   exname.langguage, 
+                   exname.suffix )
 
-# item name (Still needs to be updated with taxonomy)
-exname = paste0(exname.university,
-                exname.taxonomy,  
-                exname.number,    
-                exname.langguage )
+# folder name (Still needs to be updated with taxonomy)
+folder.name = exname
 
-# Create variables only for MultipleChoice item types
+#### Retrieve item type
+library(dplyr)
+
+# Parent ids for classification range from 154 to 156
+level.nl = na.omit(tag.ids[between(tag.ids$parent_id, 154, 156), "description"])[1]
+
+# convert the three possible levels to EN
+level.nl.to.en.conversion.table <- data.frame(level.nl = c("Kennisitem",
+                                                           "Vaardigheidsitem",
+                                                           "Gemengd item (kennis & vaardigheid)" ),
+                                             level.en = c("","","")
+                                               )
+
+
+#### Create variables only for MultipleChoice item types
 
 if(item.type == "MultipleChoice") {
   
