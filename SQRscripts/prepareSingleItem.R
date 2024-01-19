@@ -1,5 +1,6 @@
 # install.packages("rjson")
 library("rjson")
+library("dplyr")
 
 source("SQRscripts/DBconnect.R")
 
@@ -94,7 +95,7 @@ file.name = paste0(exname.university,
 folder.name = exname
 
 #### Retrieve item type
-library(dplyr)
+
 
 # Parent ids for classification range from 154 to 156
 level.nl = na.omit(tag.ids[between(tag.ids$parent_id, 154, 156), "description"])[1]
