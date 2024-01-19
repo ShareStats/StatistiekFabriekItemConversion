@@ -94,7 +94,7 @@ file.name = paste0(exname.university,
 # folder name (Still needs to be updated with taxonomy)
 folder.name = exname
 
-#### Retrieve item type
+#### Retrieve item level
 
 
 # Parent ids for classification range from 154 to 156
@@ -107,6 +107,10 @@ level.nl.to.en.conversion.table <- data.frame(level.nl = c("Kennisitem",
                                              level.en = c("","","")
                                                )
 
+#### Retrieve item type
+
+# Determine based on answer options of answer correct
+# If answer option is numeric than assume type is caluclation
 
 #### Create variables only for MultipleChoice item types
 
