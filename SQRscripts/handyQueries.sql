@@ -56,3 +56,30 @@ from   items
 where  CHAR_LENGTH(correct_answer) > 1
 and    JSON_EXTRACT(question, "$.type") = 'MultipleChoice';
 
+
+
+/* Take a look at the open questions */
+
+select id,
+       /* JSON_EXTRACT(question, "$.question.content[0]") as question, */
+       correct_answer,
+       JSON_EXTRACT(question, "$.type") as type
+from   items
+where  JSON_EXTRACT(question, "$.type") = 'OpenString';
+
+// look at question for specific item
+
+select JSON_EXTRACT(question, "$.question.content[0]") as question,
+       answer_options,
+       correct_answer
+from   items
+where  id = 82;
+
+/* To Do replace , with . and fraction e.g. 3/4 with decimal value and % with decimal value in correct_answer*/
+
+select id,
+       correct_answer,
+       JSON_EXTRACT(question, "$.type") as type
+from   items
+where  JSON_EXTRACT(question, "$.type") = 'OpenString'
+and    correct_answer REGEXP '\\%|,|\\/';
