@@ -210,6 +210,7 @@ dbClearResult(res)
 
 image <- imageResult$data
 
+# Save blob as image file
 f = file ( "SQRscripts/Probability/uva-rules-for-expected-values-688-nl/test.png", "wb")
 writeBin(as.raw(unlist(image)), f) # Running one time produces blank images
 writeBin(as.raw(unlist(image)), f) # Second time produces correct result. No idea why!
