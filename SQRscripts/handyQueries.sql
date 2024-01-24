@@ -83,3 +83,29 @@ select id,
 from   items
 where  JSON_EXTRACT(question, "$.type") = 'OpenString'
 and    correct_answer REGEXP '\\%|,|\\/';
+
+/* look at media types */
+
+select JSON_EXTRACT(question, "$.question.mediaType") as mediaType
+from   items;
+
+
+select  item_file_source_id, 
+        name,
+from    item_files;
+
+select item_id, 
+       item_file_id 
+from   items_item_files;
+
+/* connect image file name to item id. */
+
+select a.item_id as item_id,
+       b.name as name,
+       /* b.data as data, */
+       b.mime_type as mime,
+       b.data_length as dataLength
+from   items_item_files as a,
+       item_files as b
+where  a.item_file_id = b.id
+and    a.item_id = 8;

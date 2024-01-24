@@ -97,7 +97,7 @@ UPDATE items SET correct_answer = 0 WHERE id = 1795;
 UPDATE items SET correct_answer = 0 WHERE id = 1797;
 UPDATE items SET correct_answer = 1 WHERE id = 1799;
 
-/* Checked, no more MultipleChoice items with incorrect answer */
+/* Checked, no more OpenString items with incorrect answer */
 
 /* Take a look at the open questions */
 

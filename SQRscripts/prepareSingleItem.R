@@ -10,13 +10,16 @@ query = "select id,
                 question,
                 answer_options,
                 correct_answer,
-                round(rating,2) as beta, 
-                round(rating/max(rating),2) as difficultyPercentage
-         from   items 
-         limit  985, 1"
+                round(rating,3) as beta,
+                m.maxRating,
+                round(items.rating / m.maxRating, 2) as difficultyPercentage
+         from   items, ( select max(rating) as maxRating from items ) as m
+         where  id = 688"
 
 res <- dbSendQuery(con, query)
 itemResrults <- dbFetch(res)
+
+dbClearResult(res)
 
 jsonItem <- fromJSON(itemResrults$question)
 
@@ -24,6 +27,9 @@ item.id       = itemResrults$id
 item.type     = jsonItem$type
 item.question = jsonItem$question$content[[1]]
 item.answer   = itemResrults$correct_answer
+item.beta     = itemResrults$beta
+
+item.difficultyPercentage = itemResrults$difficultyPercentage
 
 # Retrieve nl taxonomy
 
@@ -39,6 +45,8 @@ query = sprintf(query, item.id)
 
 res     <- dbSendQuery(con, query)
 tag.ids <- dbFetch(res)
+
+dbClearResult(res)
 
 # Select only taxonomy tags which have tag id < 156
 taxonomy <- tag.ids[which(tag.ids$tag_id<151), "description"]
@@ -123,15 +131,14 @@ if ( stringr::str_count("[bB]ereken", item.question) > 0 ) {
 }
 
 # Queried questions for use of the word spss, 
-# all indicate output interpertation questions
+# all indicate output interpretation questions
 if ( stringr::str_count("spss|SPSS", item.question) > 0 ) {
   
   type = append(type, "Interpreting output", length(type))
   
 }
 
-# combine multiple type tags. If no tags specified, than type sting is empty
-type = stringr::str_c(type, collapse = ", ")
+
 
 #### Create variables only for MultipleChoice item types
 
@@ -142,9 +149,75 @@ if(item.type == "MultipleChoice") {
   # item.answer starts at 0, hense +1 for use in R
   exsolution = paste0(as.numeric(1:length(item.answer.options) == as.numeric(item.answer)+1), collapse = "" )
   
+  extype = "schoice"
+  
 }
 
+#### Create variables only for open questions item types
+
+if(item.type == "OpenString") {
+  
+  # Assign item numeric correct answer
+  exsolution = as.numeric(item.answer)
+  
+  extype = "cloze"
+  
+  type = append(type, "Calculation", length(type))
+  
+}
+
+# combine multiple type tags. If no tags specified, than type sting is empty
+type = stringr::str_c(unique(type), collapse = ", ")
+
+##### Clean up question stem
+
+
+#### Create folder structure if needed
+
+# extract first taxonomy level
+taxonomyFirstNode <- stringr::str_split_1(exsection, "/")[1]
+subdir = "SQRscripts/"
+path = paste0(subdir, taxonomyFirstNode)
+
+if ( !file.exists(path) ) {
+  
+  # Create directory
+  dir.create(path)
+  
+}
+
+# Create item folder
+dir.create(paste0(path, "/", folder.name))
+
+#### Save image file if item has image
+
+query = "select a.item_id as item_id,
+                b.name as name,
+                b.data as data,
+                b.mime_type as mime,
+                b.data_length as dataLength
+         from   items_item_files as a,
+                item_files as b
+         where  a.item_file_id = b.id
+         and    a.item_id = 8"
+
+# query = "show columns from item_files"
+
+imageResult <- dbSendQuery(con, query)
+imageResult <- dbFetch(imageResult)
 
 dbClearResult(res)
 
+image <- imageResult$data
+
+f = file ( "SQRscripts/Probability/uva-rules-for-expected-values-688-nl/test.png", "wb")
+writeBin(as.raw(unlist(image)), f) # Running one time produces blank images
+writeBin(as.raw(unlist(image)), f) # Second time produces correct result. No idea why!
+
+#### Save file
+
+
+
+
+# Terminate database connection
 dbDisconnect(con)
