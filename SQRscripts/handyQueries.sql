@@ -84,6 +84,11 @@ from   items
 where  JSON_EXTRACT(question, "$.type") = 'OpenString'
 and    correct_answer REGEXP '\\%|,|\\/';
 
+select id,
+       JSON_EXTRACT(question, "$.question.content[0]") as question
+from   items
+where  JSON_EXTRACT(question, "$.question.content[0]") REGEXP 'table';
+
 /* look at media types */
 
 select JSON_EXTRACT(question, "$.question.mediaType") as mediaType
@@ -109,3 +114,13 @@ from   items_item_files as a,
        item_files as b
 where  a.item_file_id = b.id
 and    a.item_id = 8;
+
+/* Determine percentile for specific item*/
+
+select id, 
+                round(rating,3) as beta,
+                m.ranked / 1948 as difficultyPercentage
+         from   items, ( select count(rating) as ranked 
+                         from   items
+                         where  rating <= (select rating from items where id = 1000) ) as m
+         where  id = 1000;

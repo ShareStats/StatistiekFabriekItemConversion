@@ -1,6 +1,8 @@
 # install.packages("rjson")
 library("rjson")
 library("dplyr")
+library("rmarkdown")
+library("XML")
 
 source("SQRscripts/DBconnect.R")
 
@@ -13,12 +15,13 @@ query = "select id,
                 answer_options,
                 correct_answer,
                 round(rating,3) as beta,
-                m.maxRating,
-                round(items.rating / m.maxRating, 2) as difficultyPercentage
-         from   items, ( select max(rating) as maxRating from items ) as m
+                m.ranked / 1939  as difficultyPercentage
+         from   items, ( select count(rating) as ranked 
+                         from   items
+                         where  rating <= (select rating from items where id = %s) ) as m
          where  id = %s"
 
-query = sprintf(query, item.row)
+query = sprintf(query, item.row, item.row)
 res <- dbSendQuery(con, query)
 itemResrults <- dbFetch(res)
 
@@ -141,8 +144,6 @@ if ( stringr::str_count("spss|SPSS", item.question) > 0 ) {
   
 }
 
-
-
 #### Create variables only for MultipleChoice item types
 
 if(item.type == "MultipleChoice") {
@@ -153,6 +154,33 @@ if(item.type == "MultipleChoice") {
   exsolution = paste0(as.numeric(1:length(item.answer.options) == as.numeric(item.answer)+1), collapse = "" )
   
   extype = "schoice"
+
+  # Add html list element
+  item.answer.options <- paste0("<li>" ,item.answer.options, "</li>")  
+  
+  # Add unordered list element
+  item.answer.options <- c("<ul>", item.answer.options, "</ul>")
+    
+  # Save answer options as html
+  html.answer <- htmlParse(item.answer.options, asText=TRUE)
+  
+  # Create temp file
+  temp.html = "temp.html"
+  temp.rmd = "temp.Rmd"
+  
+  # Temporary save HTML
+  saveXML(html.answer, temp.html)
+  
+  # Convert temp HTML to markdown
+  pandoc_convert(temp.html, to = "markdown", output = temp.rmd)
+  
+  # Read markdown back to variable
+  answer.md <- readLines(temp.rmd)
+  
+  answer.md <- stringr::str_replace_all(answer.md, "\\\\", "")
+  
+  # Remove temp files
+  file.remove(list.files(pattern = "temp"))
   
 }
 
@@ -163,7 +191,7 @@ if(item.type == "OpenString") {
   # Assign item numeric correct answer
   exsolution = as.numeric(item.answer)
   
-  extype = "cloze"
+  extype = "num"
   
   type = append(type, "Calculation", length(type))
   
@@ -174,6 +202,28 @@ type = stringr::str_c(unique(type), collapse = ", ")
 
 ##### Clean up question stem and answer options
 
+# Clean up all html in question
+html.question <- htmlParse(item.question, asText=TRUE)
+
+# Create temp file
+temp.html = "temp.html"
+temp.rmd  = "temp.Rmd"
+
+# Temporary save HTML
+saveXML(html.question, temp.html)
+
+# Convert temp HTML to markdown
+pandoc_convert(temp.html, to = "markdown", output = temp.rmd)
+
+question.md <- readLines(temp.rmd)
+
+question.md <- stringr::str_replace_all(question.md, "\\\\", "")
+
+# If two lines starting with * are pre ceded and followed by a white line, than make it into a list
+question.md[stringr::str_detect(question.md, "^\\*|$^")] = stringr::str_replace(question.md[stringr::str_detect(question.md, "^\\*|$^")], "(^\\*)", "* *")
+
+# Remove temp files
+file.remove(list.files(pattern = "temp"))
 
 #### Create folder structure if needed
 
@@ -248,6 +298,48 @@ include_supplement("%s", recursive = TRUE)
 
 }
 
+#### Start creating markdown file
+
+sink(paste0(path,"/",folder.name,"/",file.name))
+if(image) { cat(image.include) 
+            cat("\n\n") }
+cat("Question\n========\n\n")
+cat(question.md, sep = "\n")
+cat("\n\n")
+if(image) { cat(image.md)
+            cat("\n\n") }
+if(item.type == "MultipleChoice") { cat("Answerlist\n----------\n\n")
+                                    cat(answer.md, sep = "\n")
+                                    cat("\n") }
+cat("Solution\n========\n\n")
+cat("The correct answer is: ")
+if (item.type == "MultipleChoice") { cat("\n\n")
+                                     cat(answer.md[as.numeric(item.answer)+1]) 
+                                   } else { cat(exsolution) }
+cat("\n\n")
+cat("Meta-information\n================\n")
+cat("exname: ") 
+cat(exname)
+cat("\n")
+cat("extype: ") 
+cat(extype)
+cat("\n")
+cat("exsolution: ") 
+cat(exsolution)
+cat("\n")
+cat("exsection: ") 
+cat(exsection)
+cat("\n")
+cat("exextra[Type]: ") 
+cat(type)
+cat("\n")
+cat("exextra[Beta]: ") 
+cat(item.beta)
+cat("\n")
+cat("exextra[Difficulty]: ") 
+cat(item.difficultyPercentage)
+cat("\n")
+sink()
 
 # Terminate database connection
 dbDisconnect(con)
