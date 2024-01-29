@@ -6,6 +6,8 @@ source("SQRscripts/DBconnect.R")
 
 dbListTables(con)
 
+item.row = 8
+
 query = "select id, 
                 question,
                 answer_options,
@@ -14,8 +16,9 @@ query = "select id,
                 m.maxRating,
                 round(items.rating / m.maxRating, 2) as difficultyPercentage
          from   items, ( select max(rating) as maxRating from items ) as m
-         where  id = 688"
+         where  id = %s"
 
+query = sprintf(query, item.row)
 res <- dbSendQuery(con, query)
 itemResrults <- dbFetch(res)
 
@@ -169,7 +172,7 @@ if(item.type == "OpenString") {
 # combine multiple type tags. If no tags specified, than type sting is empty
 type = stringr::str_c(unique(type), collapse = ", ")
 
-##### Clean up question stem
+##### Clean up question stem and answer options
 
 
 #### Create folder structure if needed
@@ -199,7 +202,8 @@ query = "select a.item_id as item_id,
          from   items_item_files as a,
                 item_files as b
          where  a.item_file_id = b.id
-         and    a.item_id = 8"
+         and    a.item_id = %s"
+query = sprintf(query, item.row)
 
 # query = "show columns from item_files"
 
@@ -208,16 +212,41 @@ imageResult <- dbFetch(imageResult)
 
 dbClearResult(res)
 
-image <- imageResult$data
+# Set image to TRUE of FALSE based on the query result
+image = !is.na(imageResult[1,1])
 
-# Save blob as image file
-f = file ( "SQRscripts/Probability/uva-rules-for-expected-values-688-nl/test.png", "wb")
-writeBin(as.raw(unlist(image)), f) # Running one time produces blank images
-writeBin(as.raw(unlist(image)), f) # Second time produces correct result. No idea why!
+# If there is an image
+if (image) {
 
-#### Save file
+  # Determine image file extention
+  image.file.extention = stringr::str_split_1(string = imageResult$mime, pattern = "/")[2]
+  
+  # Set image file name
+  image.file.name = paste0(exname,image.indication = "-graph01.",image.file.extention)
+  
+  # File save path name
+  image.file.save = paste0(path, "/", folder.name, "/", image.file.name)
+  
+  imageHEX <- imageResult$data
+  
+  # Save blob as image file
+  f = file ( image.file.save, "wb")
+  writeBin(as.raw(unlist(imageHEX)), f) # Running one time produces blank images
+  writeBin(as.raw(unlist(imageHEX)), f) # Second time produces correct result. No idea why!
+  
+  # Set include text
+  image.include = '```{r, echo = FALSE, results = "hide"}
+include_supplement("%s", recursive = TRUE)
+```'
+  
+  # Check in final file if new lines are working
+  image.include = sprintf(image.include, image.file.name)
+  
+  # Set markdown image include string
+  image.md = "![image](%s)"
+  image.md = sprintf(image.md, image.file.name)
 
-
+}
 
 
 # Terminate database connection
