@@ -8,7 +8,7 @@ source("SQRscripts/DBconnect.R")
 
 dbListTables(con)
 
-item.row = 8
+item.row = 1900
 
 query = "select id, 
                 question,
@@ -164,23 +164,25 @@ if(item.type == "MultipleChoice") {
   # Save answer options as html
   html.answer <- htmlParse(item.answer.options, asText=TRUE)
   
-  # Create temp file
-  temp.html = "temp.html"
-  temp.rmd = "temp.Rmd"
+  answer.md <- paste("*", readHTMLList(html.answer)[[1]] )
   
-  # Temporary save HTML
-  saveXML(html.answer, temp.html)
-  
-  # Convert temp HTML to markdown
-  pandoc_convert(temp.html, to = "markdown", output = temp.rmd)
-  
-  # Read markdown back to variable
-  answer.md <- readLines(temp.rmd)
-  
-  answer.md <- stringr::str_replace_all(answer.md, "\\\\", "")
-  
-  # Remove temp files
-  file.remove(list.files(pattern = "temp"))
+  # # Create temp file
+  # temp.html = "temp.html"
+  # temp.rmd  = "temp.Rmd"
+  # 
+  # # Temporary save HTML
+  # saveXML(html.answer, temp.html)
+  # 
+  # # Convert temp HTML to markdown
+  # pandoc_convert(temp.html, to = "markdown", output = temp.rmd)
+  # 
+  # # Read markdown back to variable
+  # answer.md <- readLines(temp.rmd)
+  # 
+  # answer.md <- stringr::str_replace_all(answer.md, "\\\\", "")
+  # 
+  # # Remove temp files
+  # file.remove(list.files(pattern = "temp"))
   
 }
 
@@ -293,7 +295,7 @@ include_supplement("%s", recursive = TRUE)
   image.include = sprintf(image.include, image.file.name)
   
   # Set markdown image include string
-  image.md = "![image](%s)"
+  image.md = "![](%s)"
   image.md = sprintf(image.md, image.file.name)
 
 }
@@ -312,7 +314,7 @@ if(item.type == "MultipleChoice") { cat("Answerlist\n----------\n\n")
                                     cat(answer.md, sep = "\n")
                                     cat("\n") }
 cat("Solution\n========\n\n")
-cat("The correct answer is: ")
+cat("Het correcte antwoord is: ")
 if (item.type == "MultipleChoice") { cat("\n\n")
                                      cat(answer.md[as.numeric(item.answer)+1]) 
                                    } else { cat(exsolution) }
@@ -336,7 +338,7 @@ cat("\n")
 cat("exextra[Beta]: ") 
 cat(item.beta)
 cat("\n")
-cat("exextra[Difficulty]: ") 
+cat("exextra[DifficultyPercentage]: ") 
 cat(item.difficultyPercentage)
 cat("\n")
 sink()
