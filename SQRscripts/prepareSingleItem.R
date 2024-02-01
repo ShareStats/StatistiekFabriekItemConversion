@@ -130,7 +130,7 @@ if (level.nl == "Gemengd item (kennis & vaardigheid)") { type = append(type, "Co
 
 # Assume that if the question contains the word bereken
 # with or without capital B, the question type is calculation
-if ( stringr::str_count("[bB]ereken", item.question) > 0 ) {
+if ( stringr::str_detect(item.question, "[bB]ereken") ) {
   
   type = append(type, "Calculation", length(type))
   
@@ -138,7 +138,7 @@ if ( stringr::str_count("[bB]ereken", item.question) > 0 ) {
 
 # Queried questions for use of the word spss, 
 # all indicate output interpretation questions
-if ( stringr::str_count("spss|SPSS", item.question) > 0 ) {
+if ( stringr::str_detect(item.question, "spss|SPSS") ) {
   
   type = append(type, "Interpreting output", length(type))
   
@@ -214,14 +214,28 @@ temp.rmd  = "temp.Rmd"
 # Temporary save HTML
 saveXML(html.question, temp.html)
 
+
 # Convert temp HTML to markdown
 pandoc_convert(temp.html, to = "markdown", output = temp.rmd)
 
 question.md <- readLines(temp.rmd)
 
+# replace \[ and \] by $ as markdown latex indicator
+question.md <- stringr::str_replace_all(question.md, "\\[|\\]", "$")
+
+# remove \\ line break charectars
 question.md <- stringr::str_replace_all(question.md, "\\\\", "")
 
-# If two lines starting with * are pre ceded and followed by a white line, than make it into a list
+# return \ for latex operators
+question.md <- stringr::str_replace_all(question.md, "(hat)", "\\\\\\1")
+question.md <- stringr::str_replace_all(question.md, "(bar)", "\\\\\\1")
+
+# question.md <- cat(question.md, "\n")
+
+
+# stringr::str_extract(question.md, "[a-zA-Z]*\\{[a-zA-Z0-9]*\\}")
+
+# If two new lines starting with * are preceded and followed by a white line, than make it into a list
 question.md[stringr::str_detect(question.md, "^\\*|$^")] = stringr::str_replace(question.md[stringr::str_detect(question.md, "^\\*|$^")], "(^\\*)", "* *")
 
 # Remove temp files
