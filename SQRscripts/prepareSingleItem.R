@@ -209,22 +209,32 @@ html.question <- htmlParse(item.question, asText=TRUE)
 
 # Create temp file
 temp.html = "temp.html"
-temp.rmd  = "temp.Rmd"
+temp.rmd  = "temp.txt"
 
 # Temporary save HTML
 saveXML(html.question, temp.html)
 
 
+
 # Convert temp HTML to markdown
 pandoc_convert(temp.html, to = "markdown", output = temp.rmd)
 
+# install.packages("readtext")
+# library("readtext")
+# 
+# question.md <- readtext(temp.rmd)
+# question.md <- question.md$text
+
 question.md <- readLines(temp.rmd)
 
+# Get rid of incorrect backslashes prefix on onderscores
+question.md <- stringr::str_replace_all(question.md, "\\\\_", "_")
+
 # replace \[ and \] by $ as markdown latex indicator
-question.md <- stringr::str_replace_all(question.md, "\\[|\\]", "$")
+question.md <- stringr::str_replace_all(question.md, "\\\\\\\\\\\\\\[|\\\\\\\\\\\\\\]", "$")
 
 # remove \\ line break charectars
-question.md <- stringr::str_replace_all(question.md, "\\\\", "")
+question.md <- stringr::str_replace_all(question.md, "\\\\\\\\", "\\\\")
 
 # return \ for latex operators
 question.md <- stringr::str_replace_all(question.md, "(hat)", "\\\\\\1")
