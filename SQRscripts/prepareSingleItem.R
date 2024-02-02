@@ -149,6 +149,7 @@ if ( stringr::str_detect(item.question, "spss|SPSS") ) {
 if(item.type == "MultipleChoice") {
   
   item.answer.options = fromJSON(itemResrults$answer_options)
+  numeric.answer <- as.numeric(item.answer.options)
   # Create binary solution string
   # item.answer starts at 0, hense +1 for use in R
   exsolution = paste0(as.numeric(1:length(item.answer.options) == as.numeric(item.answer)+1), collapse = "" )
@@ -166,23 +167,12 @@ if(item.type == "MultipleChoice") {
   
   answer.md <- paste("*", readHTMLList(html.answer)[[1]] )
   
-  # # Create temp file
-  # temp.html = "temp.html"
-  # temp.rmd  = "temp.Rmd"
-  # 
-  # # Temporary save HTML
-  # saveXML(html.answer, temp.html)
-  # 
-  # # Convert temp HTML to markdown
-  # pandoc_convert(temp.html, to = "markdown", output = temp.rmd)
-  # 
-  # # Read markdown back to variable
-  # answer.md <- readLines(temp.rmd)
-  # 
-  # answer.md <- stringr::str_replace_all(answer.md, "\\\\", "")
-  # 
-  # # Remove temp files
-  # file.remove(list.files(pattern = "temp"))
+  # If only numaric answer options classify as type calculation
+  if ( is.numeric(numeric.answer) ) {
+    
+    type = append(type, "Calculation", length(type))
+    
+  }
   
 }
 
@@ -209,23 +199,16 @@ html.question <- htmlParse(item.question, asText=TRUE)
 
 # Create temp file
 temp.html = "temp.html"
-temp.rmd  = "temp.txt"
+temp.md  = "temp.md"
 
 # Temporary save HTML
 saveXML(html.question, temp.html)
 
-
-
 # Convert temp HTML to markdown
-pandoc_convert(temp.html, to = "markdown", output = temp.rmd)
+pandoc_convert(temp.html, to = "markdown", output = temp.md)
 
-# install.packages("readtext")
-# library("readtext")
-# 
-# question.md <- readtext(temp.rmd)
-# question.md <- question.md$text
-
-question.md <- readLines(temp.rmd)
+# read md document back in
+question.md <- readLines(temp.md)
 
 # Get rid of incorrect backslashes prefix on onderscores
 question.md <- stringr::str_replace_all(question.md, "\\\\_", "_")
