@@ -8,7 +8,18 @@ source("SQRscripts/DBconnect.R")
 
 dbListTables(con)
 
-item.row = 1900
+number.of.items.in.itembank = 1939
+
+# Create log file
+file = "log.txt"
+writeLines("Items created", file)
+
+# Pick up after crash or other error. Check log.txt to see where left of.
+start.at = 17
+
+for ( i in start.at:number.of.items.in.itembank) {
+
+item.row = i
 
 query = "select id, 
                 question,
@@ -333,6 +344,10 @@ cat("\n")
 cat("exextra[Type]: ") 
 cat(type)
 cat("\n")
+cat("exextra[Language]: Dutch") 
+cat("\n")
+cat("exextra[Level]: Statistical Literacy")
+cat("\n")
 cat("exextra[IRT-Difficulty]: ") 
 cat(item.beta)
 cat("\n")
@@ -340,6 +355,12 @@ cat("exextra[p-value]: ")
 cat(1-item.difficultyPercentage)
 cat("\n")
 sink()
+
+write(exname, file, append = TRUE)
+
+Sys.sleep(2)
+
+}
 
 # Terminate database connection
 dbDisconnect(con)

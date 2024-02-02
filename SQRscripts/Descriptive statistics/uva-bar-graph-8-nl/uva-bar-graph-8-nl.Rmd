@@ -6,8 +6,8 @@ Question
 ========
 
 Bekijk onderstaande *bar charts*. In de *bar charts* worden de
-conditionele proporties weergegeven van de variabelen 'blond' (ja of
-nee) en 'bril dragen' (ja of nee). Beoordeel of het waarschijnlijk is
+conditionele proporties weergegeven van de variabelen \'blond\' (ja of
+nee) en \'bril dragen\' (ja of nee). Beoordeel of het waarschijnlijk is
 dat er een associatie is tussen deze variabelen.
 
 
@@ -23,7 +23,7 @@ Answerlist
 Solution
 ========
 
-The correct answer is: 
+Het correcte antwoord is: 
 
 * Er is geen aanleiding om te denken dat er een associatie is want de conditionele proporties van 'blond' zijn het zelfde voor 'bril dragen' als voor 'geen bril dragen'.
 
@@ -33,6 +33,8 @@ exname: uva-bar-graph-8-nl
 extype: schoice
 exsolution: 010
 exsection: Descriptive statistics/Data representation/Graphs/Bar graph
-exextra[Type]: Conceptual
-exextra[Beta]: -3.444
-exextra[Difficulty]: 0.0186
+exextra[Type]: Conceptual, Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: -3.444
+exextra[p-value]: 0.9814
