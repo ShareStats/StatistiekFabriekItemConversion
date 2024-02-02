@@ -22,7 +22,7 @@ file = "log.txt"
 # writeLines("Items created", file)
 
 # Pick up after crash or other error. Check log.txt to see where left of.
-start.at = 110
+start.at = 1092
 item.ids[start.at, 'id']
 
 for ( i in start.at:number.of.items.in.itembank) {
