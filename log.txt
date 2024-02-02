@@ -1,47 +1,48 @@
 Items created
-uva-sample-space-17-nl
-uva-inferential-statistics-18-nl
-uva-inferential-statistics-19-nl
-uva-mean-20-nl
-uva-inferential-statistics-21-nl
-uva-inferential-statistics-22-nl
-uva-measures-of-location-23-nl
-uva-inferential-statistics-24-nl
-uva-inferential-statistics-25-nl
-uva-measures-of-location-26-nl
-uva-standard-deviation-27-nl
-uva-value-28-nl
-uva-measures-of-spread-29-nl
-uva-confidence-intervals-30-nl
-uva-twoway-anova-31-nl
-uva-inferential-statistics-32-nl
-uva-inferential-statistics-33-nl
-uva-measures-of-location-34-nl
-uva-sample-mean-35-nl
-uva-inferential-statistics-36-nl
-uva-inferential-statistics-37-nl
-uva-rules-for-expected-values-38-nl
-uva-inferential-statistics-39-nl
-uva-twoway-anova-40-nl
-uva-simple-linear-regression-41-nl
-uva-inferential-statistics-42-nl
-uva-inferential-statistics-43-nl
-uva-squared-44-nl
-uva-independent-samples-means-45-nl
-uva-measures-of-location-46-nl
-uva-value-47-nl
-uva-squared-48-nl
-uva-binomial-test-49-nl
-uva-equation-50-nl
-uva-correlation-51-nl
-uva-regression-52-nl
-uva-value-53-nl
-uva-squared-54-nl
-uva-statistical-errors-55-nl
-uva-measures-of-location-56-nl
-uva-regression-57-nl
-uva-inferential-statistics-58-nl
-uva-one-sample-mean-59-nl
-uva-squared-60-nl
-uva-inferential-statistics-61-nl
-uva-signed-rank-test-62-nl
+63 uva-mean-64-nl
+64 uva-twoway-anova-65-nl
+65 uva-inferential-statistics-66-nl
+66 uva-twoway-anova-67-nl
+67 uva-inferential-statistics-68-nl
+68 uva-mean-69-nl
+69 uva-twoway-anova-70-nl
+70 uva-inferential-statistics-71-nl
+71 uva-sum-of-squares-73-nl
+72 uva-twoway-anova-74-nl
+73 uva-twoway-anova-75-nl
+74 uva-rank-sum-test-77-nl
+75 uva-anova-79-nl
+76 uva-oneway-anova-80-nl
+77 uva-measures-of-spread-81-nl
+78 uva-independent-events-82-nl
+79 uva-outliers-83-nl
+80 uva-inferential-statistics-84-nl
+81 uva-rules-for-expected-values-85-nl
+82 uva-nominal-87-nl
+83 uva-random-variables-88-nl
+84 uva-equation-89-nl
+85 uva-measures-of-location-90-nl
+86 uva-simple-linear-regression-91-nl
+87 uva-inferential-statistics-92-nl
+88 uva-two-sided-hypothesis-93-nl
+89 uva-statistical-errors-94-nl
+90 uva-squared-95-nl
+91 uva-test-96-nl
+92 uva-oneway-anova-97-nl
+93 uva-signed-rank-test-98-nl
+94 uva-simple-linear-regression-99-nl
+95 uva-twoway-anova-100-nl
+96 uva-independent-samples-means-101-nl
+97 uva-test-102-nl
+98 uva-one-sample-mean-103-nl
+99 uva-confidence-level-104-nl
+100 uva-parametric-techniques-105-nl
+101 uva-equation-106-nl
+102 uva-twoway-anova-107-nl
+103 uva-statistical-errors-108-nl
+104 uva-test-109-nl
+105 uva-measurement-level-110-nl
+106 uva-measures-of-location-111-nl
+107 uva-statistical-errors-112-nl
+108 uva-inferential-statistics-113-nl
+109 uva-oneway-anova-114-nl

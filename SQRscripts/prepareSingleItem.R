@@ -10,16 +10,22 @@ dbListTables(con)
 
 number.of.items.in.itembank = 1939
 
+# Get all item ids from mysql
+query = "select id from items order by id"
+res <- dbSendQuery(con, query)
+item.ids <- dbFetch(res)
+
 # Create log file
-file = "log.txt"
-writeLines("Items created", file)
+# file = "log.txt"
+# writeLines("Items created", file)
 
 # Pick up after crash or other error. Check log.txt to see where left of.
-start.at = 17
+start.at = 110
+item.ids[start.at, 'id']
 
 for ( i in start.at:number.of.items.in.itembank) {
 
-item.row = i
+item.row = item.ids[i, 'id']
 
 query = "select id, 
                 question,
@@ -356,9 +362,9 @@ cat(1-item.difficultyPercentage)
 cat("\n")
 sink()
 
-write(exname, file, append = TRUE)
+write(paste(i, exname), file, append = TRUE)
 
-Sys.sleep(2)
+Sys.sleep(1)
 
 }
 
