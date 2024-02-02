@@ -27,5 +27,5 @@ extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/Regression/Equation
 exextra[Type]: Conceptual, Calculation
-exextra[Beta]: 3.522
-exextra[DifficultyPercentage]: 0.8025
+exextra[IRT-Difficulty]: 3.522
+exextra[p-value]: 0.1975
