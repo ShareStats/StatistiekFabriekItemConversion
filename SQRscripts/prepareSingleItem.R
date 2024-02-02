@@ -236,15 +236,6 @@ question.md <- stringr::str_replace_all(question.md, "\\\\\\\\\\\\\\[|\\\\\\\\\\
 # remove \\ line break charectars
 question.md <- stringr::str_replace_all(question.md, "\\\\\\\\", "\\\\")
 
-# return \ for latex operators
-question.md <- stringr::str_replace_all(question.md, "(hat)", "\\\\\\1")
-question.md <- stringr::str_replace_all(question.md, "(bar)", "\\\\\\1")
-
-# question.md <- cat(question.md, "\n")
-
-
-# stringr::str_extract(question.md, "[a-zA-Z]*\\{[a-zA-Z0-9]*\\}")
-
 # If two new lines starting with * are preceded and followed by a white line, than make it into a list
 question.md[stringr::str_detect(question.md, "^\\*|$^")] = stringr::str_replace(question.md[stringr::str_detect(question.md, "^\\*|$^")], "(^\\*)", "* *")
 
