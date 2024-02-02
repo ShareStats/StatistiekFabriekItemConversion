@@ -1,0 +1,27 @@
+Question
+========
+
+We schrijven de namen van 50 studenten op stukjes papier doen deze in
+een doos. De docent wil drie vragen laten beantwoorden door studenten
+die willkeurig worden getrokken. We pakken een naam voor elk van de drie
+vragen zonder terugleggen. Wat is dan de kans dat Marja gekozen wordt om
+de eerste vraag te beantwoorden?\
+(Geef je antwoord in de vorm van een breuk: X/Y).
+
+
+Solution
+========
+
+Het correcte antwoord is: 0.02
+
+Meta-information
+================
+exname: uva-elementary-probability-947-nl
+extype: num
+exsolution: 0.02
+exsection: Probability/Elementary Probability
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: -2.261
+exextra[p-value]: 0.9644

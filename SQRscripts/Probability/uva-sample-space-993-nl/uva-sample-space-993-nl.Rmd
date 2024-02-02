@@ -1,0 +1,33 @@
+Question
+========
+
+Een stel wil één kind krijgen, wat is dan de uitkomstenruimte voor deze
+gebeurtenis?
+
+
+Answerlist
+----------
+
+* S = {Ã©Ã©n meisje, Ã©Ã©n jongen}
+* S = {Ã©Ã©n meisje en Ã©Ã©n jongen}
+* S = {Ã©Ã©n jongen}
+* S = {Ã©Ã©n meisje}
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* S = {Ã©Ã©n meisje, Ã©Ã©n jongen}
+
+Meta-information
+================
+exname: uva-sample-space-993-nl
+extype: schoice
+exsolution: 1000
+exsection: Probability/Elementary Probability/Sample Space
+exextra[Type]: Conceptual, Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: -5.741
+exextra[p-value]: 0.9959

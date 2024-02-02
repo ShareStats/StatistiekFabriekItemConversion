@@ -1,0 +1,25 @@
+Question
+========
+
+Je werpt een zuivere dobbelsteen twee keer. Als je met de eerste worp
+een één gooit, hoe groot is dan de kans dat je bij de tweede worp ook
+een één krijgt?\
+(Geef het antwoord in de vorm van een breuk met de vorm X/Y).
+
+
+Solution
+========
+
+Het correcte antwoord is: 0.1666
+
+Meta-information
+================
+exname: uva-elementary-probability-667-nl
+extype: num
+exsolution: 0.1666
+exsection: Probability/Elementary Probability
+exextra[Type]: Conceptual, Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

@@ -1,0 +1,38 @@
+Question
+========
+
+John verkoopt fietsen. Van de commissie van 10% van de bruto-opbrengst
+die hij krijgt voor elke verkochte Gazelle zal hij € 25 verdienen, en €
+40 voor elke verkochte Batavus. Op een zonnige zaterdag in mei schat hij
+zijn verkopen van Gazelle en van Batavus als volgt in:
+
+  --------------------------- ----- ----- ----- -----
+  Verkochte Gazelle fietsen   0     1     2     3
+  Kans                        0.1   0.2   0.5   0.2
+  --------------------------- ----- ----- ----- -----
+
+  --------------------------- ----- ----- -----
+  Verkochte Batavus fietsen   0     1     2
+  Kans                        0.2   0.3   0.5
+  --------------------------- ----- ----- -----
+
+Wat is de verwachtingswaarde van de verdiensten in euro\'s van John die
+zaterdag?
+
+
+Solution
+========
+
+Het correcte antwoord is: 97
+
+Meta-information
+================
+exname: uva-expected-value-648-nl
+extype: num
+exsolution: 97
+exsection: Probability/Elementary Probability/Random variables/Expected value
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 1.966
+exextra[p-value]: 0.7834

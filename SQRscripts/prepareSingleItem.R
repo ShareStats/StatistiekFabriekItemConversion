@@ -15,8 +15,10 @@ query = "select id from items order by id"
 res <- dbSendQuery(con, query)
 item.ids <- dbFetch(res)
 
+
 # Create log file
-# file = "log.txt"
+file = "log.txt"
+# Turn of creating new file to continue appending after crash
 # writeLines("Items created", file)
 
 # Pick up after crash or other error. Check log.txt to see where left of.
@@ -131,6 +133,9 @@ folder.name = exname
 
 # Parent ids for classification range from 154 to 156
 level.nl = na.omit(tag.ids[between(tag.ids$parent_id, 154, 156), "description"])[1]
+
+# If not specified in taxonomy table then asume Kennisitem
+if ( is.na(level.nl) ) { level.nl = "Kennisitem" }
 
 # 3 levels have been applied: "Kennisitem", "Vaardigheidsitem", "Gemengd item (kennis & vaardigheid)"
 

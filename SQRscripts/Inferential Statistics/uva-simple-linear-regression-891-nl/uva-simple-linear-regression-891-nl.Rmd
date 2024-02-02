@@ -1,0 +1,35 @@
+Question
+========
+
+Bij een toets op een coÃ«fficiÃ«nt uit een multipele regressie met drie
+* *explanatory variables*, wordt de nulhypothese getoetst die stelt dat de
+coÃ«fficiÃ«nt 0 is tegen het alternatief dat de coÃ«fficiÃ«nt ongelijk
+aan 0 is. De coÃ«fficiÃ«nt is *b*~1~ = 2.3 met *se* = 0.8 en er zijn 13
+vrijheidsgraden. Dan kan de nulhypothese
+
+
+Answerlist
+----------
+
+* worden verworpen bij 0.02 maar niet bij 0.10.
+* worden verworpen bij 0.05 maar niet bij 0.02.
+* worden verworpen bij 0.02 maar niet bij 0.01.
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* worden verworpen bij 0.02 maar niet bij 0.01.
+
+Meta-information
+================
+exname: uva-simple-linear-regression-891-nl
+extype: schoice
+exsolution: 001
+exsection: Inferential Statistics/Regression/Simple linear regression
+exextra[Type]: Conceptual, Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.692
+exextra[p-value]: 0.1759
