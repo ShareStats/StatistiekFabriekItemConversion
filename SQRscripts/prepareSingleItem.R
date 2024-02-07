@@ -186,7 +186,7 @@ if(item.type == "MultipleChoice") {
   item.answer.options <- c("<ul>", item.answer.options, "</ul>")
     
   # Save answer options as html
-  html.answer <- htmlParse(item.answer.options, asText=TRUE)
+  html.answer <- htmlParse(item.answer.options, asText=TRUE, encoding = "UTF-8")
   
   answer.md <- paste("*", readHTMLList(html.answer)[[1]] )
   
@@ -218,14 +218,14 @@ type = stringr::str_c(unique(type), collapse = ", ")
 ##### Clean up question stem and answer options
 
 # Clean up all html in question
-html.question <- htmlParse(item.question, asText=TRUE)
+html.question <- htmlParse(item.question, asText=TRUE, encoding = "UTF-8")
 
 # Create temp file
 temp.html = "temp.html"
 temp.md  = "temp.md"
 
 # Temporary save HTML
-saveXML(html.question, temp.html)
+saveXML(html.question, temp.html, encoding = "UTF-8")
 
 # Convert temp HTML to markdown
 pandoc_convert(temp.html, to = "markdown", output = temp.md)
@@ -323,7 +323,9 @@ include_supplement("%s", recursive = TRUE)
 
 #### Start creating markdown file
 
-sink(paste0(path,"/",folder.name,"/",file.name))
+file.con <- file(paste0(path,"/",folder.name,"/",file.name), open = "wt", encoding = "UTF-8")
+
+sink(file.con)
 if(image) { cat(image.include) 
             cat("\n\n") }
 cat("Question\n========\n\n")

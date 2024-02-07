@@ -5,7 +5,7 @@ include_supplement("uva-bar-graph-319-nl-graph01.png", recursive = TRUE)
 Question
 ========
 
-In een beschrijvend onderzoek is bij 50 patiÃ«nten met
+In een beschrijvend onderzoek is bij 50 patiënten met
 ademhalingsmoeilijkheden gekeken naar het aantal seconden dat zij de
 adem in kunnen houden. De resultaten staan in het onderstaande histogram
 weergegeven. Het percentage mensen dat de adem meer dan 55 seconden kan
@@ -34,7 +34,7 @@ exname: uva-bar-graph-319-nl
 extype: schoice
 exsolution: 0001
 exsection: Descriptive statistics/Data representation/Graphs/Bar graph
-exextra[Type]: Conceptual, Interpreting graph
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.558
