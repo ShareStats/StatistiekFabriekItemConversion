@@ -4,7 +4,7 @@ library("stringr")
 all.item.paths <- list.files(pattern     = ".Rmd", 
                              ignore.case = TRUE, 
                              recursive   = TRUE, 
-                             path        = "SQRscripts/",
+                             path        = "SQRscripts",
                              full.names  = TRUE)
 
 n = length(all.item.paths)
@@ -59,7 +59,7 @@ for (i in 1:n) {
 
     print(c(i, text[line.nr], all.item.paths[i]) )
     
-    write(paste(i, text[line.nr], all.item.paths[i]), file, append = TRUE)
+    write(paste0(i, ' open "', all.item.paths[i], '"'), file, append = TRUE)
 
   }
   

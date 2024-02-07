@@ -1,458 +1,457 @@
 regex: exextra\[Type\]\:[:blank:]$
-3 exextra[Type]:  SQRscripts//Descriptive statistics/uva-bar-graph-1202-nl/uva-bar-graph-1202-nl.Rmd
-7 exextra[Type]:  SQRscripts//Descriptive statistics/uva-bar-graph-319-nl/uva-bar-graph-319-nl.Rmd
-13 exextra[Type]:  SQRscripts//Descriptive statistics/uva-boxplot-1209-nl/uva-boxplot-1209-nl.Rmd
-14 exextra[Type]:  SQRscripts//Descriptive statistics/uva-boxplot-1212-nl/uva-boxplot-1212-nl.Rmd
-17 exextra[Type]:  SQRscripts//Descriptive statistics/uva-correlation-1226-nl/uva-correlation-1226-nl.Rmd
-18 exextra[Type]:  SQRscripts//Descriptive statistics/uva-correlation-1227-nl/uva-correlation-1227-nl.Rmd
-82 exextra[Type]:  SQRscripts//Descriptive statistics/uva-correlation-216-nl/uva-correlation-216-nl.Rmd
-102 exextra[Type]:  SQRscripts//Descriptive statistics/uva-descriptive-statistics-284-nl/uva-descriptive-statistics-284-nl.Rmd
-103 exextra[Type]:  SQRscripts//Descriptive statistics/uva-descriptive-statistics-435-nl/uva-descriptive-statistics-435-nl.Rmd
-111 exextra[Type]:  SQRscripts//Descriptive statistics/uva-histogram-1215-nl/uva-histogram-1215-nl.Rmd
-112 exextra[Type]:  SQRscripts//Descriptive statistics/uva-histogram-1239-nl/uva-histogram-1239-nl.Rmd
-113 exextra[Type]:  SQRscripts//Descriptive statistics/uva-histogram-1240-nl/uva-histogram-1240-nl.Rmd
-114 exextra[Type]:  SQRscripts//Descriptive statistics/uva-histogram-1241-nl/uva-histogram-1241-nl.Rmd
-115 exextra[Type]:  SQRscripts//Descriptive statistics/uva-histogram-1242-nl/uva-histogram-1242-nl.Rmd
-116 exextra[Type]:  SQRscripts//Descriptive statistics/uva-histogram-1243-nl/uva-histogram-1243-nl.Rmd
-117 exextra[Type]:  SQRscripts//Descriptive statistics/uva-histogram-1244-nl/uva-histogram-1244-nl.Rmd
-118 exextra[Type]:  SQRscripts//Descriptive statistics/uva-histogram-1245-nl/uva-histogram-1245-nl.Rmd
-119 exextra[Type]:  SQRscripts//Descriptive statistics/uva-histogram-1246-nl/uva-histogram-1246-nl.Rmd
-120 exextra[Type]:  SQRscripts//Descriptive statistics/uva-histogram-1247-nl/uva-histogram-1247-nl.Rmd
-121 exextra[Type]:  SQRscripts//Descriptive statistics/uva-histogram-1248-nl/uva-histogram-1248-nl.Rmd
-122 exextra[Type]:  SQRscripts//Descriptive statistics/uva-histogram-1249-nl/uva-histogram-1249-nl.Rmd
-123 exextra[Type]:  SQRscripts//Descriptive statistics/uva-histogram-1250-nl/uva-histogram-1250-nl.Rmd
-124 exextra[Type]:  SQRscripts//Descriptive statistics/uva-histogram-1251-nl/uva-histogram-1251-nl.Rmd
-125 exextra[Type]:  SQRscripts//Descriptive statistics/uva-histogram-1252-nl/uva-histogram-1252-nl.Rmd
-126 exextra[Type]:  SQRscripts//Descriptive statistics/uva-histogram-472-nl/uva-histogram-472-nl.Rmd
-148 exextra[Type]:  SQRscripts//Descriptive statistics/uva-mean-581-nl/uva-mean-581-nl.Rmd
-150 exextra[Type]:  SQRscripts//Descriptive statistics/uva-mean-587-nl/uva-mean-587-nl.Rmd
-152 exextra[Type]:  SQRscripts//Descriptive statistics/uva-mean-617-nl/uva-mean-617-nl.Rmd
-162 exextra[Type]:  SQRscripts//Descriptive statistics/uva-measures-of-location-146-nl/uva-measures-of-location-146-nl.Rmd
-164 exextra[Type]:  SQRscripts//Descriptive statistics/uva-measures-of-location-180-nl/uva-measures-of-location-180-nl.Rmd
-167 exextra[Type]:  SQRscripts//Descriptive statistics/uva-measures-of-location-200-nl/uva-measures-of-location-200-nl.Rmd
-171 exextra[Type]:  SQRscripts//Descriptive statistics/uva-measures-of-location-23-nl/uva-measures-of-location-23-nl.Rmd
-174 exextra[Type]:  SQRscripts//Descriptive statistics/uva-measures-of-location-251-nl/uva-measures-of-location-251-nl.Rmd
-175 exextra[Type]:  SQRscripts//Descriptive statistics/uva-measures-of-location-26-nl/uva-measures-of-location-26-nl.Rmd
-176 exextra[Type]:  SQRscripts//Descriptive statistics/uva-measures-of-location-267-nl/uva-measures-of-location-267-nl.Rmd
-178 exextra[Type]:  SQRscripts//Descriptive statistics/uva-measures-of-location-324-nl/uva-measures-of-location-324-nl.Rmd
-181 exextra[Type]:  SQRscripts//Descriptive statistics/uva-measures-of-location-363-nl/uva-measures-of-location-363-nl.Rmd
-183 exextra[Type]:  SQRscripts//Descriptive statistics/uva-measures-of-location-384-nl/uva-measures-of-location-384-nl.Rmd
-184 exextra[Type]:  SQRscripts//Descriptive statistics/uva-measures-of-location-390-nl/uva-measures-of-location-390-nl.Rmd
-186 exextra[Type]:  SQRscripts//Descriptive statistics/uva-measures-of-location-424-nl/uva-measures-of-location-424-nl.Rmd
-187 exextra[Type]:  SQRscripts//Descriptive statistics/uva-measures-of-location-438-nl/uva-measures-of-location-438-nl.Rmd
-188 exextra[Type]:  SQRscripts//Descriptive statistics/uva-measures-of-location-455-nl/uva-measures-of-location-455-nl.Rmd
-190 exextra[Type]:  SQRscripts//Descriptive statistics/uva-measures-of-location-481-nl/uva-measures-of-location-481-nl.Rmd
-191 exextra[Type]:  SQRscripts//Descriptive statistics/uva-measures-of-location-522-nl/uva-measures-of-location-522-nl.Rmd
-192 exextra[Type]:  SQRscripts//Descriptive statistics/uva-measures-of-location-56-nl/uva-measures-of-location-56-nl.Rmd
-193 exextra[Type]:  SQRscripts//Descriptive statistics/uva-measures-of-location-594-nl/uva-measures-of-location-594-nl.Rmd
-197 exextra[Type]:  SQRscripts//Descriptive statistics/uva-measures-of-spread-141-nl/uva-measures-of-spread-141-nl.Rmd
-201 exextra[Type]:  SQRscripts//Descriptive statistics/uva-measures-of-spread-478-nl/uva-measures-of-spread-478-nl.Rmd
-208 exextra[Type]:  SQRscripts//Descriptive statistics/uva-median-254-nl/uva-median-254-nl.Rmd
-215 exextra[Type]:  SQRscripts//Descriptive statistics/uva-median-527-nl/uva-median-527-nl.Rmd
-216 exextra[Type]:  SQRscripts//Descriptive statistics/uva-median-612-nl/uva-median-612-nl.Rmd
-235 exextra[Type]:  SQRscripts//Descriptive statistics/uva-scatterplot-1220-nl/uva-scatterplot-1220-nl.Rmd
-240 exextra[Type]:  SQRscripts//Descriptive statistics/uva-scatterplot-1254-nl/uva-scatterplot-1254-nl.Rmd
-242 exextra[Type]:  SQRscripts//Descriptive statistics/uva-scatterplot-1256-nl/uva-scatterplot-1256-nl.Rmd
-267 exextra[Type]:  SQRscripts//Descriptive statistics/uva-standard-deviation-392-nl/uva-standard-deviation-392-nl.Rmd
-287 exextra[Type]:  SQRscripts//Descriptive statistics/uva-standard-deviation-585-nl/uva-standard-deviation-585-nl.Rmd
-303 exextra[Type]:  SQRscripts//Descriptive statistics/uva-variance-258-nl/uva-variance-258-nl.Rmd
-304 exextra[Type]:  SQRscripts//Descriptive statistics/uva-variance-260-nl/uva-variance-260-nl.Rmd
-306 exextra[Type]:  SQRscripts//Descriptive statistics/uva-variance-298-nl/uva-variance-298-nl.Rmd
-310 exextra[Type]:  SQRscripts//Descriptive statistics/uva-variance-338-nl/uva-variance-338-nl.Rmd
-321 exextra[Type]:  SQRscripts//Descriptive statistics/uva-variance-515-nl/uva-variance-515-nl.Rmd
-327 exextra[Type]:  SQRscripts//Descriptive statistics/uva-variance-616-nl/uva-variance-616-nl.Rmd
-333 exextra[Type]:  SQRscripts//Distributions/uva-binomial-1034-nl/uva-binomial-1034-nl.Rmd
-334 exextra[Type]:  SQRscripts//Distributions/uva-binomial-1035-nl/uva-binomial-1035-nl.Rmd
-335 exextra[Type]:  SQRscripts//Distributions/uva-binomial-1036-nl/uva-binomial-1036-nl.Rmd
-339 exextra[Type]:  SQRscripts//Distributions/uva-binomial-1050-nl/uva-binomial-1050-nl.Rmd
-341 exextra[Type]:  SQRscripts//Distributions/uva-binomial-1052-nl/uva-binomial-1052-nl.Rmd
-342 exextra[Type]:  SQRscripts//Distributions/uva-binomial-1053-nl/uva-binomial-1053-nl.Rmd
-343 exextra[Type]:  SQRscripts//Distributions/uva-binomial-1054-nl/uva-binomial-1054-nl.Rmd
-344 exextra[Type]:  SQRscripts//Distributions/uva-binomial-1055-nl/uva-binomial-1055-nl.Rmd
-345 exextra[Type]:  SQRscripts//Distributions/uva-binomial-1056-nl/uva-binomial-1056-nl.Rmd
-346 exextra[Type]:  SQRscripts//Distributions/uva-binomial-1057-nl/uva-binomial-1057-nl.Rmd
-347 exextra[Type]:  SQRscripts//Distributions/uva-binomial-1058-nl/uva-binomial-1058-nl.Rmd
-354 exextra[Type]:  SQRscripts//Distributions/uva-binomial-723-nl/uva-binomial-723-nl.Rmd
-355 exextra[Type]:  SQRscripts//Distributions/uva-binomial-724-nl/uva-binomial-724-nl.Rmd
-356 exextra[Type]:  SQRscripts//Distributions/uva-binomial-733-nl/uva-binomial-733-nl.Rmd
-357 exextra[Type]:  SQRscripts//Distributions/uva-binomial-753-nl/uva-binomial-753-nl.Rmd
-358 exextra[Type]:  SQRscripts//Distributions/uva-binomial-754-nl/uva-binomial-754-nl.Rmd
-359 exextra[Type]:  SQRscripts//Distributions/uva-binomial-755-nl/uva-binomial-755-nl.Rmd
-360 exextra[Type]:  SQRscripts//Distributions/uva-binomial-756-nl/uva-binomial-756-nl.Rmd
-361 exextra[Type]:  SQRscripts//Distributions/uva-binomial-757-nl/uva-binomial-757-nl.Rmd
-362 exextra[Type]:  SQRscripts//Distributions/uva-binomial-758-nl/uva-binomial-758-nl.Rmd
-363 exextra[Type]:  SQRscripts//Distributions/uva-central-limit-theorem-1281-nl/uva-central-limit-theorem-1281-nl.Rmd
-364 exextra[Type]:  SQRscripts//Distributions/uva-central-limit-theorem-1282-nl/uva-central-limit-theorem-1282-nl.Rmd
-365 exextra[Type]:  SQRscripts//Distributions/uva-central-limit-theorem-1283-nl/uva-central-limit-theorem-1283-nl.Rmd
-366 exextra[Type]:  SQRscripts//Distributions/uva-central-limit-theorem-1284-nl/uva-central-limit-theorem-1284-nl.Rmd
-370 exextra[Type]:  SQRscripts//Distributions/uva-central-limit-theorem-1294-nl/uva-central-limit-theorem-1294-nl.Rmd
-371 exextra[Type]:  SQRscripts//Distributions/uva-central-limit-theorem-1310-nl/uva-central-limit-theorem-1310-nl.Rmd
-372 exextra[Type]:  SQRscripts//Distributions/uva-central-limit-theorem-1364-nl/uva-central-limit-theorem-1364-nl.Rmd
-373 exextra[Type]:  SQRscripts//Distributions/uva-central-limit-theorem-1365-nl/uva-central-limit-theorem-1365-nl.Rmd
-374 exextra[Type]:  SQRscripts//Distributions/uva-central-limit-theorem-1366-nl/uva-central-limit-theorem-1366-nl.Rmd
-375 exextra[Type]:  SQRscripts//Distributions/uva-central-limit-theorem-1373-nl/uva-central-limit-theorem-1373-nl.Rmd
-435 exextra[Type]:  SQRscripts//Distributions/uva-normal-1071-nl/uva-normal-1071-nl.Rmd
-440 exextra[Type]:  SQRscripts//Distributions/uva-normal-1276-nl/uva-normal-1276-nl.Rmd
-441 exextra[Type]:  SQRscripts//Distributions/uva-normal-1277-nl/uva-normal-1277-nl.Rmd
-442 exextra[Type]:  SQRscripts//Distributions/uva-normal-1278-nl/uva-normal-1278-nl.Rmd
-443 exextra[Type]:  SQRscripts//Distributions/uva-normal-1279-nl/uva-normal-1279-nl.Rmd
-444 exextra[Type]:  SQRscripts//Distributions/uva-normal-1280-nl/uva-normal-1280-nl.Rmd
-450 exextra[Type]:  SQRscripts//Distributions/uva-normal-1324-nl/uva-normal-1324-nl.Rmd
-454 exextra[Type]:  SQRscripts//Distributions/uva-normal-1332-nl/uva-normal-1332-nl.Rmd
-455 exextra[Type]:  SQRscripts//Distributions/uva-normal-1333-nl/uva-normal-1333-nl.Rmd
-456 exextra[Type]:  SQRscripts//Distributions/uva-normal-1334-nl/uva-normal-1334-nl.Rmd
-457 exextra[Type]:  SQRscripts//Distributions/uva-normal-1335-nl/uva-normal-1335-nl.Rmd
-458 exextra[Type]:  SQRscripts//Distributions/uva-normal-1336-nl/uva-normal-1336-nl.Rmd
-460 exextra[Type]:  SQRscripts//Distributions/uva-normal-1338-nl/uva-normal-1338-nl.Rmd
-461 exextra[Type]:  SQRscripts//Distributions/uva-normal-1339-nl/uva-normal-1339-nl.Rmd
-462 exextra[Type]:  SQRscripts//Distributions/uva-normal-1340-nl/uva-normal-1340-nl.Rmd
-463 exextra[Type]:  SQRscripts//Distributions/uva-normal-1341-nl/uva-normal-1341-nl.Rmd
-464 exextra[Type]:  SQRscripts//Distributions/uva-normal-1342-nl/uva-normal-1342-nl.Rmd
-465 exextra[Type]:  SQRscripts//Distributions/uva-normal-1343-nl/uva-normal-1343-nl.Rmd
-466 exextra[Type]:  SQRscripts//Distributions/uva-normal-1344-nl/uva-normal-1344-nl.Rmd
-467 exextra[Type]:  SQRscripts//Distributions/uva-normal-1345-nl/uva-normal-1345-nl.Rmd
-468 exextra[Type]:  SQRscripts//Distributions/uva-normal-1346-nl/uva-normal-1346-nl.Rmd
-469 exextra[Type]:  SQRscripts//Distributions/uva-normal-1349-nl/uva-normal-1349-nl.Rmd
-471 exextra[Type]:  SQRscripts//Distributions/uva-normal-1350-nl/uva-normal-1350-nl.Rmd
-472 exextra[Type]:  SQRscripts//Distributions/uva-normal-1351-nl/uva-normal-1351-nl.Rmd
-473 exextra[Type]:  SQRscripts//Distributions/uva-normal-1352-nl/uva-normal-1352-nl.Rmd
-474 exextra[Type]:  SQRscripts//Distributions/uva-normal-1353-nl/uva-normal-1353-nl.Rmd
-475 exextra[Type]:  SQRscripts//Distributions/uva-normal-1354-nl/uva-normal-1354-nl.Rmd
-476 exextra[Type]:  SQRscripts//Distributions/uva-normal-1363-nl/uva-normal-1363-nl.Rmd
-477 exextra[Type]:  SQRscripts//Distributions/uva-normal-1367-nl/uva-normal-1367-nl.Rmd
-478 exextra[Type]:  SQRscripts//Distributions/uva-normal-1368-nl/uva-normal-1368-nl.Rmd
-479 exextra[Type]:  SQRscripts//Distributions/uva-normal-1369-nl/uva-normal-1369-nl.Rmd
-480 exextra[Type]:  SQRscripts//Distributions/uva-normal-1370-nl/uva-normal-1370-nl.Rmd
-482 exextra[Type]:  SQRscripts//Distributions/uva-normal-1379-nl/uva-normal-1379-nl.Rmd
-487 exextra[Type]:  SQRscripts//Distributions/uva-normal-262-nl/uva-normal-262-nl.Rmd
-506 exextra[Type]:  SQRscripts//Distributions/uva-normal-647-nl/uva-normal-647-nl.Rmd
-508 exextra[Type]:  SQRscripts//Distributions/uva-normal-approximation-to-binomial-1068-nl/uva-normal-approximation-to-binomial-1068-nl.Rmd
-509 exextra[Type]:  SQRscripts//Distributions/uva-normal-approximation-to-binomial-1126-nl/uva-normal-approximation-to-binomial-1126-nl.Rmd
-510 exextra[Type]:  SQRscripts//Distributions/uva-normal-approximation-to-binomial-1127-nl/uva-normal-approximation-to-binomial-1127-nl.Rmd
-512 exextra[Type]:  SQRscripts//Distributions/uva-uniform-1118-nl/uva-uniform-1118-nl.Rmd
-513 exextra[Type]:  SQRscripts//Distributions/uva-uniform-1119-nl/uva-uniform-1119-nl.Rmd
-514 exextra[Type]:  SQRscripts//Distributions/uva-uniform-1130-nl/uva-uniform-1130-nl.Rmd
-516 exextra[Type]:  SQRscripts//Distributions/uva-uniform-1132-nl/uva-uniform-1132-nl.Rmd
-517 exextra[Type]:  SQRscripts//Distributions/uva-uniform-1133-nl/uva-uniform-1133-nl.Rmd
-523 exextra[Type]:  SQRscripts//Distributions/uva-uniform-644-nl/uva-uniform-644-nl.Rmd
-526 exextra[Type]:  SQRscripts//Distributions/uva-uniform-711-nl/uva-uniform-711-nl.Rmd
-527 exextra[Type]:  SQRscripts//Distributions/uva-uniform-712-nl/uva-uniform-712-nl.Rmd
-528 exextra[Type]:  SQRscripts//Distributions/uva-uniform-713-nl/uva-uniform-713-nl.Rmd
-533 exextra[Type]:  SQRscripts//Inferential Statistics/uva-bayesian-statistics-747-nl/uva-bayesian-statistics-747-nl.Rmd
-538 exextra[Type]:  SQRscripts//Inferential Statistics/uva-bayesian-statistics-967-nl/uva-bayesian-statistics-967-nl.Rmd
-539 exextra[Type]:  SQRscripts//Inferential Statistics/uva-bayesian-statistics-968-nl/uva-bayesian-statistics-968-nl.Rmd
-540 exextra[Type]:  SQRscripts//Inferential Statistics/uva-bayesian-statistics-969-nl/uva-bayesian-statistics-969-nl.Rmd
-541 exextra[Type]:  SQRscripts//Inferential Statistics/uva-bayesian-statistics-970-nl/uva-bayesian-statistics-970-nl.Rmd
-542 exextra[Type]:  SQRscripts//Inferential Statistics/uva-bayesian-statistics-971-nl/uva-bayesian-statistics-971-nl.Rmd
-543 exextra[Type]:  SQRscripts//Inferential Statistics/uva-bayesian-statistics-972-nl/uva-bayesian-statistics-972-nl.Rmd
-544 exextra[Type]:  SQRscripts//Inferential Statistics/uva-bayesian-statistics-973-nl/uva-bayesian-statistics-973-nl.Rmd
-545 exextra[Type]:  SQRscripts//Inferential Statistics/uva-bayesian-statistics-974-nl/uva-bayesian-statistics-974-nl.Rmd
-546 exextra[Type]:  SQRscripts//Inferential Statistics/uva-bayesian-statistics-979-nl/uva-bayesian-statistics-979-nl.Rmd
-547 exextra[Type]:  SQRscripts//Inferential Statistics/uva-bayesian-statistics-980-nl/uva-bayesian-statistics-980-nl.Rmd
-552 exextra[Type]:  SQRscripts//Inferential Statistics/uva-bayesian-statistics-985-nl/uva-bayesian-statistics-985-nl.Rmd
-553 exextra[Type]:  SQRscripts//Inferential Statistics/uva-bayesian-statistics-986-nl/uva-bayesian-statistics-986-nl.Rmd
-554 exextra[Type]:  SQRscripts//Inferential Statistics/uva-bayesian-statistics-987-nl/uva-bayesian-statistics-987-nl.Rmd
-675 exextra[Type]:  SQRscripts//Inferential Statistics/uva-confidence-level-882-nl/uva-confidence-level-882-nl.Rmd
-676 exextra[Type]:  SQRscripts//Inferential Statistics/uva-confidence-level-883-nl/uva-confidence-level-883-nl.Rmd
-677 exextra[Type]:  SQRscripts//Inferential Statistics/uva-confidence-level-884-nl/uva-confidence-level-884-nl.Rmd
-678 exextra[Type]:  SQRscripts//Inferential Statistics/uva-confidence-level-885-nl/uva-confidence-level-885-nl.Rmd
-688 exextra[Type]:  SQRscripts//Inferential Statistics/uva-equation-1230-nl/uva-equation-1230-nl.Rmd
-689 exextra[Type]:  SQRscripts//Inferential Statistics/uva-equation-1231-nl/uva-equation-1231-nl.Rmd
-691 exextra[Type]:  SQRscripts//Inferential Statistics/uva-equation-1385-nl/uva-equation-1385-nl.Rmd
-745 exextra[Type]:  SQRscripts//Inferential Statistics/uva-equation-220-nl/uva-equation-220-nl.Rmd
-746 exextra[Type]:  SQRscripts//Inferential Statistics/uva-equation-287-nl/uva-equation-287-nl.Rmd
-747 exextra[Type]:  SQRscripts//Inferential Statistics/uva-equation-288-nl/uva-equation-288-nl.Rmd
-750 exextra[Type]:  SQRscripts//Inferential Statistics/uva-equation-507-nl/uva-equation-507-nl.Rmd
-755 exextra[Type]:  SQRscripts//Inferential Statistics/uva-independent-samples-means-172-nl/uva-independent-samples-means-172-nl.Rmd
-757 exextra[Type]:  SQRscripts//Inferential Statistics/uva-independent-samples-means-249-nl/uva-independent-samples-means-249-nl.Rmd
-758 exextra[Type]:  SQRscripts//Inferential Statistics/uva-independent-samples-means-279-nl/uva-independent-samples-means-279-nl.Rmd
-763 exextra[Type]:  SQRscripts//Inferential Statistics/uva-independent-samples-means-321-nl/uva-independent-samples-means-321-nl.Rmd
-764 exextra[Type]:  SQRscripts//Inferential Statistics/uva-independent-samples-means-322-nl/uva-independent-samples-means-322-nl.Rmd
-768 exextra[Type]:  SQRscripts//Inferential Statistics/uva-independent-samples-means-407-nl/uva-independent-samples-means-407-nl.Rmd
-769 exextra[Type]:  SQRscripts//Inferential Statistics/uva-independent-samples-means-433-nl/uva-independent-samples-means-433-nl.Rmd
-771 exextra[Type]:  SQRscripts//Inferential Statistics/uva-independent-samples-means-45-nl/uva-independent-samples-means-45-nl.Rmd
-775 exextra[Type]:  SQRscripts//Inferential Statistics/uva-independent-samples-means-534-nl/uva-independent-samples-means-534-nl.Rmd
-778 exextra[Type]:  SQRscripts//Inferential Statistics/uva-independent-samples-means-632-nl/uva-independent-samples-means-632-nl.Rmd
-779 exextra[Type]:  SQRscripts//Inferential Statistics/uva-independent-samples-means-789-nl/uva-independent-samples-means-789-nl.Rmd
-810 exextra[Type]:  SQRscripts//Inferential Statistics/uva-inferential-statistics-371-nl/uva-inferential-statistics-371-nl.Rmd
-829 exextra[Type]:  SQRscripts//Inferential Statistics/uva-null-hypothesis-516-nl/uva-null-hypothesis-516-nl.Rmd
-832 exextra[Type]:  SQRscripts//Inferential Statistics/uva-one-sample-mean-307-nl/uva-one-sample-mean-307-nl.Rmd
-836 exextra[Type]:  SQRscripts//Inferential Statistics/uva-one-sample-mean-364-nl/uva-one-sample-mean-364-nl.Rmd
-837 exextra[Type]:  SQRscripts//Inferential Statistics/uva-one-sample-mean-389-nl/uva-one-sample-mean-389-nl.Rmd
-839 exextra[Type]:  SQRscripts//Inferential Statistics/uva-one-sample-mean-403-nl/uva-one-sample-mean-403-nl.Rmd
-840 exextra[Type]:  SQRscripts//Inferential Statistics/uva-one-sample-mean-439-nl/uva-one-sample-mean-439-nl.Rmd
-841 exextra[Type]:  SQRscripts//Inferential Statistics/uva-one-sample-mean-538-nl/uva-one-sample-mean-538-nl.Rmd
-850 exextra[Type]:  SQRscripts//Inferential Statistics/uva-oneway-anova-114-nl/uva-oneway-anova-114-nl.Rmd
-851 exextra[Type]:  SQRscripts//Inferential Statistics/uva-oneway-anova-170-nl/uva-oneway-anova-170-nl.Rmd
-852 exextra[Type]:  SQRscripts//Inferential Statistics/uva-oneway-anova-173-nl/uva-oneway-anova-173-nl.Rmd
-859 exextra[Type]:  SQRscripts//Inferential Statistics/uva-oneway-anova-330-nl/uva-oneway-anova-330-nl.Rmd
-865 exextra[Type]:  SQRscripts//Inferential Statistics/uva-oneway-anova-367-nl/uva-oneway-anova-367-nl.Rmd
-875 exextra[Type]:  SQRscripts//Inferential Statistics/uva-oneway-anova-542-nl/uva-oneway-anova-542-nl.Rmd
-880 exextra[Type]:  SQRscripts//Inferential Statistics/uva-oneway-anova-601-nl/uva-oneway-anova-601-nl.Rmd
-882 exextra[Type]:  SQRscripts//Inferential Statistics/uva-oneway-anova-635-nl/uva-oneway-anova-635-nl.Rmd
-887 exextra[Type]:  SQRscripts//Inferential Statistics/uva-oneway-anova-80-nl/uva-oneway-anova-80-nl.Rmd
-889 exextra[Type]:  SQRscripts//Inferential Statistics/uva-oneway-anova-808-nl/uva-oneway-anova-808-nl.Rmd
-894 exextra[Type]:  SQRscripts//Inferential Statistics/uva-oneway-anova-97-nl/uva-oneway-anova-97-nl.Rmd
-946 exextra[Type]:  SQRscripts//Inferential Statistics/uva-paired-samples-270-nl/uva-paired-samples-270-nl.Rmd
-947 exextra[Type]:  SQRscripts//Inferential Statistics/uva-paired-samples-271-nl/uva-paired-samples-271-nl.Rmd
-954 exextra[Type]:  SQRscripts//Inferential Statistics/uva-paired-samples-395-nl/uva-paired-samples-395-nl.Rmd
-970 exextra[Type]:  SQRscripts//Inferential Statistics/uva-parametric-techniques-252-nl/uva-parametric-techniques-252-nl.Rmd
-1030 exextra[Type]:  SQRscripts//Inferential Statistics/uva-regression-52-nl/uva-regression-52-nl.Rmd
-1037 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-1044-nl/uva-sample-mean-1044-nl.Rmd
-1038 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-1045-nl/uva-sample-mean-1045-nl.Rmd
-1039 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-1046-nl/uva-sample-mean-1046-nl.Rmd
-1041 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-1285-nl/uva-sample-mean-1285-nl.Rmd
-1042 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-1286-nl/uva-sample-mean-1286-nl.Rmd
-1043 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-1287-nl/uva-sample-mean-1287-nl.Rmd
-1044 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-1288-nl/uva-sample-mean-1288-nl.Rmd
-1045 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-1300-nl/uva-sample-mean-1300-nl.Rmd
-1053 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-1347-nl/uva-sample-mean-1347-nl.Rmd
-1054 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-1348-nl/uva-sample-mean-1348-nl.Rmd
-1055 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-1355-nl/uva-sample-mean-1355-nl.Rmd
-1056 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-1357-nl/uva-sample-mean-1357-nl.Rmd
-1057 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-1359-nl/uva-sample-mean-1359-nl.Rmd
-1058 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-1360-nl/uva-sample-mean-1360-nl.Rmd
-1059 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-1361-nl/uva-sample-mean-1361-nl.Rmd
-1060 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-1362-nl/uva-sample-mean-1362-nl.Rmd
-1062 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-1374-nl/uva-sample-mean-1374-nl.Rmd
-1063 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-1375-nl/uva-sample-mean-1375-nl.Rmd
-1064 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-1376-nl/uva-sample-mean-1376-nl.Rmd
-1065 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-1377-nl/uva-sample-mean-1377-nl.Rmd
-1066 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-1378-nl/uva-sample-mean-1378-nl.Rmd
-1075 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-429-nl/uva-sample-mean-429-nl.Rmd
-1078 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-484-nl/uva-sample-mean-484-nl.Rmd
-1080 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-553-nl/uva-sample-mean-553-nl.Rmd
-1084 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-589-nl/uva-sample-mean-589-nl.Rmd
-1087 exextra[Type]:  SQRscripts//Inferential Statistics/uva-sample-mean-619-nl/uva-sample-mean-619-nl.Rmd
-1127 exextra[Type]:  SQRscripts//Inferential Statistics/uva-simple-linear-regression-571-nl/uva-simple-linear-regression-571-nl.Rmd
-1203 exextra[Type]:  SQRscripts//Inferential Statistics/uva-squared-54-nl/uva-squared-54-nl.Rmd
-1205 exextra[Type]:  SQRscripts//Inferential Statistics/uva-squared-787-nl/uva-squared-787-nl.Rmd
-1207 exextra[Type]:  SQRscripts//Inferential Statistics/uva-squared-892-nl/uva-squared-892-nl.Rmd
-1208 exextra[Type]:  SQRscripts//Inferential Statistics/uva-squared-893-nl/uva-squared-893-nl.Rmd
-1209 exextra[Type]:  SQRscripts//Inferential Statistics/uva-squared-894-nl/uva-squared-894-nl.Rmd
-1210 exextra[Type]:  SQRscripts//Inferential Statistics/uva-squared-895-nl/uva-squared-895-nl.Rmd
-1218 exextra[Type]:  SQRscripts//Inferential Statistics/uva-statistical-errors-282-nl/uva-statistical-errors-282-nl.Rmd
-1221 exextra[Type]:  SQRscripts//Inferential Statistics/uva-statistical-errors-560-nl/uva-statistical-errors-560-nl.Rmd
-1230 exextra[Type]:  SQRscripts//Inferential Statistics/uva-test-102-nl/uva-test-102-nl.Rmd
-1335 exextra[Type]:  SQRscripts//Inferential Statistics/uva-test-222-nl/uva-test-222-nl.Rmd
-1336 exextra[Type]:  SQRscripts//Inferential Statistics/uva-test-229-nl/uva-test-229-nl.Rmd
-1337 exextra[Type]:  SQRscripts//Inferential Statistics/uva-test-250-nl/uva-test-250-nl.Rmd
-1347 exextra[Type]:  SQRscripts//Inferential Statistics/uva-test-467-nl/uva-test-467-nl.Rmd
-1349 exextra[Type]:  SQRscripts//Inferential Statistics/uva-test-488-nl/uva-test-488-nl.Rmd
-1350 exextra[Type]:  SQRscripts//Inferential Statistics/uva-test-503-nl/uva-test-503-nl.Rmd
-1355 exextra[Type]:  SQRscripts//Inferential Statistics/uva-test-573-nl/uva-test-573-nl.Rmd
-1356 exextra[Type]:  SQRscripts//Inferential Statistics/uva-test-576-nl/uva-test-576-nl.Rmd
-1358 exextra[Type]:  SQRscripts//Inferential Statistics/uva-test-606-nl/uva-test-606-nl.Rmd
-1359 exextra[Type]:  SQRscripts//Inferential Statistics/uva-test-607-nl/uva-test-607-nl.Rmd
-1363 exextra[Type]:  SQRscripts//Inferential Statistics/uva-test-638-nl/uva-test-638-nl.Rmd
-1419 exextra[Type]:  SQRscripts//Inferential Statistics/uva-two-sided-hypothesis-93-nl/uva-two-sided-hypothesis-93-nl.Rmd
-1422 exextra[Type]:  SQRscripts//Inferential Statistics/uva-twoway-anova-163-nl/uva-twoway-anova-163-nl.Rmd
-1426 exextra[Type]:  SQRscripts//Inferential Statistics/uva-twoway-anova-40-nl/uva-twoway-anova-40-nl.Rmd
-1427 exextra[Type]:  SQRscripts//Inferential Statistics/uva-twoway-anova-65-nl/uva-twoway-anova-65-nl.Rmd
-1438 exextra[Type]:  SQRscripts//Inferential Statistics/uva-value-782-nl/uva-value-782-nl.Rmd
-1444 exextra[Type]:  SQRscripts//Inferential Statistics/uva-value-845-nl/uva-value-845-nl.Rmd
-1445 exextra[Type]:  SQRscripts//Inferential Statistics/uva-value-846-nl/uva-value-846-nl.Rmd
-1446 exextra[Type]:  SQRscripts//Inferential Statistics/uva-value-847-nl/uva-value-847-nl.Rmd
-1447 exextra[Type]:  SQRscripts//Inferential Statistics/uva-value-848-nl/uva-value-848-nl.Rmd
-1448 exextra[Type]:  SQRscripts//Inferential Statistics/uva-value-869-nl/uva-value-869-nl.Rmd
-1449 exextra[Type]:  SQRscripts//Inferential Statistics/uva-value-870-nl/uva-value-870-nl.Rmd
-1450 exextra[Type]:  SQRscripts//Inferential Statistics/uva-value-871-nl/uva-value-871-nl.Rmd
-1451 exextra[Type]:  SQRscripts//Inferential Statistics/uva-value-872-nl/uva-value-872-nl.Rmd
-1467 exextra[Type]:  SQRscripts//Probability/uva-addition-rule-1023-nl/uva-addition-rule-1023-nl.Rmd
-1468 exextra[Type]:  SQRscripts//Probability/uva-addition-rule-1074-nl/uva-addition-rule-1074-nl.Rmd
-1471 exextra[Type]:  SQRscripts//Probability/uva-addition-rule-1108-nl/uva-addition-rule-1108-nl.Rmd
-1472 exextra[Type]:  SQRscripts//Probability/uva-addition-rule-1111-nl/uva-addition-rule-1111-nl.Rmd
-1480 exextra[Type]:  SQRscripts//Probability/uva-addition-rule-678-nl/uva-addition-rule-678-nl.Rmd
-1481 exextra[Type]:  SQRscripts//Probability/uva-addition-rule-681-nl/uva-addition-rule-681-nl.Rmd
-1482 exextra[Type]:  SQRscripts//Probability/uva-addition-rule-745-nl/uva-addition-rule-745-nl.Rmd
-1483 exextra[Type]:  SQRscripts//Probability/uva-addition-rule-750-nl/uva-addition-rule-750-nl.Rmd
-1484 exextra[Type]:  SQRscripts//Probability/uva-addition-rule-762-nl/uva-addition-rule-762-nl.Rmd
-1486 exextra[Type]:  SQRscripts//Probability/uva-addition-rule-878-nl/uva-addition-rule-878-nl.Rmd
-1487 exextra[Type]:  SQRscripts//Probability/uva-addition-rule-879-nl/uva-addition-rule-879-nl.Rmd
-1488 exextra[Type]:  SQRscripts//Probability/uva-addition-rule-880-nl/uva-addition-rule-880-nl.Rmd
-1489 exextra[Type]:  SQRscripts//Probability/uva-addition-rule-881-nl/uva-addition-rule-881-nl.Rmd
-1490 exextra[Type]:  SQRscripts//Probability/uva-addition-rule-930-nl/uva-addition-rule-930-nl.Rmd
-1491 exextra[Type]:  SQRscripts//Probability/uva-addition-rule-943-nl/uva-addition-rule-943-nl.Rmd
-1494 exextra[Type]:  SQRscripts//Probability/uva-conditional-probability-500-nl/uva-conditional-probability-500-nl.Rmd
-1504 exextra[Type]:  SQRscripts//Probability/uva-conditional-probability-615-nl/uva-conditional-probability-615-nl.Rmd
-1505 exextra[Type]:  SQRscripts//Probability/uva-conditional-probability-627-nl/uva-conditional-probability-627-nl.Rmd
-1506 exextra[Type]:  SQRscripts//Probability/uva-conditional-probability-645-nl/uva-conditional-probability-645-nl.Rmd
-1507 exextra[Type]:  SQRscripts//Probability/uva-conditional-probability-661-nl/uva-conditional-probability-661-nl.Rmd
-1510 exextra[Type]:  SQRscripts//Probability/uva-conditional-probability-690-nl/uva-conditional-probability-690-nl.Rmd
-1511 exextra[Type]:  SQRscripts//Probability/uva-conditional-probability-691-nl/uva-conditional-probability-691-nl.Rmd
-1512 exextra[Type]:  SQRscripts//Probability/uva-conditional-probability-692-nl/uva-conditional-probability-692-nl.Rmd
-1513 exextra[Type]:  SQRscripts//Probability/uva-conditional-probability-693-nl/uva-conditional-probability-693-nl.Rmd
-1514 exextra[Type]:  SQRscripts//Probability/uva-conditional-probability-694-nl/uva-conditional-probability-694-nl.Rmd
-1515 exextra[Type]:  SQRscripts//Probability/uva-conditional-probability-696-nl/uva-conditional-probability-696-nl.Rmd
-1516 exextra[Type]:  SQRscripts//Probability/uva-conditional-probability-698-nl/uva-conditional-probability-698-nl.Rmd
-1518 exextra[Type]:  SQRscripts//Probability/uva-conditional-probability-770-nl/uva-conditional-probability-770-nl.Rmd
-1521 exextra[Type]:  SQRscripts//Probability/uva-conditional-probability-932-nl/uva-conditional-probability-932-nl.Rmd
-1522 exextra[Type]:  SQRscripts//Probability/uva-conditional-probability-933-nl/uva-conditional-probability-933-nl.Rmd
-1523 exextra[Type]:  SQRscripts//Probability/uva-conditional-probability-934-nl/uva-conditional-probability-934-nl.Rmd
-1525 exextra[Type]:  SQRscripts//Probability/uva-conditional-probability-948-nl/uva-conditional-probability-948-nl.Rmd
-1526 exextra[Type]:  SQRscripts//Probability/uva-conditional-probability-954-nl/uva-conditional-probability-954-nl.Rmd
-1527 exextra[Type]:  SQRscripts//Probability/uva-conditional-probability-958-nl/uva-conditional-probability-958-nl.Rmd
-1528 exextra[Type]:  SQRscripts//Probability/uva-conditional-probability-960-nl/uva-conditional-probability-960-nl.Rmd
-1529 exextra[Type]:  SQRscripts//Probability/uva-conditional-probability-961-nl/uva-conditional-probability-961-nl.Rmd
-1543 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-1024-nl/uva-elementary-probability-1024-nl.Rmd
-1545 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-1027-nl/uva-elementary-probability-1027-nl.Rmd
-1546 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-1033-nl/uva-elementary-probability-1033-nl.Rmd
-1549 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-1098-nl/uva-elementary-probability-1098-nl.Rmd
-1550 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-1099-nl/uva-elementary-probability-1099-nl.Rmd
-1558 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-643-nl/uva-elementary-probability-643-nl.Rmd
-1562 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-680-nl/uva-elementary-probability-680-nl.Rmd
-1564 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-689-nl/uva-elementary-probability-689-nl.Rmd
-1566 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-706-nl/uva-elementary-probability-706-nl.Rmd
-1567 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-714-nl/uva-elementary-probability-714-nl.Rmd
-1568 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-715-nl/uva-elementary-probability-715-nl.Rmd
-1573 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-749-nl/uva-elementary-probability-749-nl.Rmd
-1574 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-751-nl/uva-elementary-probability-751-nl.Rmd
-1575 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-919-nl/uva-elementary-probability-919-nl.Rmd
-1576 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-920-nl/uva-elementary-probability-920-nl.Rmd
-1577 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-938-nl/uva-elementary-probability-938-nl.Rmd
-1578 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-940-nl/uva-elementary-probability-940-nl.Rmd
-1581 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-950-nl/uva-elementary-probability-950-nl.Rmd
-1584 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-953-nl/uva-elementary-probability-953-nl.Rmd
-1585 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-955-nl/uva-elementary-probability-955-nl.Rmd
-1586 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-962-nl/uva-elementary-probability-962-nl.Rmd
-1587 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-963-nl/uva-elementary-probability-963-nl.Rmd
-1588 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-975-nl/uva-elementary-probability-975-nl.Rmd
-1589 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-977-nl/uva-elementary-probability-977-nl.Rmd
-1590 exextra[Type]:  SQRscripts//Probability/uva-elementary-probability-978-nl/uva-elementary-probability-978-nl.Rmd
-1599 exextra[Type]:  SQRscripts//Probability/uva-events-675-nl/uva-events-675-nl.Rmd
-1600 exextra[Type]:  SQRscripts//Probability/uva-events-676-nl/uva-events-676-nl.Rmd
-1601 exextra[Type]:  SQRscripts//Probability/uva-events-697-nl/uva-events-697-nl.Rmd
-1604 exextra[Type]:  SQRscripts//Probability/uva-events-759-nl/uva-events-759-nl.Rmd
-1605 exextra[Type]:  SQRscripts//Probability/uva-events-760-nl/uva-events-760-nl.Rmd
-1608 exextra[Type]:  SQRscripts//Probability/uva-expected-value-1048-nl/uva-expected-value-1048-nl.Rmd
-1609 exextra[Type]:  SQRscripts//Probability/uva-expected-value-1065-nl/uva-expected-value-1065-nl.Rmd
-1610 exextra[Type]:  SQRscripts//Probability/uva-expected-value-1067-nl/uva-expected-value-1067-nl.Rmd
-1611 exextra[Type]:  SQRscripts//Probability/uva-expected-value-1092-nl/uva-expected-value-1092-nl.Rmd
-1612 exextra[Type]:  SQRscripts//Probability/uva-expected-value-1124-nl/uva-expected-value-1124-nl.Rmd
-1617 exextra[Type]:  SQRscripts//Probability/uva-expected-value-1138-nl/uva-expected-value-1138-nl.Rmd
-1618 exextra[Type]:  SQRscripts//Probability/uva-expected-value-1139-nl/uva-expected-value-1139-nl.Rmd
-1619 exextra[Type]:  SQRscripts//Probability/uva-expected-value-1140-nl/uva-expected-value-1140-nl.Rmd
-1620 exextra[Type]:  SQRscripts//Probability/uva-expected-value-1271-nl/uva-expected-value-1271-nl.Rmd
-1621 exextra[Type]:  SQRscripts//Probability/uva-expected-value-1272-nl/uva-expected-value-1272-nl.Rmd
-1622 exextra[Type]:  SQRscripts//Probability/uva-expected-value-1273-nl/uva-expected-value-1273-nl.Rmd
-1623 exextra[Type]:  SQRscripts//Probability/uva-expected-value-128-nl/uva-expected-value-128-nl.Rmd
-1626 exextra[Type]:  SQRscripts//Probability/uva-expected-value-529-nl/uva-expected-value-529-nl.Rmd
-1627 exextra[Type]:  SQRscripts//Probability/uva-expected-value-530-nl/uva-expected-value-530-nl.Rmd
-1634 exextra[Type]:  SQRscripts//Probability/uva-expected-value-739-nl/uva-expected-value-739-nl.Rmd
-1635 exextra[Type]:  SQRscripts//Probability/uva-expected-value-743-nl/uva-expected-value-743-nl.Rmd
-1636 exextra[Type]:  SQRscripts//Probability/uva-expected-value-744-nl/uva-expected-value-744-nl.Rmd
-1642 exextra[Type]:  SQRscripts//Probability/uva-general-rules-1107-nl/uva-general-rules-1107-nl.Rmd
-1643 exextra[Type]:  SQRscripts//Probability/uva-general-rules-1114-nl/uva-general-rules-1114-nl.Rmd
-1645 exextra[Type]:  SQRscripts//Probability/uva-general-rules-1331-nl/uva-general-rules-1331-nl.Rmd
-1650 exextra[Type]:  SQRscripts//Probability/uva-general-rules-685-nl/uva-general-rules-685-nl.Rmd
-1651 exextra[Type]:  SQRscripts//Probability/uva-general-rules-695-nl/uva-general-rules-695-nl.Rmd
-1652 exextra[Type]:  SQRscripts//Probability/uva-general-rules-746-nl/uva-general-rules-746-nl.Rmd
-1654 exextra[Type]:  SQRscripts//Probability/uva-general-rules-931-nl/uva-general-rules-931-nl.Rmd
-1655 exextra[Type]:  SQRscripts//Probability/uva-general-rules-956-nl/uva-general-rules-956-nl.Rmd
-1656 exextra[Type]:  SQRscripts//Probability/uva-general-rules-957-nl/uva-general-rules-957-nl.Rmd
-1658 exextra[Type]:  SQRscripts//Probability/uva-independent-events-1063-nl/uva-independent-events-1063-nl.Rmd
-1661 exextra[Type]:  SQRscripts//Probability/uva-independent-events-1089-nl/uva-independent-events-1089-nl.Rmd
-1662 exextra[Type]:  SQRscripts//Probability/uva-independent-events-1090-nl/uva-independent-events-1090-nl.Rmd
-1663 exextra[Type]:  SQRscripts//Probability/uva-independent-events-1091-nl/uva-independent-events-1091-nl.Rmd
-1664 exextra[Type]:  SQRscripts//Probability/uva-independent-events-1102-nl/uva-independent-events-1102-nl.Rmd
-1685 exextra[Type]:  SQRscripts//Probability/uva-independent-events-726-nl/uva-independent-events-726-nl.Rmd
-1700 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-1096-nl/uva-multiplication-rule-1096-nl.Rmd
-1701 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-1097-nl/uva-multiplication-rule-1097-nl.Rmd
-1703 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-1109-nl/uva-multiplication-rule-1109-nl.Rmd
-1704 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-1112-nl/uva-multiplication-rule-1112-nl.Rmd
-1705 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-1113-nl/uva-multiplication-rule-1113-nl.Rmd
-1706 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-1115-nl/uva-multiplication-rule-1115-nl.Rmd
-1721 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-663-nl/uva-multiplication-rule-663-nl.Rmd
-1722 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-664-nl/uva-multiplication-rule-664-nl.Rmd
-1725 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-682-nl/uva-multiplication-rule-682-nl.Rmd
-1726 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-683-nl/uva-multiplication-rule-683-nl.Rmd
-1727 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-699-nl/uva-multiplication-rule-699-nl.Rmd
-1728 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-702-nl/uva-multiplication-rule-702-nl.Rmd
-1729 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-703-nl/uva-multiplication-rule-703-nl.Rmd
-1732 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-721-nl/uva-multiplication-rule-721-nl.Rmd
-1734 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-736-nl/uva-multiplication-rule-736-nl.Rmd
-1735 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-761-nl/uva-multiplication-rule-761-nl.Rmd
-1736 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-776-nl/uva-multiplication-rule-776-nl.Rmd
-1740 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-927-nl/uva-multiplication-rule-927-nl.Rmd
-1741 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-928-nl/uva-multiplication-rule-928-nl.Rmd
-1742 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-929-nl/uva-multiplication-rule-929-nl.Rmd
-1743 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-935-nl/uva-multiplication-rule-935-nl.Rmd
-1744 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-936-nl/uva-multiplication-rule-936-nl.Rmd
-1745 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-941-nl/uva-multiplication-rule-941-nl.Rmd
-1746 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-942-nl/uva-multiplication-rule-942-nl.Rmd
-1747 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-944-nl/uva-multiplication-rule-944-nl.Rmd
-1748 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-945-nl/uva-multiplication-rule-945-nl.Rmd
-1749 exextra[Type]:  SQRscripts//Probability/uva-multiplication-rule-959-nl/uva-multiplication-rule-959-nl.Rmd
-1756 exextra[Type]:  SQRscripts//Probability/uva-random-variables-1073-nl/uva-random-variables-1073-nl.Rmd
-1770 exextra[Type]:  SQRscripts//Probability/uva-random-variables-144-nl/uva-random-variables-144-nl.Rmd
-1778 exextra[Type]:  SQRscripts//Probability/uva-random-variables-301-nl/uva-random-variables-301-nl.Rmd
-1797 exextra[Type]:  SQRscripts//Probability/uva-rules-for-expected-values-1083-nl/uva-rules-for-expected-values-1083-nl.Rmd
-1798 exextra[Type]:  SQRscripts//Probability/uva-rules-for-expected-values-1103-nl/uva-rules-for-expected-values-1103-nl.Rmd
-1799 exextra[Type]:  SQRscripts//Probability/uva-rules-for-expected-values-1110-nl/uva-rules-for-expected-values-1110-nl.Rmd
-1803 exextra[Type]:  SQRscripts//Probability/uva-rules-for-expected-values-38-nl/uva-rules-for-expected-values-38-nl.Rmd
-1813 exextra[Type]:  SQRscripts//Probability/uva-rules-for-expected-values-773-nl/uva-rules-for-expected-values-773-nl.Rmd
-1815 exextra[Type]:  SQRscripts//Probability/uva-rules-for-expected-values-921-nl/uva-rules-for-expected-values-921-nl.Rmd
-1816 exextra[Type]:  SQRscripts//Probability/uva-rules-for-expected-values-922-nl/uva-rules-for-expected-values-922-nl.Rmd
-1817 exextra[Type]:  SQRscripts//Probability/uva-rules-for-expected-values-923-nl/uva-rules-for-expected-values-923-nl.Rmd
-1818 exextra[Type]:  SQRscripts//Probability/uva-rules-for-expected-values-924-nl/uva-rules-for-expected-values-924-nl.Rmd
-1819 exextra[Type]:  SQRscripts//Probability/uva-rules-for-expected-values-925-nl/uva-rules-for-expected-values-925-nl.Rmd
-1820 exextra[Type]:  SQRscripts//Probability/uva-rules-for-expected-values-926-nl/uva-rules-for-expected-values-926-nl.Rmd
-1831 exextra[Type]:  SQRscripts//Probability/uva-sample-space-1087-nl/uva-sample-space-1087-nl.Rmd
-1833 exextra[Type]:  SQRscripts//Probability/uva-sample-space-1328-nl/uva-sample-space-1328-nl.Rmd
-1835 exextra[Type]:  SQRscripts//Probability/uva-sample-space-202-nl/uva-sample-space-202-nl.Rmd
-1843 exextra[Type]:  SQRscripts//Probability/uva-sample-space-764-nl/uva-sample-space-764-nl.Rmd
-1847 exextra[Type]:  SQRscripts//Probability/uva-sample-space-964-nl/uva-sample-space-964-nl.Rmd
-1848 exextra[Type]:  SQRscripts//Probability/uva-sample-space-965-nl/uva-sample-space-965-nl.Rmd
-1862 exextra[Type]:  SQRscripts//Probability/uva-variance-1069-nl/uva-variance-1069-nl.Rmd
-1865 exextra[Type]:  SQRscripts//Probability/uva-variance-1093-nl/uva-variance-1093-nl.Rmd
-1866 exextra[Type]:  SQRscripts//Probability/uva-variance-1094-nl/uva-variance-1094-nl.Rmd
-1867 exextra[Type]:  SQRscripts//Probability/uva-variance-1095-nl/uva-variance-1095-nl.Rmd
-1868 exextra[Type]:  SQRscripts//Probability/uva-variance-1125-nl/uva-variance-1125-nl.Rmd
-1869 exextra[Type]:  SQRscripts//Probability/uva-variance-1274-nl/uva-variance-1274-nl.Rmd
-1870 exextra[Type]:  SQRscripts//Probability/uva-variance-1275-nl/uva-variance-1275-nl.Rmd
-1871 exextra[Type]:  SQRscripts//Probability/uva-variance-1356-nl/uva-variance-1356-nl.Rmd
-1872 exextra[Type]:  SQRscripts//Probability/uva-variance-1358-nl/uva-variance-1358-nl.Rmd
-1874 exextra[Type]:  SQRscripts//Probability/uva-variance-740-nl/uva-variance-740-nl.Rmd
-1875 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1141-nl/uva-taxonomyerror--1141-nl.Rmd
-1882 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1148-nl/uva-taxonomyerror--1148-nl.Rmd
-1883 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1149-nl/uva-taxonomyerror--1149-nl.Rmd
-1884 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1150-nl/uva-taxonomyerror--1150-nl.Rmd
-1885 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1151-nl/uva-taxonomyerror--1151-nl.Rmd
-1886 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1152-nl/uva-taxonomyerror--1152-nl.Rmd
-1887 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1153-nl/uva-taxonomyerror--1153-nl.Rmd
-1888 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1154-nl/uva-taxonomyerror--1154-nl.Rmd
-1889 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1155-nl/uva-taxonomyerror--1155-nl.Rmd
-1890 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1156-nl/uva-taxonomyerror--1156-nl.Rmd
-1899 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1165-nl/uva-taxonomyerror--1165-nl.Rmd
-1900 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1166-nl/uva-taxonomyerror--1166-nl.Rmd
-1901 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1167-nl/uva-taxonomyerror--1167-nl.Rmd
-1902 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1168-nl/uva-taxonomyerror--1168-nl.Rmd
-1903 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1169-nl/uva-taxonomyerror--1169-nl.Rmd
-1904 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1170-nl/uva-taxonomyerror--1170-nl.Rmd
-1905 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1171-nl/uva-taxonomyerror--1171-nl.Rmd
-1906 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1172-nl/uva-taxonomyerror--1172-nl.Rmd
-1907 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1173-nl/uva-taxonomyerror--1173-nl.Rmd
-1908 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1174-nl/uva-taxonomyerror--1174-nl.Rmd
-1909 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1175-nl/uva-taxonomyerror--1175-nl.Rmd
-1910 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1176-nl/uva-taxonomyerror--1176-nl.Rmd
-1911 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1177-nl/uva-taxonomyerror--1177-nl.Rmd
-1912 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1178-nl/uva-taxonomyerror--1178-nl.Rmd
-1913 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1179-nl/uva-taxonomyerror--1179-nl.Rmd
-1915 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1181-nl/uva-taxonomyerror--1181-nl.Rmd
-1916 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1182-nl/uva-taxonomyerror--1182-nl.Rmd
-1917 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1183-nl/uva-taxonomyerror--1183-nl.Rmd
-1918 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1184-nl/uva-taxonomyerror--1184-nl.Rmd
-1919 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1185-nl/uva-taxonomyerror--1185-nl.Rmd
-1920 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1186-nl/uva-taxonomyerror--1186-nl.Rmd
-1921 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1187-nl/uva-taxonomyerror--1187-nl.Rmd
-1922 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1188-nl/uva-taxonomyerror--1188-nl.Rmd
-1923 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1189-nl/uva-taxonomyerror--1189-nl.Rmd
-1924 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1190-nl/uva-taxonomyerror--1190-nl.Rmd
-1925 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1191-nl/uva-taxonomyerror--1191-nl.Rmd
-1926 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1192-nl/uva-taxonomyerror--1192-nl.Rmd
-1927 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1193-nl/uva-taxonomyerror--1193-nl.Rmd
-1928 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1194-nl/uva-taxonomyerror--1194-nl.Rmd
-1929 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1195-nl/uva-taxonomyerror--1195-nl.Rmd
-1930 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1196-nl/uva-taxonomyerror--1196-nl.Rmd
-1931 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1197-nl/uva-taxonomyerror--1197-nl.Rmd
-1932 exextra[Type]:  SQRscripts//taxonomyError /uva-taxonomyerror--1198-nl/uva-taxonomyerror--1198-nl.Rmd
+7 open "SQRscripts/Descriptive statistics/uva-bar-graph-319-nl/uva-bar-graph-319-nl.Rmd"
+13 open "SQRscripts/Descriptive statistics/uva-boxplot-1209-nl/uva-boxplot-1209-nl.Rmd"
+14 open "SQRscripts/Descriptive statistics/uva-boxplot-1212-nl/uva-boxplot-1212-nl.Rmd"
+17 open "SQRscripts/Descriptive statistics/uva-correlation-1226-nl/uva-correlation-1226-nl.Rmd"
+18 open "SQRscripts/Descriptive statistics/uva-correlation-1227-nl/uva-correlation-1227-nl.Rmd"
+82 open "SQRscripts/Descriptive statistics/uva-correlation-216-nl/uva-correlation-216-nl.Rmd"
+102 open "SQRscripts/Descriptive statistics/uva-descriptive-statistics-284-nl/uva-descriptive-statistics-284-nl.Rmd"
+103 open "SQRscripts/Descriptive statistics/uva-descriptive-statistics-435-nl/uva-descriptive-statistics-435-nl.Rmd"
+111 open "SQRscripts/Descriptive statistics/uva-histogram-1215-nl/uva-histogram-1215-nl.Rmd"
+112 open "SQRscripts/Descriptive statistics/uva-histogram-1239-nl/uva-histogram-1239-nl.Rmd"
+113 open "SQRscripts/Descriptive statistics/uva-histogram-1240-nl/uva-histogram-1240-nl.Rmd"
+114 open "SQRscripts/Descriptive statistics/uva-histogram-1241-nl/uva-histogram-1241-nl.Rmd"
+115 open "SQRscripts/Descriptive statistics/uva-histogram-1242-nl/uva-histogram-1242-nl.Rmd"
+116 open "SQRscripts/Descriptive statistics/uva-histogram-1243-nl/uva-histogram-1243-nl.Rmd"
+117 open "SQRscripts/Descriptive statistics/uva-histogram-1244-nl/uva-histogram-1244-nl.Rmd"
+118 open "SQRscripts/Descriptive statistics/uva-histogram-1245-nl/uva-histogram-1245-nl.Rmd"
+119 open "SQRscripts/Descriptive statistics/uva-histogram-1246-nl/uva-histogram-1246-nl.Rmd"
+120 open "SQRscripts/Descriptive statistics/uva-histogram-1247-nl/uva-histogram-1247-nl.Rmd"
+121 open "SQRscripts/Descriptive statistics/uva-histogram-1248-nl/uva-histogram-1248-nl.Rmd"
+122 open "SQRscripts/Descriptive statistics/uva-histogram-1249-nl/uva-histogram-1249-nl.Rmd"
+123 open "SQRscripts/Descriptive statistics/uva-histogram-1250-nl/uva-histogram-1250-nl.Rmd"
+124 open "SQRscripts/Descriptive statistics/uva-histogram-1251-nl/uva-histogram-1251-nl.Rmd"
+125 open "SQRscripts/Descriptive statistics/uva-histogram-1252-nl/uva-histogram-1252-nl.Rmd"
+126 open "SQRscripts/Descriptive statistics/uva-histogram-472-nl/uva-histogram-472-nl.Rmd"
+148 open "SQRscripts/Descriptive statistics/uva-mean-581-nl/uva-mean-581-nl.Rmd"
+150 open "SQRscripts/Descriptive statistics/uva-mean-587-nl/uva-mean-587-nl.Rmd"
+152 open "SQRscripts/Descriptive statistics/uva-mean-617-nl/uva-mean-617-nl.Rmd"
+162 open "SQRscripts/Descriptive statistics/uva-measures-of-location-146-nl/uva-measures-of-location-146-nl.Rmd"
+164 open "SQRscripts/Descriptive statistics/uva-measures-of-location-180-nl/uva-measures-of-location-180-nl.Rmd"
+167 open "SQRscripts/Descriptive statistics/uva-measures-of-location-200-nl/uva-measures-of-location-200-nl.Rmd"
+171 open "SQRscripts/Descriptive statistics/uva-measures-of-location-23-nl/uva-measures-of-location-23-nl.Rmd"
+174 open "SQRscripts/Descriptive statistics/uva-measures-of-location-251-nl/uva-measures-of-location-251-nl.Rmd"
+175 open "SQRscripts/Descriptive statistics/uva-measures-of-location-26-nl/uva-measures-of-location-26-nl.Rmd"
+176 open "SQRscripts/Descriptive statistics/uva-measures-of-location-267-nl/uva-measures-of-location-267-nl.Rmd"
+178 open "SQRscripts/Descriptive statistics/uva-measures-of-location-324-nl/uva-measures-of-location-324-nl.Rmd"
+181 open "SQRscripts/Descriptive statistics/uva-measures-of-location-363-nl/uva-measures-of-location-363-nl.Rmd"
+183 open "SQRscripts/Descriptive statistics/uva-measures-of-location-384-nl/uva-measures-of-location-384-nl.Rmd"
+184 open "SQRscripts/Descriptive statistics/uva-measures-of-location-390-nl/uva-measures-of-location-390-nl.Rmd"
+186 open "SQRscripts/Descriptive statistics/uva-measures-of-location-424-nl/uva-measures-of-location-424-nl.Rmd"
+187 open "SQRscripts/Descriptive statistics/uva-measures-of-location-438-nl/uva-measures-of-location-438-nl.Rmd"
+188 open "SQRscripts/Descriptive statistics/uva-measures-of-location-455-nl/uva-measures-of-location-455-nl.Rmd"
+190 open "SQRscripts/Descriptive statistics/uva-measures-of-location-481-nl/uva-measures-of-location-481-nl.Rmd"
+191 open "SQRscripts/Descriptive statistics/uva-measures-of-location-522-nl/uva-measures-of-location-522-nl.Rmd"
+192 open "SQRscripts/Descriptive statistics/uva-measures-of-location-56-nl/uva-measures-of-location-56-nl.Rmd"
+193 open "SQRscripts/Descriptive statistics/uva-measures-of-location-594-nl/uva-measures-of-location-594-nl.Rmd"
+197 open "SQRscripts/Descriptive statistics/uva-measures-of-spread-141-nl/uva-measures-of-spread-141-nl.Rmd"
+201 open "SQRscripts/Descriptive statistics/uva-measures-of-spread-478-nl/uva-measures-of-spread-478-nl.Rmd"
+208 open "SQRscripts/Descriptive statistics/uva-median-254-nl/uva-median-254-nl.Rmd"
+215 open "SQRscripts/Descriptive statistics/uva-median-527-nl/uva-median-527-nl.Rmd"
+216 open "SQRscripts/Descriptive statistics/uva-median-612-nl/uva-median-612-nl.Rmd"
+235 open "SQRscripts/Descriptive statistics/uva-scatterplot-1220-nl/uva-scatterplot-1220-nl.Rmd"
+240 open "SQRscripts/Descriptive statistics/uva-scatterplot-1254-nl/uva-scatterplot-1254-nl.Rmd"
+242 open "SQRscripts/Descriptive statistics/uva-scatterplot-1256-nl/uva-scatterplot-1256-nl.Rmd"
+267 open "SQRscripts/Descriptive statistics/uva-standard-deviation-392-nl/uva-standard-deviation-392-nl.Rmd"
+287 open "SQRscripts/Descriptive statistics/uva-standard-deviation-585-nl/uva-standard-deviation-585-nl.Rmd"
+303 open "SQRscripts/Descriptive statistics/uva-variance-258-nl/uva-variance-258-nl.Rmd"
+304 open "SQRscripts/Descriptive statistics/uva-variance-260-nl/uva-variance-260-nl.Rmd"
+306 open "SQRscripts/Descriptive statistics/uva-variance-298-nl/uva-variance-298-nl.Rmd"
+310 open "SQRscripts/Descriptive statistics/uva-variance-338-nl/uva-variance-338-nl.Rmd"
+321 open "SQRscripts/Descriptive statistics/uva-variance-515-nl/uva-variance-515-nl.Rmd"
+327 open "SQRscripts/Descriptive statistics/uva-variance-616-nl/uva-variance-616-nl.Rmd"
+333 open "SQRscripts/Distributions/uva-binomial-1034-nl/uva-binomial-1034-nl.Rmd"
+334 open "SQRscripts/Distributions/uva-binomial-1035-nl/uva-binomial-1035-nl.Rmd"
+335 open "SQRscripts/Distributions/uva-binomial-1036-nl/uva-binomial-1036-nl.Rmd"
+339 open "SQRscripts/Distributions/uva-binomial-1050-nl/uva-binomial-1050-nl.Rmd"
+341 open "SQRscripts/Distributions/uva-binomial-1052-nl/uva-binomial-1052-nl.Rmd"
+342 open "SQRscripts/Distributions/uva-binomial-1053-nl/uva-binomial-1053-nl.Rmd"
+343 open "SQRscripts/Distributions/uva-binomial-1054-nl/uva-binomial-1054-nl.Rmd"
+344 open "SQRscripts/Distributions/uva-binomial-1055-nl/uva-binomial-1055-nl.Rmd"
+345 open "SQRscripts/Distributions/uva-binomial-1056-nl/uva-binomial-1056-nl.Rmd"
+346 open "SQRscripts/Distributions/uva-binomial-1057-nl/uva-binomial-1057-nl.Rmd"
+347 open "SQRscripts/Distributions/uva-binomial-1058-nl/uva-binomial-1058-nl.Rmd"
+354 open "SQRscripts/Distributions/uva-binomial-723-nl/uva-binomial-723-nl.Rmd"
+355 open "SQRscripts/Distributions/uva-binomial-724-nl/uva-binomial-724-nl.Rmd"
+356 open "SQRscripts/Distributions/uva-binomial-733-nl/uva-binomial-733-nl.Rmd"
+357 open "SQRscripts/Distributions/uva-binomial-753-nl/uva-binomial-753-nl.Rmd"
+358 open "SQRscripts/Distributions/uva-binomial-754-nl/uva-binomial-754-nl.Rmd"
+359 open "SQRscripts/Distributions/uva-binomial-755-nl/uva-binomial-755-nl.Rmd"
+360 open "SQRscripts/Distributions/uva-binomial-756-nl/uva-binomial-756-nl.Rmd"
+361 open "SQRscripts/Distributions/uva-binomial-757-nl/uva-binomial-757-nl.Rmd"
+362 open "SQRscripts/Distributions/uva-binomial-758-nl/uva-binomial-758-nl.Rmd"
+363 open "SQRscripts/Distributions/uva-central-limit-theorem-1281-nl/uva-central-limit-theorem-1281-nl.Rmd"
+364 open "SQRscripts/Distributions/uva-central-limit-theorem-1282-nl/uva-central-limit-theorem-1282-nl.Rmd"
+365 open "SQRscripts/Distributions/uva-central-limit-theorem-1283-nl/uva-central-limit-theorem-1283-nl.Rmd"
+366 open "SQRscripts/Distributions/uva-central-limit-theorem-1284-nl/uva-central-limit-theorem-1284-nl.Rmd"
+370 open "SQRscripts/Distributions/uva-central-limit-theorem-1294-nl/uva-central-limit-theorem-1294-nl.Rmd"
+371 open "SQRscripts/Distributions/uva-central-limit-theorem-1310-nl/uva-central-limit-theorem-1310-nl.Rmd"
+372 open "SQRscripts/Distributions/uva-central-limit-theorem-1364-nl/uva-central-limit-theorem-1364-nl.Rmd"
+373 open "SQRscripts/Distributions/uva-central-limit-theorem-1365-nl/uva-central-limit-theorem-1365-nl.Rmd"
+374 open "SQRscripts/Distributions/uva-central-limit-theorem-1366-nl/uva-central-limit-theorem-1366-nl.Rmd"
+375 open "SQRscripts/Distributions/uva-central-limit-theorem-1373-nl/uva-central-limit-theorem-1373-nl.Rmd"
+435 open "SQRscripts/Distributions/uva-normal-1071-nl/uva-normal-1071-nl.Rmd"
+440 open "SQRscripts/Distributions/uva-normal-1276-nl/uva-normal-1276-nl.Rmd"
+441 open "SQRscripts/Distributions/uva-normal-1277-nl/uva-normal-1277-nl.Rmd"
+442 open "SQRscripts/Distributions/uva-normal-1278-nl/uva-normal-1278-nl.Rmd"
+443 open "SQRscripts/Distributions/uva-normal-1279-nl/uva-normal-1279-nl.Rmd"
+444 open "SQRscripts/Distributions/uva-normal-1280-nl/uva-normal-1280-nl.Rmd"
+450 open "SQRscripts/Distributions/uva-normal-1324-nl/uva-normal-1324-nl.Rmd"
+454 open "SQRscripts/Distributions/uva-normal-1332-nl/uva-normal-1332-nl.Rmd"
+455 open "SQRscripts/Distributions/uva-normal-1333-nl/uva-normal-1333-nl.Rmd"
+456 open "SQRscripts/Distributions/uva-normal-1334-nl/uva-normal-1334-nl.Rmd"
+457 open "SQRscripts/Distributions/uva-normal-1335-nl/uva-normal-1335-nl.Rmd"
+458 open "SQRscripts/Distributions/uva-normal-1336-nl/uva-normal-1336-nl.Rmd"
+460 open "SQRscripts/Distributions/uva-normal-1338-nl/uva-normal-1338-nl.Rmd"
+461 open "SQRscripts/Distributions/uva-normal-1339-nl/uva-normal-1339-nl.Rmd"
+462 open "SQRscripts/Distributions/uva-normal-1340-nl/uva-normal-1340-nl.Rmd"
+463 open "SQRscripts/Distributions/uva-normal-1341-nl/uva-normal-1341-nl.Rmd"
+464 open "SQRscripts/Distributions/uva-normal-1342-nl/uva-normal-1342-nl.Rmd"
+465 open "SQRscripts/Distributions/uva-normal-1343-nl/uva-normal-1343-nl.Rmd"
+466 open "SQRscripts/Distributions/uva-normal-1344-nl/uva-normal-1344-nl.Rmd"
+467 open "SQRscripts/Distributions/uva-normal-1345-nl/uva-normal-1345-nl.Rmd"
+468 open "SQRscripts/Distributions/uva-normal-1346-nl/uva-normal-1346-nl.Rmd"
+469 open "SQRscripts/Distributions/uva-normal-1349-nl/uva-normal-1349-nl.Rmd"
+471 open "SQRscripts/Distributions/uva-normal-1350-nl/uva-normal-1350-nl.Rmd"
+472 open "SQRscripts/Distributions/uva-normal-1351-nl/uva-normal-1351-nl.Rmd"
+473 open "SQRscripts/Distributions/uva-normal-1352-nl/uva-normal-1352-nl.Rmd"
+474 open "SQRscripts/Distributions/uva-normal-1353-nl/uva-normal-1353-nl.Rmd"
+475 open "SQRscripts/Distributions/uva-normal-1354-nl/uva-normal-1354-nl.Rmd"
+476 open "SQRscripts/Distributions/uva-normal-1363-nl/uva-normal-1363-nl.Rmd"
+477 open "SQRscripts/Distributions/uva-normal-1367-nl/uva-normal-1367-nl.Rmd"
+478 open "SQRscripts/Distributions/uva-normal-1368-nl/uva-normal-1368-nl.Rmd"
+479 open "SQRscripts/Distributions/uva-normal-1369-nl/uva-normal-1369-nl.Rmd"
+480 open "SQRscripts/Distributions/uva-normal-1370-nl/uva-normal-1370-nl.Rmd"
+482 open "SQRscripts/Distributions/uva-normal-1379-nl/uva-normal-1379-nl.Rmd"
+487 open "SQRscripts/Distributions/uva-normal-262-nl/uva-normal-262-nl.Rmd"
+506 open "SQRscripts/Distributions/uva-normal-647-nl/uva-normal-647-nl.Rmd"
+508 open "SQRscripts/Distributions/uva-normal-approximation-to-binomial-1068-nl/uva-normal-approximation-to-binomial-1068-nl.Rmd"
+509 open "SQRscripts/Distributions/uva-normal-approximation-to-binomial-1126-nl/uva-normal-approximation-to-binomial-1126-nl.Rmd"
+510 open "SQRscripts/Distributions/uva-normal-approximation-to-binomial-1127-nl/uva-normal-approximation-to-binomial-1127-nl.Rmd"
+512 open "SQRscripts/Distributions/uva-uniform-1118-nl/uva-uniform-1118-nl.Rmd"
+513 open "SQRscripts/Distributions/uva-uniform-1119-nl/uva-uniform-1119-nl.Rmd"
+514 open "SQRscripts/Distributions/uva-uniform-1130-nl/uva-uniform-1130-nl.Rmd"
+516 open "SQRscripts/Distributions/uva-uniform-1132-nl/uva-uniform-1132-nl.Rmd"
+517 open "SQRscripts/Distributions/uva-uniform-1133-nl/uva-uniform-1133-nl.Rmd"
+523 open "SQRscripts/Distributions/uva-uniform-644-nl/uva-uniform-644-nl.Rmd"
+526 open "SQRscripts/Distributions/uva-uniform-711-nl/uva-uniform-711-nl.Rmd"
+527 open "SQRscripts/Distributions/uva-uniform-712-nl/uva-uniform-712-nl.Rmd"
+528 open "SQRscripts/Distributions/uva-uniform-713-nl/uva-uniform-713-nl.Rmd"
+533 open "SQRscripts/Inferential Statistics/uva-bayesian-statistics-747-nl/uva-bayesian-statistics-747-nl.Rmd"
+538 open "SQRscripts/Inferential Statistics/uva-bayesian-statistics-967-nl/uva-bayesian-statistics-967-nl.Rmd"
+539 open "SQRscripts/Inferential Statistics/uva-bayesian-statistics-968-nl/uva-bayesian-statistics-968-nl.Rmd"
+540 open "SQRscripts/Inferential Statistics/uva-bayesian-statistics-969-nl/uva-bayesian-statistics-969-nl.Rmd"
+541 open "SQRscripts/Inferential Statistics/uva-bayesian-statistics-970-nl/uva-bayesian-statistics-970-nl.Rmd"
+542 open "SQRscripts/Inferential Statistics/uva-bayesian-statistics-971-nl/uva-bayesian-statistics-971-nl.Rmd"
+543 open "SQRscripts/Inferential Statistics/uva-bayesian-statistics-972-nl/uva-bayesian-statistics-972-nl.Rmd"
+544 open "SQRscripts/Inferential Statistics/uva-bayesian-statistics-973-nl/uva-bayesian-statistics-973-nl.Rmd"
+545 open "SQRscripts/Inferential Statistics/uva-bayesian-statistics-974-nl/uva-bayesian-statistics-974-nl.Rmd"
+546 open "SQRscripts/Inferential Statistics/uva-bayesian-statistics-979-nl/uva-bayesian-statistics-979-nl.Rmd"
+547 open "SQRscripts/Inferential Statistics/uva-bayesian-statistics-980-nl/uva-bayesian-statistics-980-nl.Rmd"
+552 open "SQRscripts/Inferential Statistics/uva-bayesian-statistics-985-nl/uva-bayesian-statistics-985-nl.Rmd"
+553 open "SQRscripts/Inferential Statistics/uva-bayesian-statistics-986-nl/uva-bayesian-statistics-986-nl.Rmd"
+554 open "SQRscripts/Inferential Statistics/uva-bayesian-statistics-987-nl/uva-bayesian-statistics-987-nl.Rmd"
+675 open "SQRscripts/Inferential Statistics/uva-confidence-level-882-nl/uva-confidence-level-882-nl.Rmd"
+676 open "SQRscripts/Inferential Statistics/uva-confidence-level-883-nl/uva-confidence-level-883-nl.Rmd"
+677 open "SQRscripts/Inferential Statistics/uva-confidence-level-884-nl/uva-confidence-level-884-nl.Rmd"
+678 open "SQRscripts/Inferential Statistics/uva-confidence-level-885-nl/uva-confidence-level-885-nl.Rmd"
+688 open "SQRscripts/Inferential Statistics/uva-equation-1230-nl/uva-equation-1230-nl.Rmd"
+689 open "SQRscripts/Inferential Statistics/uva-equation-1231-nl/uva-equation-1231-nl.Rmd"
+691 open "SQRscripts/Inferential Statistics/uva-equation-1385-nl/uva-equation-1385-nl.Rmd"
+745 open "SQRscripts/Inferential Statistics/uva-equation-220-nl/uva-equation-220-nl.Rmd"
+746 open "SQRscripts/Inferential Statistics/uva-equation-287-nl/uva-equation-287-nl.Rmd"
+747 open "SQRscripts/Inferential Statistics/uva-equation-288-nl/uva-equation-288-nl.Rmd"
+750 open "SQRscripts/Inferential Statistics/uva-equation-507-nl/uva-equation-507-nl.Rmd"
+755 open "SQRscripts/Inferential Statistics/uva-independent-samples-means-172-nl/uva-independent-samples-means-172-nl.Rmd"
+757 open "SQRscripts/Inferential Statistics/uva-independent-samples-means-249-nl/uva-independent-samples-means-249-nl.Rmd"
+758 open "SQRscripts/Inferential Statistics/uva-independent-samples-means-279-nl/uva-independent-samples-means-279-nl.Rmd"
+763 open "SQRscripts/Inferential Statistics/uva-independent-samples-means-321-nl/uva-independent-samples-means-321-nl.Rmd"
+764 open "SQRscripts/Inferential Statistics/uva-independent-samples-means-322-nl/uva-independent-samples-means-322-nl.Rmd"
+768 open "SQRscripts/Inferential Statistics/uva-independent-samples-means-407-nl/uva-independent-samples-means-407-nl.Rmd"
+769 open "SQRscripts/Inferential Statistics/uva-independent-samples-means-433-nl/uva-independent-samples-means-433-nl.Rmd"
+771 open "SQRscripts/Inferential Statistics/uva-independent-samples-means-45-nl/uva-independent-samples-means-45-nl.Rmd"
+775 open "SQRscripts/Inferential Statistics/uva-independent-samples-means-534-nl/uva-independent-samples-means-534-nl.Rmd"
+778 open "SQRscripts/Inferential Statistics/uva-independent-samples-means-632-nl/uva-independent-samples-means-632-nl.Rmd"
+779 open "SQRscripts/Inferential Statistics/uva-independent-samples-means-789-nl/uva-independent-samples-means-789-nl.Rmd"
+810 open "SQRscripts/Inferential Statistics/uva-inferential-statistics-371-nl/uva-inferential-statistics-371-nl.Rmd"
+829 open "SQRscripts/Inferential Statistics/uva-null-hypothesis-516-nl/uva-null-hypothesis-516-nl.Rmd"
+832 open "SQRscripts/Inferential Statistics/uva-one-sample-mean-307-nl/uva-one-sample-mean-307-nl.Rmd"
+836 open "SQRscripts/Inferential Statistics/uva-one-sample-mean-364-nl/uva-one-sample-mean-364-nl.Rmd"
+837 open "SQRscripts/Inferential Statistics/uva-one-sample-mean-389-nl/uva-one-sample-mean-389-nl.Rmd"
+839 open "SQRscripts/Inferential Statistics/uva-one-sample-mean-403-nl/uva-one-sample-mean-403-nl.Rmd"
+840 open "SQRscripts/Inferential Statistics/uva-one-sample-mean-439-nl/uva-one-sample-mean-439-nl.Rmd"
+841 open "SQRscripts/Inferential Statistics/uva-one-sample-mean-538-nl/uva-one-sample-mean-538-nl.Rmd"
+850 open "SQRscripts/Inferential Statistics/uva-oneway-anova-114-nl/uva-oneway-anova-114-nl.Rmd"
+851 open "SQRscripts/Inferential Statistics/uva-oneway-anova-170-nl/uva-oneway-anova-170-nl.Rmd"
+852 open "SQRscripts/Inferential Statistics/uva-oneway-anova-173-nl/uva-oneway-anova-173-nl.Rmd"
+859 open "SQRscripts/Inferential Statistics/uva-oneway-anova-330-nl/uva-oneway-anova-330-nl.Rmd"
+865 open "SQRscripts/Inferential Statistics/uva-oneway-anova-367-nl/uva-oneway-anova-367-nl.Rmd"
+875 open "SQRscripts/Inferential Statistics/uva-oneway-anova-542-nl/uva-oneway-anova-542-nl.Rmd"
+880 open "SQRscripts/Inferential Statistics/uva-oneway-anova-601-nl/uva-oneway-anova-601-nl.Rmd"
+882 open "SQRscripts/Inferential Statistics/uva-oneway-anova-635-nl/uva-oneway-anova-635-nl.Rmd"
+887 open "SQRscripts/Inferential Statistics/uva-oneway-anova-80-nl/uva-oneway-anova-80-nl.Rmd"
+889 open "SQRscripts/Inferential Statistics/uva-oneway-anova-808-nl/uva-oneway-anova-808-nl.Rmd"
+894 open "SQRscripts/Inferential Statistics/uva-oneway-anova-97-nl/uva-oneway-anova-97-nl.Rmd"
+946 open "SQRscripts/Inferential Statistics/uva-paired-samples-270-nl/uva-paired-samples-270-nl.Rmd"
+947 open "SQRscripts/Inferential Statistics/uva-paired-samples-271-nl/uva-paired-samples-271-nl.Rmd"
+954 open "SQRscripts/Inferential Statistics/uva-paired-samples-395-nl/uva-paired-samples-395-nl.Rmd"
+970 open "SQRscripts/Inferential Statistics/uva-parametric-techniques-252-nl/uva-parametric-techniques-252-nl.Rmd"
+1030 open "SQRscripts/Inferential Statistics/uva-regression-52-nl/uva-regression-52-nl.Rmd"
+1037 open "SQRscripts/Inferential Statistics/uva-sample-mean-1044-nl/uva-sample-mean-1044-nl.Rmd"
+1038 open "SQRscripts/Inferential Statistics/uva-sample-mean-1045-nl/uva-sample-mean-1045-nl.Rmd"
+1039 open "SQRscripts/Inferential Statistics/uva-sample-mean-1046-nl/uva-sample-mean-1046-nl.Rmd"
+1041 open "SQRscripts/Inferential Statistics/uva-sample-mean-1285-nl/uva-sample-mean-1285-nl.Rmd"
+1042 open "SQRscripts/Inferential Statistics/uva-sample-mean-1286-nl/uva-sample-mean-1286-nl.Rmd"
+1043 open "SQRscripts/Inferential Statistics/uva-sample-mean-1287-nl/uva-sample-mean-1287-nl.Rmd"
+1044 open "SQRscripts/Inferential Statistics/uva-sample-mean-1288-nl/uva-sample-mean-1288-nl.Rmd"
+1045 open "SQRscripts/Inferential Statistics/uva-sample-mean-1300-nl/uva-sample-mean-1300-nl.Rmd"
+1053 open "SQRscripts/Inferential Statistics/uva-sample-mean-1347-nl/uva-sample-mean-1347-nl.Rmd"
+1054 open "SQRscripts/Inferential Statistics/uva-sample-mean-1348-nl/uva-sample-mean-1348-nl.Rmd"
+1055 open "SQRscripts/Inferential Statistics/uva-sample-mean-1355-nl/uva-sample-mean-1355-nl.Rmd"
+1056 open "SQRscripts/Inferential Statistics/uva-sample-mean-1357-nl/uva-sample-mean-1357-nl.Rmd"
+1057 open "SQRscripts/Inferential Statistics/uva-sample-mean-1359-nl/uva-sample-mean-1359-nl.Rmd"
+1058 open "SQRscripts/Inferential Statistics/uva-sample-mean-1360-nl/uva-sample-mean-1360-nl.Rmd"
+1059 open "SQRscripts/Inferential Statistics/uva-sample-mean-1361-nl/uva-sample-mean-1361-nl.Rmd"
+1060 open "SQRscripts/Inferential Statistics/uva-sample-mean-1362-nl/uva-sample-mean-1362-nl.Rmd"
+1062 open "SQRscripts/Inferential Statistics/uva-sample-mean-1374-nl/uva-sample-mean-1374-nl.Rmd"
+1063 open "SQRscripts/Inferential Statistics/uva-sample-mean-1375-nl/uva-sample-mean-1375-nl.Rmd"
+1064 open "SQRscripts/Inferential Statistics/uva-sample-mean-1376-nl/uva-sample-mean-1376-nl.Rmd"
+1065 open "SQRscripts/Inferential Statistics/uva-sample-mean-1377-nl/uva-sample-mean-1377-nl.Rmd"
+1066 open "SQRscripts/Inferential Statistics/uva-sample-mean-1378-nl/uva-sample-mean-1378-nl.Rmd"
+1075 open "SQRscripts/Inferential Statistics/uva-sample-mean-429-nl/uva-sample-mean-429-nl.Rmd"
+1078 open "SQRscripts/Inferential Statistics/uva-sample-mean-484-nl/uva-sample-mean-484-nl.Rmd"
+1080 open "SQRscripts/Inferential Statistics/uva-sample-mean-553-nl/uva-sample-mean-553-nl.Rmd"
+1084 open "SQRscripts/Inferential Statistics/uva-sample-mean-589-nl/uva-sample-mean-589-nl.Rmd"
+1087 open "SQRscripts/Inferential Statistics/uva-sample-mean-619-nl/uva-sample-mean-619-nl.Rmd"
+1127 open "SQRscripts/Inferential Statistics/uva-simple-linear-regression-571-nl/uva-simple-linear-regression-571-nl.Rmd"
+1203 open "SQRscripts/Inferential Statistics/uva-squared-54-nl/uva-squared-54-nl.Rmd"
+1205 open "SQRscripts/Inferential Statistics/uva-squared-787-nl/uva-squared-787-nl.Rmd"
+1207 open "SQRscripts/Inferential Statistics/uva-squared-892-nl/uva-squared-892-nl.Rmd"
+1208 open "SQRscripts/Inferential Statistics/uva-squared-893-nl/uva-squared-893-nl.Rmd"
+1209 open "SQRscripts/Inferential Statistics/uva-squared-894-nl/uva-squared-894-nl.Rmd"
+1210 open "SQRscripts/Inferential Statistics/uva-squared-895-nl/uva-squared-895-nl.Rmd"
+1218 open "SQRscripts/Inferential Statistics/uva-statistical-errors-282-nl/uva-statistical-errors-282-nl.Rmd"
+1221 open "SQRscripts/Inferential Statistics/uva-statistical-errors-560-nl/uva-statistical-errors-560-nl.Rmd"
+1230 open "SQRscripts/Inferential Statistics/uva-test-102-nl/uva-test-102-nl.Rmd"
+1335 open "SQRscripts/Inferential Statistics/uva-test-222-nl/uva-test-222-nl.Rmd"
+1336 open "SQRscripts/Inferential Statistics/uva-test-229-nl/uva-test-229-nl.Rmd"
+1337 open "SQRscripts/Inferential Statistics/uva-test-250-nl/uva-test-250-nl.Rmd"
+1347 open "SQRscripts/Inferential Statistics/uva-test-467-nl/uva-test-467-nl.Rmd"
+1349 open "SQRscripts/Inferential Statistics/uva-test-488-nl/uva-test-488-nl.Rmd"
+1350 open "SQRscripts/Inferential Statistics/uva-test-503-nl/uva-test-503-nl.Rmd"
+1355 open "SQRscripts/Inferential Statistics/uva-test-573-nl/uva-test-573-nl.Rmd"
+1356 open "SQRscripts/Inferential Statistics/uva-test-576-nl/uva-test-576-nl.Rmd"
+1358 open "SQRscripts/Inferential Statistics/uva-test-606-nl/uva-test-606-nl.Rmd"
+1359 open "SQRscripts/Inferential Statistics/uva-test-607-nl/uva-test-607-nl.Rmd"
+1363 open "SQRscripts/Inferential Statistics/uva-test-638-nl/uva-test-638-nl.Rmd"
+1419 open "SQRscripts/Inferential Statistics/uva-two-sided-hypothesis-93-nl/uva-two-sided-hypothesis-93-nl.Rmd"
+1422 open "SQRscripts/Inferential Statistics/uva-twoway-anova-163-nl/uva-twoway-anova-163-nl.Rmd"
+1426 open "SQRscripts/Inferential Statistics/uva-twoway-anova-40-nl/uva-twoway-anova-40-nl.Rmd"
+1427 open "SQRscripts/Inferential Statistics/uva-twoway-anova-65-nl/uva-twoway-anova-65-nl.Rmd"
+1438 open "SQRscripts/Inferential Statistics/uva-value-782-nl/uva-value-782-nl.Rmd"
+1444 open "SQRscripts/Inferential Statistics/uva-value-845-nl/uva-value-845-nl.Rmd"
+1445 open "SQRscripts/Inferential Statistics/uva-value-846-nl/uva-value-846-nl.Rmd"
+1446 open "SQRscripts/Inferential Statistics/uva-value-847-nl/uva-value-847-nl.Rmd"
+1447 open "SQRscripts/Inferential Statistics/uva-value-848-nl/uva-value-848-nl.Rmd"
+1448 open "SQRscripts/Inferential Statistics/uva-value-869-nl/uva-value-869-nl.Rmd"
+1449 open "SQRscripts/Inferential Statistics/uva-value-870-nl/uva-value-870-nl.Rmd"
+1450 open "SQRscripts/Inferential Statistics/uva-value-871-nl/uva-value-871-nl.Rmd"
+1451 open "SQRscripts/Inferential Statistics/uva-value-872-nl/uva-value-872-nl.Rmd"
+1467 open "SQRscripts/Probability/uva-addition-rule-1023-nl/uva-addition-rule-1023-nl.Rmd"
+1468 open "SQRscripts/Probability/uva-addition-rule-1074-nl/uva-addition-rule-1074-nl.Rmd"
+1471 open "SQRscripts/Probability/uva-addition-rule-1108-nl/uva-addition-rule-1108-nl.Rmd"
+1472 open "SQRscripts/Probability/uva-addition-rule-1111-nl/uva-addition-rule-1111-nl.Rmd"
+1480 open "SQRscripts/Probability/uva-addition-rule-678-nl/uva-addition-rule-678-nl.Rmd"
+1481 open "SQRscripts/Probability/uva-addition-rule-681-nl/uva-addition-rule-681-nl.Rmd"
+1482 open "SQRscripts/Probability/uva-addition-rule-745-nl/uva-addition-rule-745-nl.Rmd"
+1483 open "SQRscripts/Probability/uva-addition-rule-750-nl/uva-addition-rule-750-nl.Rmd"
+1484 open "SQRscripts/Probability/uva-addition-rule-762-nl/uva-addition-rule-762-nl.Rmd"
+1486 open "SQRscripts/Probability/uva-addition-rule-878-nl/uva-addition-rule-878-nl.Rmd"
+1487 open "SQRscripts/Probability/uva-addition-rule-879-nl/uva-addition-rule-879-nl.Rmd"
+1488 open "SQRscripts/Probability/uva-addition-rule-880-nl/uva-addition-rule-880-nl.Rmd"
+1489 open "SQRscripts/Probability/uva-addition-rule-881-nl/uva-addition-rule-881-nl.Rmd"
+1490 open "SQRscripts/Probability/uva-addition-rule-930-nl/uva-addition-rule-930-nl.Rmd"
+1491 open "SQRscripts/Probability/uva-addition-rule-943-nl/uva-addition-rule-943-nl.Rmd"
+1494 open "SQRscripts/Probability/uva-conditional-probability-500-nl/uva-conditional-probability-500-nl.Rmd"
+1504 open "SQRscripts/Probability/uva-conditional-probability-615-nl/uva-conditional-probability-615-nl.Rmd"
+1505 open "SQRscripts/Probability/uva-conditional-probability-627-nl/uva-conditional-probability-627-nl.Rmd"
+1506 open "SQRscripts/Probability/uva-conditional-probability-645-nl/uva-conditional-probability-645-nl.Rmd"
+1507 open "SQRscripts/Probability/uva-conditional-probability-661-nl/uva-conditional-probability-661-nl.Rmd"
+1510 open "SQRscripts/Probability/uva-conditional-probability-690-nl/uva-conditional-probability-690-nl.Rmd"
+1511 open "SQRscripts/Probability/uva-conditional-probability-691-nl/uva-conditional-probability-691-nl.Rmd"
+1512 open "SQRscripts/Probability/uva-conditional-probability-692-nl/uva-conditional-probability-692-nl.Rmd"
+1513 open "SQRscripts/Probability/uva-conditional-probability-693-nl/uva-conditional-probability-693-nl.Rmd"
+1514 open "SQRscripts/Probability/uva-conditional-probability-694-nl/uva-conditional-probability-694-nl.Rmd"
+1515 open "SQRscripts/Probability/uva-conditional-probability-696-nl/uva-conditional-probability-696-nl.Rmd"
+1516 open "SQRscripts/Probability/uva-conditional-probability-698-nl/uva-conditional-probability-698-nl.Rmd"
+1518 open "SQRscripts/Probability/uva-conditional-probability-770-nl/uva-conditional-probability-770-nl.Rmd"
+1521 open "SQRscripts/Probability/uva-conditional-probability-932-nl/uva-conditional-probability-932-nl.Rmd"
+1522 open "SQRscripts/Probability/uva-conditional-probability-933-nl/uva-conditional-probability-933-nl.Rmd"
+1523 open "SQRscripts/Probability/uva-conditional-probability-934-nl/uva-conditional-probability-934-nl.Rmd"
+1525 open "SQRscripts/Probability/uva-conditional-probability-948-nl/uva-conditional-probability-948-nl.Rmd"
+1526 open "SQRscripts/Probability/uva-conditional-probability-954-nl/uva-conditional-probability-954-nl.Rmd"
+1527 open "SQRscripts/Probability/uva-conditional-probability-958-nl/uva-conditional-probability-958-nl.Rmd"
+1528 open "SQRscripts/Probability/uva-conditional-probability-960-nl/uva-conditional-probability-960-nl.Rmd"
+1529 open "SQRscripts/Probability/uva-conditional-probability-961-nl/uva-conditional-probability-961-nl.Rmd"
+1543 open "SQRscripts/Probability/uva-elementary-probability-1024-nl/uva-elementary-probability-1024-nl.Rmd"
+1545 open "SQRscripts/Probability/uva-elementary-probability-1027-nl/uva-elementary-probability-1027-nl.Rmd"
+1546 open "SQRscripts/Probability/uva-elementary-probability-1033-nl/uva-elementary-probability-1033-nl.Rmd"
+1549 open "SQRscripts/Probability/uva-elementary-probability-1098-nl/uva-elementary-probability-1098-nl.Rmd"
+1550 open "SQRscripts/Probability/uva-elementary-probability-1099-nl/uva-elementary-probability-1099-nl.Rmd"
+1558 open "SQRscripts/Probability/uva-elementary-probability-643-nl/uva-elementary-probability-643-nl.Rmd"
+1562 open "SQRscripts/Probability/uva-elementary-probability-680-nl/uva-elementary-probability-680-nl.Rmd"
+1564 open "SQRscripts/Probability/uva-elementary-probability-689-nl/uva-elementary-probability-689-nl.Rmd"
+1566 open "SQRscripts/Probability/uva-elementary-probability-706-nl/uva-elementary-probability-706-nl.Rmd"
+1567 open "SQRscripts/Probability/uva-elementary-probability-714-nl/uva-elementary-probability-714-nl.Rmd"
+1568 open "SQRscripts/Probability/uva-elementary-probability-715-nl/uva-elementary-probability-715-nl.Rmd"
+1573 open "SQRscripts/Probability/uva-elementary-probability-749-nl/uva-elementary-probability-749-nl.Rmd"
+1574 open "SQRscripts/Probability/uva-elementary-probability-751-nl/uva-elementary-probability-751-nl.Rmd"
+1575 open "SQRscripts/Probability/uva-elementary-probability-919-nl/uva-elementary-probability-919-nl.Rmd"
+1576 open "SQRscripts/Probability/uva-elementary-probability-920-nl/uva-elementary-probability-920-nl.Rmd"
+1577 open "SQRscripts/Probability/uva-elementary-probability-938-nl/uva-elementary-probability-938-nl.Rmd"
+1578 open "SQRscripts/Probability/uva-elementary-probability-940-nl/uva-elementary-probability-940-nl.Rmd"
+1581 open "SQRscripts/Probability/uva-elementary-probability-950-nl/uva-elementary-probability-950-nl.Rmd"
+1584 open "SQRscripts/Probability/uva-elementary-probability-953-nl/uva-elementary-probability-953-nl.Rmd"
+1585 open "SQRscripts/Probability/uva-elementary-probability-955-nl/uva-elementary-probability-955-nl.Rmd"
+1586 open "SQRscripts/Probability/uva-elementary-probability-962-nl/uva-elementary-probability-962-nl.Rmd"
+1587 open "SQRscripts/Probability/uva-elementary-probability-963-nl/uva-elementary-probability-963-nl.Rmd"
+1588 open "SQRscripts/Probability/uva-elementary-probability-975-nl/uva-elementary-probability-975-nl.Rmd"
+1589 open "SQRscripts/Probability/uva-elementary-probability-977-nl/uva-elementary-probability-977-nl.Rmd"
+1590 open "SQRscripts/Probability/uva-elementary-probability-978-nl/uva-elementary-probability-978-nl.Rmd"
+1599 open "SQRscripts/Probability/uva-events-675-nl/uva-events-675-nl.Rmd"
+1600 open "SQRscripts/Probability/uva-events-676-nl/uva-events-676-nl.Rmd"
+1601 open "SQRscripts/Probability/uva-events-697-nl/uva-events-697-nl.Rmd"
+1604 open "SQRscripts/Probability/uva-events-759-nl/uva-events-759-nl.Rmd"
+1605 open "SQRscripts/Probability/uva-events-760-nl/uva-events-760-nl.Rmd"
+1608 open "SQRscripts/Probability/uva-expected-value-1048-nl/uva-expected-value-1048-nl.Rmd"
+1609 open "SQRscripts/Probability/uva-expected-value-1065-nl/uva-expected-value-1065-nl.Rmd"
+1610 open "SQRscripts/Probability/uva-expected-value-1067-nl/uva-expected-value-1067-nl.Rmd"
+1611 open "SQRscripts/Probability/uva-expected-value-1092-nl/uva-expected-value-1092-nl.Rmd"
+1612 open "SQRscripts/Probability/uva-expected-value-1124-nl/uva-expected-value-1124-nl.Rmd"
+1617 open "SQRscripts/Probability/uva-expected-value-1138-nl/uva-expected-value-1138-nl.Rmd"
+1618 open "SQRscripts/Probability/uva-expected-value-1139-nl/uva-expected-value-1139-nl.Rmd"
+1619 open "SQRscripts/Probability/uva-expected-value-1140-nl/uva-expected-value-1140-nl.Rmd"
+1620 open "SQRscripts/Probability/uva-expected-value-1271-nl/uva-expected-value-1271-nl.Rmd"
+1621 open "SQRscripts/Probability/uva-expected-value-1272-nl/uva-expected-value-1272-nl.Rmd"
+1622 open "SQRscripts/Probability/uva-expected-value-1273-nl/uva-expected-value-1273-nl.Rmd"
+1623 open "SQRscripts/Probability/uva-expected-value-128-nl/uva-expected-value-128-nl.Rmd"
+1626 open "SQRscripts/Probability/uva-expected-value-529-nl/uva-expected-value-529-nl.Rmd"
+1627 open "SQRscripts/Probability/uva-expected-value-530-nl/uva-expected-value-530-nl.Rmd"
+1634 open "SQRscripts/Probability/uva-expected-value-739-nl/uva-expected-value-739-nl.Rmd"
+1635 open "SQRscripts/Probability/uva-expected-value-743-nl/uva-expected-value-743-nl.Rmd"
+1636 open "SQRscripts/Probability/uva-expected-value-744-nl/uva-expected-value-744-nl.Rmd"
+1642 open "SQRscripts/Probability/uva-general-rules-1107-nl/uva-general-rules-1107-nl.Rmd"
+1643 open "SQRscripts/Probability/uva-general-rules-1114-nl/uva-general-rules-1114-nl.Rmd"
+1645 open "SQRscripts/Probability/uva-general-rules-1331-nl/uva-general-rules-1331-nl.Rmd"
+1650 open "SQRscripts/Probability/uva-general-rules-685-nl/uva-general-rules-685-nl.Rmd"
+1651 open "SQRscripts/Probability/uva-general-rules-695-nl/uva-general-rules-695-nl.Rmd"
+1652 open "SQRscripts/Probability/uva-general-rules-746-nl/uva-general-rules-746-nl.Rmd"
+1654 open "SQRscripts/Probability/uva-general-rules-931-nl/uva-general-rules-931-nl.Rmd"
+1655 open "SQRscripts/Probability/uva-general-rules-956-nl/uva-general-rules-956-nl.Rmd"
+1656 open "SQRscripts/Probability/uva-general-rules-957-nl/uva-general-rules-957-nl.Rmd"
+1658 open "SQRscripts/Probability/uva-independent-events-1063-nl/uva-independent-events-1063-nl.Rmd"
+1661 open "SQRscripts/Probability/uva-independent-events-1089-nl/uva-independent-events-1089-nl.Rmd"
+1662 open "SQRscripts/Probability/uva-independent-events-1090-nl/uva-independent-events-1090-nl.Rmd"
+1663 open "SQRscripts/Probability/uva-independent-events-1091-nl/uva-independent-events-1091-nl.Rmd"
+1664 open "SQRscripts/Probability/uva-independent-events-1102-nl/uva-independent-events-1102-nl.Rmd"
+1685 open "SQRscripts/Probability/uva-independent-events-726-nl/uva-independent-events-726-nl.Rmd"
+1700 open "SQRscripts/Probability/uva-multiplication-rule-1096-nl/uva-multiplication-rule-1096-nl.Rmd"
+1701 open "SQRscripts/Probability/uva-multiplication-rule-1097-nl/uva-multiplication-rule-1097-nl.Rmd"
+1703 open "SQRscripts/Probability/uva-multiplication-rule-1109-nl/uva-multiplication-rule-1109-nl.Rmd"
+1704 open "SQRscripts/Probability/uva-multiplication-rule-1112-nl/uva-multiplication-rule-1112-nl.Rmd"
+1705 open "SQRscripts/Probability/uva-multiplication-rule-1113-nl/uva-multiplication-rule-1113-nl.Rmd"
+1706 open "SQRscripts/Probability/uva-multiplication-rule-1115-nl/uva-multiplication-rule-1115-nl.Rmd"
+1721 open "SQRscripts/Probability/uva-multiplication-rule-663-nl/uva-multiplication-rule-663-nl.Rmd"
+1722 open "SQRscripts/Probability/uva-multiplication-rule-664-nl/uva-multiplication-rule-664-nl.Rmd"
+1725 open "SQRscripts/Probability/uva-multiplication-rule-682-nl/uva-multiplication-rule-682-nl.Rmd"
+1726 open "SQRscripts/Probability/uva-multiplication-rule-683-nl/uva-multiplication-rule-683-nl.Rmd"
+1727 open "SQRscripts/Probability/uva-multiplication-rule-699-nl/uva-multiplication-rule-699-nl.Rmd"
+1728 open "SQRscripts/Probability/uva-multiplication-rule-702-nl/uva-multiplication-rule-702-nl.Rmd"
+1729 open "SQRscripts/Probability/uva-multiplication-rule-703-nl/uva-multiplication-rule-703-nl.Rmd"
+1732 open "SQRscripts/Probability/uva-multiplication-rule-721-nl/uva-multiplication-rule-721-nl.Rmd"
+1734 open "SQRscripts/Probability/uva-multiplication-rule-736-nl/uva-multiplication-rule-736-nl.Rmd"
+1735 open "SQRscripts/Probability/uva-multiplication-rule-761-nl/uva-multiplication-rule-761-nl.Rmd"
+1736 open "SQRscripts/Probability/uva-multiplication-rule-776-nl/uva-multiplication-rule-776-nl.Rmd"
+1740 open "SQRscripts/Probability/uva-multiplication-rule-927-nl/uva-multiplication-rule-927-nl.Rmd"
+1741 open "SQRscripts/Probability/uva-multiplication-rule-928-nl/uva-multiplication-rule-928-nl.Rmd"
+1742 open "SQRscripts/Probability/uva-multiplication-rule-929-nl/uva-multiplication-rule-929-nl.Rmd"
+1743 open "SQRscripts/Probability/uva-multiplication-rule-935-nl/uva-multiplication-rule-935-nl.Rmd"
+1744 open "SQRscripts/Probability/uva-multiplication-rule-936-nl/uva-multiplication-rule-936-nl.Rmd"
+1745 open "SQRscripts/Probability/uva-multiplication-rule-941-nl/uva-multiplication-rule-941-nl.Rmd"
+1746 open "SQRscripts/Probability/uva-multiplication-rule-942-nl/uva-multiplication-rule-942-nl.Rmd"
+1747 open "SQRscripts/Probability/uva-multiplication-rule-944-nl/uva-multiplication-rule-944-nl.Rmd"
+1748 open "SQRscripts/Probability/uva-multiplication-rule-945-nl/uva-multiplication-rule-945-nl.Rmd"
+1749 open "SQRscripts/Probability/uva-multiplication-rule-959-nl/uva-multiplication-rule-959-nl.Rmd"
+1756 open "SQRscripts/Probability/uva-random-variables-1073-nl/uva-random-variables-1073-nl.Rmd"
+1770 open "SQRscripts/Probability/uva-random-variables-144-nl/uva-random-variables-144-nl.Rmd"
+1778 open "SQRscripts/Probability/uva-random-variables-301-nl/uva-random-variables-301-nl.Rmd"
+1797 open "SQRscripts/Probability/uva-rules-for-expected-values-1083-nl/uva-rules-for-expected-values-1083-nl.Rmd"
+1798 open "SQRscripts/Probability/uva-rules-for-expected-values-1103-nl/uva-rules-for-expected-values-1103-nl.Rmd"
+1799 open "SQRscripts/Probability/uva-rules-for-expected-values-1110-nl/uva-rules-for-expected-values-1110-nl.Rmd"
+1803 open "SQRscripts/Probability/uva-rules-for-expected-values-38-nl/uva-rules-for-expected-values-38-nl.Rmd"
+1813 open "SQRscripts/Probability/uva-rules-for-expected-values-773-nl/uva-rules-for-expected-values-773-nl.Rmd"
+1815 open "SQRscripts/Probability/uva-rules-for-expected-values-921-nl/uva-rules-for-expected-values-921-nl.Rmd"
+1816 open "SQRscripts/Probability/uva-rules-for-expected-values-922-nl/uva-rules-for-expected-values-922-nl.Rmd"
+1817 open "SQRscripts/Probability/uva-rules-for-expected-values-923-nl/uva-rules-for-expected-values-923-nl.Rmd"
+1818 open "SQRscripts/Probability/uva-rules-for-expected-values-924-nl/uva-rules-for-expected-values-924-nl.Rmd"
+1819 open "SQRscripts/Probability/uva-rules-for-expected-values-925-nl/uva-rules-for-expected-values-925-nl.Rmd"
+1820 open "SQRscripts/Probability/uva-rules-for-expected-values-926-nl/uva-rules-for-expected-values-926-nl.Rmd"
+1831 open "SQRscripts/Probability/uva-sample-space-1087-nl/uva-sample-space-1087-nl.Rmd"
+1833 open "SQRscripts/Probability/uva-sample-space-1328-nl/uva-sample-space-1328-nl.Rmd"
+1835 open "SQRscripts/Probability/uva-sample-space-202-nl/uva-sample-space-202-nl.Rmd"
+1843 open "SQRscripts/Probability/uva-sample-space-764-nl/uva-sample-space-764-nl.Rmd"
+1847 open "SQRscripts/Probability/uva-sample-space-964-nl/uva-sample-space-964-nl.Rmd"
+1848 open "SQRscripts/Probability/uva-sample-space-965-nl/uva-sample-space-965-nl.Rmd"
+1862 open "SQRscripts/Probability/uva-variance-1069-nl/uva-variance-1069-nl.Rmd"
+1865 open "SQRscripts/Probability/uva-variance-1093-nl/uva-variance-1093-nl.Rmd"
+1866 open "SQRscripts/Probability/uva-variance-1094-nl/uva-variance-1094-nl.Rmd"
+1867 open "SQRscripts/Probability/uva-variance-1095-nl/uva-variance-1095-nl.Rmd"
+1868 open "SQRscripts/Probability/uva-variance-1125-nl/uva-variance-1125-nl.Rmd"
+1869 open "SQRscripts/Probability/uva-variance-1274-nl/uva-variance-1274-nl.Rmd"
+1870 open "SQRscripts/Probability/uva-variance-1275-nl/uva-variance-1275-nl.Rmd"
+1871 open "SQRscripts/Probability/uva-variance-1356-nl/uva-variance-1356-nl.Rmd"
+1872 open "SQRscripts/Probability/uva-variance-1358-nl/uva-variance-1358-nl.Rmd"
+1874 open "SQRscripts/Probability/uva-variance-740-nl/uva-variance-740-nl.Rmd"
+1875 open "SQRscripts/taxonomyError /uva-taxonomyerror--1141-nl/uva-taxonomyerror--1141-nl.Rmd"
+1882 open "SQRscripts/taxonomyError /uva-taxonomyerror--1148-nl/uva-taxonomyerror--1148-nl.Rmd"
+1883 open "SQRscripts/taxonomyError /uva-taxonomyerror--1149-nl/uva-taxonomyerror--1149-nl.Rmd"
+1884 open "SQRscripts/taxonomyError /uva-taxonomyerror--1150-nl/uva-taxonomyerror--1150-nl.Rmd"
+1885 open "SQRscripts/taxonomyError /uva-taxonomyerror--1151-nl/uva-taxonomyerror--1151-nl.Rmd"
+1886 open "SQRscripts/taxonomyError /uva-taxonomyerror--1152-nl/uva-taxonomyerror--1152-nl.Rmd"
+1887 open "SQRscripts/taxonomyError /uva-taxonomyerror--1153-nl/uva-taxonomyerror--1153-nl.Rmd"
+1888 open "SQRscripts/taxonomyError /uva-taxonomyerror--1154-nl/uva-taxonomyerror--1154-nl.Rmd"
+1889 open "SQRscripts/taxonomyError /uva-taxonomyerror--1155-nl/uva-taxonomyerror--1155-nl.Rmd"
+1890 open "SQRscripts/taxonomyError /uva-taxonomyerror--1156-nl/uva-taxonomyerror--1156-nl.Rmd"
+1899 open "SQRscripts/taxonomyError /uva-taxonomyerror--1165-nl/uva-taxonomyerror--1165-nl.Rmd"
+1900 open "SQRscripts/taxonomyError /uva-taxonomyerror--1166-nl/uva-taxonomyerror--1166-nl.Rmd"
+1901 open "SQRscripts/taxonomyError /uva-taxonomyerror--1167-nl/uva-taxonomyerror--1167-nl.Rmd"
+1902 open "SQRscripts/taxonomyError /uva-taxonomyerror--1168-nl/uva-taxonomyerror--1168-nl.Rmd"
+1903 open "SQRscripts/taxonomyError /uva-taxonomyerror--1169-nl/uva-taxonomyerror--1169-nl.Rmd"
+1904 open "SQRscripts/taxonomyError /uva-taxonomyerror--1170-nl/uva-taxonomyerror--1170-nl.Rmd"
+1905 open "SQRscripts/taxonomyError /uva-taxonomyerror--1171-nl/uva-taxonomyerror--1171-nl.Rmd"
+1906 open "SQRscripts/taxonomyError /uva-taxonomyerror--1172-nl/uva-taxonomyerror--1172-nl.Rmd"
+1907 open "SQRscripts/taxonomyError /uva-taxonomyerror--1173-nl/uva-taxonomyerror--1173-nl.Rmd"
+1908 open "SQRscripts/taxonomyError /uva-taxonomyerror--1174-nl/uva-taxonomyerror--1174-nl.Rmd"
+1909 open "SQRscripts/taxonomyError /uva-taxonomyerror--1175-nl/uva-taxonomyerror--1175-nl.Rmd"
+1910 open "SQRscripts/taxonomyError /uva-taxonomyerror--1176-nl/uva-taxonomyerror--1176-nl.Rmd"
+1911 open "SQRscripts/taxonomyError /uva-taxonomyerror--1177-nl/uva-taxonomyerror--1177-nl.Rmd"
+1912 open "SQRscripts/taxonomyError /uva-taxonomyerror--1178-nl/uva-taxonomyerror--1178-nl.Rmd"
+1913 open "SQRscripts/taxonomyError /uva-taxonomyerror--1179-nl/uva-taxonomyerror--1179-nl.Rmd"
+1915 open "SQRscripts/taxonomyError /uva-taxonomyerror--1181-nl/uva-taxonomyerror--1181-nl.Rmd"
+1916 open "SQRscripts/taxonomyError /uva-taxonomyerror--1182-nl/uva-taxonomyerror--1182-nl.Rmd"
+1917 open "SQRscripts/taxonomyError /uva-taxonomyerror--1183-nl/uva-taxonomyerror--1183-nl.Rmd"
+1918 open "SQRscripts/taxonomyError /uva-taxonomyerror--1184-nl/uva-taxonomyerror--1184-nl.Rmd"
+1919 open "SQRscripts/taxonomyError /uva-taxonomyerror--1185-nl/uva-taxonomyerror--1185-nl.Rmd"
+1920 open "SQRscripts/taxonomyError /uva-taxonomyerror--1186-nl/uva-taxonomyerror--1186-nl.Rmd"
+1921 open "SQRscripts/taxonomyError /uva-taxonomyerror--1187-nl/uva-taxonomyerror--1187-nl.Rmd"
+1922 open "SQRscripts/taxonomyError /uva-taxonomyerror--1188-nl/uva-taxonomyerror--1188-nl.Rmd"
+1923 open "SQRscripts/taxonomyError /uva-taxonomyerror--1189-nl/uva-taxonomyerror--1189-nl.Rmd"
+1924 open "SQRscripts/taxonomyError /uva-taxonomyerror--1190-nl/uva-taxonomyerror--1190-nl.Rmd"
+1925 open "SQRscripts/taxonomyError /uva-taxonomyerror--1191-nl/uva-taxonomyerror--1191-nl.Rmd"
+1926 open "SQRscripts/taxonomyError /uva-taxonomyerror--1192-nl/uva-taxonomyerror--1192-nl.Rmd"
+1927 open "SQRscripts/taxonomyError /uva-taxonomyerror--1193-nl/uva-taxonomyerror--1193-nl.Rmd"
+1928 open "SQRscripts/taxonomyError /uva-taxonomyerror--1194-nl/uva-taxonomyerror--1194-nl.Rmd"
+1929 open "SQRscripts/taxonomyError /uva-taxonomyerror--1195-nl/uva-taxonomyerror--1195-nl.Rmd"
+1930 open "SQRscripts/taxonomyError /uva-taxonomyerror--1196-nl/uva-taxonomyerror--1196-nl.Rmd"
+1931 open "SQRscripts/taxonomyError /uva-taxonomyerror--1197-nl/uva-taxonomyerror--1197-nl.Rmd"
+1932 open "SQRscripts/taxonomyError /uva-taxonomyerror--1198-nl/uva-taxonomyerror--1198-nl.Rmd"

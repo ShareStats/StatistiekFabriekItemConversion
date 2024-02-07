@@ -34,7 +34,7 @@ exname: uva-bar-graph-319-nl
 extype: schoice
 exsolution: 0001
 exsection: Descriptive statistics/Data representation/Graphs/Bar graph
-exextra[Type]: 
+exextra[Type]: Conceptual, Interpreting graph
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.558
