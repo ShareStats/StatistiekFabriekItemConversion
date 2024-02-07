@@ -4,7 +4,6 @@ Question
 Gegeven een steekproef met uitkomsten 14, 17, 19, 24 en 26. De
 standaarddeviatie *s* van deze getallen is gelijk aan
 
-
 Answerlist
 ----------
 

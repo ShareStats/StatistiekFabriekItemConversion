@@ -6,7 +6,6 @@ getrokken. Het gemiddelde van de steekproef is 13 en de
 standaardafwijking 4.2. Het 95% betrouwbaarheidsinterval voor het
 populatiegemiddelde is
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-measures-of-location-324-nl
 extype: schoice
 exsolution: 1000
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.706

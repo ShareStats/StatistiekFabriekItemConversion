@@ -7,7 +7,6 @@ nemen aan dat leeftijd in de populatie van psychologiestudenten normaal
 verdeeld is. Het 95% *confidence interval* voor het populatie gemiddelde
 is dan
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-measures-of-location-146-nl
 extype: schoice
 exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.524

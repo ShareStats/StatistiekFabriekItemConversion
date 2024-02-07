@@ -6,7 +6,6 @@ Op basis van een *random sample* van n = 30 personen wil ik een 99%
 steekproef is het gemiddelde 10,23 en de standaardafwijking 3,9. De
 * *margin of error* is dan gelijk aan
 
-
 Answerlist
 ----------
 

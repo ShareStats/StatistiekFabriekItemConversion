@@ -6,7 +6,6 @@ grootte 40 en één met grootte 360. In vergelijking met de steekproef van
 40 waarnemingen is de *standard error* van het gemiddelde in de
 steekproef van 360 waarnemingen
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-sample-mean-875-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/Sampling Distributions/Sample mean
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

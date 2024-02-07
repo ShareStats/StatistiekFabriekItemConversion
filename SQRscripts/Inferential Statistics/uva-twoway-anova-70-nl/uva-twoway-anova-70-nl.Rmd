@@ -13,7 +13,6 @@ iedere groep is berekend. Deze methode is toegestaan omdat (a) de
 verdeling van iedere groep normaal is en (b) de varianties binnen iedere
 groep gelijk zijn.
 
-
 Answerlist
 ----------
 

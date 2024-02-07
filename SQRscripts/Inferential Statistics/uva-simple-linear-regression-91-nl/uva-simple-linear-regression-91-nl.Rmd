@@ -12,7 +12,6 @@ regressiecoëfficiënten gecontroleerd. Als eerste worden de waarden van x
 en y in een grafiek uitgezet. Uit de grafiek lijkt waarschijnlijk de
 assumptie van regressie geschonden die stelt
 
-
 ![](uva-simple-linear-regression-91-nl-graph01.png)
 
 Answerlist
@@ -35,7 +34,7 @@ exname: uva-simple-linear-regression-91-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics/Regression/Simple linear regression
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.006

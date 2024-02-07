@@ -17,7 +17,6 @@ twee was het gemiddelde 5 ook met 10 proefpersonen. De conclusie van een
 gegevens volgens de methode van Fisher met df = 25, kan worden aangeduid
 met
 
-
 Answerlist
 ----------
 
@@ -38,7 +37,7 @@ exname: uva-oneway-anova-80-nl
 extype: schoice
 exsolution: 001
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.865

@@ -7,7 +7,6 @@ grootte van n = 10, de ander van n = 8. Het kritieke gebied van de twee
 steekproeven T-toets voor onafhankelijke steekproeven is dan, bij een
 tweezijdig risico van 5%, gelijk aan
 
-
 Answerlist
 ----------
 
@@ -29,7 +28,7 @@ exname: uva-independent-samples-means-388-nl
 extype: schoice
 exsolution: 0010
 exsection: Inferential Statistics/Parametric Techniques/t-test/Independent samples means
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.201

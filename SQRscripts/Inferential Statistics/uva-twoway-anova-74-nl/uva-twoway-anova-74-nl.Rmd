@@ -9,7 +9,6 @@ I. de verschillen tussen de niveaus van B1 en B2 hetzelfde zijn op A1 en
 op A2.\
 II. de gemiddelden bij B1 en B2 hetzelfde zijn op A1 als op A2.
 
-
 Answerlist
 ----------
 
@@ -30,7 +29,7 @@ exname: uva-twoway-anova-74-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.097

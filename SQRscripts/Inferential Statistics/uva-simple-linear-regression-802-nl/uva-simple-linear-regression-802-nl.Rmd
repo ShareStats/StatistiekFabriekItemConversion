@@ -9,7 +9,6 @@ regressie representeert de nulhypothese dat het vlak door de
 gemiddlelden van de drie groepen horizontaal is. De nulhypothese van de
 multipele regressie die equivalent is aan die van ANOVA is
 
-
 Answerlist
 ----------
 
@@ -30,7 +29,7 @@ exname: uva-simple-linear-regression-802-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/Regression/Simple linear regression
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.532

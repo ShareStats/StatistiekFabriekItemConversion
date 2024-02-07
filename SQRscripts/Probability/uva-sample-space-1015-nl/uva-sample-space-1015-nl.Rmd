@@ -9,7 +9,6 @@ kleiner dan 6. Welke uitspraak hieronder klopt?\
 I. Bij gebeurtenis *A* horen 18 uitkomsten.\
 II. Bij gebeurtenis *B* horen ook 18 uitkomsten.
 
-
 Answerlist
 ----------
 
@@ -31,7 +30,7 @@ exname: uva-sample-space-1015-nl
 extype: schoice
 exsolution: 0001
 exsection: Probability/Elementary Probability/Sample Space
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.515

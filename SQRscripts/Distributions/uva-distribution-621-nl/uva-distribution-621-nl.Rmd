@@ -6,7 +6,6 @@ steekproef ter grootte van *n* uit deze verdeling, met gemiddelde
 \(\bar{x}\) en sd s. Dan volgt de grootheid \(\frac{\bar{A}-\mu
 }{\frac{s}{\sqrt{n}}}\) de volgende verdeling:
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-distribution-621-nl
 extype: schoice
 exsolution: 0010
 exsection: Distributions/Continuous/t-distribution
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.081

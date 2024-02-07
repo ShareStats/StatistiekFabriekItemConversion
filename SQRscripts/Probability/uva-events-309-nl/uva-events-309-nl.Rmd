@@ -5,7 +5,6 @@ Van twee gebeurtenissen A en B is het volgende gegeven: P(A) = 0.60,
 P(B) = 0.40, P(A ∩ B) = 0.20 en P(A ∪ B) = 0.80. De kans op gebeurtenis
 A, *gegeven* dat B is opgetreden, is
 
-
 Answerlist
 ----------
 

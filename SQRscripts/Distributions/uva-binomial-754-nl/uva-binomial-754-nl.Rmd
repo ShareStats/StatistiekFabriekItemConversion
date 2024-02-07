@@ -10,7 +10,6 @@ toevalsvariabele *X* het aantal kinderen is met de bloedgroep O, dus X
 heeft de waarden als 0, 1, \... , 5 en de Binomiaal (5, 0,25)-verdeling.
 Hoe groot is dan de kans dat *X* = 1?
 
-
 Answerlist
 ----------
 
@@ -34,7 +33,7 @@ exname: uva-binomial-754-nl
 extype: schoice
 exsolution: 000001
 exsection: Distributions/Discrete/Binomial
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

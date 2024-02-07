@@ -12,7 +12,6 @@ Hieronder staat een deels ingevulde ANOVA tabel.
 
 Gegeven is een significantieniveau van 0.05. Dan volgt uit de tabel dat
 
-
 Answerlist
 ----------
 
@@ -33,7 +32,7 @@ exname: uva-test-102-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANOVA F-test
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 6.118

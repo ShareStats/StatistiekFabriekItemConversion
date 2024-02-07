@@ -4,7 +4,6 @@ Question
 Gegeven is een steekproef met de volgende uitkomsten: 10, 2, 4, 7, 7, 6.
 Hoe groot is de mediaan van deze getallen?
 
-
 Answerlist
 ----------
 

@@ -5,7 +5,6 @@ Gooi je tegelijkertijd twee zuivere dobbelstenen op dan zijn er 36
 mogelijke uitkomsten. Definieer de gebeurtenis *A* als: de som van het
 aantal ogen is hoogstens 6. Hoeveel uitkomsten heeft gebeurtenis *A*?
 
-
 Answerlist
 ----------
 

@@ -5,7 +5,6 @@ Uit een regressieanalyse van Y op X kwam als schatting voor de
 regressievergelijking: Y = 1.065 + 0.623X. De geschatte waarde voor Y
 bij X = 10 is gelijk aan
 
-
 Answerlist
 ----------
 

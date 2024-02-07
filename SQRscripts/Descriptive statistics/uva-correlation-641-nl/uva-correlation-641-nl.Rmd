@@ -8,7 +8,6 @@ Question
 Van 8 individuen zijn kenmerken X en Y gemeten. De Pearson
 correlatiecoÃ«fficiÃ«nt van X en Y is
 
-
 ![](uva-correlation-641-nl-graph01.png)
 
 Answerlist

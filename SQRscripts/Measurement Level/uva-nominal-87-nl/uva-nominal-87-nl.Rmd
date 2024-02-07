@@ -5,7 +5,6 @@ Een onderzoekster laat mensen gedurende een maand bijhouden of ze
 tijdens hun werkdagen met de fiets, het openbaar vervoer of de auto naar
 hun werk zijn gegaan. Dit is een voorbeeld van
 
-
 Answerlist
 ----------
 
@@ -26,7 +25,7 @@ exname: uva-nominal-87-nl
 extype: schoice
 exsolution: 100
 exsection: Measurement Level/Nominal
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -5.806

@@ -6,7 +6,6 @@ variantie van deze gewichten was 225. Als de gewichten in ponden waren
 uitgedrukt, wat zou dan de steekproefvariantie van die nieuwe getallen
 zijn?
 
-
 Answerlist
 ----------
 

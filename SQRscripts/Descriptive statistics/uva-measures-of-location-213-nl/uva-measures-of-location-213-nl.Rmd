@@ -16,7 +16,6 @@ Gegeven is de tabel
 
 Het percentiel P90 voor deze tabel is
 
-
 Answerlist
 ----------
 

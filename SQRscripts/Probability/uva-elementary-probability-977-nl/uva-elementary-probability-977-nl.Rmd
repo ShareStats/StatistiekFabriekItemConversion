@@ -5,7 +5,6 @@ We nemen aan dat de geboorte van elk kind een onafhankelijke gebeurtenis
 is. Een stel wil drie kinderen hebben. Wat is dan de kans op de
 volgorde: jongen, jongen, meisje?
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-elementary-probability-977-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 0.476

@@ -4,7 +4,6 @@ Question
 Een steekproef heeft de volgende uitkomsten: 12, 31, 15, 8, 24. Hoe
 groot is de steekproefvariantie van deze getallen?
 
-
 Answerlist
 ----------
 

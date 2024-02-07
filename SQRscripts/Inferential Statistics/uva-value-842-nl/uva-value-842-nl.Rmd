@@ -9,7 +9,6 @@ kan worden. Er wordt gevonden dat 18 maal munt boven komt van de 30
 worpen, een proportie van 18/30 = 0.60. De onderzoekers willen de kans
 weten van deze proportie 0.60 of groter dan onverwacht is. Die kans is
 
-
 Answerlist
 ----------
 

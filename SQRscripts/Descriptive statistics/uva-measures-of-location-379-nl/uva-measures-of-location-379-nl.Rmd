@@ -5,7 +5,6 @@ We nemen voor deze vraag aan dat geboortegewicht (in kg.) normaal
 verdeeld is met verwachting 2.90 en variantie 0.64. Hoe zwaar moet een
 baby minstens zijn bij zijn geboorte om tot de zwaarste 4% te behoren?
 
-
 Answerlist
 ----------
 

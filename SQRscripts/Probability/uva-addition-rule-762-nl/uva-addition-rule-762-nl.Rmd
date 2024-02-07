@@ -6,7 +6,6 @@ P(O) = 0,38; P(B) = 0,33; P(A) = 0,20; P(AB) = 0,09. Wat is de kans op
 een willekeurig gekozen Nederlandse bloeddonor met bloedgroep A of
 bloedgroep AB?
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-addition-rule-762-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/General Rules/Addition rule
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.061

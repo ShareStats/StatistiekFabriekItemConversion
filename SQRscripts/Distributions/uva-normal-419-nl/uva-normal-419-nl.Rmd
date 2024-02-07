@@ -6,7 +6,6 @@ hemoglobinegehalte (Hb) normaal verdeeld is met μ = 7.90 en σ = 0.80. We
 trekken uit deze populatie aselect een persoon. Wat is de kans dat deze
 persoon een Hb heeft tussen 7.90 en 8.50 ?
 
-
 Answerlist
 ----------
 

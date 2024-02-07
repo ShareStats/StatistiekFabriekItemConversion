@@ -5,7 +5,6 @@ Wanneer elke waarneming van een variabele behoort tot Ã©Ã©n bepaalde
 categorie van een verzameling categorieÃ«n, is de variabele (a) continu
 en (b) kwantitatief.
 
-
 Answerlist
 ----------
 
@@ -26,7 +25,7 @@ exname: uva-variable-type-813-nl
 extype: schoice
 exsolution: 001
 exsection: Variable type
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.159

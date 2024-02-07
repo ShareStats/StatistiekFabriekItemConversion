@@ -6,7 +6,6 @@ met gemiddelde 77 en standaarddeviatie 21. We trekken uit deze populatie
 een steekproef van grootte n = 7. Dan volgt het steekproefgemiddelde een
 verdeling met
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-null-hypothesis-516-nl
 extype: schoice
 exsolution: 0001
 exsection: Inferential Statistics/NHST/Hypothesis/Null hypothesis
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.99

@@ -17,7 +17,6 @@ dat de standaardafwijkingen van de desbetreffende populaties gelijk
 zijn, en er wordt getoetst met 60 vrijheidsgraden. De P-waarde die bij
 deze gegevens hoort is
 
-
 Answerlist
 ----------
 

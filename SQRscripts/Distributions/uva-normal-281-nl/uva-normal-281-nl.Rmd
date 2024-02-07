@@ -4,7 +4,6 @@ Question
 Een variabele X is verdeeld volgens N (18, 4^2^). P(X \< 13) is dan
 gelijk aan
 
-
 Answerlist
 ----------
 

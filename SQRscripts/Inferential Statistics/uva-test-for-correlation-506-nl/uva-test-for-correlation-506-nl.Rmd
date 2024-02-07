@@ -10,7 +10,6 @@ T-toets op twee metingen aan 17 mensen. Bij toetsing van de nulhypothese
 dat de twee metingen niet *samenhangen* moet de conclusie luiden (bij α
 = 5%, tweezijdig):
 
-
 ![](uva-test-for-correlation-506-nl-graph01.png)
 
 Answerlist
@@ -34,7 +33,7 @@ exname: uva-test-for-correlation-506-nl
 extype: schoice
 exsolution: 1000
 exsection: Inferential Statistics/Parametric Techniques/t-test/Test for correlation
-exextra[Type]: Interpreting output, Calculation
+exextra[Type]: Interpreting output
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.488

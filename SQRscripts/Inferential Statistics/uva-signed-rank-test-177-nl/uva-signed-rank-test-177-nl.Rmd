@@ -7,7 +7,6 @@ Wilcoxon toets wordt gekeken welk team beter is dan de ander. Het
 verschil tussen team A en team B is: A - B = 3. Hieruit volgt voor de
 rangordes van de teams dat
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-signed-rank-test-177-nl
 extype: schoice
 exsolution: 001
 exsection: Inferential Statistics/Non-parametric Techniques/Signed Rank test
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.105

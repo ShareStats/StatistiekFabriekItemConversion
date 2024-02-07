@@ -5,7 +5,6 @@ Het gemiddelde van X is 5 en de standaardafwijking van X is 1. Een
 nieuwe variabele Z wordt gemaakt met behulp van de formule Z = (X -
 5)/1. Het gemiddelde van Z is
 
-
 Answerlist
 ----------
 

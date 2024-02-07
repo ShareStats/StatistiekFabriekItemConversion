@@ -4,7 +4,6 @@ Question
 Als we een zuiver muntstuk twee keer opgooien, hoeveel mogelijke
 uitkomsten zijn er dan?
 
-
 Answerlist
 ----------
 

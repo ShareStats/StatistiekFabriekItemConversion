@@ -3,7 +3,6 @@ Question
 
 Als Jan een IQ-score van 100 heeft, dan betekent dit dat
 
-
 Answerlist
 ----------
 
@@ -24,7 +23,7 @@ exname: uva-mean-2-nl
 extype: schoice
 exsolution: 100
 exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -3.223

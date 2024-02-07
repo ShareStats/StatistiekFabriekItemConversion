@@ -6,7 +6,6 @@ verdeeld met gemiddelde μ = 175 en standaardafwijking σ = 6. Hoe groot
 is de kans dat in een aselecte steekproef van n = 9 studenten de
 gemiddelde lengte groter is dan 180 cm?
 
-
 Answerlist
 ----------
 

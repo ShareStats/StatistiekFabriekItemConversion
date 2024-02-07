@@ -7,7 +7,6 @@ naam niet terug. Er zijn in totaal drie vragen. Wat is dan de kans dat
 Marja gekozen wordt om de eerste vraag te beantwoorden?\
 (Geef je antwoord in de vorm van een breuk: X/Y).
 
-
 Solution
 ========
 

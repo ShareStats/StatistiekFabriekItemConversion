@@ -4,7 +4,6 @@ Question
 De stochastische variabele X volgt een N(μ=10, σ^²^=4) verdeling. P(X \<
 8) is dan
 
-
 Answerlist
 ----------
 

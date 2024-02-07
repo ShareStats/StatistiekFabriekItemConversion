@@ -6,7 +6,6 @@ Aan een aantal patiÃ«nten wordt vÃ³Ã³r en na een behandeling een
 geschikt om een verschil in populatiegemiddelde voor en na behandeling
 te toetsen?
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-paired-samples-609-nl
 extype: schoice
 exsolution: 0001
 exsection: Inferential Statistics/Parametric Techniques/t-test/Paired samples
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.84

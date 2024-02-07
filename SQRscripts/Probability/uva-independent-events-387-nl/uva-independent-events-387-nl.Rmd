@@ -4,7 +4,6 @@ Question
 A en B zijn onafhankelijke gebeurtenissen met P(A) = 0.5 en P(B) = 0.3.
 Dan is P(A\|\|\|B) gelijk aan
 
-
 Answerlist
 ----------
 

@@ -17,7 +17,6 @@ alle populatiegemiddelden zijn gelijk wordt de F-waarde uit de
 ANOVA-tabel vergeleken met de kritieke waarde uit de F-verdeling. Bij
 een risico van 5% moet de conclusie luiden
 
-
 Answerlist
 ----------
 
@@ -39,7 +38,7 @@ exname: uva-oneway-anova-274-nl
 extype: schoice
 exsolution: 0010
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.268

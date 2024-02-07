@@ -4,7 +4,6 @@ Question
 Er is gegeven voor twee gebeurtenissen A en B dat P(A) = 0.6 en P(A en
 B) = 0.3. Dan geldt dat P(B\|\|\|A) gelijk is aan
 
-
 Answerlist
 ----------
 

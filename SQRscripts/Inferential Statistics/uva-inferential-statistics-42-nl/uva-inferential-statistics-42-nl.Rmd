@@ -16,7 +16,6 @@ nulhypothese dat het niet uitmaakt tegen de alternatieve hypothese dat
 het verschil in proporties groter of kleiner dan nul is. De P-waarde van
 deze toets is
 
-
 Answerlist
 ----------
 

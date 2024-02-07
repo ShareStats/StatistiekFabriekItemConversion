@@ -9,7 +9,6 @@ We willen toetsen H~0~: μ(ochtend) = μ(middag) tegen H~1~: μ(ochtend) ≠
 μ(middag). De rechter kritieke waarde van de toets met een tweezijdig
 risico van 0.05 is gelijk aan
 
-
 Answerlist
 ----------
 

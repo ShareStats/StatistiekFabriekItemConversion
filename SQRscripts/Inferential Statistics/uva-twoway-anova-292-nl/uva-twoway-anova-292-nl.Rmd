@@ -17,7 +17,6 @@ Als we geen rekening hadden gehouden met de blokken, en een Completely
 Randomised Design ANOVA hadden toegepast, hoe groot zou dan de
 gemiddelde residuele kwadraatsom MS(Error) geweest zijn?
 
-
 Answerlist
 ----------
 

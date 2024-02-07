@@ -6,7 +6,6 @@ X is een stochastische variabele met gemiddelde 30 en standaardafwijking
 standaardafwijking 5. X en Y zijn onafhankelijk. Dan is de
 standaardafwijking van 3 X - Y gelijk aan
 
-
 Answerlist
 ----------
 

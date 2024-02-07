@@ -6,7 +6,6 @@ van 8. Als we ieder van de waarnemingen met 2 vermenigvuldigen en bij
 het resultaat vervolgens nog 5 optellen, dan is de standaardafwijking
 van de nieuwe getallen gelijk aan
 
-
 Answerlist
 ----------
 

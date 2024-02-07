@@ -5,7 +5,6 @@ Als je een zuiver muntstuk vier keer opgooit zijn er 16 mogelijke
 uitkomsten. Stel dat *X* het aantal keren kruis is bij vier worpen.
 Hoeveel mogelijke waarden heeft *X*?
 
-
 Answerlist
 ----------
 

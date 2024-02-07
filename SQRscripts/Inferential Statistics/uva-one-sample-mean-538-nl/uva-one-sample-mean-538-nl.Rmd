@@ -7,7 +7,6 @@ zijn: 8, 23, 15, 21, 11, 15, 19, 12. We willen toetsen of μ = 15, met α
 = 0.05 tweezijdig. De grenzen van het kritieke gebied zijn dan gelijk
 aan
 
-
 Answerlist
 ----------
 
@@ -29,7 +28,7 @@ exname: uva-one-sample-mean-538-nl
 extype: schoice
 exsolution: 0001
 exsection: Inferential Statistics/Parametric Techniques/t-test/One sample mean
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.012

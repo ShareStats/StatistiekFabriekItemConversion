@@ -6,7 +6,6 @@ In een *random sample* van 100 vrouwen blijkt 40% te roken, in een
 betrouwbaarheidsinterval voor het verschil tussen de corresponderende
 populatieproporties is dan
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-measures-of-location-200-nl
 extype: schoice
 exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.319

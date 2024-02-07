@@ -9,7 +9,6 @@ De gepoolde variantieschatter heeft als waarde 51.10. Er wordt getoetst
 of de populatiegemiddelden gelijk zijn. De bijbehorende
 toetsingsgrootheid volgt, als de nulhypothese waar is,
 
-
 Answerlist
 ----------
 
@@ -31,7 +30,7 @@ exname: uva-distribution-600-nl
 extype: schoice
 exsolution: 0100
 exsection: Distributions/Continuous/t-distribution
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.972

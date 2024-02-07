@@ -10,7 +10,6 @@ van 15 patiënten, gemeten voor en na een gesprek met een therapeut.
 Wanneer we geïnteresseerd zijn in de vraag of de scores voor en na het
 gesprek afhankelijk zijn moet de conclusie luiden:
 
-
 ![](uva-test-for-correlation-331-nl-graph01.png)
 
 Answerlist
@@ -34,7 +33,7 @@ exname: uva-test-for-correlation-331-nl
 extype: schoice
 exsolution: 0100
 exsection: Inferential Statistics/Parametric Techniques/t-test/Test for correlation
-exextra[Type]: Interpreting output, Calculation
+exextra[Type]: Interpreting output
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.17

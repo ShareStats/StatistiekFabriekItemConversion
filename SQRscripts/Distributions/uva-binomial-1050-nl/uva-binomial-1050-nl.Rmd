@@ -5,7 +5,6 @@ Vijf zuivere geldstukken worden tegelijkertijd opgegooid. Stel de
 toevalvariabele *X* = het aantal koppen dat boven komt. Wat is dan de
 kans op *X* = 1?
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-binomial-1050-nl
 extype: schoice
 exsolution: 0010
 exsection: Distributions/Discrete/Binomial
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

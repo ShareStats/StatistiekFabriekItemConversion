@@ -5,7 +5,6 @@ Stel de onafhankelijke kans dat drie personen *A*, *B* en *C* over 30
 jaar nog leven gelijk is aan respectievelijk 0,4; 0,3 en 0,5. Wat is dan
 de kans dat over 30 jaar slechts één van de drie in leven zal zijn?
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-addition-rule-930-nl
 extype: schoice
 exsolution: 0001
 exsection: Probability/Elementary Probability/General Rules/Addition rule
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

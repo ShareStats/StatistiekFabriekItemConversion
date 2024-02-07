@@ -4,7 +4,6 @@ Question
 Wat is in een RCB-ANOVA met vijf blokken en vier behandelingen het
 aantal vrijheidsgraden van de ERROR-term?
 
-
 Answerlist
 ----------
 

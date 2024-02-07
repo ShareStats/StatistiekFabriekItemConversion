@@ -15,7 +15,6 @@ drie groepen wordt omgezet in een regressie met de volgende codering:
 De interpretatie van *β*~3~ is duidelijk, dat is α. De interpretatie van
 de andere twee coÃ«fficiÃ«nten is als volgt:
 
-
 Answerlist
 ----------
 
@@ -36,7 +35,7 @@ exname: uva-sum-of-squares-73-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/Regression/Sum of squares
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.033

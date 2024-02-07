@@ -6,7 +6,6 @@ proporties, wordt de *margin of error* groter wanneer a) het
 betrouwbaarheidsniveau afneemt en b) de steekproefgrootte in beide
 groepen toeneemt.
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-measures-of-location-46-nl
 extype: schoice
 exsolution: 001
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.291

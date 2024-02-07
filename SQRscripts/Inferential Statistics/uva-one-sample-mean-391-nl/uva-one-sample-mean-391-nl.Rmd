@@ -10,7 +10,6 @@ H~0~:μ = 75 toetsen met α = 5% tweezijdig. Wanneer we bij toetsing
 gebruik hadden willen maken van een kritiek gebied, dan was de rechter
 kritieke waarde gelijk geweest aan
 
-
 ![](uva-one-sample-mean-391-nl-graph01.png)
 
 Answerlist

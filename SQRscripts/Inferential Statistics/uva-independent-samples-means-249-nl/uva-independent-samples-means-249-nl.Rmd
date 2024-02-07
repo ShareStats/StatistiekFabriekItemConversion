@@ -8,7 +8,6 @@ gelijk aan 17. In een aselecte steekproef van n = 49 personen vindt men
 een steekproefgemiddelde van 125. De hypothese dat het
 populatiegemiddelde gelijk is aan 120 kan dan worden verworpen bij
 
-
 Answerlist
 ----------
 
@@ -29,7 +28,7 @@ exname: uva-independent-samples-means-249-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/Parametric Techniques/t-test/Independent samples means
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.027

@@ -6,7 +6,6 @@ nemen we een steekproef van 4 individuen. Het gemiddelde van deze
 steekproef is 6.3, de standaarddeviatie is 3. De waarde van de
 toetsingsgrootheid is dan
 
-
 Answerlist
 ----------
 

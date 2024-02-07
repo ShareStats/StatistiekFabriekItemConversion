@@ -12,7 +12,6 @@ in de volgende 4 staafdiagrammen weergegeven. Het grootst aantal
 leerlingen zonder leesproblemen of dyslexie (in absolute frequentie)
 komt voor op school
 
-
 ![](uva-bar-graph-295-nl-graph01.png)
 
 Answerlist

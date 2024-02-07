@@ -8,7 +8,6 @@ vervolgens een z-score van ieder van de uitkomsten van de twee tests.
 Dit doet ze om de uitkomsten van de twee tests te vergelijken. Dat kan
 omdat
 
-
 Answerlist
 ----------
 

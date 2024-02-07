@@ -19,7 +19,6 @@ observatoren, waarbij een hoge rangorde wordt toegekend aan een hoge
 score (10 krijgt rangorde 1 enz.). Dan volgt dat de gemiddelde
 rangordeningen
 
-
 Answerlist
 ----------
 
@@ -40,7 +39,7 @@ exname: uva-mean-69-nl
 extype: schoice
 exsolution: 100
 exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.035

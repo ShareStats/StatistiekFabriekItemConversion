@@ -6,7 +6,6 @@ betrouwbaarheidsinterval voor een verschil van twee gemiddelden μ~1~ -
 μ~2~ berekend. Het betrouwbaarheidsinterval bevat louter negatieve
 getallen. Dit betekent dat
 
-
 Answerlist
 ----------
 

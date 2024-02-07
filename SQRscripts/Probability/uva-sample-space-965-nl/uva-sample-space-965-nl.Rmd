@@ -6,7 +6,6 @@ mogelijke surprises en iedere doos heeft een gelijke kans om elke
 surprise te bevatten. Wat is de kans dat je twee dezelfde surprises
 krijgt als je twee dozen koopt?
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-sample-space-965-nl
 extype: schoice
 exsolution: 1000
 exsection: Probability/Elementary Probability/Sample Space
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.551

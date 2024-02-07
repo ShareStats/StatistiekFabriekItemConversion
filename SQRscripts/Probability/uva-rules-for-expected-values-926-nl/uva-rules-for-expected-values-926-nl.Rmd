@@ -17,7 +17,6 @@ gecategoriseerd.
 Wat is de kans dat als je aselect een persoon kiest die niet snurkt maar
 wel feestbeest is?
 
-
 Answerlist
 ----------
 
@@ -39,7 +38,7 @@ exname: uva-rules-for-expected-values-926-nl
 extype: schoice
 exsolution: 1000
 exsection: Probability/Elementary Probability/Random variables/Rules for expected values
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

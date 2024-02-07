@@ -9,7 +9,6 @@ populatiegemiddelden gelijk zijn gebruiken we de gepoolde T-toets; de
 toetsingsgrootheid heeft hier een waarde van 2.155. Voor de bijbehorende
 tweezijdige P-waarde geldt dan
 
-
 Answerlist
 ----------
 
@@ -31,7 +30,7 @@ exname: uva-independent-samples-means-632-nl
 extype: schoice
 exsolution: 0010
 exsection: Inferential Statistics/Parametric Techniques/t-test/Independent samples means
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.301

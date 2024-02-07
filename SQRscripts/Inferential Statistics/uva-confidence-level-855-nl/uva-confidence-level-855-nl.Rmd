@@ -5,7 +5,6 @@ Maurits de Herder vindt in een *random sample* van 1500 personen dat als
 er nu verkiezingen waren 20% op de VVD zou stemmen. De *margin of error*
 van dit resultaat is bij een *confidence level* van 95% gelijk aan
 
-
 Answerlist
 ----------
 

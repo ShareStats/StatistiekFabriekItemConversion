@@ -11,7 +11,6 @@ Wat zijn nu mogelijk Tukey 95% betrouwbaarheidsintervallen die
 corresponderen met de twee bovenstaande gewone
 betrouwbaarheidsintervallen?
 
-
 Answerlist
 ----------
 
@@ -32,7 +31,7 @@ exname: uva-statistical-errors-910-nl
 extype: schoice
 exsolution: 001
 exsection: Inferential Statistics/NHST/Statistical errors
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.775

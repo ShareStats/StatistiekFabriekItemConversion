@@ -8,7 +8,6 @@ Question
 Van 120 getallen is het gemiddelde 100 en de standaardafwijking 10. Welk
 van de volgende vier histogrammen komt hiermee overeen.
 
-
 ![](uva-histogram-472-nl-graph01.png)
 
 Answerlist
@@ -32,7 +31,7 @@ exname: uva-histogram-472-nl
 extype: schoice
 exsolution: 0010
 exsection: Descriptive statistics/Data representation/Graphs/Histogram
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.244

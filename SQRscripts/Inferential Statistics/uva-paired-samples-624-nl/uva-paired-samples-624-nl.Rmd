@@ -5,7 +5,6 @@ In een zekere gepaarde T-toets is het **een**zijdige kritieke gebied
 1.7959 en groter. De uitkomst van de toetsingsgrootheid is -2.01. De
 conclusie luidt:
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-paired-samples-624-nl
 extype: schoice
 exsolution: 0001
 exsection: Inferential Statistics/Parametric Techniques/t-test/Paired samples
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.039

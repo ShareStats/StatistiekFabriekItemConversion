@@ -16,7 +16,6 @@ bijziendheid later. Het resultaat wordt getoond in de tabel hieronder:
 Wat is de relatieve frequentie van lichte bijziendheid als met volle
 verlichting geslapen wordt?
 
-
 Answerlist
 ----------
 
@@ -38,7 +37,7 @@ exname: uva-elementary-probability-940-nl
 extype: schoice
 exsolution: 0001
 exsection: Probability/Elementary Probability
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

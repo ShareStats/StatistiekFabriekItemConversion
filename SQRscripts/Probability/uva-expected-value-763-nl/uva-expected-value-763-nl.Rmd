@@ -6,7 +6,6 @@ tegelijkertijd aselect twee ballen. Stel de toevalvariabele *X* is het
 aantal rode ballen en *X* kan de waarden 0,1 en 2 aanemen. Wat is dan de
 verwachtingswaarde van *X*?
 
-
 Solution
 ========
 

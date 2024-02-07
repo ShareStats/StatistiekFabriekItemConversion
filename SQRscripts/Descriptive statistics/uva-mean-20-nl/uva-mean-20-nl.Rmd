@@ -4,7 +4,6 @@ Question
 Gegeven is de rij getallen 4, 3, 2, 1, 2, 3, 2, 5. De mediaan van deze
 rij is
 
-
 Answerlist
 ----------
 

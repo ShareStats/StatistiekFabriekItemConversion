@@ -7,7 +7,6 @@ betrouwbaarheidsintervallen op voor de mogelijke vergelijking van de
 drie medicijnen. Het betrouwbaarheidsniveau wil de onderzoeker voor alle
 vergelijkingen op minimaal 95% houden. Dit is een voorbeeld van
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-anova-171-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics/Parametric Techniques/ANOVA
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -2.649

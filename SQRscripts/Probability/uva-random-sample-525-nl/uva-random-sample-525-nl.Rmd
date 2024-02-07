@@ -3,7 +3,6 @@ Question
 
 Z is N(0,1) verdeeld. Bepaal a zodat P(-a \< Z \< a) = 0.80
 
-
 Answerlist
 ----------
 

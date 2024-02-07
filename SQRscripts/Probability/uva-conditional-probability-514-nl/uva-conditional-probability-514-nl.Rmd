@@ -13,7 +13,6 @@ leeftijd bepaald. Dit leverde de volgende kruistabel op:
 
 P(persoon is 30 jaar of jonger, *gegeven* dat het een vrouw is) =
 
-
 Answerlist
 ----------
 

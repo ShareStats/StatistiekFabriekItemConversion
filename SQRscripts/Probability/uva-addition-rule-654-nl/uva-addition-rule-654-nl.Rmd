@@ -24,7 +24,6 @@ Gebaseerd op deze data hebben wij:
 Wat is de verwachte opbrengst (*μ~R~*) voor Carla, uitgedrukt in
 procenten?
 
-
 Solution
 ========
 

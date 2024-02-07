@@ -3,7 +3,6 @@ Question
 
 Bereken de steekproefvariantie van de getallen 1, 4, 5, 7, 8
 
-
 Answerlist
 ----------
 

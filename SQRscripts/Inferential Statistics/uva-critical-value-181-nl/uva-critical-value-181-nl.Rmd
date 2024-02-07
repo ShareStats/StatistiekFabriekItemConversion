@@ -7,7 +7,6 @@ tegen H~a~: *μ* ≠ 100 dat\
 I. de power van de toets hoog is.\
 II. de P-waarde groter is dan 0.05.
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-critical-value-181-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics/NHST/Significance level/Critical value
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.697

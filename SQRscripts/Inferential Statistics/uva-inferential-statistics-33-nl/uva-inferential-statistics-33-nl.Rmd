@@ -4,7 +4,6 @@ Question
 Met *random assignment* (of aselecte toewijzing) van proefpersonen aan
 condities wordt voorkomen dat
 
-
 Answerlist
 ----------
 
@@ -25,7 +24,7 @@ exname: uva-inferential-statistics-33-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -1.158

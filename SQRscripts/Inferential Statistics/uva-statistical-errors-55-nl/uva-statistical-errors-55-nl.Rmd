@@ -7,7 +7,6 @@ gemiddelden. De onderzoekster wil dat de kans op het foutief verwerpen
 van de nulhypothese van geen verschil zo klein mogelijk houden. Om dit
 doel te bereiken kan ze
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-statistical-errors-55-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics/NHST/Statistical errors
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.312

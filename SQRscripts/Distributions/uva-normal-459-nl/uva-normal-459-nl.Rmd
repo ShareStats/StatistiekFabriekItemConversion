@@ -3,7 +3,6 @@ Question
 
 X \~ N(-12, 8^²^). Dan is P(X \> 0) gelijk aan
 
-
 Answerlist
 ----------
 

@@ -5,7 +5,6 @@ Vijf zuivere geldstukken worden tegelijkertijd opgegooid. Stel de
 toevalsvariabele *X* = het aantal koppen dat boven komt. Wat is dan de
 kans op *X* = 0? Rond af op vier decimalen.
 
-
 Solution
 ========
 

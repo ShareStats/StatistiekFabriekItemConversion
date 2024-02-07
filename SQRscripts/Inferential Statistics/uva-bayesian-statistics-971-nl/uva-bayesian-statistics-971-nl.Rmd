@@ -16,7 +16,6 @@ zij een negatieve testuitslag heeft. Stel de gebeurtenissen:\
 Hoe groot is dan de kans P(*D* en *N*) dat Marja een negatieve
 testuitslag krijgt en zij ook de ziekte heeft?
 
-
 Answerlist
 ----------
 
@@ -38,7 +37,7 @@ exname: uva-bayesian-statistics-971-nl
 extype: schoice
 exsolution: 0100
 exsection: Inferential Statistics/Bayesian Statistics
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.24

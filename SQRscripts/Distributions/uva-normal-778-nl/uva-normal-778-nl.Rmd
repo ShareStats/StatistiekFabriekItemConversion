@@ -7,7 +7,6 @@ van 20 en een standaardafwijking van 5. Hoe groot is de kans dat er in
 een random sample van 9 kinderen een gemiddelde score tussen de 22 en 24
 (in het deelinterval 22 tot en met 24) wordt gevonden?
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-normal-778-nl
 extype: schoice
 exsolution: 100
 exsection: Distributions/Continuous/Normal
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.175

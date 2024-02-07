@@ -6,7 +6,6 @@ F-toets; de toetsingsgrootheid heeft als waarde 4.65, en volgt als H~0~
 waar is een F-verdeling met 7 vrijheidsgraden in de teller en 5 in de
 noemer. Voor de bijbehorende tweezijdige P-waarde geldt dan
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-oneway-anova-601-nl
 extype: schoice
 exsolution: 0001
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.9

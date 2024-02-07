@@ -6,7 +6,6 @@ en de afstand die ze in 15 minuten hardlopend kunnen afleggen. De
 Pearson correlatie tussen deze variabelen bleek 0.60 te zijn. De
 nulhypothese ρ = 0 wordt dan bij toetsing (α = 0.05 tweezijdig)
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-test-576-nl
 extype: schoice
 exsolution: 0001
 exsection: Inferential Statistics/Parametric Techniques/t-test
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.239

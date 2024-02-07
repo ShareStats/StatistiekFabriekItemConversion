@@ -6,7 +6,6 @@ zijn twee mogelijke formuleringen voor de nulhypothese\
 I. H~0~: *X*^2^ = 0\
 II. H~0~: de twee variabelen zijn afhankelijk
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-squared-179-nl
 extype: schoice
 exsolution: 001
 exsection: Inferential Statistics/NHST/Test statistic/Chi-squared
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.977

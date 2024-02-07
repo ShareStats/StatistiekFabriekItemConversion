@@ -12,7 +12,6 @@ programma\'s kijkt respectievelijk 51% en 58%.\
 Welk percentage van de kijkers die minstens 5x per week naar
 informatieve programma\'s kijken, valt in de leeftijdscategorie 36-60?
 
-
 Answerlist
 ----------
 
@@ -34,7 +33,7 @@ exname: uva-bayesian-statistics-747-nl
 extype: schoice
 exsolution: 0100
 exsection: Inferential Statistics/Bayesian Statistics
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

@@ -8,7 +8,6 @@ wordt de nulhypothese opgesteld welke stelt dat H~0~: β~1~ = β~2~ = β~3~
 = 0. De alternatieve hypothese, die het tegenovergestelde aangeeft van
 de nulhypothese, stelt dat
 
-
 Answerlist
 ----------
 
@@ -29,7 +28,7 @@ exname: uva-inferential-statistics-58-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -1.494

@@ -14,7 +14,6 @@ juist?
   Vaak            30 (-5.8)          310 (-13.8)    515 (16.1)
   --------- ---------------------- --------------- ------------
 
-
 Answerlist
 ----------
 
@@ -35,7 +34,7 @@ exname: uva-squared-790-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics/NHST/Test statistic/Chi-squared
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.001

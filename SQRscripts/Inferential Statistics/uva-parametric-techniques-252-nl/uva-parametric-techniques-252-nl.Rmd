@@ -8,7 +8,6 @@ hartslag hetzelfde, bij negen is ze afgenomen en bij twee toegenomen. De
 nulhypothese dat het tentamen **geen** invloed heeft gehad op de
 hartslag kan worden verworpen bij
 
-
 Answerlist
 ----------
 
@@ -29,7 +28,7 @@ exname: uva-parametric-techniques-252-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/Non-parametric Techniques
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.811

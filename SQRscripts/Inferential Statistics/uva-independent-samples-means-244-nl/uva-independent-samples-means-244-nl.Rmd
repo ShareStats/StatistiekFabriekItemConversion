@@ -5,7 +5,6 @@ De t-toets voor twee gemiddelden eist bij steekproefgroottes n~1~ = n~2~
 = 50 dat (a) de steekproefvarianties aan elkaar gelijk zijn, en dat (b)
 de populatieverdelingen normaal zijn.
 
-
 Answerlist
 ----------
 
@@ -26,7 +25,7 @@ exname: uva-independent-samples-means-244-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/Parametric Techniques/t-test/Independent samples means
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 0.349

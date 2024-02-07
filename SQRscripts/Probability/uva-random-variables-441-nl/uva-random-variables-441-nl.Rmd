@@ -8,7 +8,6 @@ mannelijk. Stel we kiezen aselect een van de patiënten. Wanneer gegeven
 is dat de patiënt een man is, dan is de beste schatting van de kans op
 overlijden van deze patiënt gelijk aan
 
-
 Answerlist
 ----------
 

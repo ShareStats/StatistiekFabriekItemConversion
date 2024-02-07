@@ -14,7 +14,6 @@ patiÃ«nten zijn: 21-25, 26-30 en 31-35 jaar. Deze drie groepen zijn
 afgebeeld in cirkels, driehoeken en ruiten. Dan maken de onderzoekers
 een scatterplot van de data. Dit figuur wijst op
 
-
 ![](uva-simple-linear-regression-788-nl-graph01.png)
 
 Answerlist
@@ -37,7 +36,7 @@ exname: uva-simple-linear-regression-788-nl
 extype: schoice
 exsolution: 001
 exsection: Inferential Statistics/Regression/Simple linear regression
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 5.2

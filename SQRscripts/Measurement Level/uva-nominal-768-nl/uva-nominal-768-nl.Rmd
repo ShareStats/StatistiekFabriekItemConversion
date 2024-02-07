@@ -9,7 +9,6 @@ huizen of gezichten. Nu geldt dat (i) hersenactiviteit is een discrete
 variabele en (ii) wat de proefpersonen zien (huizen of gezichten) is een
 categorische variabele.
 
-
 Answerlist
 ----------
 
@@ -30,7 +29,7 @@ exname: uva-nominal-768-nl
 extype: schoice
 exsolution: 010
 exsection: Measurement Level/Nominal
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.426

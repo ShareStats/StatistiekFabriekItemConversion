@@ -16,7 +16,6 @@ Wat is de kans dat een roker gescheiden is? (Geef het antwoord in de
 vorm 0.XX. Dus met 0, punt als decimaalteken en twee cijfers achter de
 komma). 
 
-
 Solution
 ========
 

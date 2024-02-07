@@ -14,7 +14,6 @@ drie groepen met ieder 5 waarnemingen.
 Hoe groot is de kritieke waarde bij het toetsen, met α =5%, van H~0~:
 μ~l~ = μ~2~ = μ~3~ en hoe luidt de conclusie?
 
-
 Answerlist
 ----------
 
@@ -36,7 +35,7 @@ exname: uva-oneway-anova-367-nl
 extype: schoice
 exsolution: 0100
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.02

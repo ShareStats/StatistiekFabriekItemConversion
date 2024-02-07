@@ -6,7 +6,6 @@ mogelijkheden in de uitkomstenruimte. Bepaal de gebeurtenis *E* waar de
 som van twee gegooide dobbelstenen groter is dan 5 en alle bovenliggende
 ogen even getallen zijn. Hoeveel uitkomsten horen bij gebeurtenis *E*?
 
-
 Answerlist
 ----------
 

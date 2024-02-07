@@ -15,7 +15,6 @@ Gegeven is de frequentietabel voor de variabele X
 
 Het percentiel P~30~ is
 
-
 Answerlist
 ----------
 

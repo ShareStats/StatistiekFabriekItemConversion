@@ -6,7 +6,6 @@ standaardafwijking die twee keer zo klein is als die van de *response
 variable* y. Verder heeft de *slope* b van de regressielijn de waarde
 0.4. De correlatie tussen x en y is dan gelijk aan
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-simple-linear-regression-772-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics/Regression/Simple linear regression
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 5.39

@@ -4,7 +4,6 @@ Question
 Een stochastische variabele X volgt een normale verdeling, X \~ N(1,
 0.5^2^). Voor welke waarde *a* geldt dat P(X \< *a*) = 20% ?
 
-
 Answerlist
 ----------
 

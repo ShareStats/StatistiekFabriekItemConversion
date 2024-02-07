@@ -11,7 +11,6 @@ behandelde groep ingedeeld. In onderstaande SPSS uitvoer staat een toets
 op gelijkheid van gemiddelde leeftijd. De gepoolde variantieschatter is
 gelijk aan
 
-
 ![](uva-independent-samples-means-311-nl-graph01.png)
 
 Answerlist

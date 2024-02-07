@@ -17,7 +17,6 @@ Plan:\
 \
 Wat is de variantie van de winst?
 
-
 Answerlist
 ----------
 
@@ -39,7 +38,7 @@ exname: uva-variance-1093-nl
 extype: schoice
 exsolution: 0100
 exsection: Probability/Elementary Probability/Random variables/Variance
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

@@ -12,7 +12,6 @@ welke behandelgroepen significant van elkaar afwijken. Wanneer getoetst
 zou worden met Bonferroni correctie, welke groepen zouden dan
 significant verschillen?
 
-
 ![](uva-oneway-anova-318-nl-graph01.png)
 
 Answerlist
@@ -36,7 +35,7 @@ exname: uva-oneway-anova-318-nl
 extype: schoice
 exsolution: 1000
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Interpreting output, Calculation
+exextra[Type]: Interpreting output
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.367

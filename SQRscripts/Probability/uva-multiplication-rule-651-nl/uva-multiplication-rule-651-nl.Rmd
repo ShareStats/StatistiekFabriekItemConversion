@@ -6,7 +6,6 @@ tegelijkertijd aselect twee ballen pakt, wat is dan de kans dat je twee
 rode ballen pakt?\
 (Geef het antwoord met één decimaal).
 
-
 Solution
 ========
 

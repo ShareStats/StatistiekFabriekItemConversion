@@ -3,7 +3,6 @@ Question
 
 Het onderscheidingsvermogen (\"power\") van een toets is
 
-
 Answerlist
 ----------
 
@@ -25,7 +24,7 @@ exname: uva-power-622-nl
 extype: schoice
 exsolution: 1000
 exsection: Inferential Statistics/NHST/Power
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -1.849

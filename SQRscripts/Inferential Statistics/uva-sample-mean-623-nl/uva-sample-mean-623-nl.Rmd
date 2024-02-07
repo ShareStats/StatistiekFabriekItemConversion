@@ -4,7 +4,6 @@ Question
 Z wordt getrokken uit een standaardnormaal verdeelde variabele. De kans
 P(1 \< Z \< 1.75) is gelijk aan
 
-
 Answerlist
 ----------
 

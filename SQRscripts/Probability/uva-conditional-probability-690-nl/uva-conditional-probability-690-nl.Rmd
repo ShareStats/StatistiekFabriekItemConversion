@@ -14,7 +14,6 @@ heeft gepleegd in 2008.
 Hoe groot is de kans dat de gekozen zelfmoordpleger een vuurwapen heeft
 gebruikt, gegeven het feit dat het een vrouw is?
 
-
 Answerlist
 ----------
 
@@ -37,7 +36,7 @@ exname: uva-conditional-probability-690-nl
 extype: schoice
 exsolution: 00010
 exsection: Probability/Elementary Probability/Conditional probability
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

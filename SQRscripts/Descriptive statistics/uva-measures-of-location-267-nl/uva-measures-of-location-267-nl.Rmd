@@ -8,7 +8,6 @@ Steekproef 2: grootte = 12, gemiddelde = 37.0, standaardafwijking = 5.9
 Het tweezijdig 95% betrouwbaarheidsinterval voor μ~1~, het gemiddelde
 van de eerste populatie, is gelijk aan
 
-
 Answerlist
 ----------
 
@@ -30,7 +29,7 @@ exname: uva-measures-of-location-267-nl
 extype: schoice
 exsolution: 0010
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.812

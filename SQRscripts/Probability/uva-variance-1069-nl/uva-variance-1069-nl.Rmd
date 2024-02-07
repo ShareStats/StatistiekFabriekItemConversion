@@ -7,7 +7,6 @@ van 1 minuut voor Alice, en voor Maria een gemiddelde van 33 minuten en
 een standaardafwijking van 2 minuten. Stel dat hun tijden onafhankelijk
 van elkaar zijn, hoe groot is dan de kans dat Alice Maria kan verslaan?
 
-
 Answerlist
 ----------
 
@@ -29,7 +28,7 @@ exname: uva-variance-1069-nl
 extype: schoice
 exsolution: 1000
 exsection: Probability/Elementary Probability/Random variables/Variance
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

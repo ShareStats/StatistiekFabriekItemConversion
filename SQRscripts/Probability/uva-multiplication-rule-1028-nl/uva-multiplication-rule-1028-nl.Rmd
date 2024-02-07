@@ -5,7 +5,6 @@ Eén zuiver geldstuk wordt vier keer opgegooid. *A* is de gebeurtenis: de
 eerste twee keer ligt kop boven, en daarna ligt twee keer munt boven.
 Hoe groot is dan de kans op *A*?
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-multiplication-rule-1028-nl
 extype: schoice
 exsolution: 0001
 exsection: Probability/Elementary Probability/General Rules/Multiplication rule
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

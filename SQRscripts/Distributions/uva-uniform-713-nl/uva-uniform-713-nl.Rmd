@@ -13,7 +13,6 @@ produceert een getal *X* dat ligt in een interval 0,4 of in een interval
 0,7. Welk grijs gearceerde oppervlakte(n) kent de kans P(*X* ≤ 0,4 of
 * *X* \> 0,7) toe?
 
-
 ![](uva-uniform-713-nl-graph01.png)
 
 Answerlist
@@ -37,7 +36,7 @@ exname: uva-uniform-713-nl
 extype: schoice
 exsolution: 0100
 exsection: Distributions/Continuous/Uniform
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

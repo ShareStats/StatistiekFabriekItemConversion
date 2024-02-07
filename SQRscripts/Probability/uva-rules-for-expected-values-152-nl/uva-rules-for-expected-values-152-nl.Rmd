@@ -4,7 +4,6 @@ Question
 Men werpt gelijktijdig drie zuivere munten. Hoe groot is de kans dat er
 tenminste één met kruis boven komt?
 
-
 Answerlist
 ----------
 

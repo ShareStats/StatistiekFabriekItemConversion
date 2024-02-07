@@ -7,7 +7,6 @@ er 120 aan sport en zijn er 50 ondervraagden die aan sport doen en geen
 partner hebben. De kans dat een willekeurig getrokken persoon in dit
 onderzoek aan sport doet en een partner heeft, is gelijk aan
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-rules-for-expected-values-773-nl
 extype: schoice
 exsolution: 100
 exsection: Probability/Elementary Probability/Random variables/Rules for expected values
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

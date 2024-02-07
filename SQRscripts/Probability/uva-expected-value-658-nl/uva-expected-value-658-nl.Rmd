@@ -15,7 +15,6 @@ doelpogingen kan de waarden 0, 1 of 2 aannemen.
 Wat is de verwachte score bij twee doelpogingen? Rond af op twee
 decimalen.
 
-
 Solution
 ========
 

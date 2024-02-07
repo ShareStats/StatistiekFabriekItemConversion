@@ -3,7 +3,6 @@ Question
 
 Y \~ N (-3, 2^2^). Dan geldt dat P(Y \< -2) =
 
-
 Answerlist
 ----------
 

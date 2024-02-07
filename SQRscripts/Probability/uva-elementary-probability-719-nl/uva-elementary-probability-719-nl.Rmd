@@ -4,7 +4,6 @@ Question
 Als je tegelijkertijd vier muntstukken opgooit, hoe groot is dan de kans
 op twee keer munt en twee keer kruis?
 
-
 Answerlist
 ----------
 
@@ -26,7 +25,7 @@ exname: uva-elementary-probability-719-nl
 extype: schoice
 exsolution: 0001
 exsection: Probability/Elementary Probability
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

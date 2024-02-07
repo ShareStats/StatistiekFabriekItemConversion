@@ -5,7 +5,6 @@ We nemen voor deze vraag aan dat geboortegewicht (in kg.) normaal
 verdeeld is met verwachting 2.90 en variantie 0.64. Een geboortegewicht
 van 2500 gram heeft een Z-score van
 
-
 Answerlist
 ----------
 

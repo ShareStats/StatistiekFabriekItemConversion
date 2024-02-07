@@ -4,7 +4,6 @@ Question
 Gegeven een steekproef met uitkomsten 7, 11, 5, 20, 18 en 17. De
 steekproefvariantie is dan gelijk aan
 
-
 Answerlist
 ----------
 

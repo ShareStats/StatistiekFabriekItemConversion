@@ -12,7 +12,6 @@ auto. Stel de gebeurtenis *A* = "Bezit auto" en de gebeurtenis *M* =
 onderstaande Venn-diagrammen toont "de andere kostwinners waarvan 47%
 een auto bezit"?
 
-
 ![](uva-events-697-nl-graph01.png)
 
 Answerlist
@@ -36,7 +35,7 @@ exname: uva-events-697-nl
 extype: schoice
 exsolution: 1000
 exsection: Probability/Elementary Probability/Events
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.407

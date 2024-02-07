@@ -5,7 +5,6 @@ In een kansexperiment is van twee gebeurtenissen A en B gegeven dat ze
 disjunct zijn en dat P(A) = 0,4 en P(B) = 0,3. Dan is P(A of B) gelijk
 aan
 
-
 Answerlist
 ----------
 

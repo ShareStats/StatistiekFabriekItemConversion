@@ -7,7 +7,6 @@ trekken we een steekproef (n = 9) uit de populatie met als resultaat:
 gemiddelde = 28 en standaarddeviatie = 3.6. De waarde van de
 toetsingsgrootheid T is dan
 
-
 Answerlist
 ----------
 

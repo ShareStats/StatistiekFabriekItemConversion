@@ -9,7 +9,6 @@ Van 8 individuen zijn kenmerken X en Y gemeten. Stel dat Y lineair
 afhankelijk is van X. Dan is de richtingscoÃ«fficiÃ«nt van de
 regressielijn van Y op X gelijk aan
 
-
 ![](uva-simple-linear-regression-642-nl-graph01.png)
 
 Answerlist

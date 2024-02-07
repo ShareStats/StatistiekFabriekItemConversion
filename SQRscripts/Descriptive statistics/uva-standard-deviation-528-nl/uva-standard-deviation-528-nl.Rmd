@@ -4,7 +4,6 @@ Question
 Gegeven de steekproefwaarnemingen 22, 24, 28, 34, 40, 51. De beste
 schatting van de standaarddeviatie van het steekproefgemiddelde is
 
-
 Answerlist
 ----------
 

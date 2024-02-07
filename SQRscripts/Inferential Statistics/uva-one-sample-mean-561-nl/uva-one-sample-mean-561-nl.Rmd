@@ -7,7 +7,6 @@ verdeelde) gewicht (in kg.) gemeten:\
 We willen H~0~: μ=60 toetsen. Wat is de uitkomst van de
 toetsingsgrootheid?
 
-
 Answerlist
 ----------
 

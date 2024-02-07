@@ -6,7 +6,6 @@ gaan stemmen. Bij een *confidence* level van 95% willen we een *margin
 of error* gelijk aan 0,03 hebben (m = 0,03). Hoe groot moet bij de
 zogenoemde \'safe approach\' van dit probleem dan de random sample zijn?
 
-
 Answerlist
 ----------
 

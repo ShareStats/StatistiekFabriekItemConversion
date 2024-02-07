@@ -8,7 +8,6 @@ error* van m = 0.04 bij een *confidence interval* van 95%, dus voor *z*
 minimale aantal proefpersonen dat nodig is voor een *margin of error*
 kleiner dan of gelijk aan 0.04 is
 
-
 Answerlist
 ----------
 

@@ -6,7 +6,6 @@ grootte 60 en één met grootte 540. In vergelijking met de steekproef van
 60 waarnemingen is de *standard error* van het gemiddelde in de
 steekproef van 540 waarnemingen
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-standard-deviation-27-nl
 extype: schoice
 exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -0.958

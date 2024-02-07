@@ -4,7 +4,6 @@ Question
 Bij regressie-analyse is de voorspelde score op y het gemiddelde van de
 responsvariabele y wanneer
 
-
 Answerlist
 ----------
 
@@ -25,7 +24,7 @@ exname: uva-simple-linear-regression-833-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/Regression/Simple linear regression
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 5.132

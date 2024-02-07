@@ -4,7 +4,6 @@ Question
 Van een steekproef is gegeven: gemiddelde = 45, variantie = 30,
 steekproefgrootte = 10. Dan is de SEM gelijk aan
 
-
 Answerlist
 ----------
 

@@ -9,7 +9,6 @@ Bij het tweezijdig toetsen (met α = 0.05) van de hypothese dat de
 populatiegemiddelden gelijk zijn, zijn de grenzen van het kritieke
 gebied gelijk aan
 
-
 Answerlist
 ----------
 
@@ -31,7 +30,7 @@ exname: uva-independent-samples-means-534-nl
 extype: schoice
 exsolution: 0001
 exsection: Inferential Statistics/Parametric Techniques/t-test/Independent samples means
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.353

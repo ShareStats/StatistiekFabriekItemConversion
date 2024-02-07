@@ -10,7 +10,6 @@ universiteit heeft doorlopen. *B* is de verzameling van huishoudens waar
 het jaarinkomen hoger is dan €100.000. Welke gearceerde oppervlakte in
 onderstaand Venn-diagram toont de vereniging van *A* en B?
 
-
 ![](uva-events-662-nl-graph01.png)
 
 Answerlist
@@ -34,7 +33,7 @@ exname: uva-events-662-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/Events
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.791

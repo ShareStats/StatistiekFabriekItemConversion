@@ -6,7 +6,6 @@ variabelen X en Y een Spearman rangcorrelatie gelijk aan 0.47. De
 nulhypothese van geen verband kan dan worden verworpen ten gunste van de
 alternatieve hypothese dat er een positief verband is bij
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-test-229-nl
 extype: schoice
 exsolution: 001
 exsection: Inferential Statistics/Parametric Techniques/t-test
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.946

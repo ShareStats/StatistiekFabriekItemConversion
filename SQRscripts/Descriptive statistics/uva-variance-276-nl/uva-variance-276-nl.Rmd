@@ -4,7 +4,6 @@ Question
 X~1~, en X~2~ zijn onafhankelijke trekkingen uit een verdeling met μ =
 10 en σ^2^ = 9. De variantie van (X~1~ + X~2~) / 2 is dan gelijk aan
 
-
 Answerlist
 ----------
 

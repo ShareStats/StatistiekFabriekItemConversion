@@ -10,7 +10,6 @@ vier groene ballen. Stel je pakt willekeurig een bal uit de doos, welke
 van de onderstaande tekeningen geeft de correcte volgorde weer qua
 kansen voor de vier verschillende kleuren?
 
-
 ![](uva-elementary-probability-748-nl-graph01.png)
 
 Answerlist
@@ -34,7 +33,7 @@ exname: uva-elementary-probability-748-nl
 extype: schoice
 exsolution: 0001
 exsection: Probability/Elementary Probability
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

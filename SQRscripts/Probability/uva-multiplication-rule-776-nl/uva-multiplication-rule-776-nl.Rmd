@@ -4,7 +4,6 @@ Question
 Een zuivere dobbelsteen wordt vier maal geworpen. Hoe groot is de kans
 dat er tenminste één maal een twee boven komt?
 
-
 Answerlist
 ----------
 
@@ -25,7 +24,7 @@ exname: uva-multiplication-rule-776-nl
 extype: schoice
 exsolution: 010
 exsection: Probability/Elementary Probability/General Rules/Multiplication rule
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.001

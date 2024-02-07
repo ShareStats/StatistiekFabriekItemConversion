@@ -4,7 +4,6 @@ Question
 Er is gegeven voor twee on;afhankelijke gebeurtenissen A en B dat P(A) =
 0.5, P(B) = 0.2 en P(A en B) = 0.1. Dan geldt dat P(A\|B) gelijk is aan
 
-
 Answerlist
 ----------
 
@@ -25,7 +24,7 @@ exname: uva-conditional-probability-767-nl
 extype: schoice
 exsolution: 100
 exsection: Probability/Elementary Probability/Conditional probability
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

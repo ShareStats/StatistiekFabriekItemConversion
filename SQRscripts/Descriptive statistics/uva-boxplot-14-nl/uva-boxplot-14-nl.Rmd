@@ -8,7 +8,6 @@ Question
 Bekijk onderstaande boxplot voor de variabele IQ. Wat is ongeveer het
 derde kwartiel (Q3)?
 
-
 ![](uva-boxplot-14-nl-graph01.png)
 
 Answerlist

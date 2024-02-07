@@ -5,7 +5,6 @@ In een doos zitten één zwarte bal, twee rode ballen, drie gele ballen en
 vier groene ballen. Als je blindelings één bal daaruit pakt, wat is dan
 de kans dat je een rode bal *of* een zwarte bal pakt?
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-addition-rule-750-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/General Rules/Addition rule
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

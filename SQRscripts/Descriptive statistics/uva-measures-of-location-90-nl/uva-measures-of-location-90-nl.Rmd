@@ -5,7 +5,6 @@ In een *random sample* van 60 Rotterdammers treft men 24 buitenlanders
 aan. Het 95% *confidence interval* voor de proportie buitenlanders in de
 populatie heeft dan een *margin of error* die gelijk is aan
 
-
 Answerlist
 ----------
 

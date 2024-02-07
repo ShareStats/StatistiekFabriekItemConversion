@@ -8,7 +8,6 @@ significantieniveau dat wordt gebruikt is 0.025. De steekproefgrootte is
 * *sampling distribution* bij benadering normaal verdeeld is. Vanaf welke
 proportie kan de nulhypothese worden verworpen?
 
-
 Answerlist
 ----------
 

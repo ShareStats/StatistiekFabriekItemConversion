@@ -10,7 +10,6 @@ is 0,1. In een wedstrijd heeft zij 5 keer geschoten. Wat is de kans dat
 zij minstens één keer succesvol het doel raakt? We nemen aan dat elk
 schot onafhankelijk van elkaar is.
 
-
 ![](uva-binomial-1053-nl-graph01.jpeg)
 
 Answerlist
@@ -34,7 +33,7 @@ exname: uva-binomial-1053-nl
 extype: schoice
 exsolution: 0100
 exsection: Distributions/Discrete/Binomial
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.309

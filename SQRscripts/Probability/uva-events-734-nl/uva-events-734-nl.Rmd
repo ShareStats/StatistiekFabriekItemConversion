@@ -3,7 +3,6 @@ Question
 
 Wanneer noemt men twee gebeurtenissen *disjunct*?
 
-
 Answerlist
 ----------
 
@@ -25,7 +24,7 @@ exname: uva-events-734-nl
 extype: schoice
 exsolution: 0100
 exsection: Probability/Elementary Probability/Events
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -1.571

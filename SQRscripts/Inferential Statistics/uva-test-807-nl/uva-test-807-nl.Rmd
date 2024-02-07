@@ -14,7 +14,6 @@ Wat is de kritieke grens? Dit is de grens die hoort bij
 significantieniveau 0.05 in de F-verdeling welke hoort bij de twee
 vrijheidsgraden in de tabel.
 
-
 Solution
 ========
 

@@ -6,7 +6,6 @@ gebeurtenis *A* als de diameter van het gat groter is dan 2,3 cm en
 kleiner dan 2,5 cm. Wat is dan het complement gebeurtenis van *A*, als
 \(\bar{A}\)?
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-sample-space-996-nl
 extype: schoice
 exsolution: 0001
 exsection: Probability/Elementary Probability/Sample Space
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.234

@@ -3,7 +3,6 @@ Question
 
 Gegeven de getallen 3, 9, 6, 4, 8. De steekproefvariantie hiervan is
 
-
 Answerlist
 ----------
 

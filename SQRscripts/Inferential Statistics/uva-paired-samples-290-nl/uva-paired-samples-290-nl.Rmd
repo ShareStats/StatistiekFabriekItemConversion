@@ -11,7 +11,6 @@ Hb-gehalte voor en na het dieet inderdaad anders is. Hoeveel van de
 variatie in de nametingen hangt samen met de variatie in de
 voormetingen?
 
-
 ![](uva-paired-samples-290-nl-graph01.png)
 
 Answerlist
@@ -35,7 +34,7 @@ exname: uva-paired-samples-290-nl
 extype: schoice
 exsolution: 0100
 exsection: Inferential Statistics/Parametric Techniques/t-test/Paired samples
-exextra[Type]: Interpreting output, Calculation
+exextra[Type]: Interpreting output
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.34

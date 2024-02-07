@@ -4,7 +4,6 @@ Question
 Een onzuivere munt wordt 3 keer geworpen. De kans op kop boven is 0.6.
 Hoe groot is de kans dat er precies 2 keer kop boven komt?
 
-
 Answerlist
 ----------
 

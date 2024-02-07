@@ -8,7 +8,6 @@ dat P(A) = 0,46, P(B) = 0,15. hoe groot is de voorwaardelijke kans dat
 je een vrouw kiest, als is gegeven dat de aselect gekozen persoon een
 leidinggevende functie heeft?
 
-
 Answerlist
 ----------
 
@@ -30,7 +29,7 @@ exname: uva-conditional-probability-684-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/Conditional probability
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

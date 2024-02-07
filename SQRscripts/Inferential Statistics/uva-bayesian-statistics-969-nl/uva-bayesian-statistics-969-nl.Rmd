@@ -16,7 +16,6 @@ Marja heeft deze ziekte. Nemen we de gebeurtenissen:\
 Wat is dan de kans P(*D* en *P*) dat Marja de ziekte *D* heeft en de
 test ook positief is?
 
-
 Answerlist
 ----------
 
@@ -38,7 +37,7 @@ exname: uva-bayesian-statistics-969-nl
 extype: schoice
 exsolution: 1000
 exsection: Inferential Statistics/Bayesian Statistics
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.998

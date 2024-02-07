@@ -4,7 +4,6 @@ Question
 In een steekproef van 25 personen blijkt de variantie 64 te zijn. De SEM
 (standaardfout van het gemiddelde) is dan
 
-
 Answerlist
 ----------
 

@@ -5,7 +5,6 @@ Van de variabelen X en Y zijn de volgende gegevens bekend: r = 0.3, S~X~
 = S~Y~ = 1.2, het gemiddelde van X is 2.5 en het gemiddelde van Y is 3.
 Gegeven de regressie van Y op X, is voor X = 2 de voorspelling Y\'
 
-
 Answerlist
 ----------
 

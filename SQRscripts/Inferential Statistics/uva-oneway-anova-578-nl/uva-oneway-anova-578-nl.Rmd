@@ -7,7 +7,6 @@ afloop van het dieet wordt hun cholesterolgehalte gemeten. Om te toetsen
 of de populatiegemiddelden van het cholesterolgehalte in de drie groepen
 gelijk zijn aan elkaar gebruiken we een
 
-
 Answerlist
 ----------
 
@@ -29,7 +28,7 @@ exname: uva-oneway-anova-578-nl
 extype: schoice
 exsolution: 0001
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.101

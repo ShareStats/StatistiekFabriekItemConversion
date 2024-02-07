@@ -8,7 +8,6 @@ nulhypothese dat de werkelijke correlatie in de populatie 0 is zouden
 willen toetsen (5% risico, tweezijdig) dan zijn de grenswaarden van het
 kritieke gebied
 
-
 Answerlist
 ----------
 
@@ -30,7 +29,7 @@ exname: uva-test-607-nl
 extype: schoice
 exsolution: 0010
 exsection: Inferential Statistics/Parametric Techniques/t-test
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.712

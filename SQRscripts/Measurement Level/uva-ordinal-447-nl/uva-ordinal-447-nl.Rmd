@@ -16,7 +16,6 @@ onderstaande kruistabel weergegeven:
 
 Op welke schaal is de variabele AG weergegeven?
 
-
 Answerlist
 ----------
 
@@ -38,7 +37,7 @@ exname: uva-ordinal-447-nl
 extype: schoice
 exsolution: 0100
 exsection: Measurement Level/Ordinal
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.452

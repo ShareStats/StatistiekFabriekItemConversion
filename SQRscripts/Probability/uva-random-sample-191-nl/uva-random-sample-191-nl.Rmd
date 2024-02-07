@@ -5,7 +5,6 @@ De UvA had in 2007 272 hoogleraren in dienst. Daarvan was 16% vrouw. Hoe
 groot is de kans om in een random sample van 10 hoogleraren tenminste
 30% vrouwen te vinden?
 
-
 Answerlist
 ----------
 

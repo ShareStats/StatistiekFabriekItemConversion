@@ -3,7 +3,6 @@ Question
 
 Y \~ N (160, 7^2^). Voor welk getal a geldt dat P(Y \> a) = 0.03?
 
-
 Answerlist
 ----------
 
@@ -25,7 +24,7 @@ exname: uva-normal-262-nl
 extype: schoice
 exsolution: 0010
 exsection: Distributions/Continuous/Normal
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.269

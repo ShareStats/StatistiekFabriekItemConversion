@@ -4,7 +4,6 @@ Question
 Stel dat een stochastische variabele T een T-verdeling volgt met 10
 vrijheidsgraden. Dan is P(T \> 1.8125) gelijk aan
 
-
 Answerlist
 ----------
 

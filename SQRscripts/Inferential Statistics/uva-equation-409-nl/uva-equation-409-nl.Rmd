@@ -8,7 +8,6 @@ Question
 Hieronder staat SPSS-uitvoer van een regressieanalyse van Y op X. De
 vergelijking van de regressielijn van Y op X luidt
 
-
 ![](uva-equation-409-nl-graph01.png)
 
 Answerlist
@@ -32,7 +31,7 @@ exname: uva-equation-409-nl
 extype: schoice
 exsolution: 1000
 exsection: Inferential Statistics/Regression/Equation
-exextra[Type]: Interpreting output, Calculation
+exextra[Type]: Interpreting output
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 5.276

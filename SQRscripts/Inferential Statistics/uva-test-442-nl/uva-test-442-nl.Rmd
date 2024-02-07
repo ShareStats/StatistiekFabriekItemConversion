@@ -6,7 +6,6 @@ correlatiecoÃ«fficiÃ«nt berekend tussen systolische en diastolische
 bloeddruk, met als uitkomst de waarde 0.845. Bij het toetsen van H~0~: ρ
 = 0 (α = 0.05 tweezijdig) is het kritieke gebied gelijk aan
 
-
 Answerlist
 ----------
 

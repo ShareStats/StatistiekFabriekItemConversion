@@ -5,7 +5,6 @@ Een steekproef van grootte 16 uit een normale verdeling heeft als
 gemiddelde 45 en als sd 12. Geef een tweezijdig
 95%-betrouwbaarheidsinterval voor het populatiegemiddelde.
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-measures-of-location-594-nl
 extype: schoice
 exsolution: 1000
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.859

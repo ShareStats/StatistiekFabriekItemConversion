@@ -5,7 +5,6 @@ We nemen aan dat de geboorte van elk kind een onafhankelijke gebeurtenis
 is. Een familie heeft drie kinderen: twee jongens en één meisje. Hoeveel
 mogelijkheden zijn er wat betreft de volgorde?
 
-
 Answerlist
 ----------
 

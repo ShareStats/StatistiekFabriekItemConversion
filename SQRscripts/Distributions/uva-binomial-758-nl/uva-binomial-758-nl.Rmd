@@ -15,7 +15,6 @@ heeft de waarden als 0, 1, \... , 5 en de *Binomiaal* (5,
 0,25)-verdeling. Welk diagram hieronder geeft de kans op elke waarde van
 * *X* aan?
 
-
 ![](uva-binomial-758-nl-graph01.png)
 
 Answerlist
@@ -39,7 +38,7 @@ exname: uva-binomial-758-nl
 extype: schoice
 exsolution: 1000
 exsection: Distributions/Discrete/Binomial
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

@@ -6,7 +6,6 @@ wordt een steekproef getrokken. Voor de eerste steekproef geldt n = 4,
 s^Â²^ = 30, voor de tweede geldt n = 6, s^Â²^ = 20. De beste schatter
 voor de gezamenlijke populatievariantie is
 
-
 Answerlist
 ----------
 

@@ -11,7 +11,6 @@ ongeveer 0,512. Stel de gebeurtenissen:\
 Wat is dan de kans dat een vrouw uit USA met twee kinderen ofwel twee
 meisjes, ofwel twee jongens heeft?
 
-
 Answerlist
 ----------
 
@@ -33,7 +32,7 @@ exname: uva-addition-rule-943-nl
 extype: schoice
 exsolution: 0001
 exsection: Probability/Elementary Probability/General Rules/Addition rule
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

@@ -10,7 +10,6 @@ liggen rondom de werkelijke regressielijn volgens een normale verdeling
 met gelijke varianties over de gehele range van waarnemingen. De beste
 schatting van deze variantie is gelijk aan
 
-
 ![](uva-simple-linear-regression-508-nl-graph01.png)
 
 Answerlist

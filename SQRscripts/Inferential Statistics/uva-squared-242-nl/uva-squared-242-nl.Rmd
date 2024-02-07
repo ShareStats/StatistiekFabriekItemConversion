@@ -11,7 +11,6 @@ Question
 In bovenstaande 2 x 3 tabel is de verwachte frequentie van de cel (x~2~,
 y~2~) gelijk aan
 
-
 Answerlist
 ----------
 

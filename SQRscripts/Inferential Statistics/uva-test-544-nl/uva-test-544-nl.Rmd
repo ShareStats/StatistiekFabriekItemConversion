@@ -13,7 +13,6 @@ Wanneer we tweezijdig met α = 0.01 de hypothese willen toetsen dat er in
 de populatie geen sprake is van correlatie tussen X en Y, worden de
 grenzen van het kritieke gebied
 
-
 Answerlist
 ----------
 

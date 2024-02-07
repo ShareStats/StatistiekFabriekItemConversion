@@ -5,7 +5,6 @@ Uit een populatie zijn de volgende 5 getallen getrokken:\
 57, 43, 89, 66, 70. Geef de SEM (Standard Error of the Mean), de
 geschatte standaarddeviatie van het steekproefgemiddelde.
 
-
 Answerlist
 ----------
 

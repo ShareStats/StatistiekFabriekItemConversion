@@ -11,7 +11,6 @@ vergadering. Stel de gebeurtenissen:\
 Wat is de kans dat beide mensen die Marieke ontmoet, dezelfde
 geboortemaand hebben als Marieke?
 
-
 Answerlist
 ----------
 
@@ -33,7 +32,7 @@ exname: uva-multiplication-rule-944-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/General Rules/Multiplication rule
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

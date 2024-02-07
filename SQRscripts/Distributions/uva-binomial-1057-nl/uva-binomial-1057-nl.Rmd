@@ -6,7 +6,6 @@ schroeven zijn onafhankelijk van elkaar. Stel *X* is het aantal defecte
 schroeven en je pakt 10 schroeven als een steekproef. Wat is dan de kans
 dat er geen enkele schroef defect is?
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-binomial-1057-nl
 extype: schoice
 exsolution: 0001
 exsection: Distributions/Discrete/Binomial
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

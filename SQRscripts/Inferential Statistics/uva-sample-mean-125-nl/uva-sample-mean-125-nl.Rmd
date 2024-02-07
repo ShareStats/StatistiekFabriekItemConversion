@@ -3,7 +3,6 @@ Question
 
 Een *sampling distribution* is altijd een
 
-
 Answerlist
 ----------
 
@@ -24,7 +23,7 @@ exname: uva-sample-mean-125-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/Sampling Distributions/Sample mean
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

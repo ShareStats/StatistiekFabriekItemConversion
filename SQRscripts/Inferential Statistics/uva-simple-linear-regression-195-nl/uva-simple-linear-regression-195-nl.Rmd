@@ -9,7 +9,6 @@ vrouwen en x~2~= 1 voor mannen). De regressievergelijking is\
 Het voorspelde aantal studiepunten voor een vrouw met een gemiddeld
 eindexamencijfer gelijk aan 8 is
 
-
 Answerlist
 ----------
 

@@ -8,7 +8,6 @@ binomiaal verdeeld met kans op succes p = 0.47 bij iedere draai van het
 roulettewiel. Op basis van de centrale limietstelling kan worden gesteld
 dat
 
-
 Answerlist
 ----------
 
@@ -29,7 +28,7 @@ exname: uva-binomial-205-nl
 extype: schoice
 exsolution: 010
 exsection: Distributions/Discrete/Binomial
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -1.411

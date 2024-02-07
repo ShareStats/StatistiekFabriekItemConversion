@@ -6,7 +6,6 @@ leden man. Van de vrouwen is 40% alcoholist, van de mannen 80%. Er wordt
 random een lid uit het ledenbestand gekozen. Deze blijkt alcoholist te
 zijn. Hoe groot is de kans dat het een vrouw is?
 
-
 Answerlist
 ----------
 

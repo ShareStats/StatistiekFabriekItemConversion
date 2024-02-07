@@ -4,7 +4,6 @@ Question
 Een variabele X volgt een normale verdeling, X \~ N (16, 2^2^). Dan
 geldt P(X \< 14) is gelijk aan:
 
-
 Answerlist
 ----------
 

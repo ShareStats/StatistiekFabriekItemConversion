@@ -7,7 +7,6 @@ door er 45 van af te trekken, en vervolgens door 12 te delen. De
 standaardafwijking van deze gestandaardiseerde variabele is dan gelijk
 aan:
 
-
 Answerlist
 ----------
 

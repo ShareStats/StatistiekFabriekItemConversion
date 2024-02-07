@@ -5,7 +5,6 @@ Er wordt 50 keer met twee dobbelstenen gegooid, en iedere keer wordt het
 gemiddelde van de twee uitkomsten berekend. Dit gemiddelde heeft bij
 benadering een
 
-
 Answerlist
 ----------
 

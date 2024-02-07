@@ -4,7 +4,6 @@ Question
 Een stochastische variabele X volgt een normale verdeling, X \~ N(1,
 0.5^2^). De kans dat X een negatieve waarde aanneemt is gelijk aan
 
-
 Answerlist
 ----------
 

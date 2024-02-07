@@ -5,7 +5,6 @@ X en Y zijn onafhankelijke stochastische variabelen met verwachting
 resp. 12 en 21 en variantie resp. 4 en 9. Dan is de variantie van Y - X
 gelijk aan
 
-
 Answerlist
 ----------
 

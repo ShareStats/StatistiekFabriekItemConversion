@@ -16,7 +16,6 @@ Gegeven is de volgende frequentietabel:
 
 Wat is de beste schatting van het gemiddelde?
 
-
 Answerlist
 ----------
 

@@ -3,7 +3,6 @@ Question
 
 Wanneer twee gebeurtenissen A en B onafhankelijk zijn geldt
 
-
 Answerlist
 ----------
 
@@ -24,7 +23,7 @@ exname: uva-independent-events-153-nl
 extype: schoice
 exsolution: 100
 exsection: Probability/Elementary Probability/General Rules/Independent events
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3

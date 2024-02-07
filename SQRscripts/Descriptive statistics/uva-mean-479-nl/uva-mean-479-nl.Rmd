@@ -4,7 +4,6 @@ Question
 Gegeven de volgende getallen in een steekproef: 7, 1, 4, 8, 7, 3. De
 waarde van de mediaan van deze getallen is:
 
-
 Answerlist
 ----------
 

@@ -14,7 +14,6 @@ staan in de onderstaande kruistabel:
 
 P(\"persoon uit verpleeghuis\" ∪ \"persoon ouder dan 95 jaar\") =
 
-
 Answerlist
 ----------
 

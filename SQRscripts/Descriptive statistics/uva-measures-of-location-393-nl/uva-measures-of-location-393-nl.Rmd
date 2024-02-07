@@ -5,7 +5,6 @@ Gegeven de volgende steekproefuitkomsten: 4.5, 3.9, 4.6, 4.1, 4.4. Het
 95% betrouwbaarheidsinterval voor het populatiegemiddelde μ is gelijk
 aan
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-measures-of-location-393-nl
 extype: schoice
 exsolution: 0100
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.57

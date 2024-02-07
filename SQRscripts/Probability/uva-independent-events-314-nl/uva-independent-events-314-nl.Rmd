@@ -5,7 +5,6 @@ Hieronder staan twee uitspraken. Welke hiervan zijn juist?\
 I: A en B zijn onafhankelijk als P(A ∩ B) = P(A)\*P(B)\
 II: A en B zijn onafhankelijk als P(A\|\|\|B) = P(B)
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-independent-events-314-nl
 extype: schoice
 exsolution: 0100
 exsection: Probability/Elementary Probability/General Rules/Independent events
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.573

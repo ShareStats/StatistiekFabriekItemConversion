@@ -5,7 +5,6 @@ Gegeven de volgende getallen in een steekproef: 7, 1, 4, 8, 7, 3. Het
 95% betrouwbaarheidsinterval voor het gemiddelde van de populatie
 waaruit de steekproef is getrokken is:
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-measures-of-location-481-nl
 extype: schoice
 exsolution: 0001
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.009

@@ -5,7 +5,6 @@ We trekken een steekproef van n = 11 uit een verdeling met μ = 88 en
 σ^2^ = 25. Dan geldt voor de verwachting en variantie van het
 steekproefgemiddelde:
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-variance-260-nl
 extype: schoice
 exsolution: 0100
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Variance
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.726

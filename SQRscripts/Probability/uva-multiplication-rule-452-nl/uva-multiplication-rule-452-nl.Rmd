@@ -6,7 +6,6 @@ normale verdeling met μ = 175 en σ = 8 worden aselect en onafhankelijk
 van elkaar twee mannen getrokken. De kans dat beide mannen groter zijn
 dan 179 is
 
-
 Answerlist
 ----------
 

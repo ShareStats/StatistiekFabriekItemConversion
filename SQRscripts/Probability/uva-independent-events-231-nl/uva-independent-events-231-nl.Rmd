@@ -5,7 +5,6 @@ Gegeven is de kans dat gebeurtenissen A en B samen optreden P(A∩B) =
 0.4. Verder is gegeven de kans op A P(A) = 0.5 en de kans op B P(B) =
 0.4. De voorwaardelijke kans van A gegeven B P(A\|\|\|B) is
 
-
 Answerlist
 ----------
 

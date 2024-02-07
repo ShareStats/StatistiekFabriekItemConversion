@@ -6,7 +6,6 @@ eerste worp en de tweede worp geen 1 zijn, maar de derde worp wel een 1
 is?\
 (Geef het antwoord in de vorm van een breuk met de vorm X/Y).
 
-
 Solution
 ========
 

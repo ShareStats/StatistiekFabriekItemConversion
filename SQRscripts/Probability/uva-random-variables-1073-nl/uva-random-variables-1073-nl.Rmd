@@ -16,7 +16,6 @@ universiteit in het afgelopen jaar is als volgt:\
 Wat is dan de kans dat, als je een willekeurige student kiest, deze twee
 of minder banen tijdens het afgelopen jaar had, zoals P(X ≤ 2)?
 
-
 Answerlist
 ----------
 
@@ -38,7 +37,7 @@ exname: uva-random-variables-1073-nl
 extype: schoice
 exsolution: 0001
 exsection: Probability/Elementary Probability/Random variables
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 0.524

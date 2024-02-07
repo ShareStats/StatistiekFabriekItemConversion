@@ -4,7 +4,6 @@ Question
 De standaardfout van het steekproefgemiddelde van *n* waarnemingen wordt
 verkregen uit de standaardafwijking van de steekproef door
 
-
 Answerlist
 ----------
 
@@ -26,7 +25,7 @@ exname: uva-inferential-statistics-353-nl
 extype: schoice
 exsolution: 1000
 exsection: Inferential Statistics
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -4.215

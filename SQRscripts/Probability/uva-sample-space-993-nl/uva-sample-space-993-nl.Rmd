@@ -4,7 +4,6 @@ Question
 Een stel wil één kind krijgen, wat is dan de uitkomstenruimte voor deze
 gebeurtenis?
 
-
 Answerlist
 ----------
 
@@ -26,7 +25,7 @@ exname: uva-sample-space-993-nl
 extype: schoice
 exsolution: 1000
 exsection: Probability/Elementary Probability/Sample Space
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -5.741

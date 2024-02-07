@@ -6,7 +6,6 @@ behandelen van sociale angst. In welk van de volgende gevallen is
 regressie naar het gemiddelde een mogelijk probleem bij het
 interpreteren van resultaten van de longitudinale interventiestudie?
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-inferential-statistics-37-nl
 extype: schoice
 exsolution: 001
 exsection: Inferential Statistics
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.042

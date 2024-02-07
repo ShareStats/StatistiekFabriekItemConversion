@@ -9,7 +9,6 @@ Hieronder staat SPSS-uitvoer van een gepaarde T toets, met H~0~:
 μ~meting\ 1~ = μ~meting\ 2~. De waarde van de toetsingsgrootheid t (het
 vraagteken in de uitvoer) is gelijk aan
 
-
 ![](uva-paired-samples-354-nl-graph01.png)
 
 Answerlist

@@ -8,7 +8,6 @@ B = het aantal ogen dat na het werpen boven ligt is even.\
 \
 Wat is dan de kans op P(A\|B)?
 
-
 Answerlist
 ----------
 
@@ -30,7 +29,7 @@ exname: uva-conditional-probability-1082-nl
 extype: schoice
 exsolution: 0100
 exsection: Probability/Elementary Probability/Conditional probability
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

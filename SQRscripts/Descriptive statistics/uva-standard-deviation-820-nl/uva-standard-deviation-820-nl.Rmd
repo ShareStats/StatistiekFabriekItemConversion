@@ -5,7 +5,6 @@ Op een bepaald tentamen is het gemiddelde cijfer gelijk aan 3.0 bij een
 variantie gelijk aan 1.21. Iemand met een cijfer van 5.5 heeft dan een
 z-score gelijk aan
 
-
 Answerlist
 ----------
 

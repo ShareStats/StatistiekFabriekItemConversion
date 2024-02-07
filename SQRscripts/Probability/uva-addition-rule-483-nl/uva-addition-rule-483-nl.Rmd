@@ -4,7 +4,6 @@ Question
 Voor twee onafhankelijke gebeurtenissen A en B is gegeven dat P(A) =
 0.3, P(B) = 0.4 en P(A ∩ B) = 0.12. Dan is P(A ∪ B) gelijk aan
 
-
 Answerlist
 ----------
 

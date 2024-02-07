@@ -16,7 +16,6 @@ gebruikt: groep 1 - groep 2 (groep 1 minus groep 2). Het verschil in
 gemiddelde rangordeningen uit de steekproef is -0.8. Gegeven de exacte
 kansverdeling die hieronder staat afgebeeld, wat is nu de P-waarde?
 
-
 ![](uva-signed-rank-test-98-nl-graph01.png)
 
 Answerlist

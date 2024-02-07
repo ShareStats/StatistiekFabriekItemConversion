@@ -4,7 +4,6 @@ Question
 De kansvariabele B is binomiaal verdeeld met n = 20 en p = 0.3. Dan
 geldt P(B ≤ 3 \|\|\| n =20; p = 0.3) is
 
-
 Answerlist
 ----------
 

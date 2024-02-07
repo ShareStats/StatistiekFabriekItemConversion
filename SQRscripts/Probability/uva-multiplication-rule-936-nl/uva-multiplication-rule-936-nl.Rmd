@@ -13,7 +13,6 @@ Gebeurtenis *B* = de gekozen persoon is een wekelijkse gokker.\
 Wat is dan de kans dat je aselect iemand kiest die een jongen is en ook
 wekelijks gokt in het afgelopen jaar?
 
-
 Answerlist
 ----------
 
@@ -35,7 +34,7 @@ exname: uva-multiplication-rule-936-nl
 extype: schoice
 exsolution: 1000
 exsection: Probability/Elementary Probability/General Rules/Multiplication rule
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

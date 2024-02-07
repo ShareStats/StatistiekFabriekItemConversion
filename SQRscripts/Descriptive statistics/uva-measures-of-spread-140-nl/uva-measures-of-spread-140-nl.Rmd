@@ -5,7 +5,6 @@ In een bepaalde frequentieverdeling zijn de kwartielen Q1, Q2 en Q3
 respectievelijk gelijk aan 8, 12 en 19. Dat betekent dat de
 Interquartile Range (IQR) gelijk is aan
 
-
 Answerlist
 ----------
 

@@ -6,7 +6,6 @@ In een gesloten doos zitten vijf ballen: drie rode en twee gele. Als je
 (Geef het antwoord met één decimaal. Gebruik een komma als
 decimaalteken).
 
-
 Solution
 ========
 

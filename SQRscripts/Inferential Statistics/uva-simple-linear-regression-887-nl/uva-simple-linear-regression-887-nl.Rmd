@@ -16,7 +16,6 @@ De regressievergelijking voor de afhankelijke variabele *y* met alleen
 Stel nu dat het model wordt berekend met *x*~2~ erbij. Dan zal de
 coÃ«fficiÃ«nt
 
-
 Answerlist
 ----------
 

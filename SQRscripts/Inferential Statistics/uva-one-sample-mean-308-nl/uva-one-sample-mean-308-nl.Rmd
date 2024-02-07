@@ -6,7 +6,6 @@ We trekken een steekproef uit een normaal verdeelde populatie N(μ,
 bekend is en geschat wordt m.b.v. *s*^Â²^. Wat is dan de kritieke waarde
 bij toetsing van H~0~: μ = 20 tegen H~1~: μ ≠ 20 met 5% risico?
 
-
 Answerlist
 ----------
 

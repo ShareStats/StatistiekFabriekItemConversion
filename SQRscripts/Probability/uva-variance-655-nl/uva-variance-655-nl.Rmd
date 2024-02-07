@@ -24,7 +24,6 @@ Gebaseerd op deze data hebben wij:
 Wat is de standaardafwijking van de opbrengst (*σ~R~*) van de
 beleggingen uitgedeeld in procenten? Rond af op twee decimalen.
 
-
 Solution
 ========
 

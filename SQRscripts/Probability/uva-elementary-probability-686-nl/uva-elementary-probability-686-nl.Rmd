@@ -17,7 +17,6 @@ staan de aantallen studenten die verschillende vakken hebben gekozen:
 Hoe groot is de kans dat een aselect gekozen student een jongen is? Rond
 af op drie decimalen.
 
-
 Solution
 ========
 

@@ -12,7 +12,6 @@ Gegeven is de volgende frequentietabel.
 Wat is de verwachte celfrequentie van een man met sportauto onder de
 aanname van onafhankelijkheid van de nulhypothese?
 
-
 Answerlist
 ----------
 

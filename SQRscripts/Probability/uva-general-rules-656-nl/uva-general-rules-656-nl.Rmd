@@ -17,7 +17,6 @@ niet defect zijn; *X* = 1 betekent dat er één van de twee defect is; *X*
 \
 Wat is de kans dat beide lampen defect zijn? Rond af op vier decimalen.
 
-
 Solution
 ========
 

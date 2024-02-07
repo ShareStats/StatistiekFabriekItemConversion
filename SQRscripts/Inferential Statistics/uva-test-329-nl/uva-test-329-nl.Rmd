@@ -11,7 +11,6 @@ steekproef van 20 personen uit haar doelpopulatie. Hieruit berekent zij
 de onderstaande grootheden. Wanneer we willen toetsen H~0~: ρ~P~ = 0 met
 een tweezijdig risico van 5%, dan zal de kritieke waarde gelijk zijn aan
 
-
 ![](uva-test-329-nl-graph01.png)
 
 Answerlist

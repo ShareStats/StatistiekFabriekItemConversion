@@ -8,7 +8,6 @@ Question
 In onderstaande grafiek staat van 50 gezinnen hoeveel kinderen ze
 bevatten. Het percentage gezinnen met 3 of meer kinderen is gelijk aan
 
-
 ![](uva-bar-graph-343-nl-graph01.png)
 
 Answerlist

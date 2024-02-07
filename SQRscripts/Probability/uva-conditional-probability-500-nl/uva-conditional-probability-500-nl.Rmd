@@ -13,7 +13,6 @@ aantal werkuren per week (afgerond op gehele uren) gegeven.
 De kans dat een aselect uit deze werknemers getrokken persoon vrouwelijk
 is en/of minder dan 18 uur werkt, is
 
-
 Answerlist
 ----------
 
@@ -35,7 +34,7 @@ exname: uva-conditional-probability-500-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/Conditional probability
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

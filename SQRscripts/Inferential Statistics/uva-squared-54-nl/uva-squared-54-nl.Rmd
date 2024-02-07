@@ -13,7 +13,6 @@ Gegeven is de volgende tabel.
 De nulhypothese voor onafhankelijkheid bij twee categorische variabelen
 kan
 
-
 Answerlist
 ----------
 
@@ -34,7 +33,7 @@ exname: uva-squared-54-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics/NHST/Test statistic/Chi-squared
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.001

@@ -4,7 +4,6 @@ Question
 Bepaal de modus van de volgende 20 getallen:\
 1 4 5 7 9 10 10 11 13 13 14 15 16 16 16 17 17 18 18 20
 
-
 Answerlist
 ----------
 

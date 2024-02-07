@@ -6,7 +6,6 @@ hun studie behalen is normaal verdeeld met gemiddelde 150 en
 standaarddeviatie 15. Studente Sandra B. heeft 165 ec\'s behaald.
 Hoeveel procent van de studenten heeft minder ec\'s behaald dan Sandra?
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-value-846-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics/NHST/p-value
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 0.193

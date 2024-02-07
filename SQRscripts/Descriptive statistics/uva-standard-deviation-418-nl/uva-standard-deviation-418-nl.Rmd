@@ -7,7 +7,6 @@ is -2 en de standaarddeviatie is 6. Nu speel ik het spel 4 keer. De
 standaarddeviatie van de variabele die mijn winst over de 4 spelen
 tezamen aangeeft is dan gelijk aan
 
-
 Answerlist
 ----------
 

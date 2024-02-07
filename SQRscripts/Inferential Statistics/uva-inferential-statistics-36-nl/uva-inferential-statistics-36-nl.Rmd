@@ -7,7 +7,6 @@ van medicijnen. Welk van de eigenschappen van dit design is het lastigst
 te implementeren in interventieonderzoek naar de werkzaamheid van
 psychotherapie?
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-inferential-statistics-36-nl
 extype: schoice
 exsolution: 001
 exsection: Inferential Statistics
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.101

@@ -7,7 +7,6 @@ gaan. In de sample blijken het er 20 te zijn. Een 95% \'confidence
 interval\' voor de populatieproportie p heeft dan een \'margin of
 error\' die gelijk is aan
 
-
 Answerlist
 ----------
 

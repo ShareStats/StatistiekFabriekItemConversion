@@ -5,7 +5,6 @@ Een loterij wordt gespeeld met loten genummerd van 000 tot en met 999.
 Iedereen krijgt een lot en slechts één speler kan winnen als zijn of
 haar nummer gekozen wordt. Hoeveel mogelijke uitkomsten heeft dit spel?
 
-
 Answerlist
 ----------
 

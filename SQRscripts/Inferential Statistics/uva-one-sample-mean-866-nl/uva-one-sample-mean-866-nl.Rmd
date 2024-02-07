@@ -8,7 +8,6 @@ het gemiddelde IQ 118 is met een standaardafwijking van 15. Er wordt
 aangenomen dat IQ normaal verdeeld is. De nulhypothese kan nu worden
 verworpen bij een significantieniveau van
 
-
 Answerlist
 ----------
 

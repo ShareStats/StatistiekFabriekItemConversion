@@ -5,7 +5,6 @@ Gegeven de volgende steekproefuitkomsten: 4.5, 3.9, 4.6, 4.1, 4.4.
 Gemiddelde en standaarddeviatie van deze steekproef zijn gelijk aan
 respectievelijk
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-standard-deviation-392-nl
 extype: schoice
 exsolution: 0001
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.125

@@ -6,7 +6,6 @@ resultaten: 20, 27, 18, 24, 15, 22. Wanneer we met een eensteekproef T
 toets de nulhypothese toetsen dat μ = 24, bij een tweezijdig risico van
 5%, moet de conclusie luiden:
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-one-sample-mean-439-nl
 extype: schoice
 exsolution: 1000
 exsection: Inferential Statistics/Parametric Techniques/t-test/One sample mean
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.848

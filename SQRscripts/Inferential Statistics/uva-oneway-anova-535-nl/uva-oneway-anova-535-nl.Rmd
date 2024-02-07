@@ -13,7 +13,6 @@ Hieronder staat een gedeelte van een CRD-ANOVA tabel:
 Vul de tabel aan. De waarde van de toetsingsgrootheid F in deze tabel
 zal dan zijn
 
-
 Answerlist
 ----------
 

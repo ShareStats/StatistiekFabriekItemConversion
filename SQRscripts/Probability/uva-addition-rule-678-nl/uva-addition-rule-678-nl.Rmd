@@ -15,7 +15,6 @@ John heeft bloedgroep B en kan alleen veilig bloedtransfusies accepteren
 van mensen met bloedgroep O of B. Als wij aselect een zwarte persoon
 kiezen, hoe groot is dan de kans voor John om geschikt bloed te vinden?
 
-
 Answerlist
 ----------
 
@@ -37,7 +36,7 @@ exname: uva-addition-rule-678-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/General Rules/Addition rule
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

@@ -10,7 +10,6 @@ nulhypothese op *H~0~*: *p~0~* = 30%. Vanaf welk percentage kan de
 nulhypothese worden verworpen wanneer een significantieniveau wordt
 gebruikt van 2,5%?
 
-
 Answerlist
 ----------
 

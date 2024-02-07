@@ -9,7 +9,6 @@ Hieronder staan 4 spreidingsdiagrammen (genaamd A, B, C en D) van X en
 Y. In welk van de 4 spreidingsdiagrammen is de vergelijking van de
 regressievergelijking gelijk aan Y = 61 + 0.88 X?
 
-
 ![](uva-equation-288-nl-graph01.png)
 
 Answerlist
@@ -33,7 +32,7 @@ exname: uva-equation-288-nl
 extype: schoice
 exsolution: 0001
 exsection: Inferential Statistics/Regression/Equation
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.604

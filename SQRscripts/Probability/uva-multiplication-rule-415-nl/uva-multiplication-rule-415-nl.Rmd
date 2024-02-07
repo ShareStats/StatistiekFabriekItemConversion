@@ -4,7 +4,6 @@ Question
 Twee gebeurtenissen A en B zijn onafhankelijk. Er is gegeven dat P(A) =
 0.5 en P(B) = 0.3. P(A ∩ B) is gelijk aan
 
-
 Answerlist
 ----------
 

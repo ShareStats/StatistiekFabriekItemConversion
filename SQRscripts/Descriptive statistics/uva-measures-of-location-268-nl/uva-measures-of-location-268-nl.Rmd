@@ -9,7 +9,6 @@ De waarde uit de tabel van de T-verdeling, die nodig is om het
 tweezijdig 95% betrouwbaarheidsinterval voor μ~1~ - μ~2~ te berekenen,
 is gelijk aan
 
-
 Answerlist
 ----------
 

@@ -9,7 +9,6 @@ Hieronder staat een gedeelte van de SPSS-uitvoer van een gepaarde
 T-toets op twee metingen aan 17 mensen. De geschatte standaardfout van
 het steekproefgemiddelde van METING1 is gelijk aan
 
-
 ![](uva-paired-samples-504-nl-graph01.png)
 
 Answerlist

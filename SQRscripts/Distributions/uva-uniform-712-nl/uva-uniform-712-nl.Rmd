@@ -9,7 +9,6 @@ produceert een getal *X* dat ligt in een interval tussen 0 en 0,4 of in
 een interval tussen 0,7 en 1, wat is dan de kans op P(*X* ≤ 0,4 of *X*
 \> 0,7)?
 
-
 Answerlist
 ----------
 
@@ -31,7 +30,7 @@ exname: uva-uniform-712-nl
 extype: schoice
 exsolution: 0010
 exsection: Distributions/Continuous/Uniform
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

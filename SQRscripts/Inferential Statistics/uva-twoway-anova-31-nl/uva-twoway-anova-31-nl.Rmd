@@ -4,7 +4,6 @@ Question
 Hoeveel hoofdeffecten en hoeveel interacties zijn er mogelijk in een
 factorieel 3-bij-2 design?
 
-
 Answerlist
 ----------
 
@@ -25,7 +24,7 @@ exname: uva-twoway-anova-31-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.037

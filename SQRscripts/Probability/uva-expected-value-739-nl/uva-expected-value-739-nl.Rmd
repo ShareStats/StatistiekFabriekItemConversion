@@ -16,7 +16,6 @@ ontvangt) ziet er als volgt uit:
 Een lot kost dit jaar €; 2,50. Hoeveel euro incasseert de Belgische
 staat op de lange termijn per lot? Kies uit onderstaande mogelijkheden.
 
-
 Answerlist
 ----------
 
@@ -38,7 +37,7 @@ exname: uva-expected-value-739-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/Random variables/Expected value
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.205

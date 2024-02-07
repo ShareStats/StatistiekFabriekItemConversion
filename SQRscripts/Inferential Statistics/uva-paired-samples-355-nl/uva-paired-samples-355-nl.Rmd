@@ -9,7 +9,6 @@ Hieronder staat SPSS-uitvoer van een gepaarde T toets, met H~0~:
 μ~meting\ 1~ = μ~meting\ 2~. De kritieke waarde uit de tabel, bij een
 tweezijdig risico van 0.05, is hier gelijk aan
 
-
 ![](uva-paired-samples-355-nl-graph01.png)
 
 Answerlist

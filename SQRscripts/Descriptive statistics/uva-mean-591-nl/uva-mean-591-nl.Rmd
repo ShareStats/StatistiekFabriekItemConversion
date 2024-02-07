@@ -4,7 +4,6 @@ Question
 Gegeven een steekproef met uitkomsten 4, 12, 9, 4, 10, 4 en 6. De SEM
 (standaardfout van het steekproefgemiddelde) is dan gelijk aan
 
-
 Answerlist
 ----------
 

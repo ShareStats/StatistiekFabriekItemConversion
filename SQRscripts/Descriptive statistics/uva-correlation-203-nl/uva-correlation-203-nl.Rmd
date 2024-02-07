@@ -5,7 +5,6 @@ Van de variabelen X en Y is gegeven dat de covariantie van X en Y gelijk
 is aan 2, de variantie van X is 4 en de variantie van Y is 16. Dan is de
 pmcc tussen X en Y gelijk aan
 
-
 Answerlist
 ----------
 

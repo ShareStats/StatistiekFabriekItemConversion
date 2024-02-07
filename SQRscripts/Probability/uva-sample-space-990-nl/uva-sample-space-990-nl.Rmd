@@ -4,7 +4,6 @@ Question
 Als we 2 ringen tegelijkertijd pakken uit een set van 5 (genummerd 1 tot
 5), hoeveel mogelijke uitkomsten zijn er dan?
 
-
 Answerlist
 ----------
 

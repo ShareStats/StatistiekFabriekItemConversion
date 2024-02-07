@@ -4,7 +4,6 @@ Question
 Bij een Ã©Ã©ntoppige verdeling die scheef is naar links is het
 gemiddelde
 
-
 Answerlist
 ----------
 
@@ -25,7 +24,7 @@ exname: uva-mode-821-nl
 extype: schoice
 exsolution: 100
 exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mode
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 0.951

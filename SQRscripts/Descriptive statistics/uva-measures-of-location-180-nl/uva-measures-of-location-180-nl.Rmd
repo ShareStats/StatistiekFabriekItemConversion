@@ -12,7 +12,6 @@ gelijk zijn en komen zo tot een *standard error* van 1.025 en 28
 vrijheidsgraden. Een 95% betrouwbaarheidsinterval voor het verschil
 * *μ*~1~ - *μ*~2~ is
 
-
 Answerlist
 ----------
 
@@ -33,7 +32,7 @@ exname: uva-measures-of-location-180-nl
 extype: schoice
 exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.407

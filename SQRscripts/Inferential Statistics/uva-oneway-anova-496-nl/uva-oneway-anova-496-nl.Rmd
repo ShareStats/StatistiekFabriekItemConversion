@@ -13,7 +13,6 @@ een Completely Randomized Design (Oneway) ANOVA.
 De waarde van de toetsingsgrootheid F om gelijkheid van alle
 populatiegemiddelden te toetsen is hier gelijk aan
 
-
 Answerlist
 ----------
 

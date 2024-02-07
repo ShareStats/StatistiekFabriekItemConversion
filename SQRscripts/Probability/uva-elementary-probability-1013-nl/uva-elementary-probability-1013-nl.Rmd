@@ -18,7 +18,6 @@ We definiëren de gebeurtenissen:\
 \
 Wat is dan de relatieve frequentie van *A* ∩ *B*
 
-
 Solution
 ========
 

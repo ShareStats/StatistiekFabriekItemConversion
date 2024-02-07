@@ -5,7 +5,6 @@ Bij 6 patiÃ«nten met ouderdomsdiabetes is het gewicht (in kg) bepaald
 met als resultaat: 84, 78, 65, 103, 91, 87. Wanneer het gewicht in
 ponden wordt weergegeven (1 kg = 2 pond) zal de standaardafwijking
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-standard-deviation-297-nl
 extype: schoice
 exsolution: 1000
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.324

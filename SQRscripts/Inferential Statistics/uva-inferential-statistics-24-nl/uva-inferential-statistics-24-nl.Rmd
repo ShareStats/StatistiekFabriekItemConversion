@@ -5,7 +5,6 @@ Een onderzoeker wil in een quasi-experiment ervoor zorgen dat het
 selectieprobleem geen alternatieve verklaring vormt voor de gevonden
 resultaten. Welke mogelijkheden heeft hij om dit probleem op te vangen?
 
-
 Answerlist
 ----------
 
@@ -26,7 +25,7 @@ exname: uva-inferential-statistics-24-nl
 extype: schoice
 exsolution: 001
 exsection: Inferential Statistics
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.117

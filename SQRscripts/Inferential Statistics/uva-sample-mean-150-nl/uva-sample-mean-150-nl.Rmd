@@ -6,7 +6,6 @@ het aantal malen kruis boven is gelijk aan 0,6. Hoe veel *standard
 errors* (se) ligt dit resultaat boven het gemiddelde van de *sampling
 distribution* van de *sample proportion*?
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-sample-mean-150-nl
 extype: schoice
 exsolution: 001
 exsection: Inferential Statistics/Sampling Distributions/Sample mean
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

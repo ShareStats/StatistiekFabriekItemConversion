@@ -7,7 +7,6 @@ stochast B, het aantal successen in de steekproef. Als linker kritieke
 grens wordt de waarde 4 gebruikt. Het onderscheidingsvermogen 1 - β is
 dan gelijk aan
 
-
 Answerlist
 ----------
 

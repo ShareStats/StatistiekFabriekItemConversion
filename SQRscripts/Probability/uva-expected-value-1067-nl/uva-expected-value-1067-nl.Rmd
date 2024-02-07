@@ -15,7 +15,6 @@ eigenschappen als volgt is:\
 Stel dat *X* is het aantal kinderen dat de familie van Waller zou kunnen
 krijgen. Wat is de verwachtingswaarde van *X* op basis van deze tabel?
 
-
 Answerlist
 ----------
 
@@ -37,7 +36,7 @@ exname: uva-expected-value-1067-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/Random variables/Expected value
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.283

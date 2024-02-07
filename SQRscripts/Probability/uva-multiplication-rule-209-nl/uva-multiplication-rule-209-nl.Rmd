@@ -5,7 +5,6 @@ Stel er wordt 2 keer met een zuivere munt geworpen en er wordt gewed op
 1 van 2 gebeurtenissen: A = {eerste worp is munt} en B = {tweede worp is
 kop}. Dan is de kans dat A en B beide optreden, P(A B), gelijk aan
 
-
 Answerlist
 ----------
 

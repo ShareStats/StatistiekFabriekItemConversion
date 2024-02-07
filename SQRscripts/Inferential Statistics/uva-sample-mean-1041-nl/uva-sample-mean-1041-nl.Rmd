@@ -5,7 +5,6 @@ Gooi twee keer één zuiver geldstuk op. Definieer de stochastische
 variabele *X* is het aantal koppen dat boven komt. Bereken de kans op
 P(*X* = 1):
 
-
 Answerlist
 ----------
 

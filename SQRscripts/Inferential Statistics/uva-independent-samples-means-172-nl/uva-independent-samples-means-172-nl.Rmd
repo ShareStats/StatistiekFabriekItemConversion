@@ -20,7 +20,6 @@ in beide populaties hetzelfde is en komen tot *standard error* 0.538
 voor het verschil in gemiddelden en vrijheidsgraden 100. De nulhypothese
 dat de twee populatiegemiddelden gelijk zijn kan
 
-
 Answerlist
 ----------
 
@@ -41,7 +40,7 @@ exname: uva-independent-samples-means-172-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/Parametric Techniques/t-test/Independent samples means
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.99

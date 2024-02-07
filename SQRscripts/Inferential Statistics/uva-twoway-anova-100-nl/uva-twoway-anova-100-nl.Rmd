@@ -4,7 +4,6 @@ Question
 In een twee-weg ANOVA met factoren A en B is er sprake van een
 interactie als
 
-
 Answerlist
 ----------
 
@@ -25,7 +24,7 @@ exname: uva-twoway-anova-100-nl
 extype: schoice
 exsolution: 001
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 0.003

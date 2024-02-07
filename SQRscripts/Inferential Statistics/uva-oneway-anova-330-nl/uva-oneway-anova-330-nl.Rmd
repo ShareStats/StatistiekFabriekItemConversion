@@ -13,7 +13,6 @@ regressie van een afhankelijke variabele op een verklarende variabele.
 De waarde van de toetsingsgrootheid F, de kritieke waarde en de
 conclusie (bij toetsing met een risico van α = 0.05) moeten dan zijn
 
-
 Answerlist
 ----------
 
@@ -35,7 +34,7 @@ exname: uva-oneway-anova-330-nl
 extype: schoice
 exsolution: 1000
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.169

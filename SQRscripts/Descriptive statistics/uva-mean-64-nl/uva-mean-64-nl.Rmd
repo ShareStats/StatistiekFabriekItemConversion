@@ -8,7 +8,6 @@ Een hoge score is positief en krijgt dus een hoge rangorde (1 is de
 hoogste rangorde). Dan is het verschil tussen de gemiddelde
 rangordeningen van (groep 2 -- groep 1) gelijk aan
 
-
 Answerlist
 ----------
 

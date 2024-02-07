@@ -4,7 +4,6 @@ Question
 Stel D \~ N(100, 10^²^). Voor een steekproefgemiddelde van 4
 waarnemingen uit deze verdeling geldt dan P (X~gemiddeld~ \> 108) =
 
-
 Answerlist
 ----------
 

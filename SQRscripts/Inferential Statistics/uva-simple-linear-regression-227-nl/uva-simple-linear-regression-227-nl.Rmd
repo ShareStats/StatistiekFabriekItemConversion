@@ -5,7 +5,6 @@ Van een lineaire regressie zijn de volgende gegevens bekend over de
 variabelen X en Y: b = 0.63 en S~X~ = S~Y~ = 1.71. De pmcc is dan gelijk
 aan
 
-
 Answerlist
 ----------
 

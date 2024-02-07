@@ -5,7 +5,6 @@ Stel dat in een populatie d normaal verdeeld is met gemiddelde 63 en
 standaarddeviatie 14. We trekken uit deze populatie een steekproef van
 grootte n = 5. Dan geldt voor het steekproefgemiddelde
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-mean-617-nl
 extype: schoice
 exsolution: 0010
 exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.116

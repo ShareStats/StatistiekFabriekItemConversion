@@ -5,7 +5,6 @@ Abby, Deborah, Sam, Tonya en Roberto werken bij een bedrijf. Dit jaar is
 er een conferentie in Parijs. Twee van de vijf mogen ernaar toe. Hoeveel
 mogelijke combinaties (groepjes) kunnen naar Parijs?
 
-
 Answerlist
 ----------
 

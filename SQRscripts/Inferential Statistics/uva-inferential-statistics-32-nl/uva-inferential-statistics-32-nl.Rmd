@@ -5,7 +5,6 @@ Bij een experiment wordt een significant verschil tussen condities
 gevonden. Dit impliceert dat _____ géén rol van betekenis hebben
 gespeeld.
 
-
 Answerlist
 ----------
 
@@ -26,7 +25,7 @@ exname: uva-inferential-statistics-32-nl
 extype: schoice
 exsolution: 001
 exsection: Inferential Statistics
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.097

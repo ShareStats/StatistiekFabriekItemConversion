@@ -5,7 +5,6 @@ We hebben een aselecte steekproef uit een populatie getrokken, met de
 volgende 5 steekproefuitkomsten: 6, 9, 6, 11, 13. De geschatte variantie
 van het steekproefgemiddelde is
 
-
 Answerlist
 ----------
 

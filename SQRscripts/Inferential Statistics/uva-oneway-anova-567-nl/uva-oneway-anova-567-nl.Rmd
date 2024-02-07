@@ -15,7 +15,6 @@ RCB-ANOVA.
 Hoeveel observaties zijn er in het experiment waar deze tabel betrekking
 op heeft verricht?
 
-
 Answerlist
 ----------
 

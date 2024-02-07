@@ -5,7 +5,6 @@ In een vragenlijst komt de vraag voor \"Bent u over het algemeen
 gelukkig?\" met de antwoordmogelijkheden: ja, nee, geen mening. Dit is
 een voorbeeld van
 
-
 Answerlist
 ----------
 
@@ -26,7 +25,7 @@ exname: uva-nominal-207-nl
 extype: schoice
 exsolution: 001
 exsection: Measurement Level/Nominal
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.829

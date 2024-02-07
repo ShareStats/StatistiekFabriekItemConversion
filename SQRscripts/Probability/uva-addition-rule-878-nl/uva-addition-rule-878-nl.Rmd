@@ -4,7 +4,6 @@ Question
 Welk van de volgende weddenschappen levert het meeste geld op *in the
 long run*?
 
-
 Answerlist
 ----------
 
@@ -25,7 +24,7 @@ exname: uva-addition-rule-878-nl
 extype: schoice
 exsolution: 100
 exsection: Probability/Elementary Probability/General Rules/Addition rule
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -1.124

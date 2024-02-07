@@ -9,7 +9,6 @@ niet ziek zijn krijgt een positief resultaat dat ze ziek zijn. Marja
 heeft zo\'n test gedaan. Wat de kans is dat zij een positief resultaat
 krijgt?
 
-
 Answerlist
 ----------
 
@@ -31,7 +30,7 @@ exname: uva-bayesian-statistics-974-nl
 extype: schoice
 exsolution: 0010
 exsection: Inferential Statistics/Bayesian Statistics
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.652

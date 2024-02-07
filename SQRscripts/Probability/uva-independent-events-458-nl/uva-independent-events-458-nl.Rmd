@@ -4,7 +4,6 @@ Question
 Twee gebeurtenissen A en B zijn onafhankelijk, met kansen P(A) = 0.50 en
 P(B) = 0.36. Dan is P(A ∩ B) gelijk aan
 
-
 Answerlist
 ----------
 

@@ -13,7 +13,6 @@ een Completely Randomized Design (Oneway) ANOVA.
 De kritieke waarde uit de F-tabel (bij toetsing met een risico van 5%)
 die hier van toepassing is, is gelijk aan
 
-
 Answerlist
 ----------
 

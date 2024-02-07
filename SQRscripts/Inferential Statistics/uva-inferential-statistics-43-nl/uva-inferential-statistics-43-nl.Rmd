@@ -13,7 +13,6 @@ kansen rechts van de verticale lijn onder de nulhypothese en links van
 de verticale lijn onder de alternatieve hypothese zijn respectievelijk
 de
 
-
 ![](uva-inferential-statistics-43-nl-graph01.png)
 
 Answerlist
@@ -36,7 +35,7 @@ exname: uva-inferential-statistics-43-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.033

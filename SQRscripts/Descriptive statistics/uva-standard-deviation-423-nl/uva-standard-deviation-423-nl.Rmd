@@ -5,7 +5,6 @@ Gegeven de volgende getallen in een steekproef: 8, 5, 2, 8, 4, 9. De SEM
 (Standard Error of the Mean), de geschatte standaarddeviatie van het
 steekproefgemiddelde, is gelijk aan
 
-
 Answerlist
 ----------
 

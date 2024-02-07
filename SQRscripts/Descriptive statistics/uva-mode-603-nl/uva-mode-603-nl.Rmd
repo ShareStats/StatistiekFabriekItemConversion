@@ -4,7 +4,6 @@ Question
 Geef de modus van de volgende twaalf getallen:\
 11, 18, 11, 22, 17 ,18, 15, 22, 13, 16, 18, 10
 
-
 Answerlist
 ----------
 

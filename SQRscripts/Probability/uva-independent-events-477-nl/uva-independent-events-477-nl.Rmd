@@ -7,7 +7,6 @@ normaal verdeeld zijn volgens N(80, 10^²^). Hoe groot is de kans dat 4
 personen, waarvan de gewichten onafhankelijk zijn, samen de lift zullen
 overbelasten?
 
-
 Answerlist
 ----------
 

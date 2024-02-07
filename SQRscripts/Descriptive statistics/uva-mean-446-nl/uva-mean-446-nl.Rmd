@@ -6,7 +6,6 @@ Stel dat ieder van de steekproefuitkomsten met 3 wordt vermenigvuldigd
 en dat hierbij dan nog 10 wordt opgeteld. De SEM van het
 steekproefgemiddelde van deze 25 getransformeerde, nieuwe waarden is dan
 
-
 Answerlist
 ----------
 

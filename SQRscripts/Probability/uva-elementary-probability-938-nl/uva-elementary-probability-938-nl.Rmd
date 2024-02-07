@@ -7,7 +7,6 @@ nummer gekozen wordt. John heeft één lot gekocht met het nummer 234 en
 zijn vrouw Marieke met nummer 456. Wie heeft de grootste kans om te
 winnen?
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-elementary-probability-938-nl
 extype: schoice
 exsolution: 001
 exsection: Probability/Elementary Probability
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -6.187

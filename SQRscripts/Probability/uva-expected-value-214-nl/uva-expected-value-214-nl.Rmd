@@ -10,7 +10,6 @@ Gegeven is de kansverdeling van X
 
 De verwachtingswaarde E(X) is gelijk aan
 
-
 Answerlist
 ----------
 

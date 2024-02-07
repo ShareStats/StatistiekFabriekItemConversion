@@ -6,7 +6,6 @@ waarbij een bepaalde variabele is gemeten. De scores van de individuen
 zijn: 8, 23, 15, 21, 11, 15, 19, 12. De standaardfout van het
 steekproefgemiddelde (SEM) is
 
-
 Answerlist
 ----------
 

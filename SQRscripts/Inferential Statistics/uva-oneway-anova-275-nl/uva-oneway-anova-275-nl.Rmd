@@ -16,7 +16,6 @@ Wanneer we de populatiegemiddelden paarsgewijs hebben vergeleken m.b.v.
 de LSD-toets, en we willen een Bonferroni-correctie toepassen, dan wordt
 het risico per toets verkregen door het totale risico
 
-
 Answerlist
 ----------
 
@@ -38,7 +37,7 @@ exname: uva-oneway-anova-275-nl
 extype: schoice
 exsolution: 0010
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.848

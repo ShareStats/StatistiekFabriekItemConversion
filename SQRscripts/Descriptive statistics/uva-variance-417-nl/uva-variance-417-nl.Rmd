@@ -7,7 +7,6 @@ is -2 en de standaarddeviatie is 6. Wanneer ik mijn inzet verhoog naar
 100 gulden, en mijn winstvariabele aanduid met z, dan is de variantie
 van z gelijk aan
 
-
 Answerlist
 ----------
 

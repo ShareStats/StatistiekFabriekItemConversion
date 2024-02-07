@@ -9,7 +9,6 @@ Gegeven zijn de volgende gemiddelden per conditie in een experiment met
 de factor Conditie en de factor Sekse. Van welke effecten lijkt er in
 dit design sprake?
 
-
 ![](uva-twoway-anova-40-nl-graph01.png)
 
 Answerlist
@@ -32,7 +31,7 @@ exname: uva-twoway-anova-40-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.481

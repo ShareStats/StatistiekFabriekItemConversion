@@ -6,7 +6,6 @@ waarde van *x* twee standaardafwijkingen van zijn gemiddelde ligt, dan
 ligt de voorspelde waarde voor *y* *r* keer hetzelfde aantal
 standaardafwijkingen van *y*. Dit is een voorbeeld van
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-correlation-164-nl
 extype: schoice
 exsolution: 001
 exsection: Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.958

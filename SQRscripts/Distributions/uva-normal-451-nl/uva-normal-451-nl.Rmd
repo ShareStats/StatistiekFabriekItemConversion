@@ -4,7 +4,6 @@ Question
 Gegeven dat Y \~ N ( 10, 5^²^). De kans is 33% dat Y een waarde aanneemt
 kleiner dan a; a is dan gelijk aan
 
-
 Answerlist
 ----------
 

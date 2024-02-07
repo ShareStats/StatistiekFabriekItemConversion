@@ -12,7 +12,6 @@ frequentietabel
 
 Voor de mediaan en modus van deze getallen geldt:
 
-
 Answerlist
 ----------
 
@@ -34,7 +33,7 @@ exname: uva-median-264-nl
 extype: schoice
 exsolution: 0100
 exsection: Descriptive statistics/Summary Statistics/Measures of Location/Median
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.618

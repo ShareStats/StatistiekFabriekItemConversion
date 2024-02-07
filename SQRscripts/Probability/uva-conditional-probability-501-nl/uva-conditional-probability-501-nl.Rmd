@@ -13,7 +13,6 @@ aantal werkuren per week (afgerond op gehele uren) gegeven.
 De kans dat een aselect uit deze werknemers getrokken persoon minder dan
 18 uur werkt, *gegeven* dat het een vrouw is, is gelijk aan
 
-
 Answerlist
 ----------
 

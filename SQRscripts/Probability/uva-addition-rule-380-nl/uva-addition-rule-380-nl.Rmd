@@ -4,7 +4,6 @@ Question
 Er is gegeven dat P(A) = 0.4, P(B) = 0.25 en P(A ∩ B) = 0.1. P(A ∪ B) is
 gelijk aan
 
-
 Answerlist
 ----------
 

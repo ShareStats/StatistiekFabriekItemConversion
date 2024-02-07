@@ -5,7 +5,6 @@ X~1~, X~2~ en X~3~ zijn onafhankelijke trekkingen uit een verdeling met
 verwachting 30 en standaardafwijking 2. Dan is de variantie van X~1~ +
 X~2~ + X~3~ gelijk aan
 
-
 Answerlist
 ----------
 

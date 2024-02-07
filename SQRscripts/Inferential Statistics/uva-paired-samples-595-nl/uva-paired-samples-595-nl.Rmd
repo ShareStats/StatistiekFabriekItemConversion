@@ -15,7 +15,6 @@ tegen\
 H~1~: μ(links) - μ(rechts) \< 0\
 Geef de kritieke waarde van de éénzijdige toets met risico 0.05.
 
-
 Answerlist
 ----------
 

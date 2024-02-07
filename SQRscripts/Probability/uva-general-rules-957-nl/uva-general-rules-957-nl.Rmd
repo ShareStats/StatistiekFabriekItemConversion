@@ -13,7 +13,6 @@ gebeurtenissen:\
 Wat is dan de kans dat de gevonden persoon onschuldig is en zijn DNA
 overeen komt met dat van de dader?
 
-
 Answerlist
 ----------
 
@@ -37,7 +36,7 @@ exname: uva-general-rules-957-nl
 extype: schoice
 exsolution: 001000
 exsection: Probability/Elementary Probability/General Rules
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.997

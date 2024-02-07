@@ -5,7 +5,6 @@ Als je twee zuivere dobbelstenen tegelijkertijd gooit, hoeveel mogelijke
 uitkomsten zullen er dan zijn als de som van het aantal ogen van beide
 stenen 6 is?
 
-
 Answerlist
 ----------
 

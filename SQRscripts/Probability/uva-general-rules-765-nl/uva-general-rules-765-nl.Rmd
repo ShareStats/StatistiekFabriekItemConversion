@@ -12,7 +12,6 @@ zie je een kansverdeling van X. Wat is dan de kans P(X = 3)?
 \
 (Geef je antwoord in de vorm van een breuk: X/Y).
 
-
 Solution
 ========
 

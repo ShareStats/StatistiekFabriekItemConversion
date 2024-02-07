@@ -5,7 +5,6 @@ Op een bepaald tentamen is het gemiddelde cijfer gelijk aan 7.0 bij een
 variantie gelijk aan 1.21. Iemand met een cijfer van 9.0 heeft dan een
 z-score gelijk aan
 
-
 Answerlist
 ----------
 

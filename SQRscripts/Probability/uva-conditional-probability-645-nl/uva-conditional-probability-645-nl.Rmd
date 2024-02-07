@@ -6,7 +6,6 @@ We kiezen aselect en zonder teruglegging vier kaarten uit een
 standaardpak. De eerste drie gekozen kaarten zijn allemaal rood. De
 voorwaardelijke kans dat ook de vierde rood is, is gelijk aan:
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-conditional-probability-645-nl
 extype: schoice
 exsolution: 0100
 exsection: Probability/Elementary Probability/Conditional probability
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

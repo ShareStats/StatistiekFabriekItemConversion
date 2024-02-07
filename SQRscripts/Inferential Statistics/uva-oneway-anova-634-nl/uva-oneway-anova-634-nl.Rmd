@@ -14,7 +14,6 @@ CRD-ANOVA met 5 groepen en 3 metingen per groep.
 Wat is in deze ANOVA-tabel de waarde van de toetsingsgrootheid om
 gelijkheid van groepsgemiddelden te toetsen?
 
-
 Answerlist
 ----------
 

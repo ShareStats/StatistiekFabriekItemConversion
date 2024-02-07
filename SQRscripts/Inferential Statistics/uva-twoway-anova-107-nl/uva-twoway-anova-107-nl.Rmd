@@ -19,7 +19,6 @@ combinaties van factor A en B. Gegeven deze figuur en dat het
 interactie-effect significant is, wat is een goede interpretatie van de
 data?
 
-
 ![](uva-twoway-anova-107-nl-graph01.png)
 
 Answerlist
@@ -42,7 +41,7 @@ exname: uva-twoway-anova-107-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.024

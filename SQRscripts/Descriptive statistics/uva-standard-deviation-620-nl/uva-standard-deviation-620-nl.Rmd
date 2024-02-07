@@ -5,7 +5,6 @@ Van 10 mensen is de lengte bepaald in cm. De standaardafwijking van deze
 steekproef is s = 8. Als de lengte wordt uitgedrukt in meters, dan is de
 standaardafwijking
 
-
 Answerlist
 ----------
 

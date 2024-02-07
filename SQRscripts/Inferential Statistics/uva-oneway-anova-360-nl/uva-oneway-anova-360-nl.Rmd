@@ -11,7 +11,6 @@ de Fisher\'s LSD multiple comparisons post hoc tests die uitgevoerd zijn
 om te bepalen welke groepen van elkaar verschillen. Welke groepen zijn
 onderling significant verschillend op 5% niveau?
 
-
 ![](uva-oneway-anova-360-nl-graph01.png)
 
 Answerlist
@@ -35,7 +34,7 @@ exname: uva-oneway-anova-360-nl
 extype: schoice
 exsolution: 0010
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Interpreting output, Calculation
+exextra[Type]: Interpreting output
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.932

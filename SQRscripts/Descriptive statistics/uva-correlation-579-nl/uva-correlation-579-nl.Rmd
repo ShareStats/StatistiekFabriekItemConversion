@@ -7,7 +7,6 @@ Question
 
 Bereken de Pearson correlatiecoefficient, als gegeven is
 
-
 ![](uva-correlation-579-nl-graph01.png)
 
 Answerlist

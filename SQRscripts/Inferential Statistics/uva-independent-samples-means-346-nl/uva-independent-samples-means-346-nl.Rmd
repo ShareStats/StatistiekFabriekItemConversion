@@ -9,7 +9,6 @@ het toetsen van H~0~: μ~1~ = μ~2~ heeft hier een waarde van 2.430. Welke
 kritieke waarde en conclusie omtrent Ho zijn hier juist (α = 10%
 tweezijdig)?
 
-
 Answerlist
 ----------
 

@@ -5,7 +5,6 @@ Wanneer de populatieverdeling van een variabele scheef naar rechts is,
 zal de *sampling distribution* van het gemiddelde van deze variabele in
 een grote steekproef bij benadering een
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-central-limit-theorem-873-nl
 extype: schoice
 exsolution: 0100
 exsection: Distributions/Limit Theorems/Central Limit Theorem
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3

@@ -7,7 +7,6 @@ Een 95% betrouwbaarheidsinterval voor een gemiddelde in de populatie is
 I. de Type II fout groter is dan 5%.\
 II. de P-waarde kleiner is dan 5%.
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-one-sample-mean-103-nl
 extype: schoice
 exsolution: 001
 exsection: Inferential Statistics/Parametric Techniques/t-test/One sample mean
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.07

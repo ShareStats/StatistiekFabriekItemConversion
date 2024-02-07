@@ -4,7 +4,6 @@ Question
 In een kansexperiment is van twee gebeurtenissen A en B bekend dat
 P(A\|B) = 0.1 en P(B) = 0.6. Dan is P(A en B) gelijk aan
 
-
 Answerlist
 ----------
 

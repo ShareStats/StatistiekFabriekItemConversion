@@ -11,7 +11,6 @@ Eén op de 1000 vrouwen met dezelfde leeftijd als Marja heeft deze
 ziekte. Wat is dan de kans dat Marja de ziekte *D* heeft, gegeven dat de
 testuitslag positief is?
 
-
 Answerlist
 ----------
 
@@ -33,7 +32,7 @@ exname: uva-bayesian-statistics-967-nl
 extype: schoice
 exsolution: 0100
 exsection: Inferential Statistics/Bayesian Statistics
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.522

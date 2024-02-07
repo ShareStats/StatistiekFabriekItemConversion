@@ -5,7 +5,6 @@ Twee gebeurtenissen A en B zijn onafhankelijk. Er is gegeven dat P(A) =
 0.5 en P(B) = 0.3. De kans op gebeurtenis A *gegeven* gebeurtenis B is
 gelijk aan
 
-
 Answerlist
 ----------
 

@@ -6,7 +6,6 @@ student om één vraag te beantwoorden en daarna legt de docent de gekozen
 naam niet terug. Er zijn in totaal drie vragen. Wat is dan de kans dat
 Marja gekozen wordt om de eerste vraag te beantwoorden?
 
-
 Solution
 ========
 

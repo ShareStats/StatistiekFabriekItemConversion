@@ -22,7 +22,7 @@ file = "log.txt"
 # writeLines("Items created", file)
 
 # Pick up after crash or other error. Check log.txt to see where left of.
-start.at = 1092
+start.at = 1685
 item.ids[start.at, 'id']
 
 for ( i in start.at:number.of.items.in.itembank) {
@@ -171,7 +171,8 @@ if ( stringr::str_detect(item.question, "spss|SPSS") ) {
 if(item.type == "MultipleChoice") {
   
   item.answer.options = fromJSON(itemResrults$answer_options)
-  numeric.answer <- as.numeric(item.answer.options)
+  # check if the answer options
+  numeric.answer <- sum( is.na(as.numeric(item.answer.options)) ) == 0
   # Create binary solution string
   # item.answer starts at 0, hense +1 for use in R
   exsolution = paste0(as.numeric(1:length(item.answer.options) == as.numeric(item.answer)+1), collapse = "" )
@@ -190,7 +191,7 @@ if(item.type == "MultipleChoice") {
   answer.md <- paste("*", readHTMLList(html.answer)[[1]] )
   
   # If only numaric answer options classify as type calculation
-  if ( is.numeric(numeric.answer) ) {
+  if ( numeric.answer ) {
     
     type = append(type, "Calculation", length(type))
     
@@ -327,7 +328,7 @@ if(image) { cat(image.include)
             cat("\n\n") }
 cat("Question\n========\n\n")
 cat(question.md, sep = "\n")
-cat("\n\n")
+cat("\n")
 if(image) { cat(image.md)
             cat("\n\n") }
 if(item.type == "MultipleChoice") { cat("Answerlist\n----------\n\n")

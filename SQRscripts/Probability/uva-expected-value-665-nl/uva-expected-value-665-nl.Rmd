@@ -16,7 +16,6 @@ uit alle baby\'s die vorig jaar werden geboren.
 Wat is het gemiddelde geboortegewicht van de meisjes? Rond af op twee
 decimalen.
 
-
 Solution
 ========
 

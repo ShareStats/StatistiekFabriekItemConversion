@@ -6,7 +6,6 @@ standaardafwijking die twee keer zo groot is als die van de *response
 variable y*. Verder heeft de *slope* b van de regressielijn de waarde
 0.4. De correlatie tussen *x* en *y* is dan gelijk aan
 
-
 Answerlist
 ----------
 

@@ -17,7 +17,6 @@ gecategoriseerd.
 Wat is de kans dat een willekeurige persoon gekozen wordt die niet
 snurkt en ook niet van feesten houdt?
 
-
 Answerlist
 ----------
 
@@ -39,7 +38,7 @@ exname: uva-rules-for-expected-values-925-nl
 extype: schoice
 exsolution: 0100
 exsection: Probability/Elementary Probability/Random variables/Rules for expected values
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

@@ -4,7 +4,6 @@ Question
 Er wordt twee keer met een zuivere munt gegooid. Hoeveel elementen bevat
 de uitkomstruimte (*sample space*) ?
 
-
 Answerlist
 ----------
 

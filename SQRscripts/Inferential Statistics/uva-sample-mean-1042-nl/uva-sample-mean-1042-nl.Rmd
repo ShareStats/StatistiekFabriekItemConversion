@@ -6,7 +6,6 @@ uitkomstenruimte *S* = {kk, mk, km, mm}. Definieer de stochastische
 variabele *X* is het aantal koppen dat boven komt. Bereken de kans op
 P(0,5 \< *X* \< 10):
 
-
 Answerlist
 ----------
 

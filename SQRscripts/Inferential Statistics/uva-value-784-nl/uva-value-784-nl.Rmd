@@ -8,7 +8,6 @@ die stelt dat de populatieproportie gelijk is aan 0.30. De alternatieve
 hypothese is dat de populatieproportie groter is dan 0.30. Dan is de
 beste omschrijving van de P-waarde dat het de kans is
 
-
 Answerlist
 ----------
 

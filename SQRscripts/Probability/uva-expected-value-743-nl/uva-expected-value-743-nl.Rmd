@@ -19,7 +19,6 @@ II. Indien de beide onderdelen in het productieproces wel afhankelijk
 van elkaar zouden zijn, dan zal dit van invloed zijn op de verwachte
 tijd van het productieproces.
 
-
 Answerlist
 ----------
 
@@ -41,7 +40,7 @@ exname: uva-expected-value-743-nl
 extype: schoice
 exsolution: 0001
 exsection: Probability/Elementary Probability/Random variables/Expected value
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.434

@@ -15,7 +15,6 @@ relatie tussen roken en geslacht toont.
 
 Wat is de kans dat een mannelijke roker een hartaanval zal krijgen?
 
-
 Answerlist
 ----------
 
@@ -37,7 +36,7 @@ exname: uva-elementary-probability-920-nl
 extype: schoice
 exsolution: 0100
 exsection: Probability/Elementary Probability
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -0.519

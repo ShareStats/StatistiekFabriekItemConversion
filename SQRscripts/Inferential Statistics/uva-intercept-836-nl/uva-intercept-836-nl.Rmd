@@ -6,7 +6,6 @@ richtingscoÃ«fficiÃ«nt b = 1, dan moet gelden dat (i) de correlatie
 tussen y en x gelijk is aan r = 1 en (ii) het intercept gelijk is aan a
 = 0.
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-intercept-836-nl
 extype: schoice
 exsolution: 001
 exsection: Inferential Statistics/Regression/Intercept
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.551

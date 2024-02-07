@@ -9,7 +9,6 @@ enveloppe. Voor de tweede persoon wordt uit de overgebleven enveloppes
 er aselect één gekozen, et cetera. Je wilt natuurlijk een zo klein
 mogelijke kans hebben om de lege enveloppe te ontvangen.
 
-
 Answerlist
 ----------
 
@@ -31,7 +30,7 @@ exname: uva-sample-space-732-nl
 extype: schoice
 exsolution: 0001
 exsection: Probability/Elementary Probability/Sample Space
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -2.737

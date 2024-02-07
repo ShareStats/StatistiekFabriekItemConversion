@@ -11,7 +11,6 @@ steekproef van 20 personen uit haar doelpopulatie. Hieruit berekent zij
 de onderstaande grootheden. De waarde van de Pearson
 correlatiecoÃ«fficiÃ«nt is gelijk aan
 
-
 ![](uva-correlation-328-nl-graph01.png)
 
 Answerlist

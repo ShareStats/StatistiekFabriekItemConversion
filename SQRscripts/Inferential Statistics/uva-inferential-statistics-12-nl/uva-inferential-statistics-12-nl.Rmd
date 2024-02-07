@@ -3,7 +3,6 @@ Question
 
 Als een theorie principieel onweerlegbaar is, dan is die theorie
 
-
 Answerlist
 ----------
 
@@ -24,7 +23,7 @@ exname: uva-inferential-statistics-12-nl
 extype: schoice
 exsolution: 001
 exsection: Inferential Statistics
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -1.278

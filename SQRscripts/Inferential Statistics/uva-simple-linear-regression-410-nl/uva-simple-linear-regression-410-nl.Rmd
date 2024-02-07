@@ -9,7 +9,6 @@ Hieronder staat SPSS-uitvoer van een regressieanalyse van Y op X.
 Hoeveel procent van de variatie in Y kan door X worden verklaard, in
 deze steekproef?
 
-
 ![](uva-simple-linear-regression-410-nl-graph01.png)
 
 Answerlist
@@ -33,7 +32,7 @@ exname: uva-simple-linear-regression-410-nl
 extype: schoice
 exsolution: 0010
 exsection: Inferential Statistics/Regression/Simple linear regression
-exextra[Type]: Conceptual, Interpreting output, Calculation
+exextra[Type]: Conceptual, Interpreting output
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.08

@@ -3,7 +3,6 @@ Question
 
 De *standard error* van een *sample mean* wordt
 
-
 Answerlist
 ----------
 
@@ -24,7 +23,7 @@ exname: uva-mean-142-nl
 extype: schoice
 exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -2.396

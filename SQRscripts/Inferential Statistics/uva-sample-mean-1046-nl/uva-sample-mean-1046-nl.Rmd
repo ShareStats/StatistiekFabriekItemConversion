@@ -12,7 +12,6 @@ hebben wij de volgende kans met verschillende waarden van *X*:
 
 Wat is dat de kans op *X* = 10?
 
-
 Answerlist
 ----------
 
@@ -34,7 +33,7 @@ exname: uva-sample-mean-1046-nl
 extype: schoice
 exsolution: 1000
 exsection: Inferential Statistics/Sampling Distributions/Sample mean
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

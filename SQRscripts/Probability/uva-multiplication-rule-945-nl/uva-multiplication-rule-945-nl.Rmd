@@ -6,7 +6,6 @@ is geboren in maart en zij zal vier onbekenden ontmoeten in een
 vergadering. Wat is de kans dat alle vier onbekenden in dezelfde maand
 geboren zijn als Marieke?
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-multiplication-rule-945-nl
 extype: schoice
 exsolution: 0001
 exsection: Probability/Elementary Probability/General Rules/Multiplication rule
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

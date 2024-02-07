@@ -6,7 +6,6 @@ stoornis *gematched* met 20 psychiatrische patiënten zonder bipolaire
 stoornis. Er wordt gekeken of ze verschillen in de aard en de ernst van
 complicaties bij hun geboorte. Dit is een voorbeeld van een
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-inferential-statistics-149-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.451

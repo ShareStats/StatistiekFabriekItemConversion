@@ -9,7 +9,6 @@ De getallen voor het aantal vrouwen gedurende dat jaar waren:\
 10   13   12    9    9    11   12   12   10   14   12   10\
 De steekproefvariantie  is:
 
-
 Answerlist
 ----------
 

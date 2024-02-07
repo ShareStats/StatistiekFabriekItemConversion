@@ -6,7 +6,6 @@ personen getrokken en hun vitale longcapaciteit (in liter) wordt
 gemeten, met als uitkomsten: 2.47, 2.25, 2.65, 2.00, 3.41, 2.22. De
 geschatte variantie van het steekproefgemiddelde is
 
-
 Answerlist
 ----------
 

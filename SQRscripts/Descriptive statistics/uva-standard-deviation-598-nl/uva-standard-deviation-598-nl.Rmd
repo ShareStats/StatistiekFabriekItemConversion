@@ -5,7 +5,6 @@ Van twee onafhankelijke stochastische variabelen X en Y zijn de
 populatiestandaarddeviaties resp. 4 en 3. Wat is dan de
 populatiestandaarddeviatie van X-Y ?
 
-
 Answerlist
 ----------
 

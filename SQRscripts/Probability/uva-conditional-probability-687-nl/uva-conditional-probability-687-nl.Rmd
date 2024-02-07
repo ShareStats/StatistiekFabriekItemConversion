@@ -17,7 +17,6 @@ staan de aantallen studenten die verschillende vakken hebben gekozen:
 Hoe groot is de voorwaardelijke kans dat een aselect gekozen student
 Verpleging volgt, gegeven het feit dat het een jongen is?
 
-
 Solution
 ========
 

@@ -8,7 +8,6 @@ Question
 Gebeurtenis A = { 2 ≤ x ≤ 4}, en B = {x\|x ≥ 3}.Kijk naar de
 onderstaande grafiek, wat is de vereniging van *A* en *B*?
 
-
 ![](uva-events-675-nl-graph01.png)
 
 Answerlist
@@ -32,7 +31,7 @@ exname: uva-events-675-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/Events
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.865

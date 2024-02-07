@@ -7,7 +7,6 @@ gepoolde T-toets. Daartoe trekken we twee steekproeven, beide van
 grootte 10, uit de bijbehorende populaties. De grenswaarde van het
 kritieke gebied is dan
 
-
 Answerlist
 ----------
 

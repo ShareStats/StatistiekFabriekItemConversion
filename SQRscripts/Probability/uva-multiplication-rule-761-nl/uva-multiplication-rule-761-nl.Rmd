@@ -8,7 +8,6 @@ is de kans dat zowel een willekeurig gekozen bloeddonor uit België als
 een willekeurig gekozen bloeddonor uit Nederland *niet* bloedgroep A
 heeft?
 
-
 Answerlist
 ----------
 
@@ -30,7 +29,7 @@ exname: uva-multiplication-rule-761-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/General Rules/Multiplication rule
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

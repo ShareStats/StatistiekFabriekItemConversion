@@ -12,7 +12,6 @@ Gegeven is de tabel voor twee dichotome variabelen
 Wat is de áµª^2^ waarde van deze data voor de toets op
 onafhankelijkheid?
 
-
 Answerlist
 ----------
 
@@ -33,7 +32,7 @@ exname: uva-squared-893-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics/NHST/Test statistic/Chi-squared
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.554

@@ -6,7 +6,6 @@ Stel dat gegeven is dat het gewicht van de Nederlandse mannen boven de
 populatie aselect een persoon. Hoe zwaar mag deze man hoogstens zijn om
 tot de lichtste 10% van de populatie te behoren?
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-sample-mean-589-nl
 extype: schoice
 exsolution: 0010
 exsection: Inferential Statistics/Sampling Distributions/Sample mean
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

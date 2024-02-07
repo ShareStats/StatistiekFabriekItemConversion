@@ -7,7 +7,6 @@ stochast B, het aantal successen in de steekproef. Wanneer als rechter
 kritieke grens r = 7 wordt gehanteerd is het significantieniveau α
 gelijk aan
 
-
 Answerlist
 ----------
 

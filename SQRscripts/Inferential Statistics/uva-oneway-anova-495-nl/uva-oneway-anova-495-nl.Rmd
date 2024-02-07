@@ -13,7 +13,6 @@ een Completely Randomized Design (Oneway) ANOVA.
 Het totaal aantal waarnemingen waarop deze ANOVA-tabel is gebaseerd is
 gelijk aan
 
-
 Answerlist
 ----------
 

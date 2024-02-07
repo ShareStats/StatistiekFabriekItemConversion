@@ -7,7 +7,6 @@ gekozen naam niet terug. Er zijn in totaal drie vragen. Wat is dan de
 kans dat Marja opgeroepen wordt om Ã©Ã©n van de drie vragen te
 beantwoorden?
 
-
 Solution
 ========
 

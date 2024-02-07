@@ -15,7 +15,6 @@ wordt het volgende gevonden:
 
 De nulhypothese van geen interactie kan bij significantieniveau 0.05
 
-
 Answerlist
 ----------
 
@@ -36,7 +35,7 @@ exname: uva-twoway-anova-65-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.006

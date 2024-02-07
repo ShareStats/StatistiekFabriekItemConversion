@@ -5,7 +5,6 @@ Er wordt vier keer een zuiver muntstuk opgegooid. Als er bijvoorbeeld
 eerst drie keer kruis boven komt, noteren we de uitkomst als {K,K,K,M}.
 hoeveel mogelijke uitkomsten zijn er dan?
 
-
 Answerlist
 ----------
 

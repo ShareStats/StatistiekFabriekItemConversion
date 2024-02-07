@@ -15,7 +15,6 @@ volgt uit:
 
 Wat is de verwachte waarde en de standaardafwijking van X?
 
-
 Answerlist
 ----------
 
@@ -37,7 +36,7 @@ exname: uva-variance-740-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/Random variables/Variance
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

@@ -11,7 +11,6 @@ blijkt significant. De waarden voor *x* en *y* zijn uitgezet in de
 onderstaande grafiek. Uit de grafiek blijkt dat waarschijnlijk een
 assumptie geschonden is. Het gaat om de assumptie die stelt dat
 
-
 ![](uva-simple-linear-regression-794-nl-graph01.png)
 
 Answerlist
@@ -34,7 +33,7 @@ exname: uva-simple-linear-regression-794-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/Regression/Simple linear regression
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 5.046

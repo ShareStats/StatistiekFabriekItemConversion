@@ -4,7 +4,6 @@ Question
 Van een regressie van Y op X is het volgende bekend: b = 1.25, S~X~ =
 0.75 en S~Y~ = 1.2. Wat is de proportie verklaarde variantie?
 
-
 Answerlist
 ----------
 

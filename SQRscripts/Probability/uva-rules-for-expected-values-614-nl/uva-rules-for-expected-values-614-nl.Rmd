@@ -16,7 +16,6 @@ We definiëren de volgende twee gebeurtenissen:\
 A: de oorspronkelijke haarkleur van de persoon is zwart.\
 B: de persoon is van het vrouwelijk geslacht.P(A ∪ B) =
 
-
 Answerlist
 ----------
 

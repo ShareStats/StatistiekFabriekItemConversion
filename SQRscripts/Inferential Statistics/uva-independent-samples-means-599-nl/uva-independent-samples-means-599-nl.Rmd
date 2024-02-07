@@ -9,7 +9,6 @@ De gepoolde variantieschatter heeft als waarde 51.10. Er wordt getoetst
 of de populatiegemiddelden gelijk zijn. De waarde van de bijbehorende
 toetsingsgrootheid is dan
 
-
 Answerlist
 ----------
 

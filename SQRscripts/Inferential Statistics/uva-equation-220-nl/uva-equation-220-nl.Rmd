@@ -6,7 +6,6 @@ gemiddelde van Y is 3, de standaarddeviatie van X is 1 en de
 standaarddeviatie van Y is 2, en de covariantie tussen X en Y is 1. De
 regressievergelijking van Y op X is dan
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-equation-220-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/Regression/Equation
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 5.207

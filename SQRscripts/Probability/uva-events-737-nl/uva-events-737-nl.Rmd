@@ -6,7 +6,6 @@ vlak. Alle vlakken hebben een gelijke kans van voorkomen en alle
 opeenvolgende worpen zijn onafhankelijk van elkaar. Welke van de
 onderstaande rijtjes is het meest waarschijnlijk?
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-events-737-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/Events
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -3.005

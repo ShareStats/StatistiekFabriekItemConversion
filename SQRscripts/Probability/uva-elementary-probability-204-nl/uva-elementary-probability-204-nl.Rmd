@@ -3,7 +3,6 @@ Question
 
 Gegeven is P(A\|\|\|B) = 0.2, P(B) = 0.3 en P(A) = 0.4. Dan is P(A∩B)
 
-
 Answerlist
 ----------
 

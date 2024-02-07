@@ -3,7 +3,6 @@ Question
 
 Y \~ N(6, 2^2^). Dan is P(Y \> 10) gelijk aan
 
-
 Answerlist
 ----------
 

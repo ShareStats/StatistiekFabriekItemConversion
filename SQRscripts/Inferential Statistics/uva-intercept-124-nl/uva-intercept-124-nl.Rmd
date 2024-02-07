@@ -14,7 +14,6 @@ regressielijnen met de waarden voor *x*~2~ van 2 en 5: Welke assumptie
 van multipele regressie voor het toetsen op coÃ«fficiÃ«nten wordt hier
 waarschijnlijk geschonden?
 
-
 ![](uva-intercept-124-nl-graph01.png)
 
 Answerlist
@@ -37,7 +36,7 @@ exname: uva-intercept-124-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/Regression/Intercept
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.145

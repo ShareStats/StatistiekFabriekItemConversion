@@ -9,7 +9,6 @@ Hieronder staat (onvolledige) SPSS-uitvoer van een RCB-ANOVA, waarbij
 binnen de blokken individuen aselect zijn toegewezen aan een therapie.
 Het aantal vrijheidsgraden van de Error-term is gelijk aan
 
-
 ![](uva-oneway-anova-399-nl-graph01.png)
 
 Answerlist

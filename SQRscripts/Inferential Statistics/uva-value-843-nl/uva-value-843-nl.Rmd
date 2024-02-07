@@ -9,7 +9,6 @@ kan worden. Er wordt gevonden dat 55 maal munt boven komt van de 100
 worpen, een proportie van 55/100 = 0.55. De onderzoekers willen de kans
 weten van deze proportie 0.55 of groter dan onverwacht is. Die kans is
 
-
 Answerlist
 ----------
 

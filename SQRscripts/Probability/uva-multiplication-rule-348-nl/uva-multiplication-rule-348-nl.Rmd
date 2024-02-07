@@ -4,7 +4,6 @@ Question
 A en B zijn twee onafhankelijke gebeurtenissen. P(A) = 0.3 en P(B) =
 0.4. Dan is P(A ∩ B) gelijk aan
 
-
 Answerlist
 ----------
 

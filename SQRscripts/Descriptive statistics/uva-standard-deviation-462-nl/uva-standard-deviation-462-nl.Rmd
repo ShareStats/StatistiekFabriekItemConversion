@@ -5,7 +5,6 @@ Van twee onafhankelijke stochastische variabelen X en Y is gegeven:
 var(X) = 9 en var(Y) = 16. Dan is de standaarddeviatie van X - Y gelijk
 aan
 
-
 Answerlist
 ----------
 

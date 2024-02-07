@@ -4,7 +4,6 @@ Question
 Wat is het belangrijkste verschil tussen een *echt* experiment en een
 quasi-experiment?
 
-
 Answerlist
 ----------
 
@@ -25,7 +24,7 @@ exname: uva-inferential-statistics-25-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 0.159

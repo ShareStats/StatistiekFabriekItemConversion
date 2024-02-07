@@ -26,7 +26,6 @@ Koburol.\
 Het 95% betrouwbaarheidsinterval voor het verschil tussen de
 populatiegemiddelden is
 
-
 Answerlist
 ----------
 

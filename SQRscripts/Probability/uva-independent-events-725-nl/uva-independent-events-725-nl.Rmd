@@ -5,7 +5,6 @@ A en B zijn twee gebeurtenissen bij een toevalsexperiment. De kans op A
 en de kans op B zijn positief. Als gegeven is dat A en B elkaar
 uitsluiten, dan
 
-
 Answerlist
 ----------
 
@@ -26,7 +25,7 @@ exname: uva-independent-events-725-nl
 extype: schoice
 exsolution: 010
 exsection: Probability/Elementary Probability/General Rules/Independent events
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.217

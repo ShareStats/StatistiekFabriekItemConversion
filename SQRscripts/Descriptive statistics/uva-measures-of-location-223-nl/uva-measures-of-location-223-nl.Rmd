@@ -7,7 +7,6 @@ waarnemingen (interval A) en Ã©Ã©nmaal gebaseerd op een steekproef van
 200 waarnemingen (interval B). In vergelijking met interval A is
 interval B
 
-
 Answerlist
 ----------
 

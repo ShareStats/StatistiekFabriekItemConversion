@@ -5,7 +5,6 @@ In twee aselecte steekproeven uit een normaal verdeelde populatie (n~1~
 = 10 en n~2~ = 30) vindt men S~1~^2^ = 50 en S~2~^2^ = 40. Een gewogen
 schatting van de populatievariantie σ^2^ heeft dan de waarde
 
-
 Answerlist
 ----------
 

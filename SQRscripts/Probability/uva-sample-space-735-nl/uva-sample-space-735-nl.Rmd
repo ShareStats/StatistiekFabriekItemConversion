@@ -6,7 +6,6 @@ dobbelstenen, waarvan de ene dobbelsteen bestaat uit zes vlakken en de
 andere dobbelsteen uit zestien vlakken. Hoeveel mogelijke uitkomsten
 bestaan er in de uitkomstenruimte?
 
-
 Answerlist
 ----------
 

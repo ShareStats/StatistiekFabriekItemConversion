@@ -4,7 +4,6 @@ Question
 x volgt een normale verdeling met μ = -2 en σ^²^ = 16. Voor welk getal a
 geldt dat P(-6 \< x \< a) = 0.3413?
 
-
 Answerlist
 ----------
 

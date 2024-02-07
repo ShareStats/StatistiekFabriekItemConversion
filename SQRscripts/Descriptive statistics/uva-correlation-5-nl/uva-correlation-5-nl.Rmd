@@ -6,7 +6,6 @@ standaardafwijking die twee keer zo klein is als die van de *response*
 variabele *y*. Verder heeft de helling *b* een *slope* van 0.3. Dan is
 de correlatie tussen *x* en *y* gelijk aan
 
-
 Answerlist
 ----------
 

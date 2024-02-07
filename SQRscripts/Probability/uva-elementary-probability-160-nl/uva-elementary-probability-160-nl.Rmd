@@ -4,7 +4,6 @@ Question
 Er is gegeven dat P(A) = 0.5 en P(A en B) = 0.2. Dan is P(B\|\|\|A)
 gelijk aan
 
-
 Answerlist
 ----------
 

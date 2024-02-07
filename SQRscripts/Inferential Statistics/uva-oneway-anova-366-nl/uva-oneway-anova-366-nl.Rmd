@@ -13,7 +13,6 @@ drie groepen met ieder 5 waarnemingen.
 
 De waarde van MS(Within groups) in deze ANOVA is gelijk aan
 
-
 Answerlist
 ----------
 

@@ -6,7 +6,6 @@ uitkomsten. Bepaal de gebeurtenis *A* als alle drie dobbelstenen met een
 verschillend aantal ogen boven komen. Wat is dan het complement van *A*,
 als \(\bar{A}\)?
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-sample-space-998-nl
 extype: schoice
 exsolution: 100
 exsection: Probability/Elementary Probability/Sample Space
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -1.409

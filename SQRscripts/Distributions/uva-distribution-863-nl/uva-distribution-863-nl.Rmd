@@ -7,7 +7,6 @@ standaardafwijking σ onbekend is. Wanneer zo\'n interval is gebaseerd op
 een steekproef van 10 waarnemingen is die t-score bij een *confidence
 level* van 95% gelijk aan
 
-
 Answerlist
 ----------
 

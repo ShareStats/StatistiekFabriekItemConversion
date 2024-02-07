@@ -4,7 +4,6 @@ Question
 De *sampling distribution* van de steekproefproportie is bij voldoende
 grote n bij benadering een
 
-
 Answerlist
 ----------
 
@@ -25,7 +24,7 @@ exname: uva-inferential-statistics-84-nl
 extype: schoice
 exsolution: 001
 exsection: Inferential Statistics
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -7.416

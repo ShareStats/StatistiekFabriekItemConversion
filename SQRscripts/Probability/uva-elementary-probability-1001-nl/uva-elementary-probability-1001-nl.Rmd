@@ -12,7 +12,6 @@ gebeurtenissen:\
 \
 Wat is dan de relatieve frequentie van *A*?
 
-
 Answerlist
 ----------
 
@@ -34,7 +33,7 @@ exname: uva-elementary-probability-1001-nl
 extype: schoice
 exsolution: 0100
 exsection: Probability/Elementary Probability
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

@@ -5,7 +5,6 @@ Voor de kansvariabele X geldt Var(X) = 3. Er wordt een nieuwe
 kansvariabele W gemaakt met behulp van de formule W = 2X. De variantie
 van W, Var(W), is nu
 
-
 Answerlist
 ----------
 

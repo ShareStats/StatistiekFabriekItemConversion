@@ -17,7 +17,6 @@ Plan:\
 \
 Wat is de verwachte opbrengst na een jaar als je dit plan kiest?\
 
-
 Answerlist
 ----------
 
@@ -39,7 +38,7 @@ exname: uva-expected-value-1092-nl
 extype: schoice
 exsolution: 0100
 exsection: Probability/Elementary Probability/Random variables/Expected value
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.512

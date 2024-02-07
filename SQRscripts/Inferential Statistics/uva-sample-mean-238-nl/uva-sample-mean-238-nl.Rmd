@@ -7,7 +7,6 @@ wordt een aselecte steekproef van n = 25 personen getrokken. De kans dat
 in deze steekproef de gemiddelde neuroticismescore hoger is dan 27 is
 gelijk aan
 
-
 Answerlist
 ----------
 

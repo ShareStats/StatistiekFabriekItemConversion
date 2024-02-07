@@ -4,7 +4,6 @@ Question
 Gegeven zijn de volgende steekproefuitkomsten: 28, 23, 17, 30, 28, 21.
 De mediaan van deze steekproef is gelijk aan
 
-
 Answerlist
 ----------
 

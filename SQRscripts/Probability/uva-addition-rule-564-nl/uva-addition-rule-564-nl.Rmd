@@ -12,7 +12,6 @@ twee variabelen A en B. We trekken aselect iemand uit de 100 personen.
 
 Voor deze persoon geldt: P(A = 1 ∪ B = 2) is gelijk aan
 
-
 Answerlist
 ----------
 

@@ -6,7 +6,6 @@ worpen met een zuiver muntstuk. Hij redeneert als volgt: *P*(ten minste
 één kop boven) = *P*( eerste keer dat een kop boven komt) + *P*(de
 tweede keer dat een kop boven komt) = ½ +½ = 1. Klopt deze redenering?
 
-
 Answerlist
 ----------
 

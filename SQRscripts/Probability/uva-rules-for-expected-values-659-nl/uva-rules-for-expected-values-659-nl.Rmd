@@ -4,7 +4,6 @@ Question
 Als *A* = {4,5,6,8} en *B* = {3,5,7,8}, wat is dan de vereniging van *A*
 en *B*?
 
-
 Answerlist
 ----------
 
@@ -26,7 +25,7 @@ exname: uva-rules-for-expected-values-659-nl
 extype: schoice
 exsolution: 0100
 exsection: Probability/Elementary Probability/Random variables/Rules for expected values
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

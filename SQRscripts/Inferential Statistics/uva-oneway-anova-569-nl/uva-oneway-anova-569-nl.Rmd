@@ -15,7 +15,6 @@ RCB-ANOVA.
 Wat is de kritieke waarde waarmee de F-waarde vergeleken moet worden bij
 toetsen met 5% risico?
 
-
 Answerlist
 ----------
 

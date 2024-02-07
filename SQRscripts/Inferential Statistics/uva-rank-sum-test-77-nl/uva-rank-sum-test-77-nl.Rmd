@@ -14,7 +14,6 @@ populatie lager scoort dan de andere. In een figuur is de exacte
 kansverdeling weergegeven: Wat is de laagste P-waarde voor de
 bovenstaande hypotheses die met deze kansverdeling behaald kan worden?
 
-
 ![](uva-rank-sum-test-77-nl-graph01.png)
 
 Answerlist

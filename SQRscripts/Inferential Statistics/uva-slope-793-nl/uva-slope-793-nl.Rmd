@@ -7,7 +7,6 @@ dan *x* ligt bij zijn gemiddelde. Dit komt\
 I. door regressie naar het gemiddelde\
 II. doordat *r* nooit groter dan 1 is
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-slope-793-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics/Regression/Slope
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.347

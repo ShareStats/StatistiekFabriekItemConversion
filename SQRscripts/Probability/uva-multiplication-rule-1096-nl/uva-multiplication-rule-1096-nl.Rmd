@@ -6,7 +6,6 @@ bepalen wie de lunch moet betalen. Daarna werpen ze nog een keer voor
 wie de fooi zal betalen. Wat is de kans dat Linda zowel de lunch als de
 fooi moet betalen?\
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-multiplication-rule-1096-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/General Rules/Multiplication rule
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -2.246

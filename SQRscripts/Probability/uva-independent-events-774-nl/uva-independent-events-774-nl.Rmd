@@ -5,7 +5,6 @@ Welke uitspraak is **niet** waar:\
 \
 Er is sprake van onafhankelijkheid
 
-
 Answerlist
 ----------
 
@@ -26,7 +25,7 @@ exname: uva-independent-events-774-nl
 extype: schoice
 exsolution: 010
 exsection: Probability/Elementary Probability/General Rules/Independent events
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3

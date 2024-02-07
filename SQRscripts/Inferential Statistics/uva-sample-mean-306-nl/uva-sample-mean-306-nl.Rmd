@@ -5,7 +5,6 @@ Stel dat we een steekproef van grootte 4 trekken uit een normaal
 verdeelde populatie met μ = 20 en σ^²^= 64. De kans dat het
 steekproefgemiddelde groter dan of gelijk is aan 24 is gelijk aan
 
-
 Answerlist
 ----------
 

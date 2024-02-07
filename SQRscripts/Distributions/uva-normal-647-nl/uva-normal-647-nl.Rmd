@@ -16,7 +16,6 @@ kans dat het resultaat van het onderzoek meer dan twee procentpunten
 verschilt van de werkelijke populatie, dus de kans op
 \(\hat{p}\)\<0,12 of \(\hat{p}\)\>0,16?
 
-
 ![](uva-normal-647-nl-graph01.png)
 
 Answerlist
@@ -40,7 +39,7 @@ exname: uva-normal-647-nl
 extype: schoice
 exsolution: 0010
 exsection: Distributions/Continuous/Normal
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.94

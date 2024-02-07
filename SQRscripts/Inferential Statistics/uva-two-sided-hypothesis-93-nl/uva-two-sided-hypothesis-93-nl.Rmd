@@ -11,7 +11,6 @@ stelden de onderzoekers een nulhypothese op die stelt dat het percentage
 mensen die het eens is met de rechter 25% is. De P-waarde bij deze toets
 is
 
-
 Answerlist
 ----------
 
@@ -32,7 +31,7 @@ exname: uva-two-sided-hypothesis-93-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics/NHST/Hypothesis/Two sided hypothesis
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.276

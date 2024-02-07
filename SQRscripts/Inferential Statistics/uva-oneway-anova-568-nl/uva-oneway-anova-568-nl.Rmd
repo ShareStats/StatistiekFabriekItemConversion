@@ -14,7 +14,6 @@ RCB-ANOVA.
 
 Bereken de F-waarde voor het toetsen van het behande-lingseffect.
 
-
 Answerlist
 ----------
 

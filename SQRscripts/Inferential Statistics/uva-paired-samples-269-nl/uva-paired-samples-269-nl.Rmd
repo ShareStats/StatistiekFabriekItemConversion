@@ -7,7 +7,6 @@ Question
 
 De Standard Error of the Mean (SEM) van de voor-metingen is gelijk aan
 
-
 ![](uva-paired-samples-269-nl-graph01.png)
 
 Answerlist

@@ -8,7 +8,6 @@ van Spearmans rangcorrelatiecoÃ«fficiÃ«nt die gelijk is aan 0.48. Op
 basis van dit resultaat kan de nulhypothese dat er **geen** sprake is
 van een verband worden verworpen bij
 
-
 Answerlist
 ----------
 
@@ -29,7 +28,7 @@ exname: uva-correlation-240-nl
 extype: schoice
 exsolution: 100
 exsection: Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.613

@@ -12,7 +12,6 @@ alternatieve hypothese getekend. De kansen links van de van de verticale
 lijn onder de alternatieve hypothese en rechts van de verticale lijn
 onder de nulhypothese zijn respectievelijk
 
-
 ![](uva-statistical-errors-94-nl-graph01.png)
 
 Answerlist
@@ -35,7 +34,7 @@ exname: uva-statistical-errors-94-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/NHST/Statistical errors
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 0.24

@@ -10,7 +10,6 @@ Gegeven is de volgende tabel
 
 De variantie van de kansvariabele X, Var(X), is
 
-
 Answerlist
 ----------
 

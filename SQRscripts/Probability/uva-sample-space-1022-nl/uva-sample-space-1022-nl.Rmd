@@ -5,7 +5,6 @@ Je gooit tegelijkertijd drie zuivere geldstukken op. Definieer de
 gebeurtenis *A* als: minstens 2 koppen liggen boven. Hoeveel uitkomsten
 horen bij gebeurtenis *A*?
 
-
 Answerlist
 ----------
 

@@ -11,7 +11,6 @@ De waarde van de toetsingsgrootheid voor het toetsen van de nulhypothese
 dat de populatiegemiddelden gelijk zijn, is (zonder eventueel minteken)
 gelijk aan
 
-
 Answerlist
 ----------
 

@@ -13,7 +13,6 @@ studie-uren op een dag.\
 \
 Wat is dan de verwachtingswaarde van de studietijd van deze groep?
 
-
 Answerlist
 ----------
 
@@ -35,7 +34,7 @@ exname: uva-expected-value-1065-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/Random variables/Expected value
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.363

@@ -8,7 +8,6 @@ B = het aantal ogen dat na het werpen boven ligt is even.\
 \
 Wat is dan de kans op P(A en B)?
 
-
 Answerlist
 ----------
 
@@ -30,7 +29,7 @@ exname: uva-rules-for-expected-values-1083-nl
 extype: schoice
 exsolution: 0001
 exsection: Probability/Elementary Probability/Random variables/Rules for expected values
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.469

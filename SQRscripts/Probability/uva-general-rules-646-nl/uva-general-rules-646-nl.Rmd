@@ -10,7 +10,6 @@ nemen aan dat de testresultaten voor de verschillende individuen
 onafhankelijk zijn.\
 Rond af op vier decimalen.
 
-
 Solution
 ========
 

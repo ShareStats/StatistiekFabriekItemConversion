@@ -6,7 +6,6 @@ mogelijke uitkomsten. Definieer de gebeurtenis *A* als: de som van het
 aantal ogen is gelijk aan 6 en *B* als: de som van het aantal ogen is
 kleiner dan 6. Hoeveel uitkomsten krijgen we als *A* ∩ *B*?
 
-
 Answerlist
 ----------
 

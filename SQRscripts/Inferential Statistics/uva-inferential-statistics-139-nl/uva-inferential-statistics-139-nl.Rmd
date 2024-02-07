@@ -6,7 +6,6 @@ geconstrueerd uitproberen. Via email vraagt ze vrienden en familieleden
 naar een website te gaan waar de test kan worden gemaakt. Dit is een
 voorbeeld van een
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-inferential-statistics-139-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -3.524

@@ -5,7 +5,6 @@ Een pincode voor geldautomaten bestaat uit vier cijfers van 0000 tot
 9999. Je wilt dat je pincode eindigt op het getal \'9\'. Hoeveel
 mogelijke pincodes zijn er dan?
 
-
 Answerlist
 ----------
 

@@ -5,7 +5,6 @@ We nemen aan dat de gebeurtenissen van de geboorte van een meisje of een
 jongen van elkaar onafhankelijk zijn. Eén familie heeft 3 kinderen.
 Bereken de kans op twee jongens.
 
-
 Answerlist
 ----------
 

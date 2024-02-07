@@ -6,7 +6,6 @@ gemiddelde score van alle deelnemers aan de toets is 11.2 bij een
 standaardafwijking 2.8. De z-score van de persoon met 9 goed is dan
 gelijk aan
 
-
 Answerlist
 ----------
 

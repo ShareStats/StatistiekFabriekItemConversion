@@ -10,7 +10,6 @@ TIME als afhankelijke variabele, TREATMNT als behandelvariabele en BLOCK
 als blokvariabele. Bij het toetsen of er een behandeleffect is (met een
 tweezijdig risico van 5%) moet de redenering plus conclusie luiden:
 
-
 ![](uva-oneway-anova-317-nl-graph01.png)
 
 Answerlist
@@ -34,7 +33,7 @@ exname: uva-oneway-anova-317-nl
 extype: schoice
 exsolution: 0010
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Interpreting output, Calculation
+exextra[Type]: Interpreting output
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.619

@@ -14,7 +14,6 @@ heeft gepleegd in 2008.
 Als je een willekeurige persoon kiest, hoe groot is dan de kans dat deze
 persoon met een vuurwapen zelfmoord heeft gepleegd?
 
-
 Answerlist
 ----------
 
@@ -36,7 +35,7 @@ exname: uva-elementary-probability-689-nl
 extype: schoice
 exsolution: 0100
 exsection: Probability/Elementary Probability
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

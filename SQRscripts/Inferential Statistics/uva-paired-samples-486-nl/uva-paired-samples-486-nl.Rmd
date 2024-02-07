@@ -10,7 +10,6 @@ van de t-toets is .017. Bepaal met behulp van de tabel wat hier bij
 tweezijdig toetsen met α = 5% de grenzen van het kritiek gebied zouden
 zijn:
 
-
 ![](uva-paired-samples-486-nl-graph01.png)
 
 Answerlist
@@ -34,7 +33,7 @@ exname: uva-paired-samples-486-nl
 extype: schoice
 exsolution: 0010
 exsection: Inferential Statistics/Parametric Techniques/t-test/Paired samples
-exextra[Type]: Interpreting output, Calculation
+exextra[Type]: Interpreting output
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.447

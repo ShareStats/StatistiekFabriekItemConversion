@@ -4,7 +4,6 @@ Question
 Z is een standaardnormaal verdeelde stochastische variabele. De kans dat
 Z een waarde aanneemt tussen -1.32 en 0.43 is gelijk aan
 
-
 Answerlist
 ----------
 

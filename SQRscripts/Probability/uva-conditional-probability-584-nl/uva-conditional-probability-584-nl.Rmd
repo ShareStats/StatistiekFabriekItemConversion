@@ -13,7 +13,6 @@ twee variabelen, met mogelijke uitkomsten A, B, en C, resp. I en II.
 We trekken aselect iemand uit de 120 personen. Voor deze persoon is P(B
 \| II) is gelijk aan
 
-
 Answerlist
 ----------
 

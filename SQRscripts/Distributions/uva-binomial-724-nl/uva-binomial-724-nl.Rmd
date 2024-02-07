@@ -7,7 +7,6 @@ zijn vrije worpen succes boekt. Tijdens een cruciale wedstrijd mist hij
 pogingen. Hoe groot is de kans op 7 of meer mislukte worpen van de 12
 pogingen?
 
-
 Answerlist
 ----------
 
@@ -29,7 +28,7 @@ exname: uva-binomial-724-nl
 extype: schoice
 exsolution: 0001
 exsection: Distributions/Discrete/Binomial
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.194

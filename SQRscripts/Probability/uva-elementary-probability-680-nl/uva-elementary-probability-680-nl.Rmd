@@ -8,7 +8,6 @@ combinatie wordt aselect gepakt. Wat is de kans dat zowel Sam als
 Roberto ***niet*** gekozen worden? Let op: dit betekent dat ze ook niet
 kunnen gaan met andere mensen.
 
-
 Answerlist
 ----------
 
@@ -30,7 +29,7 @@ exname: uva-elementary-probability-680-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

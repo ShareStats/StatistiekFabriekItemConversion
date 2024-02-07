@@ -8,7 +8,6 @@ Groep 2: n = 12, gemiddelde = 112, variantie = 484\
 De waarde van de toetsingsgrootheid F om de nulhypothese σ~1~^²^ =
 σ~2~^²^ te toetsen is gelijk aan
 
-
 Answerlist
 ----------
 

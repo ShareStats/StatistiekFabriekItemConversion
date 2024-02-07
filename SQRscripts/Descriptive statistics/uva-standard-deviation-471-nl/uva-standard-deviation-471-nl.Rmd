@@ -8,7 +8,6 @@ van alle waarden 32 af te trekken en het resultaat te vermenigvuldigen
 met 5/9. Dan geldt voor de standaarddeviatie van de nieuwe waarden het
 volgende
 
-
 Answerlist
 ----------
 
@@ -30,7 +29,7 @@ exname: uva-standard-deviation-471-nl
 extype: schoice
 exsolution: 0010
 exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.987

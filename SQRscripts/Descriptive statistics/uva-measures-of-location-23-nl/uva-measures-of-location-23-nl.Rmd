@@ -6,7 +6,6 @@ vraag bij 25 proefpersonen. De gemiddelde reactietijd is 16.2 seconden
 en de standaarddeviatie is 2.0 seconden. Een 95% *confidence interval*
 voor dit gemiddelde is
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-measures-of-location-23-nl
 extype: schoice
 exsolution: 100
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.902

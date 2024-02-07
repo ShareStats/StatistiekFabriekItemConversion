@@ -6,7 +6,6 @@ klaveren, 13 schoppen) en de andere helft rood (13 harten, 13 ruiten)
 wordt aselect een kaart getrokken. P (kaart is zwart \| geen
 schoppenkaart) =
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-expected-value-530-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/Random variables/Expected value
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.801

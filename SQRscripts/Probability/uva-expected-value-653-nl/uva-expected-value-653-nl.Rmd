@@ -5,7 +5,6 @@ In een gesloten doos zitten vijf ballen: drie rode en twee gele. Als je
 één bal pakt, wat is dan kans dat het een gele bal is?\
 (Geef het antwoord met één decimaal).
 
-
 Solution
 ========
 

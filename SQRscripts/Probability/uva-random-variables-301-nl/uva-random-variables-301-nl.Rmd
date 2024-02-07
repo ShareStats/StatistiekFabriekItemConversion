@@ -16,7 +16,6 @@ weergegeven.
 De kans dat de getrokken persoon een man is en een CES-D score heeft van
 16 of minder, is gelijk aan
 
-
 Answerlist
 ----------
 
@@ -38,7 +37,7 @@ exname: uva-random-variables-301-nl
 extype: schoice
 exsolution: 0100
 exsection: Probability/Elementary Probability/Random variables
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.482

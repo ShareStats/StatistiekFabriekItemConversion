@@ -7,7 +7,6 @@ stochastische variabelen?\
 I. De snelheid van een voertuig op een snelweg.\
 II. Het aantal ongelukken afgelopen jaar op een snelweg.
 
-
 Answerlist
 ----------
 
@@ -29,7 +28,7 @@ exname: uva-random-variables-1078-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/Random variables
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

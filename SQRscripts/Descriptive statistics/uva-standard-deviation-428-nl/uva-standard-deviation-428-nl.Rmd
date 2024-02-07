@@ -5,7 +5,6 @@ Gegeven twee onafhankelijke stochastische variabelen X en Y met
 standaarddeviaties respectievelijk 12 en 5. Stel nu dat Z = X - Y. De
 s.d. van Z is dan gelijk aan
 
-
 Answerlist
 ----------
 

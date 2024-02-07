@@ -9,7 +9,6 @@ kan worden. Er wordt gevonden dat 140 maal munt boven komt van de 250
 worpen, een proportie van 140/250 = 0.56. De onderzoekers willen de kans
 weten van deze proportie 0.56 of groter dan onverwacht is. Die kans is
 
-
 Answerlist
 ----------
 

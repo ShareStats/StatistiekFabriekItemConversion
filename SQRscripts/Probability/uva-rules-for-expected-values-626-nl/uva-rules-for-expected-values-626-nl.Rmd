@@ -21,7 +21,6 @@ B: het oordeel van de persoon over zijn methode was: \"goed\".\
 \
 P(A ∩ B) =
 
-
 Answerlist
 ----------
 

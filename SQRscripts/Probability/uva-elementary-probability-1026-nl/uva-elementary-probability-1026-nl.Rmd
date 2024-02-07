@@ -4,7 +4,6 @@ Question
 Gooi in één keer 3 zuivere geldstukken op. Hoe groot is de kans dat er
 minstens twee koppen boven liggen?
 
-
 Answerlist
 ----------
 
@@ -26,7 +25,7 @@ exname: uva-elementary-probability-1026-nl
 extype: schoice
 exsolution: 1000
 exsection: Probability/Elementary Probability
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

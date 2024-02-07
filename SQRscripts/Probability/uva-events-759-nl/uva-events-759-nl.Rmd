@@ -7,7 +7,6 @@ $ \begin{aligned} A & = \left \{ x \mid x = 2k, k \in Z \right
 \left \{ x \mid x = 2k - 1, k \in Z \right \} \end{aligned} $\
 Welke van deze verzamelingen zijn aan elkaar gelijk?
 
-
 Answerlist
 ----------
 
@@ -31,7 +30,7 @@ exname: uva-events-759-nl
 extype: schoice
 exsolution: 000100
 exsection: Probability/Elementary Probability/Events
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.992

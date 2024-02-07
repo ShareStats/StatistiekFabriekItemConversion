@@ -7,7 +7,6 @@ VOOR: 46, 38, 30, 42, 41\
 NA: 43, 43, 37, 39, 45. Het gemiddelde van het verschil van de nameting
 minus de voormeting is gelijk aan:
 
-
 Answerlist
 ----------
 

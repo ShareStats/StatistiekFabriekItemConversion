@@ -9,7 +9,6 @@ Wanneer we een F-toets voor gelijkheid van varianties zouden uitvoeren
 met een tweezijdig risico van 10%, dan zou de rechterkritieke waarde
 gelijk zijn aan
 
-
 ![](uva-independent-samples-means-320-nl-graph01.png)
 
 Answerlist

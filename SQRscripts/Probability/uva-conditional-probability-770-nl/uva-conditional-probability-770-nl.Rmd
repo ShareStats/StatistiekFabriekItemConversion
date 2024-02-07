@@ -8,7 +8,6 @@ draagt geen bril en rijdt niet geregeld auto. Wat is de kans dat een
 willekeurig getrokken persoon auto rijdt gegeven dat deze persoon een
 bril draagt, met andere woorden, wat is de kans P(auto=ja\|bril=ja)?
 
-
 Answerlist
 ----------
 
@@ -29,7 +28,7 @@ exname: uva-conditional-probability-770-nl
 extype: schoice
 exsolution: 010
 exsection: Probability/Elementary Probability/Conditional probability
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

@@ -8,7 +8,6 @@ die kleiner is dan het nominale significantieniveau van .05. Waarom
 betekent dit statistische resultaat **niet** dat de onderzoekshypothese
 zeker waar is?
 
-
 Answerlist
 ----------
 
@@ -29,7 +28,7 @@ exname: uva-inferential-statistics-61-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 0.791

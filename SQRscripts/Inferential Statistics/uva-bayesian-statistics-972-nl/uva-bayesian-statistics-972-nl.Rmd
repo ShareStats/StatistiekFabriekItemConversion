@@ -16,7 +16,6 @@ positieve testuitslag heeft. Stel de gebeurtenissen:\
 Hoe groot is dan de kans P(*G* en *P*) dat Marja een positieve
 testuitslag krijgt en ook zij geen ziekte heeft?
 
-
 Answerlist
 ----------
 
@@ -38,7 +37,7 @@ exname: uva-bayesian-statistics-972-nl
 extype: schoice
 exsolution: 0010
 exsection: Inferential Statistics/Bayesian Statistics
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.231

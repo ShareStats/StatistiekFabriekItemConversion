@@ -5,7 +5,6 @@ Het gemiddelde van vijf getallen is gelijk aan 10. Het getal 0 wordt
 toegevoegd aan de vijf getallen. Het gemiddelde van de zes getallen is
 dan
 
-
 Answerlist
 ----------
 
@@ -26,7 +25,7 @@ exname: uva-mean-188-nl
 extype: schoice
 exsolution: 001
 exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -4.703

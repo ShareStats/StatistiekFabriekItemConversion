@@ -5,7 +5,6 @@ Je werpt een zuivere dobbelsteen twee keer. Hoe groot is de kans dat de
 eerste worp een 1 is en de tweede worp geen 1 is?\
 (Geef het antwoord in de vorm van een breuk met de vorm X/Y).
 
-
 Solution
 ========
 

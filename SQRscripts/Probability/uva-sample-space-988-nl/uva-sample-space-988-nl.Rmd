@@ -5,7 +5,6 @@ Bij het opgooien van een munt zijn er slechts twee mogelijke uitkomsten:
 kruis en munt. Stel dat je één zuivere munt drie keer opgooit, hoeveel
 mogelijke uitkomsten zijn er dan in dit kansexperiment?
 
-
 Answerlist
 ----------
 

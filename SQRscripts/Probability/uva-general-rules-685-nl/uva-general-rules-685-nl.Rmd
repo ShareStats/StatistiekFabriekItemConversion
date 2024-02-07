@@ -6,7 +6,6 @@ prefereert een vrouw; Wat is dan de kans op een van de overige
 werknemers, die het niet uitmaakt een man of een vrouw als baas te
 hebben?
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-general-rules-685-nl
 extype: schoice
 exsolution: 0001
 exsection: Probability/Elementary Probability/General Rules
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -3.166

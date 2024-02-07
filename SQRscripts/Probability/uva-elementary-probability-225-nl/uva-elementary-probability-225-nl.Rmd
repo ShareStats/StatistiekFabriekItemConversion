@@ -5,7 +5,6 @@ Gegeven voor twee gebeurtenissen A en B zijn P(A)=P(B) en A en B zijn
 onderling onafhankelijk. Verder is bekend dat P(A\|\|\|B)=0.4. Dan is de
 kans op A of B P(A∪B) gelijk aan
 
-
 Answerlist
 ----------
 

@@ -5,7 +5,6 @@ In regressie kan de adequaatheid van het model worden vastgesteld met
 behulp van *r*^2^. Wanneer de hellingparameter gelijk is aan 0, dan
 geldt dat
 
-
 Answerlist
 ----------
 
@@ -26,7 +25,7 @@ exname: uva-equation-106-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics/Regression/Equation
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.216

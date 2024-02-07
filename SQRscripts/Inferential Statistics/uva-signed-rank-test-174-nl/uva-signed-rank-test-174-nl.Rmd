@@ -8,7 +8,6 @@ gewone mensen. Het is bekend dat de verdeling van hun afhankelijke
 variabele niet symmetrisch is. Het is in dit geval verstandig als de
 onderzoekers de volgende test uitvoeren:
 
-
 Answerlist
 ----------
 
@@ -29,7 +28,7 @@ exname: uva-signed-rank-test-174-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/Non-parametric Techniques/Signed Rank test
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.101

@@ -7,7 +7,6 @@ elkaar gelegd. Als een lootje terecht komt op de plek die correspondeert
 met zijn nummer is er sprake van een treffer. Hoe groot is de kans op 0
 treffers?
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-sample-space-202-nl
 extype: schoice
 exsolution: 010
 exsection: Probability/Elementary Probability/Sample Space
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.629

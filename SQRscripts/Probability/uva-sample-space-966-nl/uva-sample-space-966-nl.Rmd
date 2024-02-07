@@ -6,7 +6,6 @@ mogelijke surprises en elke doos heeft een gelijke kans om elke surprise
 te bevatten. Hoeveel mogelijke uitkomsten zijn er als je twee dezelfde
 surprises wilt krijgen?
 
-
 Answerlist
 ----------
 

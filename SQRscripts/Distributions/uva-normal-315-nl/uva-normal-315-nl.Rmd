@@ -4,7 +4,6 @@ Question
 Z is een standaardnormaal verdeelde variabele, Z \~ N(0,1). Dan is P(Z
 \< -2 ∩ Z \> 1) gelijk aan
 
-
 Answerlist
 ----------
 

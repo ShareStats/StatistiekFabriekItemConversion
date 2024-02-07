@@ -7,7 +7,6 @@ tegen H~a~: *μ* ≠ 200 dat\
 I. de Type I fout groter is dan 0.05.\
 II. de P-waarde kleiner is dan 0.05.
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-statistical-errors-112-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics/NHST/Statistical errors
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.039

@@ -16,7 +16,6 @@ uit alle baby\'s die vorig jaar werden geboren.
 Wat is de standaardafwijking van het geboortegewicht van de jongens?
 Rond af op drie decimalen.
 
-
 Solution
 ========
 

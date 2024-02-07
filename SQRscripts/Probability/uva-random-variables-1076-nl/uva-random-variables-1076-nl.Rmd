@@ -12,7 +12,6 @@ gemeld).\
 IV. Of er regen wordt voorspeld (0 = er wordt 'geen regen' voorspeld, 1
 = er wordt 'wel regen' voorspeld).
 
-
 Answerlist
 ----------
 
@@ -34,7 +33,7 @@ exname: uva-random-variables-1076-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/Random variables
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.557

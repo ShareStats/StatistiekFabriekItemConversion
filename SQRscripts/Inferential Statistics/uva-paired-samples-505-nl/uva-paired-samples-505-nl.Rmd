@@ -10,7 +10,6 @@ T-toets op twee metingen aan 17 mensen. Het kritieke gebied voor de
 toetsingsgrootheid voor het toetsen van *gelijkheid* van
 populatiegemiddelden is
 
-
 ![](uva-paired-samples-505-nl-graph01.png)
 
 Answerlist
@@ -34,7 +33,7 @@ exname: uva-paired-samples-505-nl
 extype: schoice
 exsolution: 0100
 exsection: Inferential Statistics/Parametric Techniques/t-test/Paired samples
-exextra[Type]: Interpreting output, Calculation
+exextra[Type]: Interpreting output
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.008

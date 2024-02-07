@@ -13,7 +13,6 @@ twee variabelen A en B.
 We trekken aselect iemand uit de 200 personen. Voor deze persoon geldt:
 P(A=1 ∪ A=2 \|\|\| B=1) is gelijk aan
 
-
 Answerlist
 ----------
 

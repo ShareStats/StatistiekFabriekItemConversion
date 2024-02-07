@@ -4,7 +4,6 @@ Question
 Voor twee onafhankelijke gebeurtenissen A en B geldt P(A) = 0.4 en P(B)
 = 0.3. Dan is de kans op A of B
 
-
 Answerlist
 ----------
 

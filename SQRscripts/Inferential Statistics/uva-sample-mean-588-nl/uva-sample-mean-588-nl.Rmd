@@ -6,7 +6,6 @@ Stel dat gegeven is dat het gewicht van de Nederlandse mannen boven de
 populatie aselect een persoon. Wat is de kans dat deze man tussen de 90
 en 96 kg weegt?
 
-
 Answerlist
 ----------
 

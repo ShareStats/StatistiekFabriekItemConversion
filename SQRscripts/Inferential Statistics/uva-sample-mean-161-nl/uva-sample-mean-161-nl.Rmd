@@ -6,7 +6,6 @@ verdeeld met gemiddelde 26.5 en standaardafwijking 9.2. Hoe groot is de
 kans dat in een *random sample* van 30 personen een gemiddelde leeftijd
 kleiner dan 25 wordt gevonden?
 
-
 Answerlist
 ----------
 

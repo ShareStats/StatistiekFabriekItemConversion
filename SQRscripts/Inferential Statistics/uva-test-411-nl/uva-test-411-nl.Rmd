@@ -9,7 +9,6 @@ Hieronder staat SPSS-uitvoer van een regressieanalyse van Y op X. De
 p-waarde, behorende bij de toets op de nulhypothese dat X geen lineair
 effect heeft op Y, is gelijk aan
 
-
 ![](uva-test-411-nl-graph01.png)
 
 Answerlist

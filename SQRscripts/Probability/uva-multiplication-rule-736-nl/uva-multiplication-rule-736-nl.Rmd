@@ -8,7 +8,6 @@ instituut. Wat is de kans dat een aselect gekozen universitair student
 10 jaar na zijn afstuderen werkzaam is bij een wetenschappelijk
 instituut?
 
-
 Answerlist
 ----------
 
@@ -30,7 +29,7 @@ exname: uva-multiplication-rule-736-nl
 extype: schoice
 exsolution: 1000
 exsection: Probability/Elementary Probability/General Rules/Multiplication rule
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

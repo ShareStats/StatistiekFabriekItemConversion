@@ -8,7 +8,6 @@ zogenaamde uniforme verdeling. Een generator van toevalsgetallen
 produceert een getal *X* tussen 0,4 en 0,7, wat is dan de kans P(0,4 ≤
 * *X* ≤ 0,7)?
 
-
 Answerlist
 ----------
 
@@ -30,7 +29,7 @@ exname: uva-uniform-710-nl
 extype: schoice
 exsolution: 1000
 exsection: Distributions/Continuous/Uniform
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

@@ -6,7 +6,6 @@ We nemen een steekproef van 4 realisaties van deze y. De
 standaarddeviatie van het steekproefgemiddelde (s.e.m.) is dan gelijk
 aan
 
-
 Answerlist
 ----------
 

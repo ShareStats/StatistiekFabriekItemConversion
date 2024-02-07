@@ -7,7 +7,6 @@ kruis boven is groter dan 0.5). Er wordt 50 maal met de munt geworpen en
 er komt 30 maal kruis boven. De P-value die bij dit resultaat hoort is
 gelijk aan
 
-
 Answerlist
 ----------
 

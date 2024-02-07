@@ -6,7 +6,6 @@ Achter slechts één van de deuren staat een auto. Je vriend John, heeft
 de eerste keus gemaakt: de tweede deur en er staat geen auto. Wat is de
 kans dat je een auto kan winnen?
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-elementary-probability-671-nl
 extype: schoice
 exsolution: 1000
 exsection: Probability/Elementary Probability
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

@@ -5,7 +5,6 @@ Als je tegelijkertijd vier muntstukken opgooit, welke kansregel kunnen
 wij dan toepassen voor het uitrekenen van de kans op de uitkomst dat bij
 alle muntstukken kruis boven ligt?
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-multiplication-rule-720-nl
 extype: schoice
 exsolution: 0001
 exsection: Probability/Elementary Probability/General Rules/Multiplication rule
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.418

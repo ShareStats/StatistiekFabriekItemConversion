@@ -5,7 +5,6 @@ Wanneer elke waarneming van een variabele Ã©Ã©n van twee waarden kan
 aannemen (bijvoorbeeld 0 en 1) die elk een categorie representeren, is
 de variabele (a) continu en (b) kwantitatief.
 
-
 Answerlist
 ----------
 
@@ -26,7 +25,7 @@ exname: uva-variable-type-815-nl
 extype: schoice
 exsolution: 001
 exsection: Variable type
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.993

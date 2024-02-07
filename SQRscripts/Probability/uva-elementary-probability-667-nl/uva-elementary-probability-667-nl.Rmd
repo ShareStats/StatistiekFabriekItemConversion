@@ -6,7 +6,6 @@ een één gooit, hoe groot is dan de kans dat je bij de tweede worp ook
 een één krijgt?\
 (Geef het antwoord in de vorm van een breuk met de vorm X/Y).
 
-
 Solution
 ========
 

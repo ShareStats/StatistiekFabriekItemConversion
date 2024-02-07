@@ -3,7 +3,6 @@ Question
 
 Zij x \~ N(μ = 10, σ^²^ = 36). Dan is P(13.00 \< x ≤ 17.32) =
 
-
 Answerlist
 ----------
 

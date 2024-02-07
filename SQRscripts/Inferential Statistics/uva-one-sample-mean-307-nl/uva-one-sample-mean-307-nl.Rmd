@@ -6,7 +6,6 @@ We trekken een steekproef uit een normaal verdeelde populatie N(μ,
 tegen H~1~: μ ≠ 20 met 5% risico. Er is gegeven dat σ = 8. Hoe moet de
 conclusie luiden?
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-one-sample-mean-307-nl
 extype: schoice
 exsolution: 0001
 exsection: Inferential Statistics/Parametric Techniques/t-test/One sample mean
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.759

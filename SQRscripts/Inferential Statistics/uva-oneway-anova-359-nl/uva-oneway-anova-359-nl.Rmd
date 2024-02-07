@@ -7,7 +7,6 @@ personen door loting over de behandelingen verdeeld. De gegevens worden
 m.b.v. ANOVA geanalyseerd. Hoeveel vrijheidsgraden heeft de Error-term
 in de bijbehorende ANOVA-tabel?
 
-
 Answerlist
 ----------
 

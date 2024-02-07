@@ -7,7 +7,6 @@ coÃ«fficiÃ«nt 0 is tegen het alternatief dat de coÃ«fficiÃ«nt ongelijk
 aan 0 is. De coÃ«fficiÃ«nt is *b*~1~ = 2.3 met *se* = 1.0 en er zijn 16
 vrijheidsgraden. Dan kan de nulhypothese
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-simple-linear-regression-888-nl
 extype: schoice
 exsolution: 001
 exsection: Inferential Statistics/Regression/Simple linear regression
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.148

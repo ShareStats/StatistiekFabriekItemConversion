@@ -5,7 +5,6 @@ We nemen uit een grote populatie een steekproef van 7 personen en meten
 hun lichaamstemperatuur in graden Celsius, met als uitkomsten: 37.6,
 37.1, 38.0, 37.5, 36.9, 37.1, 37.3. Deze variabele wordt gemeten op een
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-variable-type-545-nl
 extype: schoice
 exsolution: 0100
 exsection: Variable type
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.624

@@ -9,7 +9,6 @@ De waarde uit de tabel van de T-verdeling, die gebruikt is bij het
 berekenen van het *equal variances assumed* 95%
 betrouwbaarheidsinterval, (1.885 ; 11.004), is gelijk aan
 
-
 ![](uva-independent-samples-means-280-nl-graph01.png)
 
 Answerlist

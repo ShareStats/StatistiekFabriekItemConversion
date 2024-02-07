@@ -9,7 +9,6 @@ gebeurtenissen *A* en *B*:\
 \
 Wat is dan de kans P(B\|A)?
 
-
 Answerlist
 ----------
 
@@ -31,7 +30,7 @@ exname: uva-conditional-probability-661-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/Conditional probability
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

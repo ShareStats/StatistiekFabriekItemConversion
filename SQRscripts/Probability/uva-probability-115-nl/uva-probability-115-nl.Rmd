@@ -8,7 +8,6 @@ score voor iemand met *x* = 4 is gelijk aan 30, en die voor iemand met
 * *x* = 10 is gelijk aan 40. Wat is de voorspelde score voor iemand met
 * *x* = 7?
 
-
 Answerlist
 ----------
 

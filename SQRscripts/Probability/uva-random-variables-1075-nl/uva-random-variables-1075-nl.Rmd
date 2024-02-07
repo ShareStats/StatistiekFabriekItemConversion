@@ -11,7 +11,6 @@ III. Breedte van het boek (bijv. 8 inch).\
 IV. Het soort boek (0 = hardback of 1 = paperback).\
 V. Het aantal typefouten in het boek (bijv. 4 fouten).
 
-
 Answerlist
 ----------
 
@@ -33,7 +32,7 @@ exname: uva-random-variables-1075-nl
 extype: schoice
 exsolution: 0100
 exsection: Probability/Elementary Probability/Random variables
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

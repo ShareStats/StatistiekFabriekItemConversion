@@ -9,7 +9,6 @@ Amerikaan gewond zal worden door bliksem in een bepaald jaar:
 II. Volgens mijn buurman is de kans dat de tomaten die hij heeft geplant
 in de volgende maand geschikt zijn voor consumptie: een half.
 
-
 Answerlist
 ----------
 
@@ -31,7 +30,7 @@ exname: uva-elementary-probability-1061-nl
 extype: schoice
 exsolution: 1000
 exsection: Probability/Elementary Probability
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

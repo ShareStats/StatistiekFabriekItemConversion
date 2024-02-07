@@ -9,7 +9,6 @@ Hieronder staat SPSS-uitvoer van een gepoolde T-toets. Bij een gepoolde
 T-toets wordt aangenomen dat de varianties in beide populaties gelijk
 zijn. De beste schatting voor deze populatievariantie is hier gelijk aan
 
-
 ![](uva-independent-samples-means-493-nl-graph01.png)
 
 Answerlist

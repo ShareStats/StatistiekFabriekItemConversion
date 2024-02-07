@@ -11,7 +11,6 @@ adem in kunnen houden. De resultaten staan in het onderstaande histogram
 weergegeven. Het percentage mensen dat de adem meer dan 55 seconden kan
 inhouden is in deze steekproef gelijk aan
 
-
 ![](uva-bar-graph-319-nl-graph01.png)
 
 Answerlist
@@ -35,7 +34,7 @@ exname: uva-bar-graph-319-nl
 extype: schoice
 exsolution: 0001
 exsection: Descriptive statistics/Data representation/Graphs/Bar graph
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.558

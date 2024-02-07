@@ -7,7 +7,6 @@ vrouwen. Voor een onderzoek trek ik een *simple random sample* van n =
 benadering is van de kansverdeling van de kansvariabele \"Aantal vrouwen
 in de steekproef\" heeft dan
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-inferential-statistics-137-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -0.431

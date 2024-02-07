@@ -8,7 +8,6 @@ gerangordend (1 tot en met 6). Het verschil tussen groep A en groep B
 is: A - B = 3. Een mogelijke rangordening van de deelnemers in de beide
 groepen is
 
-
 Answerlist
 ----------
 
@@ -29,7 +28,7 @@ exname: uva-signed-rank-test-912-nl
 extype: schoice
 exsolution: 001
 exsection: Inferential Statistics/Non-parametric Techniques/Signed Rank test
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.001

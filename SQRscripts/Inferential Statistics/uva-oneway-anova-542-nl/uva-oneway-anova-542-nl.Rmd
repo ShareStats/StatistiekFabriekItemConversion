@@ -15,7 +15,6 @@ Complete Block ANOVA.
 We willen de nulhypothese testen dat er geen groepseffect is, met 5%
 risico. Het toetsresultaat is
 
-
 Answerlist
 ----------
 
@@ -37,7 +36,7 @@ exname: uva-oneway-anova-542-nl
 extype: schoice
 exsolution: 1000
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.381

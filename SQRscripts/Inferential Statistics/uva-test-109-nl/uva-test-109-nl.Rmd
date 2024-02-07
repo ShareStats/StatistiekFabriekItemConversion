@@ -12,7 +12,6 @@ de hellingparameter 0 is. Deze nulhypothese wordt getoetst tegen de
 alternatieve hypothese die stelt dat de hellingparameter niet gelijk aan
 0 is. De nulhypothese kan
 
-
 Answerlist
 ----------
 

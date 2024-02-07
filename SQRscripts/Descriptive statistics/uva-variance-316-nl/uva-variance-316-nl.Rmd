@@ -5,7 +5,6 @@ Question
 verdeling met μ = 3 en σ^2^ = 0.25. De variantie van (X~1~ + X~2~ +
 X~3~ + X~4~) / 4 is dan gelijk aan
 
-
 Answerlist
 ----------
 

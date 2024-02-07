@@ -3,7 +3,6 @@ Question
 
 Z \~ N(0, 1). Dan is P(Z ≤ - 1.96 of Z ≥ 1.96) gelijk aan
 
-
 Answerlist
 ----------
 

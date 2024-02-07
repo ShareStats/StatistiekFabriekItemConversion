@@ -4,7 +4,6 @@ Question
 De toets van Wilcoxon is een goed alternatief voor de t-toets wanneer
 (a) de populatieverdeling niet bekend is en (b) de steekproeven klein (N
 
-
 Answerlist
 ----------
 
@@ -25,7 +24,7 @@ exname: uva-signed-rank-test-189-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics/Non-parametric Techniques/Signed Rank test
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.1

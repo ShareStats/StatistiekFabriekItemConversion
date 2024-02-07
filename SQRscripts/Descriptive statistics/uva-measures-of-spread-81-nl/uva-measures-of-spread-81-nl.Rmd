@@ -4,7 +4,6 @@ Question
 Hoe groot is in een normale verdeling het oppervlak onder de staart van
 de verdeling rechts van het punt μ + 0.5σ?
 
-
 Answerlist
 ----------
 

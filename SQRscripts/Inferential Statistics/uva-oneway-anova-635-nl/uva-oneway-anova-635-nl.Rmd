@@ -14,7 +14,6 @@ CRD-ANOVA met 5 groepen en 3 metingen per groep.
 Stel dat de F-waarde van deze ANOVA-tabel gelijk was aan 3.0; dan zou
 voor de bijbehorende P-waarde gelden (α=5%):
 
-
 Answerlist
 ----------
 
@@ -36,7 +35,7 @@ exname: uva-oneway-anova-635-nl
 extype: schoice
 exsolution: 1000
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.052

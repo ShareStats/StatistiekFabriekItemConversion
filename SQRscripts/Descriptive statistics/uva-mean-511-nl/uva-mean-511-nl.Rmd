@@ -6,7 +6,6 @@ gewichtsafname (in kg) na het volgen van een dieet van 12 weken, met de
 volgende resultaten:\
 12, 7, 2, 5, 12, 20, 3, 8. De mediaan van de steekproef is
 
-
 Answerlist
 ----------
 

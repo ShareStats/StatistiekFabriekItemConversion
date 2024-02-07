@@ -5,7 +5,6 @@ Gegeven een steekproef met uitkomsten 27, 25, 28, 27, 29, 25, 19, 25,
 29. De steekproefvariantie is gelijk aan 9.50. De SEM (standaardfout van
 het steekproefgemiddelde) is dan gelijk aan
 
-
 Answerlist
 ----------
 

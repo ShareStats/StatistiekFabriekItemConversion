@@ -4,7 +4,6 @@ Question
 Stel je hebt één lot gekocht met het nummer 856. De loten zijn genummerd
 van 000 tot 999. Wat is de kans dat je lot 856 wint?
 
-
 Answerlist
 ----------
 
@@ -26,7 +25,7 @@ exname: uva-elementary-probability-963-nl
 extype: schoice
 exsolution: 0100
 exsection: Probability/Elementary Probability
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -2.982

@@ -4,7 +4,6 @@ Question
 Een variabele X is verdeeld volgens N (10, 2^2^). P(X \< 8.8) is dan
 gelijk aan
 
-
 Answerlist
 ----------
 

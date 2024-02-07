@@ -6,7 +6,6 @@ regressievergelijking Å· = 10 + 6x op. De standard error van de slope b
 is gelijk aan 2. Dit betekent dat de nulhypothese dat x en y
 onafhankelijk zijn kan worden verworpen bij
 
-
 Answerlist
 ----------
 
@@ -27,7 +26,7 @@ exname: uva-regression-197-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics/Regression
-exextra[Type]: Conceptual, Calculation
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.377

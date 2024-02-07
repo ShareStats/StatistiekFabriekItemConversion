@@ -13,7 +13,6 @@ tabel weergegeven:
 Wanneer gegeven is dat 37 promovendi er langer dan 4 jaar over hebben
 gedaan, hoeveel mensen zaten er dan in totaal in dit onderzoek?
 
-
 Answerlist
 ----------
 
@@ -35,7 +34,7 @@ exname: uva-descriptive-statistics-435-nl
 extype: schoice
 exsolution: 0100
 exsection: Descriptive statistics
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.112

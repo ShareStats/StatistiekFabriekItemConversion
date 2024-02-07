@@ -5,7 +5,6 @@ We nemen voor deze vraag aan dat geboortegewicht (in kg.) normaal
 verdeeld is met verwachting 2.90 en variantie 0.64. De kans op een
 geboortegewicht van meer dan 3.5 kg. is gelijk aan
 
-
 Answerlist
 ----------
 

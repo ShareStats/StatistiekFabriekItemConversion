@@ -13,7 +13,6 @@ situaties:\
 Hoeveel cent moet Martijn aan John betalen vóór elk spelletje begint
 zodat het een *eerlijk* spelletje is?
 
-
 Answerlist
 ----------
 

@@ -6,7 +6,6 @@ van een toets. Welke uitspraken zijn juist?\
 I: Als α (risico) toeneemt, neemt β ook toe.\
 II: Als n (steekproefgrootte) toeneemt, neemt β ook toe.\
 
-
 Answerlist
 ----------
 
@@ -28,7 +27,7 @@ exname: uva-statistical-errors-560-nl
 extype: schoice
 exsolution: 0001
 exsection: Inferential Statistics/NHST/Statistical errors
-exextra[Type]: Calculation
+exextra[Type]: 
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.701

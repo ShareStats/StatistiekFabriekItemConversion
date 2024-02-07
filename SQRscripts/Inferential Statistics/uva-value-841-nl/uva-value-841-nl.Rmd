@@ -9,7 +9,6 @@ kan worden. Er wordt gevonden dat 31 maal munt boven komt van de 50
 worpen, een proportie van 31/50 = 0.62. De onderzoekers willen de kans
 weten van deze proportie 0.62 of groter. Die kans is
 
-
 Answerlist
 ----------
 

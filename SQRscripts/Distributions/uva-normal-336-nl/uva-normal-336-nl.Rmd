@@ -4,7 +4,6 @@ Question
 Z is een standaard normaal verdeelde variabele. P(Z \> -0.84) is gelijk
 aan
 
-
 Answerlist
 ----------
 

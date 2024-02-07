@@ -4,7 +4,6 @@ Question
 Gegeven de steekproefuitkomsten 6, 9, 14, 18 en 29. De geschatte
 variantie van het steekproefgemiddelde is dan
 
-
 Answerlist
 ----------
 

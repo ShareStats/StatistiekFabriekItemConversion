@@ -4,7 +4,6 @@ Question
 De kansen op twee gebeurtenissen A en B zijn gegeven als P(A) = 0.5 en
 P(B) = 0.4. Als A en B onafhankelijk zijn is P(A ∩ B) gelijk aan
 
-
 Answerlist
 ----------
 

@@ -7,7 +7,6 @@ We trekken uit deze populatie aselect een persoon. Hoe hoog mag het Hb
 van deze persoon hoogstens zijn om tot de laagste 10% van de populatie
 te behoren?
 
-
 Answerlist
 ----------
 

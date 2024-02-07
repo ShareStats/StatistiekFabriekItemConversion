@@ -9,7 +9,6 @@ We willen toetsen H~0~: μ(ochtend) = μ(middag) tegen H~1~: μ(ochtend) ≠
 μ(middag). De waarde van de toetsingsgrootheid (eventueel met
 minus-teken) is gelijk aan
 
-
 Answerlist
 ----------
 
