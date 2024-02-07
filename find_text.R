@@ -4,7 +4,7 @@ library("stringr")
 all.item.paths <- list.files(pattern     = ".Rmd", 
                              ignore.case = TRUE, 
                              recursive   = TRUE, 
-                             path        = "almost_def_all_items",
+                             path        = "SQRscripts/",
                              full.names  = TRUE)
 
 n = length(all.item.paths)
@@ -27,10 +27,12 @@ words = c("[:blank:]\\!\\[",           # 1
           "\\?D",                      # 15
           "\\&\\#",                    # 16 Find HTML character encoding
           "&#8746;",                   # 17
-          "^NA$"                        # 18
+          "^NA$",                        # 18
+          "exextra\\[Type\\]\\:[:blank:]$", # 19
+          "taxonomyError"                 # 20
           )
 
-word = 18
+word = 19
 
 find = words[word]
 find
@@ -39,6 +41,9 @@ stringi::stri_detect(str = text, regex = find)
 
 # Work in progress, using stringr to find [ 
 
+file = paste0("error-",word,".txt")
+# Turn of creating new file to continue appending after crash
+writeLines(paste("regex:", find), file)
 
 for (i in 1:n) {
   
@@ -52,7 +57,9 @@ for (i in 1:n) {
   
     line.nr = stringi::stri_detect(str = text, regex = find)
 
-    print(c(i, text[line.nr]) )
+    print(c(i, text[line.nr], all.item.paths[i]) )
+    
+    write(paste(i, text[line.nr], all.item.paths[i]), file, append = TRUE)
 
   }
   
