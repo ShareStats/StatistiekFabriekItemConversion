@@ -1,10 +1,10 @@
 Question
 ========
 
-Uit een populatie van astmapatiÃ«nten wordt een steekproef van 6
-personen getrokken en hun vitale longcapaciteit (in liter) wordt
-gemeten, met als uitkomsten: 2.47, 2.25, 2.65, 2.00, 3.41, 2.22. Deze
-variabele wordt gemeten op
+Uit een populatie van astmapatiënten wordt een steekproef van 6 personen
+getrokken en hun vitale longcapaciteit (in liter) wordt gemeten, met als
+uitkomsten: 2.47, 2.25, 2.65, 2.00, 3.41, 2.22. Deze variabele wordt
+gemeten op
 
 Answerlist
 ----------

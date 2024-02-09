@@ -37,7 +37,7 @@ exname: uva-mean-581-nl
 extype: schoice
 exsolution: 0100
 exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: -3.062

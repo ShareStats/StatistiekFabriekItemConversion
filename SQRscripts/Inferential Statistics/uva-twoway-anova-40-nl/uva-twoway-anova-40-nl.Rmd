@@ -31,7 +31,7 @@ exname: uva-twoway-anova-40-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.481

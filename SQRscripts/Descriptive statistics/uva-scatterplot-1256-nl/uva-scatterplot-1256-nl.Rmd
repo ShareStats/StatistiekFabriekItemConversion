@@ -35,7 +35,7 @@ exname: uva-scatterplot-1256-nl
 extype: schoice
 exsolution: 00010
 exsection: Descriptive statistics/Data representation/Graphs/Scatterplot
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.624

@@ -2,9 +2,8 @@ Question
 ========
 
 Bij een regressie-analyse met de variabelen y en x is de
-richtingscoÃ«fficiÃ«nt b = 1, dan moet gelden dat (i) de correlatie
-tussen y en x gelijk is aan r = 1 en (ii) het intercept gelijk is aan a
-= 0.
+richtingscoëfficiënt b = 1, dan moet gelden dat (i) de correlatie tussen
+y en x gelijk is aan r = 1 en (ii) het intercept gelijk is aan a = 0.
 
 Answerlist
 ----------

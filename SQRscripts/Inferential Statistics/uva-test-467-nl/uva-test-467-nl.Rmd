@@ -2,7 +2,7 @@ Question
 ========
 
 Van 10 verpleegkundigen is nagegaan hoe oud ze zijn en hoe lang ze als
-verpleegkundige werkzaam zijn. De Pearson CorrelatiecoÃ«fficiÃ«nt bleek
+verpleegkundige werkzaam zijn. De Pearson Correlatiecoëfficiënt bleek
 0.60 te zijn. Is deze correlatie significant (bij een α van 5%,
 tweezijdig)?
 
@@ -27,7 +27,7 @@ exname: uva-test-467-nl
 extype: schoice
 exsolution: 0010
 exsection: Inferential Statistics/Parametric Techniques/t-test
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.156

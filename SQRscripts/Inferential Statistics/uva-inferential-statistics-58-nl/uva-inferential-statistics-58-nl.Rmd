@@ -12,7 +12,7 @@ Answerlist
 ----------
 
 * alle slopes (β's) ongelijk aan 0 zijn.
-* er tenminste Ã©Ã©n slope (β) ongelijk aan 0 is.
+* er tenminste één slope (β) ongelijk aan 0 is.
 * alle slopes (β's) verschillend zijn.
 
 Solution
@@ -20,7 +20,7 @@ Solution
 
 Het correcte antwoord is: 
 
-* er tenminste Ã©Ã©n slope (β) ongelijk aan 0 is.
+* er tenminste één slope (β) ongelijk aan 0 is.
 
 Meta-information
 ================

@@ -19,17 +19,17 @@ staat op de lange termijn per lot? Kies uit onderstaande mogelijkheden.
 Answerlist
 ----------
 
-* â¬ 0,75
-* â¬ 1,25
-* â¬ 1,75
-* â¬ 1,95
+* € 0,75
+* € 1,25
+* € 1,75
+* € 1,95
 
 Solution
 ========
 
 Het correcte antwoord is: 
 
-* â¬ 1,75
+* € 1,75
 
 Meta-information
 ================
@@ -37,7 +37,7 @@ exname: uva-expected-value-739-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/Random variables/Expected value
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.205

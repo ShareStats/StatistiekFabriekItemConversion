@@ -27,7 +27,7 @@ exname: uva-addition-rule-762-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/General Rules/Addition rule
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.061

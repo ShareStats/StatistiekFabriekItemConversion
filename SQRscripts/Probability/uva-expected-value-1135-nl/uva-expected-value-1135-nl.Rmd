@@ -8,17 +8,17 @@ winnen of verliezen per gokje als hij het gokspel langere tijd speelt?
 Answerlist
 ----------
 
-* - â¬ 0,90 (verlies)
-* â¬ 2,30 (winst)
-* â¬ 10 (winst)
-* - â¬ 10 (verlies)
+* - € 0,90 (verlies)
+* € 2,30 (winst)
+* € 10 (winst)
+* - € 10 (verlies)
 
 Solution
 ========
 
 Het correcte antwoord is: 
 
-* â¬ 2,30 (winst)
+* € 2,30 (winst)
 
 Meta-information
 ================

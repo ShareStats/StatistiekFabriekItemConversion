@@ -36,7 +36,7 @@ exname: uva-conditional-probability-690-nl
 extype: schoice
 exsolution: 00010
 exsection: Probability/Elementary Probability/Conditional probability
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

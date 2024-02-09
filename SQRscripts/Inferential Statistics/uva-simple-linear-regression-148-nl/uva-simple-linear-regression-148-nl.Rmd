@@ -2,9 +2,8 @@ Question
 ========
 
 De kwantitatieve variabelen x en y hebben een standaardafwijking gelijk
-aan s~x~ = 2 en s~y~ = 4. De correlatiecoÃ«fficiÃ«nt heeft de waarde
-0,80. Dan is in de regressievergelijking y = a + bx de waarde van b
-gelijk aan
+aan s~x~ = 2 en s~y~ = 4. De correlatiecoëfficiënt heeft de waarde 0,80.
+Dan is in de regressievergelijking y = a + bx de waarde van b gelijk aan
 
 Answerlist
 ----------

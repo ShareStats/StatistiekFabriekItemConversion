@@ -1,7 +1,7 @@
 Question
 ========
 
-Van 5 verpleegkundigen is hun attitude vÃ³Ã³r en na een bepaalde
+Van 5 verpleegkundigen is hun attitude vóór en na een bepaalde
 interventie gemeten met als resultaat:\
 VOOR: 46, 38, 30, 42, 41\
 NA: 43, 43, 37, 39, 45.\

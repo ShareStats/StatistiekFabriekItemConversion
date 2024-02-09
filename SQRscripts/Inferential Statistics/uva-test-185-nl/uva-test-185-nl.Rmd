@@ -3,7 +3,7 @@ Question
 
 Bij de t-toets op het verschil tussen twee gemiddelden kan de standard
 error van het verschil tussen de gemiddelden op twee manieren worden
-geschat. EÃ©n van beide manieren gaat er van uit dat de populaties
+geschat. Eén van beide manieren gaat er van uit dat de populaties
 
 Answerlist
 ----------

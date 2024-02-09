@@ -5,7 +5,7 @@ include_supplement("uva-bar-graph-294-nl-graph01.png", recursive = TRUE)
 Question
 ========
 
-Op vier scholen worden de leerlingen in groepen 3, 4 en 5 in Ã©Ã©n van 3
+Op vier scholen worden de leerlingen in groepen 3, 4 en 5 in één van 3
 klassen ingedeeld voor wat betreft hun leesvaardigheid: normaal,
 leesproblemen, dyslexie. De aantallen leerlingen in iedere klasse staan
 in de volgende 4 staafdiagrammen weergegeven. Dyslexie komt relatief het

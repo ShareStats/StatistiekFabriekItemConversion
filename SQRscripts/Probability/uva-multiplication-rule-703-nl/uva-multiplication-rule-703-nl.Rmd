@@ -27,7 +27,7 @@ exname: uva-multiplication-rule-703-nl
 extype: schoice
 exsolution: 100
 exsection: Probability/Elementary Probability/General Rules/Multiplication rule
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.963

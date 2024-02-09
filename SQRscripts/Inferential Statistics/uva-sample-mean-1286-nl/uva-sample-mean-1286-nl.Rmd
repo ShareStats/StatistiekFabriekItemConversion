@@ -36,7 +36,7 @@ exname: uva-sample-mean-1286-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics/Sampling Distributions/Sample mean
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

@@ -27,7 +27,7 @@ exname: uva-null-hypothesis-516-nl
 extype: schoice
 exsolution: 0001
 exsection: Inferential Statistics/NHST/Hypothesis/Null hypothesis
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.99

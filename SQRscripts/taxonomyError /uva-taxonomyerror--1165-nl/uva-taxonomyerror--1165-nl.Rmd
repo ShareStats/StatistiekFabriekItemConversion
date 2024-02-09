@@ -9,17 +9,17 @@ daarvan?\
 Answerlist
 ----------
 
-* De verwachte totale winst is â¬ 0,6014 en de standaardafwijking is 4,040.
-* De verwachte totale winst is â¬ 1,804 en de standaardafwijking is 6,997.
-* De verwachte totale winst is â¬ 3 en de standaardafwijking is 6,997.
-* De verwachte totale winst is â¬ 1,804 en de standaardafwijking is 12,120.
+* De verwachte totale winst is € 0,6014 en de standaardafwijking is 4,040.
+* De verwachte totale winst is € 1,804 en de standaardafwijking is 6,997.
+* De verwachte totale winst is € 3 en de standaardafwijking is 6,997.
+* De verwachte totale winst is € 1,804 en de standaardafwijking is 12,120.
 
 Solution
 ========
 
 Het correcte antwoord is: 
 
-* De verwachte totale winst is â¬ 1,804 en de standaardafwijking is 6,997.
+* De verwachte totale winst is € 1,804 en de standaardafwijking is 6,997.
 
 Meta-information
 ================
@@ -27,7 +27,7 @@ exname: uva-taxonomyerror--1165-nl
 extype: schoice
 exsolution: 0100
 exsection: taxonomyError 
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

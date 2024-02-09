@@ -20,17 +20,17 @@ Wat is de standaardafwijking van de winst?
 Answerlist
 ----------
 
-* â¬ 10
-* â¬ 173
-* â¬ 990
-* â¬ 4990
+* € 10
+* € 173
+* € 990
+* € 4990
 
 Solution
 ========
 
 Het correcte antwoord is: 
 
-* â¬ 173
+* € 173
 
 Meta-information
 ================
@@ -38,7 +38,7 @@ exname: uva-variance-1095-nl
 extype: schoice
 exsolution: 0100
 exsection: Probability/Elementary Probability/Random variables/Variance
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.719

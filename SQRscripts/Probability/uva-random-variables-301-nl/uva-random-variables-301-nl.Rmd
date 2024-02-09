@@ -37,7 +37,7 @@ exname: uva-random-variables-301-nl
 extype: schoice
 exsolution: 0100
 exsection: Probability/Elementary Probability/Random variables
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.482

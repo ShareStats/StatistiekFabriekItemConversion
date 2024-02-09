@@ -13,7 +13,7 @@ voor, tegen of blanco.
   ---------------- ------ ------- --------
 
 Hoeveel procent van de *niet-blanco* stemmers in beide districten
-tezamen was vÃ³Ã³r de grondwet?
+tezamen was vóór de grondwet?
 
 Answerlist
 ----------
@@ -37,7 +37,7 @@ exname: uva-descriptive-statistics-284-nl
 extype: schoice
 exsolution: 00100
 exsection: Descriptive statistics
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.941

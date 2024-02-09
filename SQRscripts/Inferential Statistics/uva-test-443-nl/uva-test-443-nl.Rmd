@@ -2,7 +2,7 @@ Question
 ========
 
 In een steekproef van 17 personen is de Pearson product moment
-correlatiecoÃ«fficiÃ«nt berekend tussen systolische en diastolische
+correlatiecoëfficiënt berekend tussen systolische en diastolische
 bloeddruk, met als uitkomst de waarde 0.845. Het percentage variatie dat
 de twee variabelen *niet* gemeenschappelijk hebben is (in deze
 steekproef) gelijk aan

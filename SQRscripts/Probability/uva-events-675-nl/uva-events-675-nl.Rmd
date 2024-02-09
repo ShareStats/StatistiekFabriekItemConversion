@@ -14,7 +14,7 @@ Answerlist
 ----------
 
 * {x|x ≤ 2}
-* {x|2 ≤ x â¤ 4}
+* {x|2 ≤ x ≤ 4}
 * {x|x ≥ 2}
 * {x|x > 4}
 
@@ -31,7 +31,7 @@ exname: uva-events-675-nl
 extype: schoice
 exsolution: 0010
 exsection: Probability/Elementary Probability/Events
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.865

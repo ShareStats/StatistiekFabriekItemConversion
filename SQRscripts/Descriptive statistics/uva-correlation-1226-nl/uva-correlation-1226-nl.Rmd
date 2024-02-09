@@ -30,7 +30,7 @@ exname: uva-correlation-1226-nl
 extype: schoice
 exsolution: 0100
 exsection: Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.02

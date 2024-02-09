@@ -2,7 +2,7 @@ Question
 ========
 
 Een regressie-analyse op de scores x en y van 30 personen levert de
-regressievergelijking Å· = 10 + 6x op. De standard error van de slope b
+regressievergelijking ŷ = 10 + 6x op. De standard error van de slope b
 is gelijk aan 2. Dit betekent dat de nulhypothese dat x en y
 onafhankelijk zijn kan worden verworpen bij
 

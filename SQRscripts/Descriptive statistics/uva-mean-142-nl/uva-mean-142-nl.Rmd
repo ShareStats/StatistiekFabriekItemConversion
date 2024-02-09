@@ -8,7 +8,7 @@ Answerlist
 
 * groter wanneer de sample size groter wordt.
 * kleiner wanneer de sample size groter wordt.
-* niet beÃ¯nvloed door de sample size.
+* niet beïnvloed door de sample size.
 
 Solution
 ========

@@ -2,7 +2,7 @@ Question
 ========
 
 In een aselecte steekproef zijn bij acht personen de variabelen X en Y
-gemeten. De Spearman rangcorrelatie-coÃ«fficiÃ«nt r~S~ van X en Y is
+gemeten. De Spearman rangcorrelatie-coëfficiënt r~S~ van X en Y is
 -0.69. Toets tweezijdig met α = 5% de nulhypothese dat de werkelijke
 correlatie in de populatie 0 is. De juiste conclusie moet dan luiden:
 
@@ -27,7 +27,7 @@ exname: uva-test-606-nl
 extype: schoice
 exsolution: 0001
 exsection: Inferential Statistics/Parametric Techniques/t-test
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.027

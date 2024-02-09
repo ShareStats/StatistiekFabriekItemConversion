@@ -1,9 +1,9 @@
 Question
 ========
 
-Twee studenten gebruiken beide een toevalgenerator om een â€‹â€‹geheel
-getal te kiezen van 1 tot en met 7. Wat is dan de kans dat ze hetzelfde
-nummer uit de discrete uniforme distributie kiezen?
+Twee studenten gebruiken beide een toevalgenerator om een ​​geheel getal
+te kiezen van 1 tot en met 7. Wat is dan de kans dat ze hetzelfde nummer
+uit de discrete uniforme distributie kiezen?
 
 Answerlist
 ----------

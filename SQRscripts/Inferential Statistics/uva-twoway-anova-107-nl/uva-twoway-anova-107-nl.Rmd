@@ -5,11 +5,11 @@ include_supplement("uva-twoway-anova-107-nl-graph01.png", recursive = TRUE)
 Question
 ========
 
-Er is een idee dat iedereen een interne klok heeft die wordt beÃ¯nvloed
+Er is een idee dat iedereen een interne klok heeft die wordt beïnvloed
 door omstandigheden. Zo kun je bijvoorbeeld een emotionele gebeurtenis
 ervaren als een langdurige gebeurtenis, terwijl in werkelijkheid de
 gebeurtenis van korte duur was. In onderzoek naar wat deze interne klok
-dan beÃ¯nvloedt, wordt gekeken naar twee factoren: factor A:
+dan beïnvloedt, wordt gekeken naar twee factoren: factor A:
 emotionele/neutrale stimuli gepresenteerd, en factor B: iemand anders
 was in de kamer bij de proefpersoon/niemand anders was in de kamer bij
 de proefpersoon. Ze meten vervolgens zelfrapportage over de ervaren tijd

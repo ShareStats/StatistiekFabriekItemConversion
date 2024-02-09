@@ -27,7 +27,7 @@ exname: uva-normal-1379-nl
 extype: schoice
 exsolution: 0100
 exsection: Distributions/Continuous/Normal
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

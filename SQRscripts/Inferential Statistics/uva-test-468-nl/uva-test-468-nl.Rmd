@@ -2,8 +2,8 @@ Question
 ========
 
 In een steekproef van 15 middelbare scholieren is de
-correlatiecoÃ«fficiÃ«nt tussen het eindcijfer voor natuurkunde en
-biologie berekend, met als uitkomst r~S~ = 0.49. Voor de *twee*zijdige
+correlatiecoëfficiënt tussen het eindcijfer voor natuurkunde en biologie
+berekend, met als uitkomst r~S~ = 0.49. Voor de *twee*zijdige
 overschrijdingskans, bij het toetsen of er daadwerkelijk sprake is van
 correlatie, geldt:
 

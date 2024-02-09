@@ -7,7 +7,7 @@ Answerlist
 ----------
 
 * experimenteel onderzoek
-* inferentiÃ«le statistiek
+* inferentiële statistiek
 * regressie-analyse
 
 Solution
@@ -15,7 +15,7 @@ Solution
 
 Het correcte antwoord is: 
 
-* inferentiÃ«le statistiek
+* inferentiële statistiek
 
 Meta-information
 ================

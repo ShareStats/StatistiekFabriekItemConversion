@@ -11,9 +11,9 @@ Answerlist
 ----------
 
 * P(X = 70%)
-* P(X â¥ 30%)
-* P(X â¥ 70%)
-* P(X â¥ 14)
+* P(X ≥ 30%)
+* P(X ≥ 70%)
+* P(X ≥ 14)
 * P(X > 15)
 
 Solution
@@ -21,7 +21,7 @@ Solution
 
 Het correcte antwoord is: 
 
-* P(X â¥ 14)
+* P(X ≥ 14)
 
 Meta-information
 ================

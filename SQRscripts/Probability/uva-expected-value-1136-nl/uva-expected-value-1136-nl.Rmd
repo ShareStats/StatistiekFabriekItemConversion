@@ -9,17 +9,17 @@ winst of verlies per spelletje?
 Answerlist
 ----------
 
-* â¬ 0,00 (geen winst of verlies)
-* â¬ 1,00 (winst)
-* - â¬ 10,00 (verlies)
-* â¬ 100,00 (winst)
+* € 0,00 (geen winst of verlies)
+* € 1,00 (winst)
+* - € 10,00 (verlies)
+* € 100,00 (winst)
 
 Solution
 ========
 
 Het correcte antwoord is: 
 
-* â¬ 1,00 (winst)
+* € 1,00 (winst)
 
 Meta-information
 ================

@@ -8,8 +8,8 @@ Question
 Om te onderzoeken of er een relatie bestaat tussen de variabelen x en y
 wordt een regressie-analyse uitgevoerd. Voordat de analyse wordt
 uitgevoerd, wordt een aantal assumpties voor het toetsen op
-regressiecoÃ«fficiÃ«nten gecontroleerd. Als eerste worden de waarden van
-x en y in een grafiek uitgezet. Uit de grafiek lijkt waarschijnlijk de
+regressiecoëfficiënten gecontroleerd. Als eerste worden de waarden van x
+en y in een grafiek uitgezet. Uit de grafiek lijkt waarschijnlijk de
 assumptie van regressie geschonden die stelt dat
 
 ![](uva-simple-linear-regression-886-nl-graph01.png)

@@ -12,7 +12,7 @@ in de gevangenis gezeten. De score van iedere proefpersoon was het
 aantal vragen waarop \'ja\' was geantwoord. De gemiddelde score was 1,2
 met standaarddeviatie 1,5 voor jongeren met alleenstaande moeders, en
 een gemiddelde van 2,7 en standaarddeviatie 1,5 voor jongeren uit een
-gezin met beide biologische ouders. De onderzoekers zijn geÃ¯nteresseerd
+gezin met beide biologische ouders. De onderzoekers zijn geïnteresseerd
 in de vraag of het populatiegemiddelde van de jongeren van de
 alleenstaande moeders anders is dan dat van de jongeren met beide
 biologische ouders. De onderzoekers nemen aan dat de standaarddeviatie
@@ -40,7 +40,7 @@ exname: uva-independent-samples-means-172-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/Parametric Techniques/t-test/Independent samples means
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.99

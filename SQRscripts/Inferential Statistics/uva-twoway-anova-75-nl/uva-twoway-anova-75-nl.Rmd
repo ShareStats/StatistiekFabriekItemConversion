@@ -2,7 +2,7 @@ Question
 ========
 
 Gegeven is de volgende tabel met gemiddelden voor factor A met twee
-niveauâ€™s (A1 en A2) en B ook met twee niveauâ€™s (B1 en B2):
+niveau's (A1 en A2) en B ook met twee niveau's (B1 en B2):
 
   ---- ---- ----
        A1   A2

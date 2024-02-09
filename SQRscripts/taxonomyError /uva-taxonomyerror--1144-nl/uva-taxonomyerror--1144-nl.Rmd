@@ -9,7 +9,7 @@ Answerlist
 ----------
 
 * X is geen binomiale variabele.
-* X is een binomiale variabele, met n = 200 en p = Â½.
+* X is een binomiale variabele, met n = 200 en p = ½.
 * X is een binomiale variabele, met n = 200 en p = 1/200.
 * X is een binomiale variabele, met n =1/2 en p = 200.
 
@@ -18,7 +18,7 @@ Solution
 
 Het correcte antwoord is: 
 
-* X is een binomiale variabele, met n = 200 en p = Â½.
+* X is een binomiale variabele, met n = 200 en p = ½.
 
 Meta-information
 ================

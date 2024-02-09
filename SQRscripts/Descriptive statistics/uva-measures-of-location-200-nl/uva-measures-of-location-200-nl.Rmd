@@ -26,7 +26,7 @@ exname: uva-measures-of-location-200-nl
 extype: schoice
 exsolution: 010
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.319

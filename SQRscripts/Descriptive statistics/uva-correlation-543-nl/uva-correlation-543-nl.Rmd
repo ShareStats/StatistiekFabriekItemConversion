@@ -9,7 +9,7 @@ n = 8\
 ΣY = 48\
 ΣY^2^ = 300\
 ΣXY = 230\
-De Pearson correlatiecoÃ«fficiÃ«nt van X en Y is dan
+De Pearson correlatiecoëfficiënt van X en Y is dan
 
 Answerlist
 ----------

@@ -35,7 +35,7 @@ exname: uva-events-697-nl
 extype: schoice
 exsolution: 1000
 exsection: Probability/Elementary Probability/Events
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.407

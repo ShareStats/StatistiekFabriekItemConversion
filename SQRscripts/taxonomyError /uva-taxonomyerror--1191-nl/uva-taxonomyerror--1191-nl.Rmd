@@ -29,7 +29,7 @@ exname: uva-taxonomyerror--1191-nl
 extype: schoice
 exsolution: 00010
 exsection: taxonomyError 
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

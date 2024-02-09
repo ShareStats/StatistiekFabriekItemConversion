@@ -2,7 +2,7 @@ Question
 ========
 
 In een onderzoek naar het effect van voorlichting op angstgevoelens bij
-patiÃ«nten die een onaangename operatie moeten ondergaan, is bij 10
+patiënten die een onaangename operatie moeten ondergaan, is bij 10
 mannen die de standaard voorlichting kregen daarna de angst gemeten via
 een VAS-score, alsmede bij 6 mannen na uitgebreide voorlichting.\
 Standaard: n = 10, gemiddelde = 35.10, standaardafwijking = 29.39\

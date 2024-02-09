@@ -8,17 +8,17 @@ bedrag voor één persoon?
 Answerlist
 ----------
 
-* â¬ 0,45
-* â¬ 2,00
-* â¬ 2,45
-* â¬ 4,45
+* € 0,45
+* € 2,00
+* € 2,45
+* € 4,45
 
 Solution
 ========
 
 Het correcte antwoord is: 
 
-* â¬ 2,00
+* € 2,00
 
 Meta-information
 ================
@@ -26,7 +26,7 @@ exname: uva-expected-value-1273-nl
 extype: schoice
 exsolution: 0100
 exsection: Probability/Elementary Probability/Random variables/Expected value
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.421

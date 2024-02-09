@@ -10,7 +10,7 @@ Answerlist
 
 * als voor de gebeurtenissen A en B geldt: P(A|B)=P(A)
 * bij een loterij met trekking zonder teruglegging
-* de kans van de ene gebeurtenis niet beÃ¯nvloed wordt door de andere gebeurtenis
+* de kans van de ene gebeurtenis niet beïnvloed wordt door de andere gebeurtenis
 
 Solution
 ========

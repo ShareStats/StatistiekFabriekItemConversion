@@ -1,8 +1,8 @@
 Question
 ========
 
-Wanneer elke waarneming van een variabele behoort tot Ã©Ã©n bepaalde
-categorie van een verzameling categorieÃ«n, is de variabele (a) continu
+Wanneer elke waarneming van een variabele behoort tot één bepaalde
+categorie van een verzameling categorieën, is de variabele (a) continu
 en (b) kwantitatief.
 
 Answerlist

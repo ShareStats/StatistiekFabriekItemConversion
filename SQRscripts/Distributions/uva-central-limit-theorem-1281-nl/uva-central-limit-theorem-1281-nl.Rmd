@@ -29,7 +29,7 @@ exname: uva-central-limit-theorem-1281-nl
 extype: schoice
 exsolution: 0001
 exsection: Distributions/Limit Theorems/Central Limit Theorem
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.952

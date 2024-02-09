@@ -10,17 +10,17 @@ winst en de standaardafwijking daarvan?\
 Answerlist
 ----------
 
-* ÂµX+Y = 0,60; ÏX+Y = 1,07
-* ÂµX+Y = 1,35; ÏX+Y = 1,07
-* ÂµX+Y = 0,75; ÏX+Y = 1,07
-* ÂµX+Y = 1,35; ÏX+Y = 0,53
+* µX+Y = 0,60; σX+Y = 1,07
+* µX+Y = 1,35; σX+Y = 1,07
+* µX+Y = 0,75; σX+Y = 1,07
+* µX+Y = 1,35; σX+Y = 0,53
 
 Solution
 ========
 
 Het correcte antwoord is: 
 
-* ÂµX+Y = 1,35; ÏX+Y = 1,07
+* µX+Y = 1,35; σX+Y = 1,07
 
 Meta-information
 ================
@@ -28,7 +28,7 @@ exname: uva-taxonomyerror--1170-nl
 extype: schoice
 exsolution: 0100
 exsection: taxonomyError 
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

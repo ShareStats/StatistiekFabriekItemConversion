@@ -8,17 +8,17 @@ Je verkoopt inboedelverzekeringen. Als er wordt ingebroken moet er €
 Answerlist
 ----------
 
-* Minder dan â¬ 134,50
-* Meer dan â¬ 134,50
-* Minder dan â¬ 5000
-* Meer dan â¬ 5000
+* Minder dan € 134,50
+* Meer dan € 134,50
+* Minder dan € 5000
+* Meer dan € 5000
 
 Solution
 ========
 
 Het correcte antwoord is: 
 
-* Meer dan â¬ 134,50
+* Meer dan € 134,50
 
 Meta-information
 ================
@@ -26,7 +26,7 @@ exname: uva-taxonomyerror--1167-nl
 extype: schoice
 exsolution: 0100
 exsection: taxonomyError 
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 0.44

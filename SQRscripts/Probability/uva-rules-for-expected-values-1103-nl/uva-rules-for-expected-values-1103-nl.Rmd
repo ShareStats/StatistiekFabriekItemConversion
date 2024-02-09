@@ -31,7 +31,7 @@ exname: uva-rules-for-expected-values-1103-nl
 extype: schoice
 exsolution: 0001
 exsection: Probability/Elementary Probability/Random variables/Rules for expected values
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

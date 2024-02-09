@@ -12,7 +12,7 @@ Answerlist
 * N(0,1), de standaardnormale verdeling
 * T[n], de T-verdeling met n vrijheidsgraden
 * T[n-1], de T-verdeling met n-1 vrijheidsgraden
-* N(μ,σÂ²), de normale verdeling met gemiddelde μ en variantie σÂ²
+* N(μ,σ²), de normale verdeling met gemiddelde μ en variantie σ²
 
 Solution
 ========

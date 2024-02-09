@@ -11,18 +11,18 @@ zich slaperig voelen is te schrijven als:
 Answerlist
 ----------
 
-* P(X â¥ 0,20).
-* P(X â¥ 0,22).
-* P(X â¤ 0,22).
-* P(X â¥ 110).
-* P(110 â¤ X â¤ 550).
+* P(X ≥ 0,20).
+* P(X ≥ 0,22).
+* P(X ≤ 0,22).
+* P(X ≥ 110).
+* P(110 ≤ X ≤ 550).
 
 Solution
 ========
 
 Het correcte antwoord is: 
 
-* P(X â¥ 110).
+* P(X ≥ 110).
 
 Meta-information
 ================

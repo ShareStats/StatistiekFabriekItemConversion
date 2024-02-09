@@ -3,11 +3,11 @@ Question
 
 ANOVA is een multipele regressie met een kwantitatieve afhankelijke
 variabele en categorische (indicator) variabelen. De nulhypothese van
-een Ã©Ã©n-weg (Ã©Ã©n factor) ANOVAmet drie niveaus is dat de gemiddelden
-van alle drie de groepen (populaties) gelijk zijn. In de multipele
-regressie representeert de nulhypothese dat het vlak door de
-gemiddlelden van de drie groepen horizontaal is. De nulhypothese van de
-multipele regressie die equivalent is aan die van ANOVA is
+een één-weg (één factor) ANOVAmet drie niveaus is dat de gemiddelden van
+alle drie de groepen (populaties) gelijk zijn. In de multipele regressie
+representeert de nulhypothese dat het vlak door de gemiddlelden van de
+drie groepen horizontaal is. De nulhypothese van de multipele regressie
+die equivalent is aan die van ANOVA is
 
 Answerlist
 ----------

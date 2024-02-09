@@ -5,11 +5,11 @@ include_supplement("uva-test-329-nl-graph01.png", recursive = TRUE)
 Question
 ========
 
-Een onderzoekster is geÃ¯nteresseerd in de correlatie tussen twee
-normaal verdeelde variabelen X en Y en trekt daartoe een aselecte
-steekproef van 20 personen uit haar doelpopulatie. Hieruit berekent zij
-de onderstaande grootheden. Wanneer we willen toetsen H~0~: ρ~P~ = 0 met
-een tweezijdig risico van 5%, dan zal de kritieke waarde gelijk zijn aan
+Een onderzoekster is geïnteresseerd in de correlatie tussen twee normaal
+verdeelde variabelen X en Y en trekt daartoe een aselecte steekproef van
+20 personen uit haar doelpopulatie. Hieruit berekent zij de onderstaande
+grootheden. Wanneer we willen toetsen H~0~: ρ~P~ = 0 met een tweezijdig
+risico van 5%, dan zal de kritieke waarde gelijk zijn aan
 
 ![](uva-test-329-nl-graph01.png)
 

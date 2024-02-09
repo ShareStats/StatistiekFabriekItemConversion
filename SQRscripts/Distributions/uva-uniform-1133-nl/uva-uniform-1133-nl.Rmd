@@ -31,7 +31,7 @@ exname: uva-uniform-1133-nl
 extype: schoice
 exsolution: 00001
 exsection: Distributions/Continuous/Uniform
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

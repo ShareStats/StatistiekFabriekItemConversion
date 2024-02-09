@@ -8,17 +8,17 @@ loten, wat is dan je verwachte winst?
 Answerlist
 ----------
 
-* â¬ 150
-* â¬ 10
-* â¬ 9
-* - â¬ 6
+* € 150
+* € 10
+* € 9
+* - € 6
 
 Solution
 ========
 
 Het correcte antwoord is: 
 
-* - â¬ 6
+* - € 6
 
 Meta-information
 ================
@@ -26,7 +26,7 @@ exname: uva-taxonomyerror--1175-nl
 extype: schoice
 exsolution: 0001
 exsection: taxonomyError 
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.176

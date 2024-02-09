@@ -5,10 +5,10 @@ include_supplement("uva-one-sample-mean-391-nl-graph01.png", recursive = TRUE)
 Question
 ========
 
-Hieronder staat uitvoer van een Ã©Ã©n-steekproef T-toets. We willen
-H~0~:μ = 75 toetsen met α = 5% tweezijdig. Wanneer we bij toetsing
-gebruik hadden willen maken van een kritiek gebied, dan was de rechter
-kritieke waarde gelijk geweest aan
+Hieronder staat uitvoer van een één-steekproef T-toets. We willen H~0~:μ
+= 75 toetsen met α = 5% tweezijdig. Wanneer we bij toetsing gebruik
+hadden willen maken van een kritiek gebied, dan was de rechter kritieke
+waarde gelijk geweest aan
 
 ![](uva-one-sample-mean-391-nl-graph01.png)
 

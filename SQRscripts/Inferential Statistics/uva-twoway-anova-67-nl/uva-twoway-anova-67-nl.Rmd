@@ -1,7 +1,7 @@
 Question
 ========
 
-In de tabel staat het resultaat van een ANOVA met Ã©Ã©n factor
+In de tabel staat het resultaat van een ANOVA met één factor
 
   -------- ---- ----- ---- ---
   Source   df   SS    MS   F

@@ -12,7 +12,7 @@ Answerlist
 
 * μ1 = μ2
 * s12 = s22
-* Â¯X1 = Â¯X2
+* ¯X1 = ¯X2
 * σ12 = σ22
 
 Solution

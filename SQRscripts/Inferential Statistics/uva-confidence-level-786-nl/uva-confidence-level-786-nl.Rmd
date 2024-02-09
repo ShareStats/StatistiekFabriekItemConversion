@@ -17,11 +17,10 @@ onderstaande tabel.
   3           80     74
   ----------- ------ ----
 
-Het gemiddelde van de verschilscores (voor â€" na) is
-\(\bar{x}_{d}\) = 5 en de standaarddeviatie van de verschilscores
-S~d~ = 0.82. Bereken het 95% betrouwbaarheidsinterval voor het verschil
-tussen de populatiegemiddelden van de deelnemers voor en na gebruik van
-Koburol.\
+Het gemiddelde van de verschilscores (voor -- na) is \(\bar{x}_{d}\)
+= 5 en de standaarddeviatie van de verschilscores S~d~ = 0.82. Bereken
+het 95% betrouwbaarheidsinterval voor het verschil tussen de
+populatiegemiddelden van de deelnemers voor en na gebruik van Koburol.\
 \
 Het 95% betrouwbaarheidsinterval voor het verschil tussen de
 populatiegemiddelden is

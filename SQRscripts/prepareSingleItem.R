@@ -22,7 +22,7 @@ file = "log.txt"
 # writeLines("Items created", file)
 
 # Pick up after crash or other error. Check log.txt to see where left of.
-start.at = 1685
+start.at = 736
 item.ids[start.at, 'id']
 
 for ( i in start.at:number.of.items.in.itembank) {
@@ -214,6 +214,11 @@ if(item.type == "OpenString") {
 
 # combine multiple type tags. If no tags specified, than type sting is empty
 type = stringr::str_c(unique(type), collapse = ", ")
+
+# If no prior type is set, then default to conseptual
+if ( type == "" ) {
+  type = "Conceptual"
+}
 
 ##### Clean up question stem and answer options
 

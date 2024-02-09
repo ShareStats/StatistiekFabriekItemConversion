@@ -1,7 +1,7 @@
 Question
 ========
 
-In een Amerikaans onderzoek is de temperatuur van een aantal patiÃ«nten
+In een Amerikaans onderzoek is de temperatuur van een aantal patiënten
 gemeten in graden Fahrenheit. De standaarddeviatie wordt gemeld als een
 bepaalde waarde *s*. We drukken de waarden uit in graden Celsius, door
 van alle waarden 32 af te trekken en het resultaat te vermenigvuldigen
@@ -12,16 +12,16 @@ Answerlist
 ----------
 
 * Blijft gelijk aan s
-* Wordt 5/9 Ã s + 32
-* Wordt 5/9 Ã s
-* Wordt 25/81 Ã s
+* Wordt 5/9 × s + 32
+* Wordt 5/9 × s
+* Wordt 25/81 × s
 
 Solution
 ========
 
 Het correcte antwoord is: 
 
-* Wordt 5/9 Ã s
+* Wordt 5/9 × s
 
 Meta-information
 ================

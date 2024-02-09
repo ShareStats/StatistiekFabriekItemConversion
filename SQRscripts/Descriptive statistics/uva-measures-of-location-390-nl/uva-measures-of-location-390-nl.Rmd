@@ -5,9 +5,9 @@ include_supplement("uva-measures-of-location-390-nl-graph01.png", recursive = TR
 Question
 ========
 
-Hieronder staat uitvoer van een Ã©Ã©n-steekproef T-toets. We willen
-H~0~:μ = 75 toetsen met α = 5% tweezijdig. Het 95%
-betrouwbaarheidsinterval voor μ is gelijk aan
+Hieronder staat uitvoer van een één-steekproef T-toets. We willen H~0~:μ
+= 75 toetsen met α = 5% tweezijdig. Het 95% betrouwbaarheidsinterval
+voor μ is gelijk aan
 
 ![](uva-measures-of-location-390-nl-graph01.png)
 
@@ -32,7 +32,7 @@ exname: uva-measures-of-location-390-nl
 extype: schoice
 exsolution: 0100
 exsection: Descriptive statistics/Summary Statistics/Measures of Location
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.824

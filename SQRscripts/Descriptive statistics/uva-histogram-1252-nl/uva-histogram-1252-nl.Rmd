@@ -33,7 +33,7 @@ exname: uva-histogram-1252-nl
 extype: schoice
 exsolution: 00100
 exsection: Descriptive statistics/Data representation/Graphs/Histogram
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.862

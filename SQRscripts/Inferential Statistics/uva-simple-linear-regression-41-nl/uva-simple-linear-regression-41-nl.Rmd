@@ -8,7 +8,7 @@ Question
 Voor het vaststellen van een relatie tussen de continue variabelen *x*
 en *y* wordt een regressie-analyse uitgevoerd. Alvorens de resultaten te
 interpreteren, wordt een aantal assumpties voor het toetsen op de
-regressiecoÃ«fficiÃ«nten gecontroleerd. Als eerste indicatie worden de
+regressiecoëfficiënten gecontroleerd. Als eerste indicatie worden de
 waarden van *x* en *y* in een grafiek uitgezet. Uit de grafiek blijkt
 dat de assumptie van regressie geschonden is die stelt
 

@@ -9,17 +9,17 @@ platteland wonen is te schrijven als:
 Answerlist
 ----------
 
-* P(z â¥ 1,54)
-* P(z â¤ - 1,54)
-* 1 - P(z â¥ 1,54)
-* 1 - P(z â¤ - 1,54)
+* P(z ≥ 1,54)
+* P(z ≤ - 1,54)
+* 1 - P(z ≥ 1,54)
+* 1 - P(z ≤ - 1,54)
 
 Solution
 ========
 
 Het correcte antwoord is: 
 
-* 1 - P(z â¤ - 1,54)
+* 1 - P(z ≤ - 1,54)
 
 Meta-information
 ================
@@ -27,7 +27,7 @@ exname: uva-normal-1354-nl
 extype: schoice
 exsolution: 0001
 exsection: Distributions/Continuous/Normal
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

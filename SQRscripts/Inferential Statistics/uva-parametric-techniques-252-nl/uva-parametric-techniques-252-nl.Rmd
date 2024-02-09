@@ -1,10 +1,10 @@
 Question
 ========
 
-Een onderzoekster veronderstelt dat studenten vlak vÃ³Ã³r een tentamen
-een hogere hartslag hebben dan erna. Bij 12 studenten wordt de hartslag
-vlak voor en een uur na het tentamen gemeten. Bij Ã©Ã©n student is de
-hartslag hetzelfde, bij negen is ze afgenomen en bij twee toegenomen. De
+Een onderzoekster veronderstelt dat studenten vlak vóór een tentamen een
+hogere hartslag hebben dan erna. Bij 12 studenten wordt de hartslag vlak
+voor en een uur na het tentamen gemeten. Bij één student is de hartslag
+hetzelfde, bij negen is ze afgenomen en bij twee toegenomen. De
 nulhypothese dat het tentamen **geen** invloed heeft gehad op de
 hartslag kan worden verworpen bij
 
@@ -28,7 +28,7 @@ exname: uva-parametric-techniques-252-nl
 extype: schoice
 exsolution: 010
 exsection: Inferential Statistics/Non-parametric Techniques
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.811

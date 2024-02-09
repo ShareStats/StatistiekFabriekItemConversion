@@ -27,7 +27,7 @@ exname: uva-test-576-nl
 extype: schoice
 exsolution: 0001
 exsection: Inferential Statistics/Parametric Techniques/t-test
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.239

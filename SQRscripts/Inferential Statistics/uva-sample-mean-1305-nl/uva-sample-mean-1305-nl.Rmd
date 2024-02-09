@@ -9,18 +9,18 @@ samenwoont is te schrijven als:
 Answerlist
 ----------
 
-* P (Xâ¥1/5).
-* P (Xâ¤ 500).
-* P (Xâ¥500).
-* P (Xâ¤ 2000).
-* P (Xâ¤ 2500).
+* P (X≥1/5).
+* P (X≤ 500).
+* P (X≥500).
+* P (X≤ 2000).
+* P (X≤ 2500).
 
 Solution
 ========
 
 Het correcte antwoord is: 
 
-* P (Xâ¥500).
+* P (X≥500).
 
 Meta-information
 ================

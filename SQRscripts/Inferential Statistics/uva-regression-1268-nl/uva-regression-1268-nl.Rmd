@@ -17,10 +17,10 @@ De waarde 65 uit de regressievergelijking wordt genoemd:
 Answerlist
 ----------
 
-* regressiecoÃ«fficiÃ«nt
-* determinatiecoÃ«fficiÃ«nt
+* regressiecoëfficiënt
+* determinatiecoëfficiënt
 * intercept of asafsnede
-* correlatiecoÃ«fficiÃ«nt
+* correlatiecoëfficiënt
 
 Solution
 ========

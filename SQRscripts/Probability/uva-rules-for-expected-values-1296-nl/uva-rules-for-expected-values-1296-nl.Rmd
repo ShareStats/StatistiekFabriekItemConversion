@@ -3,8 +3,8 @@ Question
 
 Een commissie van drie studenten dient te worden gevormd uit zes
 junioren en vijf senioren. Als drie namen willekeurig worden getrokken,
-wat is dan de kans dat de commissie zal bestaan â€‹â€‹uit allemaal
-junioren of allemaal senioren?
+wat is dan de kans dat de commissie zal bestaan ​​uit allemaal junioren of
+allemaal senioren?
 
 Answerlist
 ----------

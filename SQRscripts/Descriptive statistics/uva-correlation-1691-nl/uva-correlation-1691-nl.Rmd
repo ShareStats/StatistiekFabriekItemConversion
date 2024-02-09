@@ -5,7 +5,7 @@ Hieronder is van 5 individuen aangegeven hoe zij t.o.v. elkaar
 gerangschikt zijn op autoritair gedrag en sociale status:\
 Autoritair gedrag: 1, 5, 2, 4, 3\
 Sociale status: 1, 4, 2, 5, 3. De waarde van de Spearman
-correlatiecoÃ«fficiÃ«nt is hier
+correlatiecoëfficiënt is hier
 
 Answerlist
 ----------

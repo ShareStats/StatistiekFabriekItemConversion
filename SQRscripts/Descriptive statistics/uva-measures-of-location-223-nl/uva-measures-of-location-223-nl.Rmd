@@ -2,10 +2,9 @@ Question
 ========
 
 Men berekent twee maal een 95% betrouwbaarheidsinterval voor de
-populatieproportie p, Ã©Ã©nmaal gebaseerd op een steekproef van 50
-waarnemingen (interval A) en Ã©Ã©nmaal gebaseerd op een steekproef van
-200 waarnemingen (interval B). In vergelijking met interval A is
-interval B
+populatieproportie p, éénmaal gebaseerd op een steekproef van 50
+waarnemingen (interval A) en éénmaal gebaseerd op een steekproef van 200
+waarnemingen (interval B). In vergelijking met interval A is interval B
 
 Answerlist
 ----------

@@ -1,7 +1,7 @@
 Question
 ========
 
-We meten Ã©Ã©n groep patiÃ«nten voor en na een bepaalde ingreep. Om te
+We meten één groep patiënten voor en na een bepaalde ingreep. Om te
 toetsen of de populatiegemiddelden voor en na de ingreep gelijk zijn aan
 elkaar gebruiken we een
 

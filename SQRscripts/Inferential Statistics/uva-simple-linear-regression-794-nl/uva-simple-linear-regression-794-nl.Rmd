@@ -6,7 +6,7 @@ Question
 ========
 
 Om te onderzoeken of er een relatie bestaat tussen *x* en *y*, wordt een
-regressieanalyse uitgevoerd. De richtingscoÃ«fficiÃ«nt wordt getoetst en
+regressieanalyse uitgevoerd. De richtingscoëfficiënt wordt getoetst en
 blijkt significant. De waarden voor *x* en *y* zijn uitgezet in de
 onderstaande grafiek. Uit de grafiek blijkt dat waarschijnlijk een
 assumptie geschonden is. Het gaat om de assumptie die stelt dat

@@ -26,7 +26,7 @@ exname: uva-expected-value-744-nl
 extype: schoice
 exsolution: 0001
 exsection: Probability/Elementary Probability/Random variables/Expected value
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 1.557

@@ -1,7 +1,7 @@
 Question
 ========
 
-De variabele \"Ernst van migraine\" wordt gemeten door patiÃ«nten te
+De variabele \"Ernst van migraine\" wordt gemeten door patiënten te
 laten bijhouden hoeveel migraine aanvallen ze per week hebben. Dit is
 een voorbeeld van een
 

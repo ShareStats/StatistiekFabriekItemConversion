@@ -2,7 +2,7 @@ Question
 ========
 
 We veronderstellen van een variabele in een bepaalde populatie dat hij
-normaal verdeeld is volgens N(μ,σ^Â²^). Om H~0~: μ = 30 te toetsen,
+normaal verdeeld is volgens N(μ,σ^²^). Om H~0~: μ = 30 te toetsen,
 trekken we een steekproef (n = 9) uit de populatie met als resultaat:
 gemiddelde = 28 en standaarddeviatie = 3.6. De waarde van de
 toetsingsgrootheid T is dan

@@ -2,8 +2,8 @@ Question
 ========
 
 Bij een ANOVA kan het verschil in gemiddelden worden beschreven in
-termen van regressie. Stel dat een Ã©Ã©nweg ANOVA (Ã©Ã©n factor) met
-drie groepen wordt omgezet in een regressie met de volgende codering:
+termen van regressie. Stel dat een éénweg ANOVA (één factor) met drie
+groepen wordt omgezet in een regressie met de volgende codering:
 
   ------- -------- -------- --------------------- -------------------
   groep   *x*~1~   *x*~2~   gemiddelden           interpretatie *β*
@@ -13,7 +13,7 @@ drie groepen wordt omgezet in een regressie met de volgende codering:
   ------- -------- -------- --------------------- -------------------
 
 De interpretatie van *β*~3~ is duidelijk, dat is α. De interpretatie van
-de andere twee coÃ«fficiÃ«nten is als volgt:
+de andere twee coëfficiënten is als volgt:
 
 Answerlist
 ----------

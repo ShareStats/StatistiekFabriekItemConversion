@@ -28,7 +28,7 @@ exname: uva-one-sample-mean-538-nl
 extype: schoice
 exsolution: 0001
 exsection: Inferential Statistics/Parametric Techniques/t-test/One sample mean
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.012

@@ -7,17 +7,17 @@ gebeurtenis?
 Answerlist
 ----------
 
-* S = {Ã©Ã©n meisje, Ã©Ã©n jongen}
-* S = {Ã©Ã©n meisje en Ã©Ã©n jongen}
-* S = {Ã©Ã©n jongen}
-* S = {Ã©Ã©n meisje}
+* S = {één meisje, één jongen}
+* S = {één meisje en één jongen}
+* S = {één jongen}
+* S = {één meisje}
 
 Solution
 ========
 
 Het correcte antwoord is: 
 
-* S = {Ã©Ã©n meisje, Ã©Ã©n jongen}
+* S = {één meisje, één jongen}
 
 Meta-information
 ================

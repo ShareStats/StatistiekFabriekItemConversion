@@ -38,7 +38,7 @@ exname: uva-binomial-758-nl
 extype: schoice
 exsolution: 1000
 exsection: Distributions/Discrete/Binomial
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2

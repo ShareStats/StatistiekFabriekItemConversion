@@ -8,18 +8,18 @@ bedrag voor één persoon?
 Answerlist
 ----------
 
-* â¬ 0,50
-* â¬ 1,50
-* â¬ 2,25
-* â¬ 2,50
-* â¬ 4,50
+* € 0,50
+* € 1,50
+* € 2,25
+* € 2,50
+* € 4,50
 
 Solution
 ========
 
 Het correcte antwoord is: 
 
-* â¬ 1,50
+* € 1,50
 
 Meta-information
 ================
@@ -27,7 +27,7 @@ exname: uva-expected-value-1271-nl
 extype: schoice
 exsolution: 01000
 exsection: Probability/Elementary Probability/Random variables/Expected value
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.775

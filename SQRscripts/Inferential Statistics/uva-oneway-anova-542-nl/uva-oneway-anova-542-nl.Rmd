@@ -36,7 +36,7 @@ exname: uva-oneway-anova-542-nl
 extype: schoice
 exsolution: 1000
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.381

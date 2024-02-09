@@ -1,11 +1,10 @@
 Question
 ========
 
-In een klas zitten 50 studenten. De docent kiest elke keer aselect Ã©Ã©n
-student om Ã©Ã©n vraag te beantwoorden en daarna legt de docent de
-gekozen naam niet terug. Er zijn in totaal drie vragen. Wat is dan de
-kans dat Marja opgeroepen wordt om Ã©Ã©n van de drie vragen te
-beantwoorden?
+In een klas zitten 50 studenten. De docent kiest elke keer aselect één
+student om één vraag te beantwoorden en daarna legt de docent de gekozen
+naam niet terug. Er zijn in totaal drie vragen. Wat is dan de kans dat
+Marja opgeroepen wordt om één van de drie vragen te beantwoorden?
 
 Solution
 ========

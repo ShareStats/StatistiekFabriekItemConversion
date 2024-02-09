@@ -11,7 +11,7 @@ de regressie weer te geven in een figuur, wordt voor een aantal waarden
 van *x*~2~ de regressie met alleen x1 steeds opnieuw uitgerekend en in
 de figuur gezet. In deze figuur staan twee van die aparte
 regressielijnen met de waarden voor *x*~2~ van 2 en 5: Welke assumptie
-van multipele regressie voor het toetsen op coÃ«fficiÃ«nten wordt hier
+van multipele regressie voor het toetsen op coëfficiënten wordt hier
 waarschijnlijk geschonden?
 
 ![](uva-intercept-124-nl-graph01.png)
@@ -20,7 +20,7 @@ Answerlist
 ----------
 
 * Er is een lineaire relatie tussen y en ieder van de onafhankelijke variabelen.
-* De richtingscoÃ«fficiÃ«nt is hetzelfde voor alle combinaties van andere onafhankelijke variabelen.
+* De richtingscoëfficiënt is hetzelfde voor alle combinaties van andere onafhankelijke variabelen.
 * De populatie standaarddeviatie is hetzelfde voor alle combinaties van onafhankelijke variabelen.
 
 Solution
@@ -28,7 +28,7 @@ Solution
 
 Het correcte antwoord is: 
 
-* De richtingscoÃ«fficiÃ«nt is hetzelfde voor alle combinaties van andere onafhankelijke variabelen.
+* De richtingscoëfficiënt is hetzelfde voor alle combinaties van andere onafhankelijke variabelen.
 
 Meta-information
 ================

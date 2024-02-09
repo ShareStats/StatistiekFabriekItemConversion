@@ -31,7 +31,7 @@ exname: uva-two-sided-hypothesis-93-nl
 extype: schoice
 exsolution: 100
 exsection: Inferential Statistics/NHST/Hypothesis/Two sided hypothesis
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 4.276

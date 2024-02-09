@@ -8,17 +8,17 @@ loten, wat is dan de standaardafwijking van je winst?
 Answerlist
 ----------
 
-* â¬ 10
-* â¬ 9
-* â¬ 9,20
-* -â¬ 6
+* € 10
+* € 9
+* € 9,20
+* -€ 6
 
 Solution
 ========
 
 Het correcte antwoord is: 
 
-* â¬ 9,20
+* € 9,20
 
 Meta-information
 ================
@@ -26,7 +26,7 @@ exname: uva-taxonomyerror--1176-nl
 extype: schoice
 exsolution: 0010
 exsection: taxonomyError 
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 3.014

@@ -9,18 +9,18 @@ samenwoont is te schrijven als:
 Answerlist
 ----------
 
-* P (Xâ¥1/4)
-* P (Xâ¤ 250)
-* P (Xâ¥250)
-* P (Xâ¤ 750)
-* P (Xâ¤ 1000)
+* P (X≥1/4)
+* P (X≤ 250)
+* P (X≥250)
+* P (X≤ 750)
+* P (X≤ 1000)
 
 Solution
 ========
 
 Het correcte antwoord is: 
 
-* P (Xâ¥250)
+* P (X≥250)
 
 Meta-information
 ================

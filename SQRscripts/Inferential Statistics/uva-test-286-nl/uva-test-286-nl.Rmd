@@ -2,13 +2,13 @@ Question
 ========
 
 Bij 10 personen zijn systolische en diastolische bloeddruk gemeten.
-Hiermee zijn een Pearson en een Spearman correlatiecoÃ«fficiÃ«nt
-berekend. Beide bleken gelijk te zijn aan 0.65. Voor beide wordt de
-nulhypothese getoetst dat de populatie-correlatiecoÃ«fficiÃ«nt gelijk is
-aan 0, tegen het tweezijdig alternatief, met een risico van α = 0.05.
-Welke van beide volgende uitspraken zijn waar?\
-1: De Pearson correlatiecoÃ«fficiÃ«nt ρ~P~ wijkt significant af van 0.\
-2: De Spearman rangcorrelatiecoÃ«fficiÃ«nt ρ~S~ wijkt significant af van
+Hiermee zijn een Pearson en een Spearman correlatiecoëfficiënt berekend.
+Beide bleken gelijk te zijn aan 0.65. Voor beide wordt de nulhypothese
+getoetst dat de populatie-correlatiecoëfficiënt gelijk is aan 0, tegen
+het tweezijdig alternatief, met een risico van α = 0.05. Welke van beide
+volgende uitspraken zijn waar?\
+1: De Pearson correlatiecoëfficiënt ρ~P~ wijkt significant af van 0.\
+2: De Spearman rangcorrelatiecoëfficiënt ρ~S~ wijkt significant af van
 0.
 
 Answerlist

@@ -1,7 +1,7 @@
 Question
 ========
 
-Bij het bedrijf Tata Steel is onderzoek gedaan naar de efficiÃ«ntie van
+Bij het bedrijf Tata Steel is onderzoek gedaan naar de efficiëntie van
 het productieproces op het gebied van het maken van mallen. Uit het
 onderzoek is gebleken dat de tijd die nodig is om een blauwdruk (stap 1)
 te maken van een mal op de lange termijn varieert met een verwachting
@@ -40,7 +40,7 @@ exname: uva-expected-value-743-nl
 extype: schoice
 exsolution: 0001
 exsection: Probability/Elementary Probability/Random variables/Expected value
-exextra[Type]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2.434

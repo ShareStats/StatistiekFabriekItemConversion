@@ -17,17 +17,17 @@ De waarde 0.64 uit de regressievergelijking wordt genoemd:
 Answerlist
 ----------
 
-* regressiecoÃ«fficiÃ«nt
-* determinatiecoÃ«fficiÃ«nt
+* regressiecoëfficiënt
+* determinatiecoëfficiënt
 * intercept of asafsnede
-* correlatiecoÃ«fficiÃ«nt
+* correlatiecoëfficiënt
 
 Solution
 ========
 
 Het correcte antwoord is: 
 
-* regressiecoÃ«fficiÃ«nt
+* regressiecoëfficiënt
 
 Meta-information
 ================

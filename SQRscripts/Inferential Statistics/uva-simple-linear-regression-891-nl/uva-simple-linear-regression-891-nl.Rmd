@@ -1,10 +1,10 @@
 Question
 ========
 
-Bij een toets op een coÃ«fficiÃ«nt uit een multipele regressie met drie
+Bij een toets op een coëfficiënt uit een multipele regressie met drie
 * *explanatory variables*, wordt de nulhypothese getoetst die stelt dat de
-coÃ«fficiÃ«nt 0 is tegen het alternatief dat de coÃ«fficiÃ«nt ongelijk
-aan 0 is. De coÃ«fficiÃ«nt is *b*~1~ = 2.3 met *se* = 0.8 en er zijn 13
+coëfficiënt 0 is tegen het alternatief dat de coëfficiënt ongelijk aan 0
+is. De coëfficiënt is *b*~1~ = 2.3 met *se* = 0.8 en er zijn 13
 vrijheidsgraden. Dan kan de nulhypothese
 
 Answerlist

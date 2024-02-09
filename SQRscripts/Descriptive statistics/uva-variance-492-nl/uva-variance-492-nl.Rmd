@@ -2,7 +2,7 @@ Question
 ========
 
 Twee onafhankelijke stochastische variabelen X en Y zijn beide normaal
-ver-deeld: X \~ N(70, 9^Â²^) en Y \~ N(88, 12^Â²^). Dan is de variantie
+ver-deeld: X \~ N(70, 9^²^) en Y \~ N(88, 12^²^). Dan is de variantie
 van Y - X gelijk aan
 
 Answerlist
