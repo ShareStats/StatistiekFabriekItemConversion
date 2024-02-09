@@ -32,7 +32,7 @@ words = c("[:blank:]\\!\\[",           # 1
           "taxonomyError"                 # 20
           )
 
-word = 19
+word = 20
 
 find = words[word]
 find

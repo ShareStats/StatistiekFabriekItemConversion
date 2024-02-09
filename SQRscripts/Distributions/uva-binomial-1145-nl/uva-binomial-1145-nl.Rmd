@@ -11,7 +11,7 @@ Answerlist
 * X is geen binomiale variabele.
 * X is een binomiale variabele, met n = 100 en p = ½.
 * X is een binomiale variabele, met n = 100 en p = 1/100.
-* X is een binomiale variabele, met n =1/2 en p = 100.
+* X is een binomiale variabele, met n = 1/2 en p = 100.
 
 Solution
 ========
@@ -22,10 +22,10 @@ Het correcte antwoord is:
 
 Meta-information
 ================
-exname: uva-taxonomyerror--1145-nl
+exname: uva-binomial-1145-nl
 extype: schoice
 exsolution: 0100
-exsection: taxonomyError 
+exsection: Distributions/Discrete/Binomial 
 exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy

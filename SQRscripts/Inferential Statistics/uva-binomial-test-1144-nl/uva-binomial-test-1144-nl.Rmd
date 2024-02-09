@@ -22,10 +22,10 @@ Het correcte antwoord is:
 
 Meta-information
 ================
-exname: uva-taxonomyerror--1144-nl
+exname: uva-binomial-test-1144-nl
 extype: schoice
 exsolution: 0100
-exsection: taxonomyError 
+exsection: Inferential Statistics/Non-parametric Techniques/Binomial test 
 exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy

@@ -27,10 +27,10 @@ Het correcte antwoord is:
 
 Meta-information
 ================
-exname: uva-taxonomyerror--1142-nl
+exname: uva-probability-1142-nl
 extype: schoice
 exsolution: 0010
-exsection: taxonomyError 
+exsection: Probability 
 exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
