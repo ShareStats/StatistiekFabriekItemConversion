@@ -13,16 +13,15 @@ wegen in een recent jaar.\
   --------------------------- --------------------------- ------------------------ ---------
 
 \
-Hoe groot is de kans dat bij een willekeurig geselecteerd ongeluk de
-bestuurder **geen** alcohol op had of dat het ongeluk **niet**
-snelheid-gerelateerd was?
+Hoe groot is dan de kans dat bij een willekeurig geselecteerd ongeluk
+deze **niet** snelheid-gerelateerd was?
 
 Answerlist
 ----------
 
-* 0,59
-* 0,63
-* 0,95
+* 0,03
+* 0,60
+* 0,62
 * 0,98
 
 Solution
@@ -30,15 +29,15 @@ Solution
 
 Het correcte antwoord is: 
 
-* 0,98
+* 0,62
 
 Meta-information
 ================
-exname: uva-taxonomyerror--1151-nl
+exname: uva-elementary-probability-1153-nl
 extype: schoice
-exsolution: 0001
-exsection: taxonomyError 
-exextra[Type]: Conceptual
+exsolution: 0010
+exsection: Probability/Elementary Probability 
+exextra[Type]: Conceptual, Calculation
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
 exextra[IRT-Difficulty]: 2
