@@ -23,7 +23,7 @@ Meta-information
 ================
 exname: uva-sample-space-997-nl
 extype: schoice
-exsolution: 1000
+exsolution: 1000 
 exsection: Probability/Elementary Probability/Sample Space
 exextra[Type]: Conceptual
 exextra[Language]: Dutch
