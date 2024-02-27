@@ -5,8 +5,7 @@ include_supplement("uva-events-673-nl-graph01.png", recursive = TRUE)
 Question
 ========
 
-Welk Venn-diagram toont een disjuncte relatie van de *gebeurtenis A* en
-* *B*?
+Welk Venn-diagram toont een disjuncte relatie van de *gebeurtenis A* en *B*?
 
 ![](uva-events-673-nl-graph01.png)
 

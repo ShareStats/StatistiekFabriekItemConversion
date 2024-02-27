@@ -10,8 +10,7 @@ gelijkmatig verspreiden over het hele interval van 0 tot 1 wanneer wij
 deze een lange serie getallen laten genereren. Dit noemen we een
 zogenaamde *uniforme verdeling*. Een generator van toevalsgetallen
 produceert een getal *X* dat ligt in een interval 0,4 of in een interval
-0,7. Welk grijs gearceerde oppervlakte(n) kent de kans P(*X* ≤ 0,4 of
-* *X* \> 0,7) toe?
+0,7. Welk grijs gearceerde oppervlakte(n) kent de kans P(*X* ≤ 0,4 of *X* \> 0,7) toe?
 
 ![](uva-uniform-713-nl-graph01.png)
 

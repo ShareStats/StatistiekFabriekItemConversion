@@ -3,8 +3,7 @@ Question
 
 Bij korfbal wordt per speler het schotpercentage bijgehouden. Als John
 een schotpercentage van 25% heeft, scoort hij bij één op de vier
-doelpogingen. John heeft twee doelpogingen. Hieronder zie je een tabel,
-* *X* is toevalsvariabele en het aantal treffers *X* bij deze twee
+doelpogingen. John heeft twee doelpogingen. Hieronder zie je een tabel, *X* is toevalsvariabele en het aantal treffers *X* bij deze twee
 doelpogingen kan de waarden 0, 1 of 2 aannemen.
 
   ------ ------ ------ ------

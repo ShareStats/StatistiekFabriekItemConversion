@@ -4,9 +4,7 @@ Question
 Men voorspelt het aantal ec\'s dat studenten toegepaste algebra in hun
 eerste jaar behalen (\'response variable\' *y*) op basis van hun
 eindexamencijfer wiskunde (\'exploratary variable\' *x*). De voorspelde
-score voor iemand met *x* = 4 is gelijk aan 30, en die voor iemand met
-* *x* = 10 is gelijk aan 40. Wat is de voorspelde score voor iemand met
-* *x* = 7?
+score voor iemand met *x* = 4 is gelijk aan 30, en die voor iemand met *x* = 10 is gelijk aan 40. Wat is de voorspelde score voor iemand met *x* = 7?
 
 Answerlist
 ----------

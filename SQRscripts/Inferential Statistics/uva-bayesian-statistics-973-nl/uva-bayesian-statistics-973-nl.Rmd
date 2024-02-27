@@ -8,11 +8,13 @@ ziekte heeft geeft de test de uitslag \'geen ziekte = negatief
 resultaat\'. Met andere woorden, 0,96 van hen wordt ontdekt met een
 positieve uitslag. Met andere woorden: 0,96 van de mensen die de ziekte
 niet hebben krijgen een negatieve uitslag. Marja krijgt te horen dat zij
-een negatieve testuitslag heeft. Stel de gebeurtenissen:\
-\
-* *G* = Geen ziekte *D*.\
-* *N* = De negatieve testuitslag.\
-\
+een negatieve testuitslag heeft.
+
+Stel de gebeurtenissen:
+
+* *G* = Geen ziekte *D*.
+* *N* = De negatieve testuitslag.
+
 Hoe groot is dan de kans P(*G* en *N*)?
 
 Answerlist

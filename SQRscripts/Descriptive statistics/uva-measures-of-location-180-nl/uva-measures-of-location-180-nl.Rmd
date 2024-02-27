@@ -9,8 +9,7 @@ Het gemiddelde van groep (1) was 2.0 uur en standaarddeviatie 2.1; het
 gemiddelde van groep (2) was 4.8 uur en standaarddeviatie 3.2. De
 onderzoekers gaan ervan uit dat de standaarddeviaties in de populatie
 gelijk zijn en komen zo tot een *standard error* van 1.025 en 28
-vrijheidsgraden. Een 95% betrouwbaarheidsinterval voor het verschil
-* *μ*~1~ - *μ*~2~ is
+vrijheidsgraden. Een 95% betrouwbaarheidsinterval voor het verschil *μ*~1~ - *μ*~2~ is
 
 Answerlist
 ----------

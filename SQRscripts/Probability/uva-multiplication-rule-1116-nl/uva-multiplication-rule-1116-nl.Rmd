@@ -3,8 +3,7 @@ Question
 
 Een club organiseert een loterij. Van de 40 leden zijn er 10 goede
 vrienden van de voorzitter. De voorzitter moet twee willekeurige namen
-opeenvolgend uit een doos trekken als winnaars, en de gekozen naam wordt
-* **niet** teruggelegd. Hoe groot is dan de kans dat twee goede vrienden
+opeenvolgend uit een doos trekken als winnaars, en de gekozen naam wordt **niet** teruggelegd. Hoe groot is dan de kans dat twee goede vrienden
 van de voorzitter zullen winnen?\
 
 Answerlist

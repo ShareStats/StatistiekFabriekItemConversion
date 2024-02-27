@@ -11,7 +11,7 @@ uit alle baby\'s die vorig jaar werden geboren.
   Meisjes   1,91   2,59   2,81   2,86   2,95   2,99   3,04
   --------- ------ ------ ------ ------ ------ ------ ------
 
-* *Bron: statistiek voor het secundair onderwijs -- universiteit Hasselt*\
+*Bron: statistiek voor het secundair onderwijs -- universiteit Hasselt*\
 \
 Wat is het gemiddelde geboortegewicht van de meisjes? Rond af op twee
 decimalen.

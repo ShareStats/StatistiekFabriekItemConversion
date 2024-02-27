@@ -2,8 +2,7 @@ Question
 ========
 
 Gooi een zuivere dobbelsteen op. *A* is de gebeurtenis dat als het
-aantal ogen meer dan 4 is, dus *A* = {5,6} Wat is dan het complement van
-* *A*, als \(\bar{A}\)?
+aantal ogen meer dan 4 is, dus *A* = {5,6} Wat is dan het complement van *A*, als \(\bar{A}\)?
 
 Answerlist
 ----------

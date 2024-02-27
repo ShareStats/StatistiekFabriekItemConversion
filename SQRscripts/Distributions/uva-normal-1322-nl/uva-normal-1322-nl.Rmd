@@ -5,9 +5,8 @@ include_supplement("uva-normal-1322-nl-graph01.png", recursive = TRUE)
 Question
 ========
 
-* *z* is normaal verdeeld met een gemiddelde 0 en een variantie 1. Welk
-gekleurd oppervlak van de grafiek hieronder geeft de kans op - 1,96 ≤
-* *z* ≥ 1,96 weer?
+*z* is normaal verdeeld met een gemiddelde 0 en een variantie 1. Welk
+gekleurd oppervlak van de grafiek hieronder geeft de kans op - 1,96 ≤ *z* ≥ 1,96 weer?
 
 ![](uva-normal-1322-nl-graph01.png)
 

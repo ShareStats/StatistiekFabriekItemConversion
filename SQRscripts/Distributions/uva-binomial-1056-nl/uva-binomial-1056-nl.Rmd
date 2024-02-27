@@ -4,8 +4,7 @@ Question
 Van een bepaald soort bloembol is bekend dat ongeveer 4% van de bollen
 niet ontkiemen. Een bloemenwinkel verpakt altijd 10 bollen in één doos
 en garandeert dat ten minsten 8 van 10 zal kiemen. Als je één doos
-aselect kiest, wat is dan de kans dat de garantie van de bloemenwinkel
-* *niet* haalbaar is?
+aselect kiest, wat is dan de kans dat de garantie van de bloemenwinkel *niet* haalbaar is?
 
 Answerlist
 ----------

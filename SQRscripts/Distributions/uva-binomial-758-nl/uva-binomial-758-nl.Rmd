@@ -12,8 +12,7 @@ aantal kinderen met bloedgroep O onder vijf nakomelingen van deze ouders
 is het aantal successen *X* in vijf onafhankelijke pogingen. Stel dat
 toevalsvariabele X het aantal kinderen is met bloedgroep O, dus *X*
 heeft de waarden als 0, 1, \... , 5 en de *Binomiaal* (5,
-0,25)-verdeling. Welk diagram hieronder geeft de kans op elke waarde van
-* *X* aan?
+0,25)-verdeling. Welk diagram hieronder geeft de kans op elke waarde van *X* aan?
 
 ![](uva-binomial-758-nl-graph01.png)
 

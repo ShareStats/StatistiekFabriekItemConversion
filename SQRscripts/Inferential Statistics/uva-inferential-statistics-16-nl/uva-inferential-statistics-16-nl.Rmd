@@ -1,7 +1,7 @@
 Question
 ========
 
-* *Observer* effects treden op wanneer de observator
+*Observer* effects treden op wanneer de observator
 
 Answerlist
 ----------

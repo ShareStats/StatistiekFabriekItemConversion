@@ -2,10 +2,10 @@ Question
 ========
 
 Een 95% betrouwbaarheidsinterval voor een gemiddelde in de populatie is
-(-2; 5). Dan geldt voor een hypothesetoets met *H~0~*: *μ* = 0 tegen
-* *H~a~*: *μ* ≠ 0 en een significantieniveau van 5% dat\
-I. de Type II fout groter is dan 5%.\
-II. de P-waarde kleiner is dan 5%.
+(-2; 5). Dan geldt voor een hypothesetoets met *H~0~*: *μ* = 0 tegen *H~a~*: *μ* ≠ 0 en een significantieniveau van 5% dat\
+
+* I. de Type II fout groter is dan 5%.\
+* II. de P-waarde kleiner is dan 5%.
 
 Answerlist
 ----------

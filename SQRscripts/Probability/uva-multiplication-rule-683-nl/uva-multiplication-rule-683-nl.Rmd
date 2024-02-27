@@ -1,8 +1,7 @@
 Question
 ========
 
-Kies aselect een werknemer in een bedrijf. We definiëren de gebeurtenis
-* *A* als de verzameling van alle vrouwelijke werknemers en *B* van de
+Kies aselect een werknemer in een bedrijf. We definiëren de gebeurtenis *A* als de verzameling van alle vrouwelijke werknemers en *B* van de
 werknemers met een leidinggevende functie. Er geldt dat *P* (*A*) = 0,46
 en *P* (*B*[\|]{style="font-style: italic;"}*A*) = 0,32. Als je een
 willekeurige werknemer in dit bedrijf kiest, hoe groot is dan de kans

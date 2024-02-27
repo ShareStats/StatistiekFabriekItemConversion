@@ -11,8 +11,7 @@ en *x*~3~.
   *x*~3~    0.03    0.05     \-
   -------- -------- -------- --------
 
-De regressievergelijking voor de afhankelijke variabele *y* met alleen
-* *x*~1~ en *x*~3~ is $\hat{y} = -12.44 + 4.91x_{1} + 2.01x_{3}$
+De regressievergelijking voor de afhankelijke variabele *y* met alleen *x*~1~ en *x*~3~ is $\hat{y} = -12.44 + 4.91x_{1} + 2.01x_{3}$
 Stel nu dat het model wordt berekend met *x*~2~ erbij. Dan zal de
 coëfficiënt
 

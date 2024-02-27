@@ -8,11 +8,13 @@ betrokkene de ziekte heeft geeft de test de uitslag \'geen ziekte\' met
 een negatief resultaat. En 0,96 van hen wordt ontdekt met een positieve
 uitslag. Verder geldt dat: bij 0,96 van de mensen die de ziekte niet
 hebben geeft de test een negatieve uitslag. Marja krijgt te horen dat
-zij een negatieve testuitslag heeft. Stel de gebeurtenissen:\
-\
-* *D* = De ziekte *D*,\
-* *N* = De negatieve testuitslag.\
-\
+zij een negatieve testuitslag heeft. 
+
+Stel de gebeurtenissen:
+
+* *D* = De ziekte *D*,
+* *N* = De negatieve testuitslag.
+
 Hoe groot is dan de kans P(*D* en *N*) dat Marja een negatieve
 testuitslag krijgt en zij ook de ziekte heeft?
 

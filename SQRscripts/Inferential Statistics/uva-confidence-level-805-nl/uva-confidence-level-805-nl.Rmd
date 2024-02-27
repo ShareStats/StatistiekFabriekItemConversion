@@ -4,8 +4,7 @@ Question
 Stel een onderzoeker wil meerdere gemiddelden met elkaar vergelijken.
 Hiertoe berekent ze meerdere betrouwbaarheidsintervallen. Om te zorgen
 dat het *overall confidence level* 0.95 blijft, gebruikt ze voor het
-berekenen van elk afzonderlijk betrouwbaarheidsinterval een hoger
-* *confidence level* (bijvoorbeeld 0.99). Een methode om dit te doen is
+berekenen van elk afzonderlijk betrouwbaarheidsinterval een hoger *confidence level* (bijvoorbeeld 0.99). Een methode om dit te doen is
 
 Answerlist
 ----------

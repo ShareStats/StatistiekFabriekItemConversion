@@ -1,8 +1,7 @@
 Question
 ========
 
-Bij een toets op een coëfficiënt uit een multipele regressie met drie
-* *explanatory variables*, wordt de nulhypothese getoetst die stelt dat de
+Bij een toets op een coëfficiënt uit een multipele regressie met drie *explanatory variables*, wordt de nulhypothese getoetst die stelt dat de
 coëfficiënt 0 is tegen het alternatief dat de coëfficiënt groter dan 0
 is. De coëfficiënt is *b*~1~ = 2.3 met *se* = 1.28 en er zijn 20
 vrijheidsgraden. Dan kan de nulhypothese
