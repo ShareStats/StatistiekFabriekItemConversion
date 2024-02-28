@@ -2,7 +2,7 @@ Question
 ========
 
 De regressieformule om iemands lengte (y) te voorspellen vanuit
-haar/zijn gewicht (x) is \(\hat{y}=100+x\)\
+haar/zijn gewicht (x) is $\hat{y}=100+x$ 
 Wanneer in een groep de standaardafwijking van lengte twee keer zo groot
 is als die van gewicht in die groep , is de correlatie tussen lengte en
 gewicht gelijk aan

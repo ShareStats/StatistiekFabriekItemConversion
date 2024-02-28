@@ -11,17 +11,17 @@ konijn zien?
 Answerlist
 ----------
 
-* \(\frac{1}{5}\)
-* \(\frac{2}{5}\)
-* \(\frac{1}{2}\)
-* \(\frac{3}{5}\)
+* $\frac{1}{5}$
+* $\frac{2}{5}$
+* $\frac{1}{2}$
+* $\frac{3}{5}$
 
 Solution
 ========
 
 Het correcte antwoord is: 
 
-* \(\frac{2}{5}\)
+* $\frac{2}{5}$
 
 Meta-information
 ================

@@ -9,7 +9,7 @@ Answerlist
 ----------
 
 * een 50% afname in fouten van het voorspellen van y met x.
-* dat voor 50% van alle y geldt dat voorspelling (\(\hat{y}\)) = y.
+* dat voor 50% van alle y geldt dat voorspelling ($\hat{y}$) = y.
 * een 25% afname in fouten van het voorspellen van y met x.
 
 Solution

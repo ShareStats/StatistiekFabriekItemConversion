@@ -4,7 +4,7 @@ Question
 Twee zuivere dobbelstenen worden opgegooid. Bepaal de gebeurtenis *A*:
 een even nummer komt boven op de ene dobbelsteen en oneven op de andere.
 Hoe groot is dan de kans op het complement van *A*, oftewel
-\(\bar{A}\)?
+$\bar{A}$?
 
 Answerlist
 ----------

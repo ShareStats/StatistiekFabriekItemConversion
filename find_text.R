@@ -30,8 +30,8 @@ words = c("[:blank:]\\!\\[",           # 1
           "^NA$",                        # 18
           "exextra\\[Type\\]\\:[:blank:]$", # 19
           "taxonomyError",                 # 20
-          "^\\*[:blank:]\\*",                 # 21
-          "\("                 # 22
+          "^\\*[:blank:]\\*",                # 21
+          "\\\\\\\("                          # 22
           )
 
 word = 22

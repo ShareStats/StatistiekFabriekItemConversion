@@ -10,7 +10,7 @@ Answerlist
 
 * een 4% afname in fouten van het voorspellen van y met x.
 * een 20% afname in fouten van het voorspellen van y met x.
-* dat voor 20% van alle y geldt dat voorspelling (\(\hat{y}\)) = y.
+* dat voor 20% van alle y geldt dat voorspelling ($\hat{y}$) = y.
 
 Solution
 ========

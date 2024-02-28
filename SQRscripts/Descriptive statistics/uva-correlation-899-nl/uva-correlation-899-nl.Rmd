@@ -9,7 +9,7 @@ Answerlist
 ----------
 
 * een 16% afname in fouten van het voorspellen van y met x.
-* dat voor 40% van alle y geldt dat voorspelling (\(\hat{y}\)) = y.
+* dat voor 40% van alle y geldt dat voorspelling ($\hat{y}$) = y.
 * een 40% afname in fouten van het voorspellen van y met x.
 
 Solution

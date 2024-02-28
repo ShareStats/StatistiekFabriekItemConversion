@@ -7,17 +7,17 @@ kans om te winnen voor persoon A en persoon B is respectievelijk
 Answerlist
 ----------
 
-* \(\frac{1}{10},\frac{1}{10}\)
-* \(\frac{1}{10},\frac{9}{10}\)
-* \(\frac{1}{10},\frac{1}{2}\)
-* \(\frac{1}{2},\frac{1}{10}\)
+* $\frac{1}{10},\frac{1}{10}$
+* $\frac{1}{10},\frac{9}{10}$
+* $\frac{1}{10},\frac{1}{2}$
+* $\frac{1}{2},\frac{1}{10}$
 
 Solution
 ========
 
 Het correcte antwoord is: 
 
-* \(\frac{1}{10},\frac{1}{10}\)
+* $\frac{1}{10},\frac{1}{10}$
 
 Meta-information
 ================
