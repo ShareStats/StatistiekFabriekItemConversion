@@ -33,10 +33,11 @@ words = c("[:blank:]\\!\\[",           # 1
           "^\\*[:blank:]\\*",                # 21
           "",                          # 22
           "style",            # 23
-          "exsolution: 0$" # 24
+          "exsolution: 0$", # 24
+          "span " #25
           )
 
-word = 24
+word = 25
 
 find = words[word]
 find
