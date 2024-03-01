@@ -1,0 +1,3 @@
+regex: style
+1781 open "SQRscripts/Probability/uva-multiplication-rule-683-nl/uva-multiplication-rule-683-nl.Rmd"
+1878 open "SQRscripts/Probability/uva-sample-space-1009-nl/uva-sample-space-1009-nl.Rmd"

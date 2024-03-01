@@ -31,10 +31,12 @@ words = c("[:blank:]\\!\\[",           # 1
           "exextra\\[Type\\]\\:[:blank:]$", # 19
           "taxonomyError",                 # 20
           "^\\*[:blank:]\\*",                # 21
-          "\\\\\\\("                          # 22
+          "",                          # 22
+          "style",            # 23
+          "exsolution: 0$" # 24
           )
 
-word = 22
+word = 24
 
 find = words[word]
 find

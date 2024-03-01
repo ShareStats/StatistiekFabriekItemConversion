@@ -1,0 +1,2 @@
+regex: exsolution: 0$
+1878 open "SQRscripts/Probability/uva-sample-space-1009-nl/uva-sample-space-1009-nl.Rmd"

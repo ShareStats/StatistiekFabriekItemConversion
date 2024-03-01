@@ -13,7 +13,7 @@ konijnen uit het zuiden en het noorden onderzocht.\
   --------- ------- --------
 
 \
-[We definiëren de gebeurtenissen:]{style="font-size: 12px;"}\
+We definiëren de gebeurtenissen:\
 \
 * *A*: De *noordelijke* konijnen met de *lichte* kleur,\
 * *B*: De *zuidelijke* konijnen met de *donkere* kleur\
@@ -24,13 +24,13 @@ lichte kleur?
 Solution
 ========
 
-Het correcte antwoord is: 0
+Het correcte antwoord is: 0.471
 
 Meta-information
 ================
 exname: uva-sample-space-1009-nl
 extype: num
-exsolution: 0
+exsolution: 0.471
 exsection: Probability/Elementary Probability/Sample Space
 exextra[Type]: Conceptual, Calculation
 exextra[Language]: Dutch
