@@ -34,7 +34,7 @@ words = c("[:blank:]\\!\\[",           # 1
           "",                          # 22
           "style",            # 23
           "exsolution: 0$", # 24
-          "span " #25
+          "" #25
           )
 
 word = 25
